@@ -1,0 +1,2 @@
+const routes = ['silhouette','types','stronger','best-attack','move-name','move-type','doku'];
+export function createRouter(onRoute){function current(){const value=location.hash.replace(/^#\/?(?:games\/)?/,'');return routes.includes(value)||value.startsWith('share/')?value:'silhouette'}function navigate(){onRoute(current())}window.addEventListener('hashchange',navigate);navigate();return game=>{if(location.hash!==`#/games/${game}`)location.hash=`#/games/${game}`;else onRoute(game)}}

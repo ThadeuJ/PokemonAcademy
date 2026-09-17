@@ -9,7 +9,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for dragonium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--bag.png"
     }
@@ -24,7 +24,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for darkinium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--bag.png"
     }
@@ -39,7 +39,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for steelium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--bag.png"
     }
@@ -54,7 +54,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for fairium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--bag.png"
     }
@@ -69,7 +69,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for pikanium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--bag.png"
     }
@@ -84,7 +84,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for decidium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--bag.png"
     }
@@ -99,7 +99,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for incinium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--bag.png"
     }
@@ -114,7 +114,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for primarium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png"
     }
@@ -129,7 +129,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for tapunium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--bag.png"
     }
@@ -144,7 +144,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for marshadium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--bag.png"
     }
@@ -159,7 +159,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for aloraichium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--bag.png"
     }
@@ -174,7 +174,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for snorlium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--bag.png"
     }
@@ -189,7 +189,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for eevium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--bag.png"
     }
@@ -204,7 +204,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for mewnium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--bag.png"
     }
@@ -219,7 +219,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for pikashunium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--bag.png"
     }
@@ -234,7 +234,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for solganium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--held.png"
     }
@@ -249,7 +249,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for lunalium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--held.png"
     }
@@ -264,7 +264,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for ultranecrozium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--held.png"
     }
@@ -279,7 +279,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for mimikium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--held.png"
     }
@@ -294,7 +294,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for lycanium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--held.png"
     }
@@ -309,7 +309,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--held.png",
-    "effect": null,
+    "effect": "XXX new effect for kommonium-z--held",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--held.png"
     }
@@ -324,7 +324,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for solganium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--bag.png"
     }
@@ -339,7 +339,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for lunalium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--bag.png"
     }
@@ -354,7 +354,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for ultranecrozium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--bag.png"
     }
@@ -369,7 +369,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for mimikium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--bag.png"
     }
@@ -384,7 +384,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for lycanium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--bag.png"
     }
@@ -399,7 +399,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for kommonium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--bag.png"
     }
@@ -414,7 +414,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-power-ring.png",
-    "effect": null,
+    "effect": "XXX new effect for z-power-ring",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-power-ring.png"
     }
@@ -429,7 +429,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for pink-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-petal.png"
     }
@@ -444,7 +444,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for orange-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-petal.png"
     }
@@ -459,7 +459,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for blue-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-petal.png"
     }
@@ -474,7 +474,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for red-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-petal.png"
     }
@@ -489,7 +489,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for green-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-petal.png"
     }
@@ -504,7 +504,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for yellow-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-petal.png"
     }
@@ -519,7 +519,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-petal.png",
-    "effect": null,
+    "effect": "XXX new effect for purple-petal",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-petal.png"
     }
@@ -534,7 +534,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-flower.png",
-    "effect": null,
+    "effect": "XXX new effect for rainbow-flower",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-flower.png"
     }
@@ -549,7 +549,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surge-badge.png",
-    "effect": null,
+    "effect": "XXX new effect for surge-badge",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surge-badge.png"
     }
@@ -564,7 +564,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--merge.png",
-    "effect": null,
+    "effect": "XXX new effect for n-solarizer--merge",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--merge.png"
     }
@@ -579,7 +579,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--merge.png",
-    "effect": null,
+    "effect": "XXX new effect for n-lunarizer--merge",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--merge.png"
     }
@@ -594,7 +594,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--split.png",
-    "effect": null,
+    "effect": "XXX new effect for n-solarizer--split",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--split.png"
     }
@@ -609,7 +609,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--split.png",
-    "effect": null,
+    "effect": "XXX new effect for n-lunarizer--split",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--split.png"
     }
@@ -624,7 +624,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ilimas-normalium-z.png",
-    "effect": null,
+    "effect": "XXX new effect for ilimas-normalium-z",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ilimas-normalium-z.png"
     }
@@ -639,7 +639,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/left-poke-ball.png",
-    "effect": null,
+    "effect": "XXX new effect for left-poke-ball",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/left-poke-ball.png"
     }
@@ -654,7 +654,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-hatch",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png"
     }
@@ -669,7 +669,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-bargain.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-bargain",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-bargain.png"
     }
@@ -684,7 +684,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-prize-money.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-prize-money",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-prize-money.png"
     }
@@ -699,7 +699,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-exp-points",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png"
     }
@@ -714,7 +714,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-friendship.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-friendship",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-friendship.png"
     }
@@ -729,7 +729,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-encounter.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-encounter",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-encounter.png"
     }
@@ -744,7 +744,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-stealth.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-stealth",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-stealth.png"
     }
@@ -759,7 +759,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hp-restore.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-hp-restore",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hp-restore.png"
     }
@@ -774,7 +774,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-pp-restore.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-pp-restore",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-pp-restore.png"
     }
@@ -789,7 +789,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-boost.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-boost",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-boost.png"
     }
@@ -804,7 +804,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-catch.png",
-    "effect": null,
+    "effect": "XXX new effect for roto-catch",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-catch.png"
     }

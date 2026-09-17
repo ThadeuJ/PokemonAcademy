@@ -9,7 +9,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png",
-    "effect": null,
+    "effect": "Prevents wild encounters of level lower than your party’s lead Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cleanse-tag.png"
     }
@@ -24,7 +24,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soul-dew.png",
-    "effect": null,
+    "effect": "Raises Latias and Latios’s Special Attack and Special Defense by 50%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soul-dew.png"
     }
@@ -39,7 +39,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png",
-    "effect": null,
+    "effect": "Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-tooth.png"
     }
@@ -54,7 +54,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png",
-    "effect": null,
+    "effect": "Doubles Clamperl’s Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/deep-sea-scale.png"
     }
@@ -69,7 +69,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png",
-    "effect": null,
+    "effect": "Held: Allows the Holder to escape from any wild battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smoke-ball.png"
     }
@@ -84,7 +84,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png",
-    "effect": null,
+    "effect": "Held: Prevents level-based evolution from occuring.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/everstone.png"
     }
@@ -99,7 +99,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png",
-    "effect": null,
+    "effect": "Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png"
     }
@@ -114,7 +114,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png",
-    "effect": null,
+    "effect": "Held: Increases EXP earned in battle by 50%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-egg.png"
     }
@@ -129,7 +129,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png",
-    "effect": null,
+    "effect": "Held: Raises the holder’s critical hit ratio by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scope-lens.png"
     }
@@ -144,7 +144,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png",
-    "effect": null,
+    "effect": "Held: Steel-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-coat.png"
     }
@@ -159,7 +159,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png",
-    "effect": null,
+    "effect": "Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png"
     }
@@ -174,7 +174,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png",
-    "effect": null,
+    "effect": "Traded on a Seadra: Holder evolves into Kingdra.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-scale.png"
     }
@@ -189,7 +189,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png",
-    "effect": null,
+    "effect": "Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-ball.png"
     }
@@ -204,7 +204,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png",
-    "effect": null,
+    "effect": "Held: Ground-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soft-sand.png"
     }
@@ -219,7 +219,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png",
-    "effect": null,
+    "effect": "Held: Rock-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hard-stone.png"
     }
@@ -234,7 +234,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png",
-    "effect": null,
+    "effect": "Held: Grass-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/miracle-seed.png"
     }
@@ -249,7 +249,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-glasses.png",
-    "effect": null,
+    "effect": "Held: Dark-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-glasses.png"
     }
@@ -264,7 +264,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png",
-    "effect": null,
+    "effect": "Held: Fighting-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-belt.png"
     }
@@ -279,7 +279,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png",
-    "effect": null,
+    "effect": "Held: Electric-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magnet.png"
     }
@@ -294,7 +294,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png",
-    "effect": null,
+    "effect": "Held: Water-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystic-water.png"
     }
@@ -309,7 +309,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png",
-    "effect": null,
+    "effect": "Held: Flying-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharp-beak.png"
     }
@@ -324,7 +324,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png",
-    "effect": null,
+    "effect": "Held: Poison-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-barb.png"
     }
@@ -339,7 +339,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png",
-    "effect": null,
+    "effect": "Held: Ice-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/never-melt-ice.png"
     }
@@ -354,7 +354,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png",
-    "effect": null,
+    "effect": "Held: Ghost-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spell-tag.png"
     }
@@ -369,7 +369,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png",
-    "effect": null,
+    "effect": "Held: Psychic-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/twisted-spoon.png"
     }
@@ -384,7 +384,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png",
-    "effect": null,
+    "effect": "Held: Fire-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charcoal.png"
     }
@@ -399,7 +399,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png",
-    "effect": null,
+    "effect": "Held: Dragon-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-fang.png"
     }
@@ -414,7 +414,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silk-scarf.png",
-    "effect": null,
+    "effect": "Held: Normal-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silk-scarf.png"
     }
@@ -429,7 +429,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png",
-    "effect": null,
+    "effect": "Traded on a Porygon: Holder evolves into Porygon2.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/up-grade.png"
     }
@@ -444,7 +444,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png",
-    "effect": null,
+    "effect": "Held: Holder receives 1/8 of the damage it deals when attacking.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shell-bell.png"
     }
@@ -459,7 +459,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sea-incense.png",
-    "effect": null,
+    "effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sea-incense.png"
     }
@@ -474,7 +474,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lax-incense.png",
-    "effect": null,
+    "effect": "Held: Holder’s evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lax-incense.png"
     }
@@ -489,7 +489,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png",
-    "effect": null,
+    "effect": "Raises Chansey’s critical hit ratio by two stages.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucky-punch.png"
     }
@@ -504,7 +504,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png",
-    "effect": null,
+    "effect": "Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metal-powder.png"
     }
@@ -519,7 +519,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png",
-    "effect": null,
+    "effect": "Doubles Cubone or Marowak’s Attack.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thick-club.png"
     }
@@ -534,7 +534,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stick.png",
-    "effect": null,
+    "effect": "Raises Farfetch’d’s critical hit ratio by two stages.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stick.png"
     }
@@ -549,7 +549,7 @@
     "category": "scarves",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scarf.png",
-    "effect": null,
+    "effect": "Raises the holder’s Coolness while in a contest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scarf.png"
     }
@@ -564,7 +564,7 @@
     "category": "scarves",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-scarf.png",
-    "effect": null,
+    "effect": "Raises the holder’s Beauty while in a contest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-scarf.png"
     }
@@ -579,7 +579,7 @@
     "category": "scarves",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-scarf.png",
-    "effect": null,
+    "effect": "Raises the holder’s Cuteness while in a contest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-scarf.png"
     }
@@ -594,7 +594,7 @@
     "category": "scarves",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-scarf.png",
-    "effect": null,
+    "effect": "Raises the holder’s Smartness while in a contest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-scarf.png"
     }
@@ -609,7 +609,7 @@
     "category": "scarves",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-scarf.png",
-    "effect": null,
+    "effect": "Raises the holder’s Toughness while in a contest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-scarf.png"
     }
@@ -624,7 +624,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png",
-    "effect": null,
+    "effect": "Held: Provides a 1/10 (10%) boost in accuracy to the holder.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wide-lens.png"
     }
@@ -639,7 +639,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png",
-    "effect": null,
+    "effect": "Held: Boosts the damage of physical moves used by the holder by 10%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-band.png"
     }
@@ -654,7 +654,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png",
-    "effect": null,
+    "effect": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%).",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wise-glasses.png"
     }
@@ -669,7 +669,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png",
-    "effect": null,
+    "effect": "Held: Holder’s Super Effective moves do 20% extra damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/expert-belt.png"
     }
@@ -684,7 +684,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png",
-    "effect": null,
+    "effect": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-clay.png"
     }
@@ -699,7 +699,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png",
-    "effect": null,
+    "effect": "Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/life-orb.png"
     }
@@ -714,7 +714,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png",
-    "effect": null,
+    "effect": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-herb.png"
     }
@@ -729,7 +729,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png",
-    "effect": null,
+    "effect": "Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-orb.png"
     }
@@ -744,7 +744,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png",
-    "effect": null,
+    "effect": "Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-orb.png"
     }
@@ -759,7 +759,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png",
-    "effect": null,
+    "effect": "Doubles Ditto’s Speed when held. The boost is lost after transforming.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-powder.png"
     }
@@ -774,7 +774,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png",
-    "effect": null,
+    "effect": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-sash.png"
     }
@@ -789,7 +789,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png",
-    "effect": null,
+    "effect": "Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zoom-lens.png"
     }
@@ -804,7 +804,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png",
-    "effect": null,
+    "effect": "Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metronome.png"
     }
@@ -819,7 +819,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png",
-    "effect": null,
+    "effect": "Held: Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-ball.png"
     }
@@ -834,7 +834,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png",
-    "effect": null,
+    "effect": "Held: Holder moves last in its priority bracket.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagging-tail.png"
     }
@@ -849,7 +849,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/destiny-knot.png",
-    "effect": null,
+    "effect": "Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/destiny-knot.png"
     }
@@ -864,7 +864,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png",
-    "effect": null,
+    "effect": "Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-sludge.png"
     }
@@ -879,7 +879,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icy-rock.png",
-    "effect": null,
+    "effect": "Held: Hail by the holder lasts 8 rounds instead of 5.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icy-rock.png"
     }
@@ -894,7 +894,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smooth-rock.png",
-    "effect": null,
+    "effect": "Held: Sandstorm by the holder lasts 8 rounds instead of 5.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/smooth-rock.png"
     }
@@ -909,7 +909,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heat-rock.png",
-    "effect": null,
+    "effect": "Held: Sunny Day by the holder lasts 8 rounds instead of 5.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heat-rock.png"
     }
@@ -924,7 +924,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-rock.png",
-    "effect": null,
+    "effect": "Held: Rain Dance by the holder lasts 8 rounds instead of 5.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-rock.png"
     }
@@ -939,7 +939,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png",
-    "effect": null,
+    "effect": "Held: Holder’s multi-turn trapping moves last 5 turns.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grip-claw.png"
     }
@@ -954,7 +954,7 @@
     "category": "choice",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png",
-    "effect": null,
+    "effect": "Held: Increases Speed by 50%, but restricts the holder to only one move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-scarf.png"
     }
@@ -969,7 +969,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png",
-    "effect": null,
+    "effect": "Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sticky-barb.png"
     }
@@ -984,7 +984,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-bracer.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 Attack effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-bracer.png"
     }
@@ -999,7 +999,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-belt.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 Defense effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-belt.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-lens.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 Special Attack effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-lens.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-band.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-band.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-anklet.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 Speed effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-anklet.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-weight.png",
-    "effect": null,
+    "effect": "Held: Holder gains 4 HP effort values, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-weight.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png",
-    "effect": null,
+    "effect": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shed-shell.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png",
-    "effect": null,
+    "effect": "Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-root.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "choice",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png",
-    "effect": null,
+    "effect": "Held: Increases Special Attack by 50%, but restricts the holder to only one move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-plate.png",
-    "effect": null,
+    "effect": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-plate.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/splash-plate.png",
-    "effect": null,
+    "effect": "Held: Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/splash-plate.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zap-plate.png",
-    "effect": null,
+    "effect": "Held: Electric-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Electric.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zap-plate.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meadow-plate.png",
-    "effect": null,
+    "effect": "Held: Grass-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Grass.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meadow-plate.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icicle-plate.png",
-    "effect": null,
+    "effect": "Held: Ice-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ice.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icicle-plate.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fist-plate.png",
-    "effect": null,
+    "effect": "Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fist-plate.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-plate.png",
-    "effect": null,
+    "effect": "Held: Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/toxic-plate.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/earth-plate.png",
-    "effect": null,
+    "effect": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/earth-plate.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sky-plate.png",
-    "effect": null,
+    "effect": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sky-plate.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mind-plate.png",
-    "effect": null,
+    "effect": "Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Psychic.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mind-plate.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/insect-plate.png",
-    "effect": null,
+    "effect": "Held: Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/insect-plate.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stone-plate.png",
-    "effect": null,
+    "effect": "Held: Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stone-plate.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spooky-plate.png",
-    "effect": null,
+    "effect": "Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ghost.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spooky-plate.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/draco-plate.png",
-    "effect": null,
+    "effect": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/draco-plate.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dread-plate.png",
-    "effect": null,
+    "effect": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dread-plate.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-plate.png",
-    "effect": null,
+    "effect": "Held: Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron-plate.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-incense.png",
-    "effect": null,
+    "effect": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-incense.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-incense.png",
-    "effect": null,
+    "effect": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-incense.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "bad-held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-incense.png",
-    "effect": null,
+    "effect": "Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-incense.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wave-incense.png",
-    "effect": null,
+    "effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wave-incense.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rose-incense.png",
-    "effect": null,
+    "effect": "Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rose-incense.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luck-incense.png",
-    "effect": null,
+    "effect": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luck-incense.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pure-incense.png",
-    "effect": null,
+    "effect": "Prevents wild encounters of level lower than your party’s lead Pokémon. Breeding: Chimecho begets a Chingling Egg.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pure-incense.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protector.png",
-    "effect": null,
+    "effect": "Traded on a Rhydon: Holder evolves into Rhyperior.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protector.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png",
-    "effect": null,
+    "effect": "Traded on an Electabuzz: Holder evolves into Electivire.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electirizer.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png",
-    "effect": null,
+    "effect": "Traded on a Magmar: Holder evolves into Magmortar.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magmarizer.png"
     }

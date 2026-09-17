@@ -20,7 +20,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーで　ほんきを　だした　カビゴンが\nきょたいを　やくどうさせて\nぜんりょくで　あいてに　おそいかかる。",
@@ -547,7 +547,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises all of the user’s stats by two stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　イーブイが\nしんかした　なかまたちの　ちからを　かりて\nのうりょくを　ぐーんと　あげる。",
@@ -1074,7 +1074,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the terrain to Psychic Terrain after inflicting damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ミュウが\nぜんりょくで　あいてを　こうげきする。\nあしもとが　サイコフィールドになる。",
@@ -1601,7 +1601,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": -3,
-    "effect": null,
+    "effect": "Only inflicts damage if the user was hit by a physical move this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "こうらの　トラップを　しかける。\nあいてが　ぶつり　わざを　だすと\nばくはつして　ダメージを　あたえる。",
@@ -2128,7 +2128,7 @@
     "accuracy": 90,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the user’s Special Attack by two stages after inflicting damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "きょうりょくな　ビームを　はなったあと\nじぶんの　とくこうが　がくっと　さがる。",
@@ -2677,7 +2677,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Destroys Reflect and Light Screen.",
     "flavor_text_entries": [
       {
         "flavor_text": "サイコパワーで　かみついて\nあいてを　こうげきする。　ひかりのかべや\nリフレクター　なども　はかいできる。",
@@ -3226,7 +3226,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has double power if the user’s last move failed.",
     "flavor_text_entries": [
       {
         "flavor_text": "くやしさを　バネにして　こうげきする。\nまえの　ターンに　わざを　はずしていると\nいりょくが　ばいに　なる。",
@@ -3775,7 +3775,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "たましいの　やどった　ホネで\nあいてを　なぐりつけて　こうげきする。\nあいての　ぼうぎょを　さげる　ことがある。",
@@ -4302,7 +4302,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 1,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "すばやい　スピードで\nあいてに　ぶつかって　こうげきする。\nかならず　せんせい　こうげき　できる。",
@@ -4851,7 +4851,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "みずの　ちからで　あいてに\nぶつかって　こうげきする。\nあいての　ぼうぎょを　さげる　ことがある。",
@@ -5400,7 +5400,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User foregoes its next turn to recharge.",
     "flavor_text_entries": [
       {
         "flavor_text": "プリズムの　ちからで　きょうりょくな\nこうせんを　はっしゃする。\nつぎの　ターンは　うごけなくなる。",
@@ -5949,7 +5949,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Steals the target’s stat increases, then inflicts damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　かげに　もぐりこみ\nあいての　のうりょく　アップを\nうばって　こうげきする。",
@@ -6476,7 +6476,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Cannot be disrupted by abilities.",
     "flavor_text_entries": [
       {
         "flavor_text": "りゅうせいの　ような　いきおいで\nとっしんする。　あいての　とくせいを\nむしして　こうげき　することが　できる。",
@@ -7025,7 +7025,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Cannot be disrupted by abilities.",
     "flavor_text_entries": [
       {
         "flavor_text": "あやしい　こうせんを　はなって\nこうげきする。あいての　とくせいを\nむしして　こうげき　することが　できる。",
@@ -7574,7 +7574,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack and Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "なみだめに　なって\nあいての　せんりょくを　そうしつさせる。\nあいての　こうげきと　とくこうが　さがる。",
@@ -8123,7 +8123,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to make the target flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてに　ぶつかって　きょうりょくな\nでんきをあびせ　びりびりちくちく　させる。\nあいてを　ひるませる　ことが　ある。",
@@ -8672,7 +8672,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage equal to half the target’s HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "しぜんの　いかりを　あいてに　ぶつける。\nあいての　ＨＰは　はんぶんに　なる。",
@@ -9199,7 +9199,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it.",
     "flavor_text_entries": [
       {
         "flavor_text": "たかい　エネルギーを　まといつつ\nあいてに　ぶつかって　こうげきする。\nメモリに　より　タイプが　かわる。",
@@ -9726,7 +9726,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ぼうしを　かぶった　ピカチュウが\nＺパワーで　パワーアップした　でんげきを\nはなつ。　きゅうしょに　あたりやすい。",
@@ -10253,7 +10253,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",
     "flavor_text_entries": [
       {
         "flavor_text": "じぶんの　あたまを　ばくはつ　させて\nまわりの　すべてを　こうげきする。\nじぶんも　ダメージを　うけてしまう。",
@@ -10659,7 +10659,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "でんきを　まとった　こぶしで\nこうげき。　ノーマルタイプの　わざを\nでんきタイプに　してしまう。",
@@ -11065,7 +11065,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ひかりの　はしらで　こうげきする。\nこうげきと　とくこうを　くらべて\nたかいほうで　ダメージを　あたえる。",
@@ -11493,7 +11493,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage using either Attack or Special Attack stat, whichever is higher.",
     "flavor_text_entries": [
       {
         "flavor_text": "ネクロズマが　あいての　とくせいの\nこうかを　むしして　こうげきと　とくこうの\nたかいほうで　ダメージを　あたえる。",
@@ -11899,7 +11899,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Cannot be disrupted by abilities.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ソルガレオが\nぜんりょくで　こうげきする。　あいての\nとくせいの　こうかを　むしできる。",
@@ -12305,7 +12305,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Cannot be disrupted by abilities.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ルナアーラが\nぜんりょくで　こうげきする。　あいての\nとくせいの　こうかを　むしできる。",
@@ -12711,7 +12711,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ミミッキュが\nぜんりょくで　ぽかぽか　こうげき。",
@@ -13117,7 +13117,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage and removes any terrain present on the battlefield.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ルガルガンが\nぜんりょくで　こうげきする。　ついかで\nフィールドじょうたいを　うちけす。",
@@ -13523,7 +13523,7 @@
     "accuracy": null,
     "pp": 1,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage to all opposing Pokémon and increases the user’s Attack, Defense, Special Attack, Special Defense, and Speed by one stage each.",
     "flavor_text_entries": [
       {
         "flavor_text": "Ｚパワーを　えた　ジャラランガが\nぜんりょくで　あいてを　こうげきする。\nついかで　じぶんの　のうりょくが　あがる。",
@@ -13929,7 +13929,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 2,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "もうスピードの　でんげき　アタック。\nかならず　せんせい　こうげき　できて\nきゅうしょに　あたる。",
@@ -14214,7 +14214,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "おおきな　なみに　でんきを　あびせ\nあいてに　ぶつけて　こうげきする。\nまひ　じょうたいに　することが　ある。",
@@ -14499,7 +14499,7 @@
     "accuracy": 95,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふんわりと　うかび　あがり\nいっきに　きゅうこうか　して　こうげき。\nあいてを　ひるませる　ことが　ある。",
@@ -14784,7 +14784,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ピカチュウの　トレーナーへの　だいすきな\nきもちが　つよいほど　いりょくが　あがる\nでんげき。　かならず　めいちゅうする。",
@@ -15069,7 +15069,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "みずの　かたまりを　ぶつけて　こうげき。\nみずを　すいとり　ダメージの\nはんぶんの　HPを　かいふくする。",
@@ -15354,7 +15354,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "でんきを　とばし　あいてに\nあびせて　こうげきする。　\nあいてを　まひ　じょうたいに　する。",
@@ -15639,7 +15639,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ほのおを　まとった　からだで\nいきおいよく　あいてに　ぶつかる。\nあいてを　やけど　じょうたいに　する。",
@@ -15924,7 +15924,7 @@
     "accuracy": 95,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ねんりきを　これでもかと　あびせる。\nあいての　とくしゅこうげきを　よわめる\nふしぎな　かべを　つくりだす。",
@@ -16209,7 +16209,7 @@
     "accuracy": 95,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "わるさを　アピールして　こうげき。\nあいての　ぶつりこうげきを　よわめる\nふしぎな　かべを　つくりだす。",
@@ -16494,7 +16494,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "きょだいな　ツルを　はやし　タネを\nまきちらかして　こうげきする。　タネは\nまいターン　あいての　HPを　すいとる。",
@@ -16779,7 +16779,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "つめたく　こおった　くろいきりの\nけっしょうで　こうげき。　ぜんいんの\nのうりょく　へんかを　もとに　もどす。",
@@ -17064,7 +17064,7 @@
     "accuracy": 85,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "むせかえる　ような　かおりの　たつまきで\nあいてを　つつんで　こうげき。　みかたの\nじょうたい　いじょうを　かいふくする。",
@@ -17349,7 +17349,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "イーブイの　トレーナーへの　だいすきな\nきもちが　つよいほど　いりょくが　あがる\nたいあたり。　かならず　めいちゅうする。",
@@ -17634,7 +17634,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits twice in one turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "むねの　ナットを　じくに　かいてんして\n２かい　つづけて　うでを　たたきつける。\nあいてを　ひるませる　ことが　ある。",
@@ -17919,7 +17919,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Prevents any moves from hitting the user this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　こうげきを\nまったく　うけない。\nれんぞくで　だすと　しっぱい　しやすい。",
@@ -18083,7 +18083,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Deals twice the damage if the target is Dynamaxed.",
     "flavor_text_entries": [
       {
         "flavor_text": "コアから　ビームを　はなって　こうげき。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。",
@@ -18269,7 +18269,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　わざを　ひきうける\nとくせいや　わざの　えいきょうを　むしして\nえらんだ　あいてを　こうげき　できる。",
@@ -18455,7 +18455,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents you and the target from switching out. ",
     "flavor_text_entries": [
       {
         "flavor_text": "おたがい　ひんしに　なるまで\nこうたいが　できなくなる。　どちらかの\nポケモンが　いなくなると　こうかはきえる。",
@@ -18633,7 +18633,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User consumes berry and raises its defense by 2 stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "もっている　きのみを　たべて\nぼうぎょを　ぐーんと　あげる。",
@@ -18811,7 +18811,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents user from switching out. Raises all of the user’s stats by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "じぶんの　すべての\nのうりょくが　あがるが　こうたい　したり\nにげることが　できなくなる。",
@@ -18989,7 +18989,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target's Speed by 1 stage. Until the target switches out, the effectiveness of Fire-type moves is doubled against it.",
     "flavor_text_entries": [
       {
         "flavor_text": "ねばねばの　タールを　あびせて\nあいての　すばやさを　さげる。\nあいては　ほのおが　じゃくてんに　なる。",
@@ -19167,7 +19167,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Causes the target to become a Psychic type.",
     "flavor_text_entries": [
       {
         "flavor_text": "まほうのこなを　あびせて\nあいてを　エスパータイプに　へんかさせる。",
@@ -19345,7 +19345,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits twice in one turn. In Double Battles, this move will hit both enemy targets. If it would fail to hit one of the targets, the other target will be hit twice.",
     "flavor_text_entries": [
       {
         "flavor_text": "ドラメシヤで　２かい　こうげき。\nあいてが　２ひき　いるときは\nそれぞれに　１かいずつ　こうげきする。",
@@ -19523,7 +19523,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "All Pokemon on the field consume their held berries.",
     "flavor_text_entries": [
       {
         "flavor_text": "おちゃかいを　ひらいて\nばにいる　ポケモンが　それぞれ\nもっている　きのみを　たべる。",
@@ -19701,7 +19701,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from switching out. At the end of each turn, the targets Defense and Special Defense are lowered by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてを　にげられなくする。\nかためられた　あいては　まいターン\nぼうぎょと　とくぼうが　さがる。",
@@ -19857,7 +19857,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Power doubles if the user moves before the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "でんきを　まとった　くちばしで　さす。\nあいてより　さきに　こうげきできると\nわざの　いりょくは　２ばいに　なる。",
@@ -20013,7 +20013,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Power doubles if the user moves before the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "かたい　エラで　かみつく。\nあいてより　さきに　こうげきできると\nわざの　いりょくは　２ばいに　なる。",
@@ -20169,7 +20169,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Switches single sided field effects from the users side to the targets side and vice versa. ",
     "flavor_text_entries": [
       {
         "flavor_text": "ふしぎな　ちからで\nおたがいの　ばの　こうかを　いれかえる。",
@@ -20347,7 +20347,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to sunny for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　ほのおタイプの　こうげき。\n５ターンの　あいだ　ひざしを　つよくする。",
@@ -20511,7 +20511,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, lower the Special Attack of all Pokemon on the opposing side by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　むしタイプの　こうげき。\nあいての　とくこうを　さげる。",
@@ -20667,7 +20667,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "For five turns, prevents all Pokémon on the ground from sleeping and strengthens their Electric moves to 1.5× their power.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　でんきタイプの　こうげき。\n５ターンのあいだ　エレキフィールドにする。",
@@ -20831,7 +20831,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, lower the Speed of all Pokemon on the opposing side by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　ノーマルタイプの　こうげき。\nあいての　すばやさを　さげる。",
@@ -20987,7 +20987,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, raise the Attack of the user and its allies' by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　かくとうタイプの　こうげき。\nみかたの　こうげきを　あげる。",
@@ -21143,7 +21143,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, lower the Defense of all Pokemon on the opposing side by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　ゴーストタイプの　こうげき。\nあいての　ぼうぎょを　さげる。",
@@ -21299,7 +21299,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to a hailstorm for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　こおりタイプの　こうげき。\n５ターンの　あいだ　あられを　ふらす。",
@@ -21463,7 +21463,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, raise the Special Attack of the user and its allies' by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　どくタイプの　こうげき。\nみかたの　とくこうを　あげる。",
@@ -21619,7 +21619,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to rain for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　みずタイプの　こうげき。\n５ターンの　あいだ　あめを　ふらせる。",
@@ -21783,7 +21783,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, raise the Speed of the user and its allies' by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　ひこうタイプの　こうげき。\nみかたの　すばやさを　あげる。",
@@ -21939,7 +21939,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming Dragon moves.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　フェアリータイプの　こうげき。\n５ターンのあいだ　ミストフィールドにする。",
@@ -22103,7 +22103,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, lower the Attack of all Pokemon on the opposing side by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　ドラゴンタイプの　こうげき。\nあいての　こうげきを　さげる。",
@@ -22259,7 +22259,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Protects Pokémon on the ground from priority moves and increases the power of their  Psychic moves by 50%.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　エスパータイプの　こうげき。\n５ターンのあいだ　サイコフィールドにする。",
@@ -22423,7 +22423,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to a sandstorm for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　いわタイプの　こうげき。\n５ターンの　あいだ　すなあらしにする。",
@@ -22587,7 +22587,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, raise the Special Defense of the user and its allies' by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　じめんタイプの　こうげき。\nみかたの　とくぼうを　あげる。",
@@ -22743,7 +22743,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, lower the Special Defense of all Pokemon on the opposing side by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　あくタイプの　こうげき。\nあいての　とくぼうを　さげる。",
@@ -22899,7 +22899,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their Grass moves to 1.5× their power.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　くさタイプの　こうげき。\n５ターンのあいだ　グラスフィールドにする。",
@@ -23063,7 +23063,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If this move hits, raise the Defense of the user and its allies' by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイマックスした　ポケモンが\nくりだす　はがねタイプの　こうげき。\nみかたの　ぼうぎょを　あげる。",
@@ -23219,7 +23219,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "User loses 33% of its Max HP. Raises all of the user’s stats by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "じぶんの　ＨＰを　すこし　けずって\nすべての　のうりょくを　あげる。",
@@ -23397,7 +23397,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Damage is calculated using the user's Defense stat as its Attack, including stat stage changes. ",
     "flavor_text_entries": [
       {
         "flavor_text": "からだを　ぶつけて　こうげき。\nぼうぎょが　たかいほど\nあたえる　ダメージが　ふえる。",
@@ -23575,7 +23575,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Raise the targets Attack and Special Attack by 2 stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "かざりつけを　することで\nあいての　こうげきと　とくこうを\nぐーんと　あげる。",
@@ -23753,7 +23753,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Speed by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ドラムの　ねっこを　ドラミングで\nコントロールして　こうげき　することで\nあいての　すばやさを　さげる。",
@@ -23939,7 +23939,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from fleeing and inflicts damage for 2-5 turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "トラバサミで　とらえて\n４－５ターンの　あいだ\nあいてを　はさんで　こうげきする。",
@@ -24103,7 +24103,7 @@
     "accuracy": 90,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "こいしを　もやした　ほのおの　ボールで\nあいてを　こうげきする。\nやけど　じょうたいに　することが　ある。",
@@ -24289,7 +24289,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Deals twice the damage if the target is Dynamaxed.",
     "flavor_text_entries": [
       {
         "flavor_text": "きょだいな　けんとなり　きりかかる。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。",
@@ -24453,7 +24453,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Deals twice the damage if the target is Dynamaxed.",
     "flavor_text_entries": [
       {
         "flavor_text": "きょだいな　たてとなり　ぶつかる。\nあいてが　ダイマックス　していると\nダメージは　２ばいに　なる。",
@@ -24617,7 +24617,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user's Speed by 1 stage. In Full Belly Mode, this move is Electric type. In Hangry Mode, this move is Dark type.",
     "flavor_text_entries": [
       {
         "flavor_text": "ほほぶくろに　ためた　エネルギーで\nこうげきし　じぶんの　すばやさを　あげる。\nモルペコの　すがたで　タイプが　かわる。",
@@ -24795,7 +24795,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack by one stage after inflicting damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "きょうじんな　しっぽを　はげしく\nふりはらって　あいてを　こうげきする。\nあいての　こうげきを　さげる。",
@@ -24981,7 +24981,7 @@
     "accuracy": 100,
     "pp": 40,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "するどく　とがった　えだで\nあいてを　つついて　こうげきする。",
@@ -25167,7 +25167,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ギターや　ベースを　かきならして\nはげしく　ひびく　おおきな　しんどうを\nあいてに　あたえて　こうげきする。",
@@ -25353,7 +25353,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Lower the targets Special Defense by 1 stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "すっぱい　りんごから　つくりだした\nさんせいの　えきたいで　こうげき。\nあいての　とくぼうを　さげる。",
@@ -25531,7 +25531,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Lower the targets Defense by 1 stage. Damage is increased by 50% during Gravitys effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "たかいところから　りんごを　おとして\nダメージを　あたえる。\nあいての　ぼうぎょを　さげる。",
@@ -25709,7 +25709,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "くらうと　くじけるほどの\nいきおいで　こうげき。\nあいての　とくこうを　さげる。",
@@ -25895,7 +25895,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to confuse the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "けむりを　ふんしゅつして\nあいてを　こうげき。\nこんらん　させることが　ある。",
@@ -26081,7 +26081,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Each Pokemon on the user's side restores 1/4 of its maximum HP, rounded half up.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふしぎな　みずを　ふりまいて\nじぶんと　ばにいる\nみかたの　ＨＰを　かいふくする。",
@@ -26259,7 +26259,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Prevents any moves from hitting the user this turn. If this blocks a contact move, the user has their Defense lowered by 2 stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　こうげきを　まったく　うけない。\nれんぞくで　だすと　しっぱい　しやすい。\nふれると　ぼうぎょが　がくっと　さがる。",
@@ -26415,7 +26415,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Never misses.",
     "flavor_text_entries": [
       {
         "flavor_text": "あたまを　さげる　ふりを　しながら\nふりみだした　かみのけを　つきさす。\nこうげきは　かならず　めいちゅうする。",
@@ -26601,7 +26601,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "User foregoes its next turn to recharge.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふとい　クキを　ふりまわして　こうげき。\nただし　じぶんも　よろめいてしまうため\nつぎの　ターンは　うごけなくなる。",
@@ -26765,7 +26765,7 @@
     "accuracy": 90,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "User foregoes its next turn to recharge.",
     "flavor_text_entries": [
       {
         "flavor_text": "ほんらいの　すがたと　なった\nムゲンダイナ　さいだいの　こうげき。\nつぎの　ターンは　うごけなくなる。",
@@ -26929,7 +26929,7 @@
     "accuracy": 95,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage, and the user takes damage equal to half of its max HP, rounded up.",
     "flavor_text_entries": [
       {
         "flavor_text": "ぜんしんから　あつめた　はがねを\nビームとして　はげしく　うちだす。\nじぶんも　ダメージを　うけてしまう。",
@@ -27115,7 +27115,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If Psychic Terrain is active and the user is grounded, this move hits all opposing Pokemon and has its power incrased by 50%.",
     "flavor_text_entries": [
       {
         "flavor_text": "サイコパワーで　あいてを　こうげきする。\nサイコフィールドの　とき　いりょくが　あがり\nすべての　あいてに　ダメージを　あたえる。",
@@ -27293,7 +27293,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Ends the effect of Electric, Grassy, Misty, or Psychic Terrains. Fails if no Terrain is active. ",
     "flavor_text_entries": [
       {
         "flavor_text": "フィールドを　はかい　しながら　こうげき。\nなんらかの　フィールドじょうたいに\nかわって　いないと　わざは　しっぱいする。",
@@ -27471,7 +27471,7 @@
     "accuracy": 90,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.",
     "flavor_text_entries": [
       {
         "flavor_text": "ウロコを　うちだして　こうげきする。\n２ー５かいの　あいだ　れんぞくで　だす。\nすばやさが　あがるが　ぼうぎょが　さがる。",
@@ -27665,7 +27665,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Requires a turn to charge before attacking. Raises the users Special Attack by 1 stage after the first turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "１ターンめに　うちゅうの　ちからを\nあつめることで　とくこうが　あがり\n２ターンめに　あいてを　こうげきする。",

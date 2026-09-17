@@ -9,7 +9,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medichamite.png",
-    "effect": null,
+    "effect": "Held: Allows Medicham to Mega Evolve into Mega Medicham.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medichamite.png"
     }
@@ -24,7 +24,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/houndoominite.png",
-    "effect": null,
+    "effect": "Held: Allows Houndoom to Mega Evolve into Mega Houndoom.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/houndoominite.png"
     }
@@ -39,7 +39,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aggronite.png",
-    "effect": null,
+    "effect": "Held: Allows Aggron to Mega Evolve into Mega Aggron.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aggronite.png"
     }
@@ -54,7 +54,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/banettite.png",
-    "effect": null,
+    "effect": "Held: Allows Banette to Mega Evolve into Mega Banette.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/banettite.png"
     }
@@ -69,7 +69,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tyranitarite.png",
-    "effect": null,
+    "effect": "Held: Allows Tyranitar to Mega Evolve into Mega Tyranitar.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tyranitarite.png"
     }
@@ -84,7 +84,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scizorite.png",
-    "effect": null,
+    "effect": "Held: Allows Scizor to Mega Evolve into Mega Scizor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/scizorite.png"
     }
@@ -99,7 +99,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinsirite.png",
-    "effect": null,
+    "effect": "Held: Allows Pinsir to Mega Evolve into Mega Pinsir.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinsirite.png"
     }
@@ -114,7 +114,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aerodactylite.png",
-    "effect": null,
+    "effect": "Held: Allows Aerodactyl to Mega Evolve into Mega Aerodactyl.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aerodactylite.png"
     }
@@ -129,7 +129,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucarionite.png",
-    "effect": null,
+    "effect": "Held: Allows Lucario to Mega Evolve into Mega Lucario.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lucarionite.png"
     }
@@ -144,7 +144,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/abomasite.png",
-    "effect": null,
+    "effect": "Held: Allows Abomasnow to Mega Evolve into Mega Abomasnow.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/abomasite.png"
     }
@@ -159,7 +159,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kangaskhanite.png",
-    "effect": null,
+    "effect": "Held: Allows Kangaskhan to Mega Evolve into Mega Kangaskhan.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kangaskhanite.png"
     }
@@ -174,7 +174,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gyaradosite.png",
-    "effect": null,
+    "effect": "Held: Allows Gyarados to Mega Evolve into Mega Gyarados.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gyaradosite.png"
     }
@@ -189,7 +189,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absolite.png",
-    "effect": null,
+    "effect": "Held: Allows Absol to Mega Evolve into Mega Absol.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/absolite.png"
     }
@@ -204,7 +204,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-y.png",
-    "effect": null,
+    "effect": "Held: Allows Charizard to Mega Evolve into Mega Charizard Y.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-y.png"
     }
@@ -219,7 +219,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/alakazite.png",
-    "effect": null,
+    "effect": "Held: Allows Alakazam to Mega Evolve into Mega Alakazam.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/alakazite.png"
     }
@@ -234,7 +234,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heracronite.png",
-    "effect": null,
+    "effect": "Held: Allows Heracross to Mega Evolve into Mega Heracross.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heracronite.png"
     }
@@ -249,7 +249,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mawilite.png",
-    "effect": null,
+    "effect": "Held: Allows Mawile to Mega Evolve into Mega Mawile.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mawilite.png"
     }
@@ -264,7 +264,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/manectite.png",
-    "effect": null,
+    "effect": "Held: Allows Manectric to Mega Evolve into Mega Manectric.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/manectite.png"
     }
@@ -279,7 +279,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/garchompite.png",
-    "effect": null,
+    "effect": "Held: Allows Garchomp to Mega Evolve into Mega Garchomp.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/garchompite.png"
     }
@@ -294,7 +294,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roseli-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Fairy-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roseli-berry.png"
     }
@@ -309,7 +309,7 @@
     "category": "other",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kee-berry.png",
-    "effect": null,
+    "effect": "Held: When the holder is hit by a physical move, increases its Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kee-berry.png"
     }
@@ -324,7 +324,7 @@
     "category": "other",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/maranga-berry.png",
-    "effect": null,
+    "effect": "Held: When the holder is hit by a special move, increases its Special Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/maranga-berry.png"
     }
@@ -339,7 +339,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/discount-coupon.png",
-    "effect": null,
+    "effect": "Can be used at a boutique for a 50% discount.  Consumed once used.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/discount-coupon.png"
     }
@@ -354,7 +354,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/strange-souvenir.png",
-    "effect": null,
+    "effect": "Vendor trash.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/strange-souvenir.png"
     }
@@ -369,7 +369,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lumiose-galette.png",
-    "effect": null,
+    "effect": "Cures all major status ailments and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lumiose-galette.png"
     }
@@ -384,7 +384,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaw-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Tyrunt.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaw-fossil.png"
     }
@@ -399,7 +399,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sail-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into an Amaura.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sail-fossil.png"
     }
@@ -414,7 +414,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Fairy move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-gem.png"
     }
@@ -429,7 +429,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adventure-rules.png",
-    "effect": null,
+    "effect": "Contains basic gameplay information.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adventure-rules.png"
     }
@@ -444,7 +444,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elevator-key.png",
-    "effect": null,
+    "effect": "Unlocks the elevator in Lysandre Labs.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elevator-key.png"
     }
@@ -459,7 +459,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster.png",
-    "effect": null,
+    "effect": "Displays cutscene conversations as the plot advances.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster.png"
     }
@@ -474,7 +474,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honor-of-kalos.png",
-    "effect": null,
+    "effect": "Does nothing, but signifies becoming Champion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/honor-of-kalos.png"
     }
@@ -489,7 +489,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/intriguing-stone.png",
-    "effect": null,
+    "effect": "Trade for a Sun Stone in X and Y, or Pidgeotite in Omega Ruby and Alpha Sapphire.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/intriguing-stone.png"
     }
@@ -504,7 +504,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lens-case.png",
-    "effect": null,
+    "effect": "Allows the player to change their eye color.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lens-case.png"
     }
@@ -519,7 +519,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/looker-ticket.png",
-    "effect": null,
+    "effect": "Advances the Looker postgame plot.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/looker-ticket.png"
     }
@@ -534,7 +534,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-ring.png",
-    "effect": null,
+    "effect": "Allows the player’s Pokémon to Mega Evolve.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-ring.png"
     }
@@ -549,7 +549,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-plant-pass.png",
-    "effect": null,
+    "effect": "Permits entry to the Kalos Power Plant.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/power-plant-pass.png"
     }
@@ -564,7 +564,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/profs-letter.png",
-    "effect": null,
+    "effect": "Traded to the player’s mom for the Town Map and a Potion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/profs-letter.png"
     }
@@ -579,7 +579,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roller-skates.png",
-    "effect": null,
+    "effect": "Allows the player to move quickly and off the grid.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roller-skates.png"
     }
@@ -594,7 +594,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprinklotad.png",
-    "effect": null,
+    "effect": "Waters Berry plants.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprinklotad.png"
     }
@@ -609,7 +609,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tmv-pass.png",
-    "effect": null,
+    "effect": "Permits access to Kiloude City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tmv-pass.png"
     }
@@ -624,7 +624,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches a Pokémon TM96.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -639,7 +639,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches a Pokémon TM97.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -654,7 +654,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches a Pokémon TM98.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -669,7 +669,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches a Pokémon TM99.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -684,7 +684,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches a Pokémon TM100.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -699,7 +699,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiasite.png",
-    "effect": null,
+    "effect": "Held: Allows Latias to Mega Evolve into Mega Latias.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiasite.png"
     }
@@ -714,7 +714,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiosite.png",
-    "effect": null,
+    "effect": "Held: Allows Latios to Mega Evolve into Mega Latios.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/latiosite.png"
     }
@@ -729,7 +729,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/common-stone.png",
-    "effect": null,
+    "effect": "Unknown.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/common-stone.png"
     }
@@ -744,7 +744,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/makeup-bag.png",
-    "effect": null,
+    "effect": "Allows the player to change their lipstick color.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/makeup-bag.png"
     }
@@ -759,7 +759,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/travel-trunk.png",
-    "effect": null,
+    "effect": "Unobtainable, but allows the player to change clothes anywhere.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/travel-trunk.png"
     }
@@ -774,7 +774,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shalour-sable.png",
-    "effect": null,
+    "effect": "Cures any major status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shalour-sable.png"
     }
@@ -789,7 +789,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-charm.png",
-    "effect": null,
+    "effect": "Unused Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-charm.png"
     }
@@ -804,7 +804,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glove.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glove.png"
     }
@@ -819,7 +819,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-parts.png",
-    "effect": null,
+    "effect": "Allows Captain Stern to set out on his expedition.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-parts.png"
     }
@@ -834,7 +834,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokeblock-kit.png",
-    "effect": null,
+    "effect": "Creates and stores Pokéblocks.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pokeblock-kit.png"
     }
@@ -849,7 +849,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-1.png",
-    "effect": null,
+    "effect": "Unlocks the door to Room 1 in Sea Mauville.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-1.png"
     }
@@ -864,7 +864,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-2.png",
-    "effect": null,
+    "effect": "Unlocks the door to Room 2 in Sea Mauville.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-2.png"
     }
@@ -879,7 +879,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-4.png",
-    "effect": null,
+    "effect": "Unlocks the door to Room 4 in Sea Mauville.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-4.png"
     }
@@ -894,7 +894,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-6.png",
-    "effect": null,
+    "effect": "Unlocks the door to Room 6 in Sea Mauville.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-to-room-6.png"
     }
@@ -909,7 +909,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-scuba-gear.png",
-    "effect": null,
+    "effect": "Worn by the player while underwater.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/devon-scuba-gear.png"
     }
@@ -924,7 +924,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--jacket.png",
-    "effect": null,
+    "effect": "Worn during Pokémon Contests.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--jacket.png"
     }
@@ -939,7 +939,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-suit.png",
-    "effect": null,
+    "effect": "Allows the player to ride Groudon in the Cave of Origin.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-suit.png"
     }
@@ -954,7 +954,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aqua-suit.png",
-    "effect": null,
+    "effect": "Allows the player to ride Kyogre in the Cave of Origin.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aqua-suit.png"
     }
@@ -969,7 +969,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pair-of-tickets.png",
-    "effect": null,
+    "effect": "Allows the player and their mother to see the star show in the Mossdeep Space Center.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pair-of-tickets.png"
     }
@@ -984,7 +984,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-bracelet.png",
-    "effect": null,
+    "effect": "Allows the player’s Pokémon to Mega Evolve.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-bracelet.png"
     }
@@ -999,7 +999,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-pendant.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-pendant.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glasses.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-glasses.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anchor.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anchor.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-stickpin.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-stickpin.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-tiara.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-tiara.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anklet.png",
-    "effect": null,
+    "effect": "Unused NPC Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-anklet.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swampertite.png",
-    "effect": null,
+    "effect": "Held: Allows Swampert to Mega Evolve into Mega Swampert.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swampertite.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sceptilite.png",
-    "effect": null,
+    "effect": "Held: Allows Sceptile to Mega Evolve into Mega Sceptile.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sceptilite.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sablenite.png",
-    "effect": null,
+    "effect": "Held: Allows Sableye to Mega Evolve into Mega Sableye.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sablenite.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/altarianite.png",
-    "effect": null,
+    "effect": "Held: Allows Altaria to Mega Evolve into Mega Altaria.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/altarianite.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galladite.png",
-    "effect": null,
+    "effect": "Held: Allows Gallade to Mega Evolve into Mega Gallade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galladite.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/audinite.png",
-    "effect": null,
+    "effect": "Held: Allows Audino to Mega Evolve into Mega Audino.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/audinite.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metagrossite.png",
-    "effect": null,
+    "effect": "Held: Allows Metagross to Mega Evolve into Mega Metagross.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/metagrossite.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharpedonite.png",
-    "effect": null,
+    "effect": "Held: Allows Sharpedo to Mega Evolve into Mega Sharpedo.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sharpedonite.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowbronite.png",
-    "effect": null,
+    "effect": "Held: Allows Slowbro to Mega Evolve into Mega Slowbro.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowbronite.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelixite.png",
-    "effect": null,
+    "effect": "Held: Allows Steelix to Mega Evolve into Mega Steelix.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelixite.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pidgeotite.png",
-    "effect": null,
+    "effect": "Held: Allows Pidgeot to Mega Evolve into Mega Pidgeot.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pidgeotite.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/glalitite.png",
-    "effect": null,
+    "effect": "Held: Allows Glalie to Mega Evolve into Mega Glalie.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/glalitite.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/diancite.png",
-    "effect": null,
+    "effect": "Held: Allows Diancie to Mega Evolve into Mega Diancie.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/diancite.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prison-bottle.png",
-    "effect": null,
+    "effect": "Transforms Hoopa into its Unbound form for up to three days.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prison-bottle.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-cuff.png",
-    "effect": null,
+    "effect": "Unused Key Stone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mega-cuff.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cameruptite.png",
-    "effect": null,
+    "effect": "Held: Allows Camerupt to Mega Evolve into Mega Camerupt.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cameruptite.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lopunnite.png",
-    "effect": null,
+    "effect": "Held: Allows Lopunny to Mega Evolve into Mega Lopunny.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lopunnite.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salamencite.png",
-    "effect": null,
+    "effect": "Held: Allows Salamence to Mega Evolve into Mega Salamence.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salamencite.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beedrillite.png",
-    "effect": null,
+    "effect": "Held: Allows Beedrill to Mega Evolve into Mega Beedrill.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beedrillite.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-stone.png",
-    "effect": null,
+    "effect": "Allows the player’s Pokémon to Mega Evolve.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/key-stone.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite-shard.png",
-    "effect": null,
+    "effect": "Causes the Meteorite to transform to its final form, allowing Rayquaza to Mega Evolve.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite-shard.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eon-flute.png",
-    "effect": null,
+    "effect": "Summons Latias or Latios for a ride.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eon-flute.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Normal moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--held.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Fire moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--held.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Water moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--held.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Electric moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--held.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Grass moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--held.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Ice moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--held.png"
     }

@@ -1152,12 +1152,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -1335,12 +1337,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -2745,12 +2749,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -3341,12 +3347,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -3890,12 +3898,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -3936,12 +3946,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -4179,12 +4191,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             },
             {
               "version_group": {
@@ -4222,15 +4236,17 @@
                 "name": "hisui",
                 "url": "https://pokeapi.co/api/v2/region/9/"
               },
-              "base_form": null,
-              "evolved_form": {
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": {
                 "name": "lilligant-hisui",
-                "url": "https://pokeapi.co/api/v2/pokemon/10237/"
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10406/"
               },
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -4350,12 +4366,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -4396,12 +4414,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -5455,12 +5475,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -5501,12 +5523,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -5564,12 +5588,155 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": {
+                "name": "deerling-spring",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/585/"
+              },
+              "evolved_pokemon_form": {
+                "name": "sawsbuck-spring",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/586/"
+              },
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "black-white",
+                "url": "https://pokeapi.co/api/v2/version-group/11/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 34,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "deerling-summer",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10068/"
+              },
+              "evolved_pokemon_form": {
+                "name": "sawsbuck-summer",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10071/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "black-white",
+                "url": "https://pokeapi.co/api/v2/version-group/11/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 34,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "deerling-autumn",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10069/"
+              },
+              "evolved_pokemon_form": {
+                "name": "sawsbuck-autumn",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10072/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "black-white",
+                "url": "https://pokeapi.co/api/v2/version-group/11/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 34,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "deerling-winter",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10070/"
+              },
+              "evolved_pokemon_form": {
+                "name": "sawsbuck-winter",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10073/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []

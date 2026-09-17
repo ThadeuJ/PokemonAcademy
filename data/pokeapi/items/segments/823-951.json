@@ -9,7 +9,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Fighting moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--held.png"
     }
@@ -24,7 +24,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Poison moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--held.png"
     }
@@ -39,7 +39,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Ground moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--held.png"
     }
@@ -54,7 +54,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Flying moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--held.png"
     }
@@ -69,7 +69,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Psychic moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--held.png"
     }
@@ -84,7 +84,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Bug moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--held.png"
     }
@@ -99,7 +99,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Rock moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--held.png"
     }
@@ -114,7 +114,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Ghost moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--held.png"
     }
@@ -129,7 +129,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Dragon moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--held.png"
     }
@@ -144,7 +144,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Dark moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--held.png"
     }
@@ -159,7 +159,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Steel moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--held.png"
     }
@@ -174,7 +174,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows a Pokémon to use the Z-move equivalents of its Fairy moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--held.png"
     }
@@ -189,7 +189,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Pikachu to upgrade Volt Tackle into Catastropika.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--held.png"
     }
@@ -204,7 +204,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bottle-cap.png",
-    "effect": null,
+    "effect": "Trade to Mr. Hyper to maximize one of a Pokémon’s genes.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bottle-cap.png"
     }
@@ -219,7 +219,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-bottle-cap.png",
-    "effect": null,
+    "effect": "Trade to Mr. Hyper to maximize all of a Pokémon’s genes.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-bottle-cap.png"
     }
@@ -234,7 +234,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-ring.png",
-    "effect": null,
+    "effect": "Allows the player’s Pokémon to use Z-moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-ring.png"
     }
@@ -249,7 +249,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Decidueye to upgrade Spirit Shackle into Sinister Arrow Raid.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--held.png"
     }
@@ -264,7 +264,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Incineroar to upgrade Darkest Lariat into Malicious Moonsault.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--held.png"
     }
@@ -279,7 +279,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Primarina to upgrade Sparkling Aria into Oceanic Operetta.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--held.png"
     }
@@ -294,7 +294,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows the Tapus to upgrade Nature’s Madness into Guardian of Alola.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--held.png"
     }
@@ -309,7 +309,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Marshadow to upgrade Spectral Thief into Soul-Stealing 7 Star Strike.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--held.png"
     }
@@ -324,7 +324,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Alola Raichu to upgrade Thunderbolt into Stoked Sparksurfer.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--held.png"
     }
@@ -339,7 +339,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Snorlax to upgrade Giga Impact into Pulverizing Pancake.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--held.png"
     }
@@ -354,7 +354,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Eevee to upgrade Last Resort into Extreme Evoboost.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--held.png"
     }
@@ -369,7 +369,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows Mew to upgrade Psychic into Genesis Supernova.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--held.png"
     }
@@ -384,7 +384,7 @@
     "category": "z-crystals",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--held.png",
-    "effect": null,
+    "effect": "Held: Allows cap-wearing Pikachu to upgrade Thunderbolt into 10,000,000 Volt Thunderbolt.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--held.png"
     }
@@ -399,7 +399,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/forage-bag.png",
-    "effect": null,
+    "effect": "Holds ingredients during Mallow’s trial.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/forage-bag.png"
     }
@@ -414,7 +414,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fishing-rod.png",
-    "effect": null,
+    "effect": "Allows the player to fish for Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fishing-rod.png"
     }
@@ -429,7 +429,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/professors-mask.png",
-    "effect": null,
+    "effect": "Lost by Professor Kukui.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/professors-mask.png"
     }
@@ -444,7 +444,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/festival-ticket.png",
-    "effect": null,
+    "effect": "Hosts a mission in Festival Plaza.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/festival-ticket.png"
     }
@@ -459,7 +459,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sparkling-stone.png",
-    "effect": null,
+    "effect": "Required to obtain a Z-Ring.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sparkling-stone.png"
     }
@@ -474,7 +474,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adrenaline-orb.png",
-    "effect": null,
+    "effect": "Makes wild Pokémon more likely to summon allies.  Held: increases the holder’s Speed by one stage when affected by Intimidate.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adrenaline-orb.png"
     }
@@ -489,7 +489,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zygarde-cube.png",
-    "effect": null,
+    "effect": "Contains collected Zygarde cells/cores.  Can teach Zygarde moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zygarde-cube.png"
     }
@@ -504,7 +504,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png",
-    "effect": null,
+    "effect": "Evolves an Alola Sandshrew into Alola Sandslash or an Alola Vulpix into Alola Ninetales.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png"
     }
@@ -519,7 +519,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ride-pager.png",
-    "effect": null,
+    "effect": "Allows the player to summon a Ride Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ride-pager.png"
     }
@@ -534,7 +534,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 5× for Ultra Beasts and 0.1× for all other Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png"
     }
@@ -549,7 +549,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-malasada.png",
-    "effect": null,
+    "effect": "Cures major status ailments and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-malasada.png"
     }
@@ -564,7 +564,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-nectar.png",
-    "effect": null,
+    "effect": "Changes Oricorio to Baile Style.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-nectar.png"
     }
@@ -579,7 +579,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-nectar.png",
-    "effect": null,
+    "effect": "Changes Oricorio to Pom-Pom Style.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-nectar.png"
     }
@@ -594,7 +594,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-nectar.png",
-    "effect": null,
+    "effect": "Changes Oricorio to Pa’u Style.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-nectar.png"
     }
@@ -609,7 +609,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-nectar.png",
-    "effect": null,
+    "effect": "Changes Oricorio to Sensu Style.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-nectar.png"
     }
@@ -624,7 +624,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-flute.png",
-    "effect": null,
+    "effect": "Evolves Nebby into Solgaleo when used at the Altar of the Sunne.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-flute.png"
     }
@@ -639,7 +639,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-flute.png",
-    "effect": null,
+    "effect": "Evolves Nebby into Lunala when used at the Altar of the Moone.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-flute.png"
     }
@@ -654,7 +654,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigmatic-card.png",
-    "effect": null,
+    "effect": "Unlocks Looker’s motel room on Route 8.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigmatic-card.png"
     }
@@ -669,7 +669,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/terrain-extender.png",
-    "effect": null,
+    "effect": "Held: Extends the holder’s Terrain effects to 8 turns.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/terrain-extender.png"
     }
@@ -684,7 +684,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protective-pads.png",
-    "effect": null,
+    "effect": "Held: Prevents side effects of contact moves used on the holder.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protective-pads.png"
     }
@@ -699,7 +699,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png",
-    "effect": null,
+    "effect": "Held: Consumed on Electric Terrain and raises the holder’s Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png"
     }
@@ -714,7 +714,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-seed.png",
-    "effect": null,
+    "effect": "Held: Consumed on Psychic Terrain and raises the holder’s Special Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-seed.png"
     }
@@ -729,7 +729,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/misty-seed.png",
-    "effect": null,
+    "effect": "Held: Consumed on Misty Terrain and raises the holder’s Special Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/misty-seed.png"
     }
@@ -744,7 +744,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png",
-    "effect": null,
+    "effect": "Held: Consumed on Grassy Terrain and raises the holder’s Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png"
     }
@@ -759,7 +759,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Fighting form.  Changes Multi-Attack’s type to Fighting.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-memory.png"
     }
@@ -774,7 +774,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Flying form.  Changes Multi-Attack’s type to Flying.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-memory.png"
     }
@@ -789,7 +789,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Poison form.  Changes Multi-Attack’s type to Poison.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-memory.png"
     }
@@ -804,7 +804,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Ground form.  Changes Multi-Attack’s type to Ground.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-memory.png"
     }
@@ -819,7 +819,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Rock form.  Changes Multi-Attack’s type to Rock.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-memory.png"
     }
@@ -834,7 +834,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Bug form.  Changes Multi-Attack’s type to Bug.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-memory.png"
     }
@@ -849,7 +849,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Ghost form.  Changes Multi-Attack’s type to Ghost.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-memory.png"
     }
@@ -864,7 +864,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Steel form.  Changes Multi-Attack’s type to Steel.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-memory.png"
     }
@@ -879,7 +879,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Fire form.  Changes Multi-Attack’s type to Fire.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png"
     }
@@ -894,7 +894,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Water form.  Changes Multi-Attack’s type to Water.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-memory.png"
     }
@@ -909,7 +909,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Grass form.  Changes Multi-Attack’s type to Grass.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-memory.png"
     }
@@ -924,7 +924,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Electric form.  Changes Multi-Attack’s type to Electric.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-memory.png"
     }
@@ -939,7 +939,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Psychic form.  Changes Multi-Attack’s type to Psychic.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-memory.png"
     }
@@ -954,7 +954,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Ice form.  Changes Multi-Attack’s type to Ice.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-memory.png"
     }
@@ -969,7 +969,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Dragon form.  Changes Multi-Attack’s type to Dragon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png"
     }
@@ -984,7 +984,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Dark form.  Changes Multi-Attack’s type to Dark.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-memory.png"
     }
@@ -999,7 +999,7 @@
     "category": "memories",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-memory.png",
-    "effect": null,
+    "effect": "Held: Changes Silvally to its Fairy form.  Changes Multi-Attack’s type to Fairy.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-memory.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--green.png",
-    "effect": null,
+    "effect": "XXX new effect for bike--green",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--green.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--galactic-warehouse.png",
-    "effect": null,
+    "effect": "XXX new effect for storage-key--galactic-warehouse",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--galactic-warehouse.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--goldenrod.png",
-    "effect": null,
+    "effect": "XXX new effect for basement-key--goldenrod",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--goldenrod.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "unused",
     "cost": null,
     "sprite": null,
-    "effect": null,
+    "effect": "XXX new effect for xtranceiver--red",
     "sprites": {
       "default": null
     }
@@ -1074,7 +1074,7 @@
     "category": "unused",
     "cost": null,
     "sprite": null,
-    "effect": null,
+    "effect": "XXX new effect for xtranceiver--yellow",
     "sprites": {
       "default": null
     }
@@ -1089,7 +1089,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--merge.png",
-    "effect": null,
+    "effect": "XXX new effect for dna-splicers--merge",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--merge.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--split.png",
-    "effect": null,
+    "effect": "XXX new effect for dna-splicers--split",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--split.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--red.png",
-    "effect": null,
+    "effect": "XXX new effect for dropped-item--red",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--red.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--yellow.png",
-    "effect": null,
+    "effect": "XXX new effect for dropped-item--yellow",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--yellow.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png",
-    "effect": null,
+    "effect": "XXX new effect for holo-caster--green",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--yellow.png",
-    "effect": null,
+    "effect": "XXX new effect for bike--yellow",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--yellow.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--red.png",
-    "effect": null,
+    "effect": "XXX new effect for holo-caster--red",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--red.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--new-mauville.png",
-    "effect": null,
+    "effect": "XXX new effect for basement-key--new-mauville",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--new-mauville.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png",
-    "effect": null,
+    "effect": "XXX new effect for storage-key--sea-mauville",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket--hoenn.png",
-    "effect": null,
+    "effect": "XXX new effect for ss-ticket--hoenn",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket--hoenn.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--dress.png",
-    "effect": null,
+    "effect": "XXX new effect for contest-costume--dress",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--dress.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--2.png",
-    "effect": null,
+    "effect": "XXX new effect for meteorite--2",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--2.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png",
-    "effect": null,
+    "effect": "XXX new effect for meteorite--3",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--4.png",
-    "effect": null,
+    "effect": "XXX new effect for meteorite--4",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--4.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for normalium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--bag.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for firium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--bag.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for waterium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--bag.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for electrium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--bag.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for grassium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--bag.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for icium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--bag.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for fightinium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--bag.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for poisonium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--bag.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for groundium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--bag.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for flyinium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--bag.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for psychium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--bag.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for buginium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--bag.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for rockium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--bag.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--bag.png",
-    "effect": null,
+    "effect": "XXX new effect for ghostium-z--bag",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--bag.png"
     }

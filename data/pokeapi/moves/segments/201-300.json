@@ -20,7 +20,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to a sandstorm for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Inflicts damage\nevery turn.",
@@ -888,7 +888,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Drains half the damage inflicted to heal the user.",
     "flavor_text_entries": [
       {
         "flavor_text": "Steals 1/2 of the\ndamage inflicted.",
@@ -1756,7 +1756,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Prevents the user’s HP from lowering below 1 this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Always leaves at\nleast 1HP.",
@@ -2624,7 +2624,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack by two stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Sharply lowers the\nfoe's ATTACK.",
@@ -3492,7 +3492,7 @@
     "accuracy": 90,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Power doubles every turn this move is used in succession after the first, resetting after five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attacks 5 turns\nwith rising power.",
@@ -4360,7 +4360,7 @@
     "accuracy": 100,
     "pp": 40,
     "priority": 0,
-    "effect": null,
+    "effect": "Cannot lower the target’s HP below 1.",
     "flavor_text_entries": [
       {
         "flavor_text": "Leaves the foe\nwith at least 1HP.",
@@ -5228,7 +5228,7 @@
     "accuracy": 85,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the target’s Attack by two stages and confuses the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Causes confusion\nand raises ATTACK.",
@@ -6096,7 +6096,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the user by half its max HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "Restores HP by 1/2\nthe max HP.",
@@ -6964,7 +6964,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to paralyze the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\ncause paralysis.",
@@ -7832,7 +7832,7 @@
     "accuracy": 95,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Power doubles every turn this move is used in succession after the first, maxing out after five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Successive hits\nraise power.",
@@ -8700,7 +8700,7 @@
     "accuracy": 90,
     "pp": 25,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to raise the user’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Stiff wings strike\nthe foe.",
@@ -9568,7 +9568,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from leaving battle.",
     "flavor_text_entries": [
       {
         "flavor_text": "Prevents fleeing\nor switching.",
@@ -10436,7 +10436,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.",
     "flavor_text_entries": [
       {
         "flavor_text": "Makes the opposite\ngender infatuated.",
@@ -11304,7 +11304,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Randomly uses one of the user’s other three moves.  Only works if the user is sleeping.",
     "flavor_text_entries": [
       {
         "flavor_text": "Randomly attacks\nwhile asleep.",
@@ -12172,7 +12172,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Cures the entire party of major status effects.",
     "flavor_text_entries": [
       {
         "flavor_text": "Eliminates all\nstatus problems.",
@@ -13040,7 +13040,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Power increases with happiness, up to a maximum of 102.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that is\nbased on loyalty.",
@@ -13886,7 +13886,7 @@
     "accuracy": 90,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Randomly inflicts damage with power from 40 to 120 or heals the target for 1/4 its max HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "A bomb that may\nrestore HP.",
@@ -14754,7 +14754,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Power increases as happiness decreases, up to a maximum of 102.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack based on\nlack of loyalty.",
@@ -15600,7 +15600,7 @@
     "accuracy": null,
     "pp": 25,
     "priority": 0,
-    "effect": null,
+    "effect": "Protects the user’s field from major status ailments and confusion for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Prevents all\nstatus problems.",
@@ -16468,7 +16468,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Sets the user’s and targets’s HP to the average of their current HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "Adds user & foe's\nHPs. Shares total.",
@@ -17336,7 +17336,7 @@
     "accuracy": 95,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.  Lets frozen Pokémon thaw themselves.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\ninflict a burn.",
@@ -18204,7 +18204,7 @@
     "accuracy": 100,
     "pp": 30,
     "priority": 0,
-    "effect": null,
+    "effect": "Power varies randomly from 10 to 150.",
     "flavor_text_entries": [
       {
         "flavor_text": "A ground attack\nwith random power.",
@@ -19050,7 +19050,7 @@
     "accuracy": 50,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to confuse the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that\nalways confuses.",
@@ -19918,7 +19918,7 @@
     "accuracy": 85,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "A powerful charge\nattack.",
@@ -20786,7 +20786,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to paralyze the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "A strong breath\nattack.",
@@ -21654,7 +21654,7 @@
     "accuracy": null,
     "pp": 40,
     "priority": 0,
-    "effect": null,
+    "effect": "Allows the trainer to switch out the user and pass effects along to its replacement.",
     "flavor_text_entries": [
       {
         "flavor_text": "Switches while\nkeeping effects.",
@@ -22522,7 +22522,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Forces the target to repeat its last used move every turn for 2 to 6 turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Makes the foe re­\npeat 2-6 times.",
@@ -23390,7 +23390,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has double power against, and can hit, Pokémon attempting to switch out.",
     "flavor_text_entries": [
       {
         "flavor_text": "Heavily strikes\nswitching POKéMON.",
@@ -24236,7 +24236,7 @@
     "accuracy": 100,
     "pp": 40,
     "priority": 0,
-    "effect": null,
+    "effect": "Frees the user from binding moves, removes Leech Seed, and blows away Spikes.",
     "flavor_text_entries": [
       {
         "flavor_text": "A high-speed\nspinning attack.",
@@ -25104,7 +25104,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s evasion by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Reduces the foe's\nevasiveness.",
@@ -25972,7 +25972,7 @@
     "accuracy": 75,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nreduce DEFENSE.",
@@ -26840,7 +26840,7 @@
     "accuracy": 95,
     "pp": 35,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to raise the user’s Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nup user's ATTACK.",
@@ -27708,7 +27708,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": -1,
-    "effect": null,
+    "effect": "Never misses.",
     "flavor_text_entries": [
       {
         "flavor_text": "A 2nd-strike move\nthat never misses.",
@@ -28554,7 +28554,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the user by half its max HP.  Affected by weather.",
     "flavor_text_entries": [
       {
         "flavor_text": "Restores HP\n(varies by time).",
@@ -29422,7 +29422,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the user by half its max HP.  Affected by weather.",
     "flavor_text_entries": [
       {
         "flavor_text": "Restores HP\n(varies by time).",
@@ -30290,7 +30290,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the user by half its max HP.  Affected by weather.",
     "flavor_text_entries": [
       {
         "flavor_text": "Restores HP\n(varies by time).",
@@ -31158,7 +31158,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Power and type depend upon user’s IVs.  Power can range from 30 to 70.",
     "flavor_text_entries": [
       {
         "flavor_text": "The power varies\nwith the POKéMON.",
@@ -32004,7 +32004,7 @@
     "accuracy": 80,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has an increased chance for a critical hit.",
     "flavor_text_entries": [
       {
         "flavor_text": "Has a high criti­\ncal hit ratio.",
@@ -32872,7 +32872,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to make the target flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "Whips up a tornado\nto attack.",
@@ -33740,7 +33740,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to rain for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Boosts water-type\nmoves for 5 turns.",
@@ -34608,7 +34608,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to sunny for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Boosts fire-type\nmoves for 5 turns.",
@@ -35476,7 +35476,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nlower SPCL.DEF.",
@@ -36344,7 +36344,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": -5,
-    "effect": null,
+    "effect": "Inflicts twice the damage the user received from the last special hit it took.",
     "flavor_text_entries": [
       {
         "flavor_text": "Counters a SPCL.\nATK. move double.",
@@ -37212,7 +37212,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Discards the user’s stat changes and copies the target’s.",
     "flavor_text_entries": [
       {
         "flavor_text": "Copies the foe's\nstat changes.",
@@ -38080,7 +38080,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 2,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "A powerful first-\nstrike move.",
@@ -38948,7 +38948,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to raise all of the user’s stats by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nraise all stats.",
@@ -39816,7 +39816,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nlower SPCL.DEF.",
@@ -40684,7 +40684,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits the target two turns later.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that\nhits on 3rd turn.",
@@ -41552,7 +41552,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that may\nlower DEFENSE.",
@@ -42420,7 +42420,7 @@
     "accuracy": 85,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from leaving battle and inflicts 1/16 its max HP in damage for 2-5 turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Traps the foe for\n2-5 turns.",
@@ -43288,7 +43288,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits once for every conscious Pokémon the trainer has.",
     "flavor_text_entries": [
       {
         "flavor_text": "Party POKéMON join\nin the attack.\n",
@@ -44156,7 +44156,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 3,
-    "effect": null,
+    "effect": "Can only be used as the first move after the user enters battle.  Causes the target to flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "A 1st-turn, 1st-strike move\nthat causes flinching.",
@@ -45002,7 +45002,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Forced to use this move for several turns.  Pokémon cannot fall asleep in that time.",
     "flavor_text_entries": [
       {
         "flavor_text": "Causes an uproar for 2 to 5\nturns and prevents sleep.",
@@ -45848,7 +45848,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Stores energy up to three times for use with Spit Up and Swallow.",
     "flavor_text_entries": [
       {
         "flavor_text": "Charges up power for up to\n3 turns.",
@@ -46694,7 +46694,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Power is 100 times the amount of energy Stockpiled.",
     "flavor_text_entries": [
       {
         "flavor_text": "Releases stockpiled power\n(the more the better).",
@@ -47540,7 +47540,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Recovers 1/4 HP after one Stockpile, 1/2 HP after two Stockpiles, or full HP after three Stockpiles.",
     "flavor_text_entries": [
       {
         "flavor_text": "Absorbs stockpiled power\nand restores HP.",
@@ -48386,7 +48386,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Exhales a hot breath on the\nfoe. May inflict a burn.",
@@ -49232,7 +49232,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the weather to a hailstorm for five turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Summons a hailstorm that\nstrikes every turn.",
@@ -50056,7 +50056,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from using the same move twice in a row.",
     "flavor_text_entries": [
       {
         "flavor_text": "Torments the foe and stops\nsuccessive use of a move.",
@@ -50902,7 +50902,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the target’s Special Attack by one stage and confuses the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Confuses the foe, but\nraises its SP. ATK.",
@@ -51748,7 +51748,7 @@
     "accuracy": 85,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Burns the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Inflicts a burn on the foe\nwith intense fire.",
@@ -52594,7 +52594,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack and Special Attack by two stages.  User faints.",
     "flavor_text_entries": [
       {
         "flavor_text": "The user faints and lowers\nthe foe’s abilities.",
@@ -53440,7 +53440,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Power doubles if user is burned, paralyzed, or poisoned.",
     "flavor_text_entries": [
       {
         "flavor_text": "Boosts ATTACK when burned,\nparalyzed, or poisoned.",
@@ -54286,7 +54286,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": -3,
-    "effect": null,
+    "effect": "If the user takes damage before attacking, the attack is canceled.",
     "flavor_text_entries": [
       {
         "flavor_text": "A powerful loyalty attack.\nThe user flinches if hit.",
@@ -55132,7 +55132,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "If the target is paralyzed, inflicts double damage and cures the paralysis.",
     "flavor_text_entries": [
       {
         "flavor_text": "Powerful against paralyzed\nfoes, but also heals them.",
@@ -55956,7 +55956,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 2,
-    "effect": null,
+    "effect": "Redirects the target’s single-target effects to the user for this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Draws attention to make\nfoes attack only the user.",
@@ -56802,7 +56802,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Uses a move which depends upon the terrain.",
     "flavor_text_entries": [
       {
         "flavor_text": "The type of attack varies\ndepending on the location.",
@@ -57626,7 +57626,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Special Defense by one stage.  User’s Electric moves have doubled power next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Charges power to boost the\nelectric move used next.",
@@ -58472,7 +58472,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "For the next few turns, the target can only use damaging moves.",
     "flavor_text_entries": [
       {
         "flavor_text": "Taunts the foe into only\nusing attack moves.",
@@ -59318,7 +59318,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 5,
-    "effect": null,
+    "effect": "Ally’s next move inflicts half more damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Boosts the power of the\nrecipient’s moves.",
@@ -60164,7 +60164,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User and target swap items.",
     "flavor_text_entries": [
       {
         "flavor_text": "Tricks the foe into trading\nheld items.",
@@ -61010,7 +61010,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Copies the target’s ability.",
     "flavor_text_entries": [
       {
         "flavor_text": "Mimics the target and\ncopies its special ability.",
@@ -61856,7 +61856,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User will recover half its max HP at the end of the next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "A wish that restores HP.\nIt takes time to work.",
@@ -62702,7 +62702,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Randomly selects and uses one of the trainer’s other Pokémon’s moves.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attacks randomly with one\nof the partner’s moves.",
@@ -63526,7 +63526,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Lays roots that restore HP.\nThe user can’t switch out.",
@@ -64372,7 +64372,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the user’s Attack and Defense by one stage after inflicting damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Boosts strength sharply,\nbut lowers abilities.",
@@ -65218,7 +65218,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 4,
-    "effect": null,
+    "effect": "Reflects back the first effect move used on the user this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Reflects special effects\nback to the attacker.",
@@ -66042,7 +66042,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User recovers the item it last used up.",
     "flavor_text_entries": [
       {
         "flavor_text": "Recycles a used item for\none more use.",
@@ -66888,7 +66888,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": -4,
-    "effect": null,
+    "effect": "Inflicts double damage if the user takes damage before attacking this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack that gains power\nif injured by the foe.",
@@ -67712,7 +67712,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Destroys Reflect and Light Screen.",
     "flavor_text_entries": [
       {
         "flavor_text": "Destroys barriers such as\nREFLECT and causes damage.",
@@ -68558,7 +68558,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Target sleeps at the end of the next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Lulls the foe into yawning,\nthen sleeping next turn.",
@@ -69404,7 +69404,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Target drops its held item.",
     "flavor_text_entries": [
       {
         "flavor_text": "Knocks down the foe’s held\nitem to prevent its use.",
@@ -70250,7 +70250,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s HP to equal the user’s.",
     "flavor_text_entries": [
       {
         "flavor_text": "Gains power if the user’s HP\nis lower than the foe’s HP.",
@@ -71096,7 +71096,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts more damage when the user has more HP remaining, with a maximum of 150 power.",
     "flavor_text_entries": [
       {
         "flavor_text": "The higher the user’s HP,\nthe more damage caused.",
@@ -71942,7 +71942,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User and target swap abilities.",
     "flavor_text_entries": [
       {
         "flavor_text": "The user swaps special\nabilities with the target.",
@@ -72788,7 +72788,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents the target from using any moves that the user also knows.",
     "flavor_text_entries": [
       {
         "flavor_text": "Prevents foes from using\nmoves known by the user.",
@@ -73634,7 +73634,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Cleanses the user of a burn, paralysis, or poison.",
     "flavor_text_entries": [
       {
         "flavor_text": "Heals poisoning, paralysis,\nor a burn.",
@@ -74458,7 +74458,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "If the user faints this turn, the PP of the move that fainted it drops to 0.",
     "flavor_text_entries": [
       {
         "flavor_text": "If the user faints, deletes\nthe PP of the final move.",
@@ -75282,7 +75282,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Steals the target’s move, if it’s self-targeted.",
     "flavor_text_entries": [
       {
         "flavor_text": "Steals the effects of the\nmove the foe uses next.",
@@ -76106,7 +76106,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to inflict a status effect which depends upon the terrain.",
     "flavor_text_entries": [
       {
         "flavor_text": "An attack with effects\nthat vary by location.",
@@ -76930,7 +76930,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User dives underwater, dodging all attacks, and hits next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Dives underwater the first\nturn and strikes next turn.",
@@ -77776,7 +77776,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits 2-5 times in one turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Straight-arm punches that\nstrike the foe 2 to 5 times.",
@@ -78622,7 +78622,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "User’s type changes to match the terrain.",
     "flavor_text_entries": [
       {
         "flavor_text": "Alters the POKéMON’s type\ndepending on the location.",
@@ -79446,7 +79446,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Special Attack by three stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Flashes a light that sharply\nraises SP. ATK.",
@@ -80303,7 +80303,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attacks with a burst of\nlight. May lower SP. DEF.",
@@ -81149,7 +81149,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attacks with a flurry of\ndown. May lower SP. ATK.",
@@ -81995,7 +81995,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack by two stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Envelops the foe with down\nto sharply reduce ATTACK.",
@@ -82841,7 +82841,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Confuses the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Confuses all POKéMON on\nthe scene.",
@@ -83687,7 +83687,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has an increased chance for a critical hit and a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "A kick with a high critical-\nhit ratio. May cause a burn.",
@@ -84533,7 +84533,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Halves all Electric-type damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Covers the user in mud to\nraise electrical resistance.",

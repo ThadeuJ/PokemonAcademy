@@ -54,7 +54,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": null,
-    "effect": null,
+    "effect": "Allows a Pokemon whose evolution is usually triggered by trading to evolve",
     "sprites": {
       "default": null
     }

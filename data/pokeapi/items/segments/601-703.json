@@ -9,7 +9,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Bug-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-gem.png"
     }
@@ -24,7 +24,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Rock-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-gem.png"
     }
@@ -39,7 +39,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Ghost-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-gem.png"
     }
@@ -54,7 +54,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Dark-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-gem.png"
     }
@@ -69,7 +69,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Steel-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-gem.png"
     }
@@ -84,7 +84,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/health-wing.png",
-    "effect": null,
+    "effect": "Increases HP effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/health-wing.png"
     }
@@ -99,7 +99,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-wing.png",
-    "effect": null,
+    "effect": "Increases Attack effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-wing.png"
     }
@@ -114,7 +114,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/resist-wing.png",
-    "effect": null,
+    "effect": "Increases Defense effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/resist-wing.png"
     }
@@ -129,7 +129,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/genius-wing.png",
-    "effect": null,
+    "effect": "Increases Special Attack effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/genius-wing.png"
     }
@@ -144,7 +144,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clever-wing.png",
-    "effect": null,
+    "effect": "Increases Special Defense effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clever-wing.png"
     }
@@ -159,7 +159,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swift-wing.png",
-    "effect": null,
+    "effect": "Increases Speed effort by 1.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swift-wing.png"
     }
@@ -174,7 +174,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png",
-    "effect": null,
+    "effect": "Sell for 100 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png"
     }
@@ -189,7 +189,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cover-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Tirtouga.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cover-fossil.png"
     }
@@ -204,7 +204,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plume-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into an Archen.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plume-fossil.png"
     }
@@ -219,7 +219,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liberty-pass.png",
-    "effect": null,
+    "effect": "Allows access to Liberty Garden and Victini.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liberty-pass.png"
     }
@@ -234,7 +234,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass-orb.png",
-    "effect": null,
+    "effect": "Activates Pass Powers.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass-orb.png"
     }
@@ -249,7 +249,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-ball.png",
-    "effect": null,
+    "effect": "Catches Pokémon found in the Dream World.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-ball.png"
     }
@@ -264,7 +264,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-toy.png",
-    "effect": null,
+    "effect": "Ends a wild battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-toy.png"
     }
@@ -279,7 +279,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prop-case.png",
-    "effect": null,
+    "effect": "Stores props for the Pokémon Musical.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prop-case.png"
     }
@@ -294,7 +294,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-skull.png",
-    "effect": null,
+    "effect": "Return to the museum in Nacrene City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-skull.png"
     }
@@ -309,7 +309,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png",
-    "effect": null,
+    "effect": "Sell to Hungry Maid for 25000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png"
     }
@@ -324,7 +324,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png",
-    "effect": null,
+    "effect": "Sell to Ore Collector for 30000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png"
     }
@@ -339,7 +339,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl-string.png",
-    "effect": null,
+    "effect": "Sell to Ore Collector for 25000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl-string.png"
     }
@@ -354,7 +354,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/comet-shard.png",
-    "effect": null,
+    "effect": "Sell to Ore Collector for 60000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/comet-shard.png"
     }
@@ -369,7 +369,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-copper.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner for 1000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-copper.png"
     }
@@ -384,7 +384,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-silver.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner 5000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-silver.png"
     }
@@ -399,7 +399,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-gold.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner 10000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-gold.png"
     }
@@ -414,7 +414,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-vase.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner 50000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-vase.png"
     }
@@ -429,7 +429,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-band.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner for 100000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-band.png"
     }
@@ -444,7 +444,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-statue.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner 200000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-statue.png"
     }
@@ -459,7 +459,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-crown.png",
-    "effect": null,
+    "effect": "Sell to Villa Owner for 300000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-crown.png"
     }
@@ -474,7 +474,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/casteliacone.png",
-    "effect": null,
+    "effect": "Cures any status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/casteliacone.png"
     }
@@ -489,7 +489,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-2.png",
-    "effect": null,
+    "effect": "Raises critical hit rate by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-2.png"
     }
@@ -504,7 +504,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-2.png",
-    "effect": null,
+    "effect": "Raises Speed by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-2.png"
     }
@@ -519,7 +519,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-2.png",
-    "effect": null,
+    "effect": "Raises Special Attack by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-2.png"
     }
@@ -534,7 +534,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-2.png",
-    "effect": null,
+    "effect": "Raises Special Defense by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-2.png"
     }
@@ -549,7 +549,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-2.png",
-    "effect": null,
+    "effect": "Raises Defense by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-2.png"
     }
@@ -564,7 +564,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-2.png",
-    "effect": null,
+    "effect": "Raises Attack by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-2.png"
     }
@@ -579,7 +579,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-2.png",
-    "effect": null,
+    "effect": "Raises accuracy by two stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-2.png"
     }
@@ -594,7 +594,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-3.png",
-    "effect": null,
+    "effect": "Raises Speed by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-3.png"
     }
@@ -609,7 +609,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-3.png",
-    "effect": null,
+    "effect": "Raises Special Attack by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-3.png"
     }
@@ -624,7 +624,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-3.png",
-    "effect": null,
+    "effect": "Raises Special Defense by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-3.png"
     }
@@ -639,7 +639,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-3.png",
-    "effect": null,
+    "effect": "Raises Defense by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-3.png"
     }
@@ -654,7 +654,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-3.png",
-    "effect": null,
+    "effect": "Raises Attack by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-3.png"
     }
@@ -669,7 +669,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-3.png",
-    "effect": null,
+    "effect": "Raises accuracy by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-3.png"
     }
@@ -684,7 +684,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-6.png",
-    "effect": null,
+    "effect": "Raises Speed by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-6.png"
     }
@@ -699,7 +699,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-6.png",
-    "effect": null,
+    "effect": "Raises Special Attack by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-6.png"
     }
@@ -714,7 +714,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-6.png",
-    "effect": null,
+    "effect": "Raises Special Defense by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-6.png"
     }
@@ -729,7 +729,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-6.png",
-    "effect": null,
+    "effect": "Raises Defense by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-6.png"
     }
@@ -744,7 +744,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-6.png",
-    "effect": null,
+    "effect": "Raises Attack by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-6.png"
     }
@@ -759,7 +759,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-6.png",
-    "effect": null,
+    "effect": "Raises accuracy by six stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-6.png"
     }
@@ -774,7 +774,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-urge.png",
-    "effect": null,
+    "effect": "Forcibly activates a friendly Pokémon’s ability.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-urge.png"
     }
@@ -789,7 +789,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-drop.png",
-    "effect": null,
+    "effect": "Forces a friendly Pokémon to drop its held item.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-drop.png"
     }
@@ -804,7 +804,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-urge.png",
-    "effect": null,
+    "effect": "Forcibly activates a friendly Pokémon’s held item.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-urge.png"
     }
@@ -819,7 +819,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reset-urge.png",
-    "effect": null,
+    "effect": "Resets a friendly Pokémon’s stat changes.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reset-urge.png"
     }
@@ -834,7 +834,7 @@
     "category": "miracle-shooter",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-3.png",
-    "effect": null,
+    "effect": "Raises critical hit rate by three stages in battle.  Wonder Launcher only.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-3.png"
     }
@@ -849,7 +849,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-stone.png",
-    "effect": null,
+    "effect": "Summons Reshiram for the final battle against N.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-stone.png"
     }
@@ -864,7 +864,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-stone.png",
-    "effect": null,
+    "effect": "Summons Zekrom for the final battle against N.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-stone.png"
     }
@@ -879,7 +879,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Wild Charge to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -894,7 +894,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rock Smash to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -909,7 +909,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Snarl to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -924,7 +924,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png",
-    "effect": null,
+    "effect": "Makes four-way video calls.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png"
     }
@@ -939,7 +939,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/god-stone.png",
-    "effect": null,
+    "effect": "Unknown.  Currently unused.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/god-stone.png"
     }
@@ -954,7 +954,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-1.png",
-    "effect": null,
+    "effect": "Part of a sidequest to obtain TM89.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-1.png"
     }
@@ -969,7 +969,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-2.png",
-    "effect": null,
+    "effect": "Part of a sidequest to obtain TM89.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-2.png"
     }
@@ -984,7 +984,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-3.png",
-    "effect": null,
+    "effect": "Part of a sidequest to obtain TM89.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-3.png"
     }
@@ -999,7 +999,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Dragon-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-gem.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "jewels",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normal-gem.png",
-    "effect": null,
+    "effect": "Held: When the holder uses a damaging Normal-type move, the move has 1.5× power and this item is consumed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normal-gem.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medal-box.png",
-    "effect": null,
+    "effect": "Holds medals recieved in the medal rally.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medal-box.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers.png",
-    "effect": null,
+    "effect": "Fuses Kyurem with Reshiram or Zekrom, or splits them apart again.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/permit.png",
-    "effect": null,
+    "effect": "Grants access to the Nature Preserve.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/permit.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-charm.png",
-    "effect": null,
+    "effect": "Doubles the chance of two Pokémon producing an egg at the daycare every 255 steps.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-charm.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-charm.png",
-    "effect": null,
+    "effect": "Raises the chance of finding a shiny Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-charm.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plasma-card.png",
-    "effect": null,
+    "effect": "Required to progress in the Plasma Frigate.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plasma-card.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grubby-hanky.png",
-    "effect": null,
+    "effect": "Appears in the Café Warehouse on Sunday; return to the customer with a Patrat on Thursday.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grubby-hanky.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colress-machine.png",
-    "effect": null,
+    "effect": "Wakes up the Crustle blocking the way in Seaside Cave.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colress-machine.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item.png",
-    "effect": null,
+    "effect": "Returned to Curtis or Yancy as part of a sidequest.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png",
-    "effect": null,
+    "effect": "Switches Tornadus, Thundurus, and Landorus between Incarnate and Therian Forme.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/weakness-policy.png",
-    "effect": null,
+    "effect": "Held: When the holder is hit by a super effective move, its Attack and Special Attack raise by two stages.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/weakness-policy.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-vest.png",
-    "effect": null,
+    "effect": "Raises the holder’s Special Defense to 1.5×.  Prevents the holder from selecting a status move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-vest.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "plates",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pixie-plate.png",
-    "effect": null,
+    "effect": "Held: Fairy-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fairy.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pixie-plate.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-capsule.png",
-    "effect": null,
+    "effect": "Switches a Pokémon between its two possible (non-Hidden) Abilities.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-capsule.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/whipped-dream.png",
-    "effect": null,
+    "effect": "Traded on a Swirlix: Holder evolves into Slurpuff.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/whipped-dream.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sachet.png",
-    "effect": null,
+    "effect": "Traded on a Spritzee: Holder evolves into Aromatisse.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sachet.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png",
-    "effect": null,
+    "effect": "Held: If the holder is hit by a damaging Water move, raises its Special Defense by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png",
-    "effect": null,
+    "effect": "Held: If the holder is hit by a damaging Ice move, raises its Attack by one stage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safety-goggles.png",
-    "effect": null,
+    "effect": "Held: Prevents damage from powder moves and the damage from Hail and Sandstorm.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safety-goggles.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rich-mulch.png",
-    "effect": null,
+    "effect": "Increases the total number of Berries by 2.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rich-mulch.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surprise-mulch.png",
-    "effect": null,
+    "effect": "Increases the chance of Berry mutation.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surprise-mulch.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png",
-    "effect": null,
+    "effect": "Causes soil to dry out in 4 hours.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amaze-mulch.png",
-    "effect": null,
+    "effect": "Increases the total number of Berries by 2, increases the chance of Berry mutation, and causes soil to dry out in 4 hours.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amaze-mulch.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gengarite.png",
-    "effect": null,
+    "effect": "Held: Allows Gengar to Mega Evolve into Mega Gengar.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gengarite.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gardevoirite.png",
-    "effect": null,
+    "effect": "Held: Allows Gardevoir to Mega Evolve into Mega Gardevoir.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gardevoirite.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ampharosite.png",
-    "effect": null,
+    "effect": "Held: Allows Ampharos to Mega Evolve into Mega Ampharos.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ampharosite.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/venusaurite.png",
-    "effect": null,
+    "effect": "Held: Allows Venusaur to Mega Evolve into Mega Venusaur.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/venusaurite.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-x.png",
-    "effect": null,
+    "effect": "Held: Allows Charizard to Mega Evolve into Mega Charizard X.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-x.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blastoisinite.png",
-    "effect": null,
+    "effect": "Held: Allows Blastoise to Mega Evolve into Mega Blastoise.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blastoisinite.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-x.png",
-    "effect": null,
+    "effect": "Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo X.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-x.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-y.png",
-    "effect": null,
+    "effect": "Held: Allows Mewtwo to Mega Evolve into Mega Mewtwo Y.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-y.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "mega-stones",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blazikenite.png",
-    "effect": null,
+    "effect": "Held: Allows Blaziken to Mega Evolve into Mega Blaziken.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blazikenite.png"
     }

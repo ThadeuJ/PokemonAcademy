@@ -9,7 +9,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dubious-disc.png",
-    "effect": null,
+    "effect": "Traded on a Porygon2: Holder evolves into Porygon-Z.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dubious-disc.png"
     }
@@ -24,7 +24,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reaper-cloth.png",
-    "effect": null,
+    "effect": "Traded on a Dusclops: Holder evolves into Dusknoir.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reaper-cloth.png"
     }
@@ -39,7 +39,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-claw.png",
-    "effect": null,
+    "effect": "Held: Raises the holder’s critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-claw.png"
     }
@@ -54,7 +54,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-fang.png",
-    "effect": null,
+    "effect": "Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razor-fang.png"
     }
@@ -69,7 +69,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -84,7 +84,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -99,7 +99,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -114,7 +114,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -129,7 +129,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -144,7 +144,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Toxic to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -159,7 +159,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -174,7 +174,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -189,7 +189,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -204,7 +204,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -219,7 +219,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -234,7 +234,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -249,7 +249,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -264,7 +264,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Blizzard to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -279,7 +279,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Hyper Beam to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -294,7 +294,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -309,7 +309,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Protect to a compatible Pokémon. (Gen I: Submission)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -324,7 +324,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -339,7 +339,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -354,7 +354,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -369,7 +369,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -384,7 +384,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches SolarBeam to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -399,7 +399,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -414,7 +414,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -429,7 +429,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Thunder to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -444,7 +444,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Earthquake to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -459,7 +459,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Return to a compatible Pokémon. (Gen I: Fissure)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -474,7 +474,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Dig to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -489,7 +489,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Psychic to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -504,7 +504,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -519,7 +519,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -534,7 +534,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Double Team to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -549,7 +549,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -564,7 +564,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -579,7 +579,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -594,7 +594,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -609,7 +609,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -624,7 +624,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Fire Blast to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -639,7 +639,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -654,7 +654,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -669,7 +669,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -684,7 +684,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -699,7 +699,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -714,7 +714,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rest to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -729,7 +729,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -744,7 +744,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Thief to a compatible Pokémon. (Gen I: Psywave)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -759,7 +759,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -774,7 +774,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -789,7 +789,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -804,7 +804,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -819,7 +819,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -834,7 +834,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Focus Blast to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -849,7 +849,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Energy Ball to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -864,7 +864,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches False Swipe to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -879,7 +879,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Scald to a compatible Pokémon. (Gen IV: Brine)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -894,7 +894,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Fling to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -909,7 +909,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Charge Beam to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -924,7 +924,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -939,7 +939,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -954,7 +954,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -969,7 +969,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Will-O-Wisp to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -984,7 +984,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -999,7 +999,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Embargo to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Explosion to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Shadow Claw to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Payback to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Giga Impact to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rock Polish to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Flash to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Stone Edge to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Thunder Wave to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Gyro Ball to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Swords Dance to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Psych Up to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Rock Slide to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches X-Scissor to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Poison Jab to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Dream Eater to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Grass Knot to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Swagger to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Pluck to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches U-turn to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Substitute to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Flash Cannon to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
-    "effect": null,
+    "effect": "Teaches Trick Room to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Cut to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Fly to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Surf to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Strength to a compatible Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }

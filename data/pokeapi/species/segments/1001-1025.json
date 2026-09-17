@@ -18,7 +18,87 @@
       "name": "brown"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "さいやくポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "재액포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "災厄寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Fléau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Unheil",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Ruinous Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "灾厄宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/529/"
+    },
+    "description": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+    "flavorText": "The grudge of a person punished for writing the king’s evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokémon.",
+    "evolutionChainId": 529
   },
   "1002": {
     "id": 1002,
@@ -39,7 +119,87 @@
       "name": "white"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "さいやくポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "재액포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "災厄寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Fléau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Unheil",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Ruinous Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "灾厄宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "The hatred of those who perished by the sword long ago has clad itself in snow and become a Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/530/"
+    },
+    "description": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "flavorText": "This Pokémon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "evolutionChainId": 530
   },
   "1003": {
     "id": 1003,
@@ -60,7 +220,87 @@
       "name": "brown"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "さいやくポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "재액포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "災厄寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Fléau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Unheil",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Ruinous Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "灾厄宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/531/"
+    },
+    "description": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+    "flavorText": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokémon.",
+    "evolutionChainId": 531
   },
   "1004": {
     "id": 1004,
@@ -81,7 +321,87 @@
       "name": "red"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "さいやくポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "재액포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "災厄寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Fléau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Unheil",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Ruinous Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "灾厄宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/532/"
+    },
+    "description": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+    "flavorText": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+    "evolutionChainId": 532
   },
   "1005": {
     "id": 1005,
@@ -102,7 +422,87 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "According to an article in a dubious magazine, this Pokémon has some connection to a phenomenon that occurs in a certain region.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/533/"
+    },
+    "description": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "flavorText": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "evolutionChainId": 533
   },
   "1006": {
     "id": 1006,
@@ -123,7 +523,87 @@
       "name": "white"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It’s possible that this is the object listed as Iron Valiant in a certain expedition journal.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/534/"
+    },
+    "description": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+    "flavorText": "It has some similarities to a mad scientist’s invention covered in a paranormal magazine.",
+    "evolutionChainId": 534
   },
   "1007": {
     "id": 1007,
@@ -144,7 +624,87 @@
       "name": "red"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/535/"
+    },
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "flavorText": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "evolutionChainId": 535
   },
   "1008": {
     "id": 1008,
@@ -165,7 +725,87 @@
       "name": "blue"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/536/"
+    },
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "flavorText": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "evolutionChainId": 536
   },
   "1009": {
     "id": 1009,
@@ -186,7 +826,87 @@
       "name": "blue"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It resembles an illustration published in a paranormal magazine, said to be a depiction of a super-ancient Suicune.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/537/"
+    },
+    "description": "This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.",
+    "flavorText": "This ferocious creature is shrouded in mystery. It's named after an aquatic monster mentioned in an old expedition journal.",
+    "evolutionChainId": 537
   },
   "1010": {
     "id": 1010,
@@ -207,7 +927,87 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "悖謬寶可夢",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "悖谬宝可梦",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "According to the few eyewitness accounts that exist, it used its shining blades to julienne large trees and boulders.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/538/"
+    },
+    "description": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+    "flavorText": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+    "evolutionChainId": 538
   },
   "1011": {
     "id": 1011,
@@ -228,7 +1028,59 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "사과사탕포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Sirop Pomme",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Candy Apple Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "The head sticking out belongs to the fore-wyrm, while the tail belongs to the core-wyrm. The two share one apple and help each other out.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/442/"
+    },
+    "description": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+    "flavorText": "Dipplin is two creatures in one Pokémon. Its evolution was triggered by a special apple grown only in one place.",
+    "evolutionChainId": 442
   },
   "1012": {
     "id": 1012,
@@ -249,7 +1101,59 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "말차포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Matcha",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Matcha Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "Poltchageist looks like a regional form of Sinistea, but it was recently discovered that the two Pokémon are entirely unrelated.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/539/"
+    },
+    "description": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
+    "flavorText": "Supposedly, the regrets of a tea ceremony master who died before perfecting his craft lingered in some matcha and became a Pokémon.",
+    "evolutionChainId": 539
   },
   "1013": {
     "id": 1013,
@@ -270,7 +1174,59 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "말차포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Matcha",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Matcha Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It prefers cool, dark places, such as the back of a shelf or the space beneath a home's floorboards. It wanders in search of prey after sunset.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/539/"
+    },
+    "description": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
+    "flavorText": "It pretends to be tea, trying to fool people into drinking it so it can drain their life-force. Its ruse is generally unsuccessful.",
+    "evolutionChainId": 539
   },
   "1014": {
     "id": 1014,
@@ -291,7 +1247,59 @@
       "name": "black"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "수하포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Serviteur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Retainer Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "Okidogi is a ruffian with a short temper. It can pulverize anything by swinging around the chain on its neck.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/540/"
+    },
+    "description": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
+    "flavorText": "After all its muscles were stimulated by the toxic chain around its neck, Okidogi transformed and gained a powerful physique.",
+    "evolutionChainId": 540
   },
   "1015": {
     "id": 1015,
@@ -312,7 +1320,59 @@
       "name": "black"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "수하포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Serviteur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Retainer Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "Munkidori keeps itself somewhere safe while it toys with its foes, using psychokinesis to induce intense dizziness.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/541/"
+    },
+    "description": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
+    "flavorText": "The chain is made from toxins that enhance capabilities. It stimulated Munkidori's brain and caused the Pokémon's psychic powers to bloom.",
+    "evolutionChainId": 541
   },
   "1016": {
     "id": 1016,
@@ -333,7 +1393,59 @@
       "name": "black"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "수하포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Serviteur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Retainer Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "Fezandipiti beats its glossy wings to scatter pheromones that captivate people and Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/542/"
+    },
+    "description": "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
+    "flavorText": "Fezandipiti owes its beautiful looks and lovely voice to the toxic stimulants emanating from the chain wrapped around its body.",
+    "evolutionChainId": 542
   },
   "1017": {
     "id": 1017,
@@ -354,7 +1466,59 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "가면포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Masque",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Mask Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "This mischief-loving Pokémon is full of curiosity. It battles by drawing out the type-based energy contained within its masks.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/543/"
+    },
+    "description": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "flavorText": "This Pokémon's type changes based on which mask it's wearing. It confounds its enemies with nimble movements and kicks.",
+    "evolutionChainId": 543
   },
   "1018": {
     "id": 1018,
@@ -375,7 +1539,73 @@
       "name": "white"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "ごうきんポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "합금포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Alliage",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Alloy Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "ごうきんポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/465/"
+    },
+    "description": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+    "flavorText": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+    "evolutionChainId": 465
   },
   "1019": {
     "id": 1019,
@@ -396,7 +1626,73 @@
       "name": "green"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "りんごオロチポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "사과이무기포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Hydre Pomme",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Apple Hydra Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "りんごオロチポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "These capricious syrpents have banded together. On the rare occasion that their moods align, their true power is unleashed.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/442/"
+    },
+    "description": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+    "flavorText": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+    "evolutionChainId": 442
   },
   "1020": {
     "id": 1020,
@@ -417,7 +1713,73 @@
       "name": "brown"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It resembles an eerie Pokémon once shown in a paranormal magazine. That Pokémon was said to be an Entei regenerated from a fossil.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/544/"
+    },
+    "description": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+    "flavorText": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+    "evolutionChainId": 544
   },
   "1021": {
     "id": 1021,
@@ -438,7 +1800,73 @@
       "name": "yellow"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It bears resemblance to a Pokémon that became a hot topic for a short while after a paranormal magazine touted it as Raikou's ancestor.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/545/"
+    },
+    "description": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+    "flavorText": "It's said to incinerate everything around it with lightning launched from its fur. Very little is known about this creature.",
+    "evolutionChainId": 545
   },
   "1022": {
     "id": 1022,
@@ -459,7 +1887,73 @@
       "name": "gray"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It was named after a mysterious object recorded in an old book. Its body seems to be metallic.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/547/"
+    },
+    "description": "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+    "flavorText": "It resembles a Pokémon described in a dubious magazine as a Terrakion that had been modified by an evil organization.",
+    "evolutionChainId": 547
   },
   "1023": {
     "id": 1023,
@@ -480,7 +1974,73 @@
       "name": "blue"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "패러독스포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Paradoxe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Paradox Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "パラドックスポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "There was supposedly an incident in which it launched shining blades to cut everything around it to pieces. Little else is known about it.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/546/"
+    },
+    "description": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+    "flavorText": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+    "evolutionChainId": 546
   },
   "1024": {
     "id": 1024,
@@ -501,7 +2061,73 @@
       "name": "blue"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "テラスタルポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "테라스탈포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Téracristal",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Tera Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "テラスタルポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "It’s thought that this Pokémon lived in ancient Paldea until it got caught in seismic shifts and went extinct.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/548/"
+    },
+    "description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+    "flavorText": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokémon is the source of the Terastal phenomenon.",
+    "evolutionChainId": 548
   },
   "1025": {
     "id": 1025,
@@ -522,6 +2148,72 @@
       "name": "purple"
     },
     "habitat": null,
-    "flavorText": null
+    "genera": [
+      {
+        "genus": "しはいポケモン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "genus": "지배포켓몬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "genus": "Emprise",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "genus": "Subjugation Pokémon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "genus": "しはいポケモン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "scarlet",
+          "url": "https://pokeapi.co/api/v2/version/40/"
+        }
+      },
+      {
+        "flavor_text": "Its peach-shaped shell serves as storage for a potent poison. It makes poisonous mochi and serves them to people and Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version": {
+          "name": "violet",
+          "url": "https://pokeapi.co/api/v2/version/41/"
+        }
+      }
+    ],
+    "evolution_chain": {
+      "url": "https://pokeapi.co/api/v2/evolution-chain/549/"
+    },
+    "description": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+    "flavorText": "It feeds others toxic mochi that draw out desires and capabilities. Those who eat the mochi fall under Pecharunt’s control, chained to its will.",
+    "evolutionChainId": 549
   }
 }

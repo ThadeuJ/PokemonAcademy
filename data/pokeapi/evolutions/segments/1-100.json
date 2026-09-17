@@ -47,12 +47,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -93,12 +95,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -265,12 +269,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -311,12 +317,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -483,12 +491,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -529,12 +539,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -872,12 +884,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -1780,12 +1794,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -1826,12 +1842,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -2051,12 +2069,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -2502,12 +2522,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -2548,15 +2570,17 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": {
                     "name": "rage-fist",
                     "url": "https://pokeapi.co/api/v2/move/889/"
                   },
                   "min_move_count": 20,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -5035,12 +5059,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             },
             {
               "version_group": {
@@ -5075,15 +5101,17 @@
                 "name": "alola",
                 "url": "https://pokeapi.co/api/v2/region/7/"
               },
-              "base_form": null,
-              "evolved_form": {
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": {
                 "name": "marowak-alola",
-                "url": "https://pokeapi.co/api/v2/pokemon/10115/"
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10217/"
               },
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -6366,12 +6394,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -6415,12 +6445,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -6616,12 +6648,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -8104,12 +8138,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -8150,12 +8186,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -8760,12 +8798,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -8821,12 +8861,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -8870,12 +8912,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []

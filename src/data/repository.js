@@ -26,8 +26,11 @@ export function createRepository({ local = {}, api = createApi(), cache = create
     }
     ,async apiPath(path) {
       const clean = path.replace(/^\//, ''), [resource, id] = clean.split('?')[0].split('/'), query = clean.includes('?') ? clean.slice(clean.indexOf('?') + 1) : '';
-      const localResource = { 'pokemon-species': 'species', pokemon: 'pokemon', move: 'moves', item: 'items', type: 'types' }[resource] || resource;
+      const localResource = { 'pokemon-species': 'species', pokemon: 'pokemon', move: 'moves', item: 'items', type: 'types', 'evolution-chain': 'evolutions' }[resource] || resource;
       const endpoint = { species: 'pokemon-species', moves: 'move', items: 'item', types: 'type' }[localResource] || localResource;
+      if (resource === 'pokemon-species' && Number(id) > 1025) {
+        try { const pokemon = await this.get('pokemon', id); return (await this.get('species', pokemon.data.species?.name)).data; } catch {}
+      }
       if (!id) {
         try { return (await this.list(localResource, query)).data; }
         catch { return api(`/${endpoint}${query ? `?${query}` : ''}`); }

@@ -9,7 +9,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into an Omanyte.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png"
     }
@@ -24,7 +24,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Kabuto.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png"
     }
@@ -39,7 +39,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png",
-    "effect": null,
+    "effect": "Can be revived into an Aerodactyl.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png"
     }
@@ -54,7 +54,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/armor-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Shieldon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/armor-fossil.png"
     }
@@ -69,7 +69,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/skull-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Cranidos.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/skull-fossil.png"
     }
@@ -84,7 +84,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png",
-    "effect": null,
+    "effect": "Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png"
     }
@@ -99,7 +99,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-stone.png",
-    "effect": null,
+    "effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-stone.png"
     }
@@ -114,7 +114,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-stone.png",
-    "effect": null,
+    "effect": "Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-stone.png"
     }
@@ -129,7 +129,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dawn-stone.png",
-    "effect": null,
+    "effect": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dawn-stone.png"
     }
@@ -144,7 +144,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png",
-    "effect": null,
+    "effect": "Level-up during Day on a Happiny: Holder evolves into Chansey.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png"
     }
@@ -159,7 +159,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-keystone.png",
-    "effect": null,
+    "effect": "Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-keystone.png"
     }
@@ -174,7 +174,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adamant-orb.png",
-    "effect": null,
+    "effect": "Boosts the damage from Dialga’s Dragon-type and Steel-type moves by 20%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adamant-orb.png"
     }
@@ -189,7 +189,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lustrous-orb.png",
-    "effect": null,
+    "effect": "Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lustrous-orb.png"
     }
@@ -204,7 +204,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-mail.png"
     }
@@ -219,7 +219,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-mail.png"
     }
@@ -234,7 +234,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bubble-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bubble-mail.png"
     }
@@ -249,7 +249,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bloom-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bloom-mail.png"
     }
@@ -264,7 +264,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tunnel-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tunnel-mail.png"
     }
@@ -279,7 +279,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-mail.png"
     }
@@ -294,7 +294,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-mail.png"
     }
@@ -309,7 +309,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snow-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snow-mail.png"
     }
@@ -324,7 +324,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/space-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/space-mail.png"
     }
@@ -339,7 +339,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-mail.png"
     }
@@ -354,7 +354,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mosaic-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mosaic-mail.png"
     }
@@ -369,7 +369,7 @@
     "category": "all-mail",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/brick-mail.png",
-    "effect": null,
+    "effect": "Lets a Trainer write a message and send it via Pokémon trade.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/brick-mail.png"
     }
@@ -384,7 +384,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when paralyzed to cure paralysis.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png"
     }
@@ -399,7 +399,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when asleep to cure sleep.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png"
     }
@@ -414,7 +414,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when poisoned to cure poison.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png"
     }
@@ -429,7 +429,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when burned to cure a burn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png"
     }
@@ -444,7 +444,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when frozen to cure frozen.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png"
     }
@@ -459,7 +459,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when a move runs out of PP to restore its PP by 10.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png"
     }
@@ -474,7 +474,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to recover 10 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png"
     }
@@ -489,7 +489,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when confused to cure confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png"
     }
@@ -504,7 +504,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed to cure any status condition or confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png"
     }
@@ -519,7 +519,7 @@
     "category": "medicine",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to recover 1/4 max HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png"
     }
@@ -534,7 +534,7 @@
     "category": "picky-healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png"
     }
@@ -549,7 +549,7 @@
     "category": "picky-healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png"
     }
@@ -564,7 +564,7 @@
     "category": "picky-healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png"
     }
@@ -579,7 +579,7 @@
     "category": "picky-healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png"
     }
@@ -594,7 +594,7 @@
     "category": "picky-healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png"
     }
@@ -609,7 +609,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png"
     }
@@ -624,7 +624,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png"
     }
@@ -639,7 +639,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png"
     }
@@ -654,7 +654,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png"
     }
@@ -669,7 +669,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png"
     }
@@ -684,7 +684,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png",
-    "effect": null,
+    "effect": "Drops HP Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png"
     }
@@ -699,7 +699,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png",
-    "effect": null,
+    "effect": "Drops Attack Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png"
     }
@@ -714,7 +714,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png",
-    "effect": null,
+    "effect": "Drops Defense Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png"
     }
@@ -729,7 +729,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png",
-    "effect": null,
+    "effect": "Drops Special Attack Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png"
     }
@@ -744,7 +744,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png",
-    "effect": null,
+    "effect": "Drops Special Defense Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png"
     }
@@ -759,7 +759,7 @@
     "category": "effort-drop",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png",
-    "effect": null,
+    "effect": "Drops Speed Effort Values by 10 and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png"
     }
@@ -774,7 +774,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png"
     }
@@ -789,7 +789,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png"
     }
@@ -804,7 +804,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png"
     }
@@ -819,7 +819,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png"
     }
@@ -834,7 +834,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png"
     }
@@ -849,7 +849,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png"
     }
@@ -864,7 +864,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png"
     }
@@ -879,7 +879,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png"
     }
@@ -894,7 +894,7 @@
     "category": "baking-only",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png",
-    "effect": null,
+    "effect": "Used for creating PokéBlocks and Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png"
     }
@@ -909,7 +909,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png"
     }
@@ -924,7 +924,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Water-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png"
     }
@@ -939,7 +939,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png"
     }
@@ -954,7 +954,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png"
     }
@@ -969,7 +969,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png"
     }
@@ -984,7 +984,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png"
     }
@@ -999,7 +999,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kebia-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kebia-berry.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kasib-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kasib-berry.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/babiri-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/babiri-berry.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "type-protection",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chilan-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a Normal-type attack to halve the damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chilan-berry.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost Attack.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost Defense.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost Speed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost Special Attack.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost Special Defense.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost a random stat by two stages.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "other",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "in-a-pinch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/custap-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed at 1/4 max HP when using a move to go first.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/custap-berry.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "other",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaboca-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a physical attack.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaboca-berry.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "other",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rowap-berry.png",
-    "effect": null,
+    "effect": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a special attack.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rowap-berry.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png",
-    "effect": null,
+    "effect": "Held: Increases the holder’s evasion by 1/9 (11 1/9%).",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png",
-    "effect": null,
+    "effect": "Held: Resets all lowered stats to normal at end of turn. Consumed after use.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "effort-training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png",
-    "effect": null,
+    "effect": "Held: Holder gains double effort values from battles, but has halved Speed in battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png",
-    "effect": null,
+    "effect": "Held: Half the experience from a battle is split between Pokémon holding this item.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png",
-    "effect": null,
+    "effect": "Held: Holder has a 3/16 (18.75%) chance to move first.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png",
-    "effect": null,
+    "effect": "Held: Doubles the happiness earned by the holder.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png",
-    "effect": null,
+    "effect": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "choice",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png",
-    "effect": null,
+    "effect": "Held: Increases Attack by 50%, but restricts the holder to only one move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "held-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png",
-    "effect": null,
+    "effect": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "type-enhancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png",
-    "effect": null,
+    "effect": "Held: Bug-Type moves from holder do 20% more damage.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "training",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png",
-    "effect": null,
+    "effect": "Held: Doubles the money earned from a battle. Does not stack with Luck Incense.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png"
     }

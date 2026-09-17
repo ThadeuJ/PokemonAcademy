@@ -1091,12 +1091,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -1137,12 +1139,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -1483,12 +1487,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -1529,12 +1535,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -1592,12 +1600,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -1638,12 +1648,14 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": null,
-                  "evolved_form": null,
+                  "required_pokemon_form": null,
+                  "evolved_pokemon_form": null,
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -1762,12 +1774,200 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": {
+                "name": "flabebe-red",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/669/"
+              },
+              "evolved_pokemon_form": {
+                "name": "floette-red",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/670/"
+              },
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "x-y",
+                "url": "https://pokeapi.co/api/v2/version-group/15/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 19,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "flabebe-yellow",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10103/"
+              },
+              "evolved_pokemon_form": {
+                "name": "floette-yellow",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10107/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "x-y",
+                "url": "https://pokeapi.co/api/v2/version-group/15/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 19,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "flabebe-orange",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10104/"
+              },
+              "evolved_pokemon_form": {
+                "name": "floette-orange",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10108/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "x-y",
+                "url": "https://pokeapi.co/api/v2/version-group/15/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 19,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "flabebe-blue",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10105/"
+              },
+              "evolved_pokemon_form": {
+                "name": "floette-blue",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10109/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
+            },
+            {
+              "version_group": {
+                "name": "x-y",
+                "url": "https://pokeapi.co/api/v2/version-group/15/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 19,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "required_pokemon_form": {
+                "name": "flabebe-white",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10106/"
+              },
+              "evolved_pokemon_form": {
+                "name": "floette-white",
+                "url": "https://pokeapi.co/api/v2/pokemon-form/10110/"
+              },
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": [
@@ -1811,15 +2011,212 @@
                   "trade_species": null,
                   "turn_upside_down": false,
                   "region": null,
-                  "base_form": {
-                    "name": "floette",
-                    "url": "https://pokeapi.co/api/v2/pokemon/670/"
+                  "required_pokemon_form": {
+                    "name": "floette-red",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/670/"
                   },
-                  "evolved_form": null,
+                  "evolved_pokemon_form": {
+                    "name": "florges-red",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/671/"
+                  },
                   "used_move": null,
                   "min_move_count": null,
                   "min_steps": null,
-                  "min_damage_taken": null
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
+                },
+                {
+                  "version_group": {
+                    "name": "x-y",
+                    "url": "https://pokeapi.co/api/v2/version-group/15/"
+                  },
+                  "is_default": true,
+                  "item": {
+                    "name": "shiny-stone",
+                    "url": "https://pokeapi.co/api/v2/item/107/"
+                  },
+                  "trigger": {
+                    "name": "use-item",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                  },
+                  "gender": null,
+                  "held_item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_level": null,
+                  "min_happiness": null,
+                  "min_beauty": null,
+                  "min_affection": null,
+                  "near_special_rock": false,
+                  "needs_multiplayer": false,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "turn_upside_down": false,
+                  "region": null,
+                  "required_pokemon_form": {
+                    "name": "floette-yellow",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10107/"
+                  },
+                  "evolved_pokemon_form": {
+                    "name": "florges-yellow",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10111/"
+                  },
+                  "used_move": null,
+                  "min_move_count": null,
+                  "min_steps": null,
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
+                },
+                {
+                  "version_group": {
+                    "name": "x-y",
+                    "url": "https://pokeapi.co/api/v2/version-group/15/"
+                  },
+                  "is_default": true,
+                  "item": {
+                    "name": "shiny-stone",
+                    "url": "https://pokeapi.co/api/v2/item/107/"
+                  },
+                  "trigger": {
+                    "name": "use-item",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                  },
+                  "gender": null,
+                  "held_item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_level": null,
+                  "min_happiness": null,
+                  "min_beauty": null,
+                  "min_affection": null,
+                  "near_special_rock": false,
+                  "needs_multiplayer": false,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "turn_upside_down": false,
+                  "region": null,
+                  "required_pokemon_form": {
+                    "name": "floette-orange",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10108/"
+                  },
+                  "evolved_pokemon_form": {
+                    "name": "florges-orange",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10112/"
+                  },
+                  "used_move": null,
+                  "min_move_count": null,
+                  "min_steps": null,
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
+                },
+                {
+                  "version_group": {
+                    "name": "x-y",
+                    "url": "https://pokeapi.co/api/v2/version-group/15/"
+                  },
+                  "is_default": true,
+                  "item": {
+                    "name": "shiny-stone",
+                    "url": "https://pokeapi.co/api/v2/item/107/"
+                  },
+                  "trigger": {
+                    "name": "use-item",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                  },
+                  "gender": null,
+                  "held_item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_level": null,
+                  "min_happiness": null,
+                  "min_beauty": null,
+                  "min_affection": null,
+                  "near_special_rock": false,
+                  "needs_multiplayer": false,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "turn_upside_down": false,
+                  "region": null,
+                  "required_pokemon_form": {
+                    "name": "floette-blue",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10109/"
+                  },
+                  "evolved_pokemon_form": {
+                    "name": "florges-blue",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10113/"
+                  },
+                  "used_move": null,
+                  "min_move_count": null,
+                  "min_steps": null,
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
+                },
+                {
+                  "version_group": {
+                    "name": "x-y",
+                    "url": "https://pokeapi.co/api/v2/version-group/15/"
+                  },
+                  "is_default": true,
+                  "item": {
+                    "name": "shiny-stone",
+                    "url": "https://pokeapi.co/api/v2/item/107/"
+                  },
+                  "trigger": {
+                    "name": "use-item",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+                  },
+                  "gender": null,
+                  "held_item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_level": null,
+                  "min_happiness": null,
+                  "min_beauty": null,
+                  "min_affection": null,
+                  "near_special_rock": false,
+                  "needs_multiplayer": false,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "turn_upside_down": false,
+                  "region": null,
+                  "required_pokemon_form": {
+                    "name": "floette-white",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10110/"
+                  },
+                  "evolved_pokemon_form": {
+                    "name": "florges-white",
+                    "url": "https://pokeapi.co/api/v2/pokemon-form/10114/"
+                  },
+                  "used_move": null,
+                  "min_move_count": null,
+                  "min_steps": null,
+                  "min_damage_taken": null,
+                  "allowed_natures": null,
+                  "condition_expression": null
                 }
               ],
               "evolves_to": []
@@ -2503,12 +2900,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -2999,12 +3398,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []
@@ -5183,12 +5584,14 @@
               "trade_species": null,
               "turn_upside_down": false,
               "region": null,
-              "base_form": null,
-              "evolved_form": null,
+              "required_pokemon_form": null,
+              "evolved_pokemon_form": null,
               "used_move": null,
               "min_move_count": null,
               "min_steps": null,
-              "min_damage_taken": null
+              "min_damage_taken": null,
+              "allowed_natures": null,
+              "condition_expression": null
             }
           ],
           "evolves_to": []

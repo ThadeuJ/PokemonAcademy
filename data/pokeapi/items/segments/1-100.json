@@ -9,7 +9,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png",
-    "effect": null,
+    "effect": "Catches a wild Pokémon every time.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png"
     }
@@ -24,7 +24,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 2×.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png"
     }
@@ -39,7 +39,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 1.5×.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png"
     }
@@ -54,7 +54,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
     }
@@ -69,7 +69,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone.  Success rate is 1.5×.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safari-ball.png"
     }
@@ -84,7 +84,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/net-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 3× for water and bug Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/net-ball.png"
     }
@@ -99,7 +99,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dive-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dive-ball.png"
     }
@@ -114,7 +114,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nest-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nest-ball.png"
     }
@@ -129,7 +129,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repeat-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 3× for previously-caught Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repeat-ball.png"
     }
@@ -144,7 +144,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/timer-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/timer-ball.png"
     }
@@ -159,7 +159,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Caught Pokémon start with 200 happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png"
     }
@@ -174,7 +174,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png"
     }
@@ -189,7 +189,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Success rate is 3.5× at night and in caves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-ball.png"
     }
@@ -204,7 +204,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.  Caught Pokémon are immediately healed.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-ball.png"
     }
@@ -219,7 +219,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-ball.png"
     }
@@ -234,7 +234,7 @@
     "category": "special-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cherish-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a wild Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cherish-ball.png"
     }
@@ -249,7 +249,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png",
-    "effect": null,
+    "effect": "Restores 20 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/potion.png"
     }
@@ -264,7 +264,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png",
-    "effect": null,
+    "effect": "Cures poison.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/antidote.png"
     }
@@ -279,7 +279,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png",
-    "effect": null,
+    "effect": "Cures a burn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/burn-heal.png"
     }
@@ -294,7 +294,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png",
-    "effect": null,
+    "effect": "Cures freezing.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-heal.png"
     }
@@ -309,7 +309,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/awakening.png",
-    "effect": null,
+    "effect": "Cures sleep.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/awakening.png"
     }
@@ -324,7 +324,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png",
-    "effect": null,
+    "effect": "Cures paralysis.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/paralyze-heal.png"
     }
@@ -339,7 +339,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png",
-    "effect": null,
+    "effect": "Restores HP to full and cures any status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-restore.png"
     }
@@ -354,7 +354,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png",
-    "effect": null,
+    "effect": "Restores HP to full.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-potion.png"
     }
@@ -369,7 +369,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hyper-potion.png",
-    "effect": null,
+    "effect": "Restores 200 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hyper-potion.png"
     }
@@ -384,7 +384,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-potion.png",
-    "effect": null,
+    "effect": "Restores 50 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-potion.png"
     }
@@ -399,7 +399,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-heal.png",
-    "effect": null,
+    "effect": "Cures any status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/full-heal.png"
     }
@@ -414,7 +414,7 @@
     "category": "revival",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png",
-    "effect": null,
+    "effect": "Revives with half HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revive.png"
     }
@@ -429,7 +429,7 @@
     "category": "revival",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png",
-    "effect": null,
+    "effect": "Revives with full HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-revive.png"
     }
@@ -444,7 +444,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fresh-water.png",
-    "effect": null,
+    "effect": "Restores 50 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fresh-water.png"
     }
@@ -459,7 +459,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soda-pop.png",
-    "effect": null,
+    "effect": "Restores 60 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soda-pop.png"
     }
@@ -474,7 +474,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lemonade.png",
-    "effect": null,
+    "effect": "Restores 80 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lemonade.png"
     }
@@ -489,7 +489,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png",
-    "effect": null,
+    "effect": "Restores 100 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moomoo-milk.png"
     }
@@ -504,7 +504,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-powder.png",
-    "effect": null,
+    "effect": "Restores 50 HP, but lowers happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-powder.png"
     }
@@ -519,7 +519,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-root.png",
-    "effect": null,
+    "effect": "Restores 200 HP, but lowers happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/energy-root.png"
     }
@@ -534,7 +534,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-powder.png",
-    "effect": null,
+    "effect": "Cures any status ailment, but lowers happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heal-powder.png"
     }
@@ -549,7 +549,7 @@
     "category": "revival",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revival-herb.png",
-    "effect": null,
+    "effect": "Revives with full HP, but lowers happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/revival-herb.png"
     }
@@ -564,7 +564,7 @@
     "category": "pp-recovery",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ether.png",
-    "effect": null,
+    "effect": "Restores 10 PP for one move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ether.png"
     }
@@ -579,7 +579,7 @@
     "category": "pp-recovery",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-ether.png",
-    "effect": null,
+    "effect": "Restores PP to full for one move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-ether.png"
     }
@@ -594,7 +594,7 @@
     "category": "pp-recovery",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elixir.png",
-    "effect": null,
+    "effect": "Restores 10 PP for each move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/elixir.png"
     }
@@ -609,7 +609,7 @@
     "category": "pp-recovery",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-elixir.png",
-    "effect": null,
+    "effect": "Restores PP to full for each move.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-elixir.png"
     }
@@ -624,7 +624,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lava-cookie.png",
-    "effect": null,
+    "effect": "Cures any status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lava-cookie.png"
     }
@@ -639,7 +639,7 @@
     "category": "healing",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png",
-    "effect": null,
+    "effect": "Restores 20 HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-juice.png"
     }
@@ -654,7 +654,7 @@
     "category": "revival",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png",
-    "effect": null,
+    "effect": "Revives all fainted Pokémon with full HP.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sacred-ash.png"
     }
@@ -669,7 +669,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png",
-    "effect": null,
+    "effect": "Raises HP effort and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hp-up.png"
     }
@@ -684,7 +684,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png",
-    "effect": null,
+    "effect": "Raises Attack effort and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protein.png"
     }
@@ -699,7 +699,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png",
-    "effect": null,
+    "effect": "Raises Defense effort and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iron.png"
     }
@@ -714,7 +714,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png",
-    "effect": null,
+    "effect": "Raises Speed effort and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/carbos.png"
     }
@@ -729,7 +729,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png",
-    "effect": null,
+    "effect": "Raises Special Attack effort and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/calcium.png"
     }
@@ -744,7 +744,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png",
-    "effect": null,
+    "effect": "Causes a level-up and raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png"
     }
@@ -759,7 +759,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-up.png",
-    "effect": null,
+    "effect": "Raises a move’s max PP by 20%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-up.png"
     }
@@ -774,7 +774,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zinc.png",
-    "effect": null,
+    "effect": "Raises Special Defense and happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zinc.png"
     }
@@ -789,7 +789,7 @@
     "category": "vitamins",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-max.png",
-    "effect": null,
+    "effect": "Raises a move’s max PP by 60%.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pp-max.png"
     }
@@ -804,7 +804,7 @@
     "category": "status-cures",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-gateau.png",
-    "effect": null,
+    "effect": "Cures any status ailment and confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-gateau.png"
     }
@@ -819,7 +819,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png",
-    "effect": null,
+    "effect": "Prevents stat changes in battle for five turns in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/guard-spec.png"
     }
@@ -834,7 +834,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png",
-    "effect": null,
+    "effect": "Increases the chance of a critical hit in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit.png"
     }
@@ -849,7 +849,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack.png",
-    "effect": null,
+    "effect": "Raises Attack by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack.png"
     }
@@ -864,7 +864,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense.png",
-    "effect": null,
+    "effect": "Raises Defense by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense.png"
     }
@@ -879,7 +879,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png",
-    "effect": null,
+    "effect": "Raises Speed by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed.png"
     }
@@ -894,7 +894,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png",
-    "effect": null,
+    "effect": "Raises accuracy by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy.png"
     }
@@ -909,7 +909,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png",
-    "effect": null,
+    "effect": "Raises Special Attack by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk.png"
     }
@@ -924,7 +924,7 @@
     "category": "stat-boosts",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def.png",
-    "effect": null,
+    "effect": "Raises Special Defense by one stage in battle.  Raises happiness.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def.png"
     }
@@ -939,7 +939,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png",
-    "effect": null,
+    "effect": "Ends a wild battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-doll.png"
     }
@@ -954,7 +954,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fluffy-tail.png",
-    "effect": null,
+    "effect": "Ends a wild battle.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fluffy-tail.png"
     }
@@ -969,7 +969,7 @@
     "category": "flutes",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-flute.png",
-    "effect": null,
+    "effect": "Cures sleep.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-flute.png"
     }
@@ -984,7 +984,7 @@
     "category": "flutes",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-flute.png",
-    "effect": null,
+    "effect": "Cures confusion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-flute.png"
     }
@@ -999,7 +999,7 @@
     "category": "flutes",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-flute.png",
-    "effect": null,
+    "effect": "Cures attraction.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-flute.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-flute.png",
-    "effect": null,
+    "effect": "Halves the wild Pokémon encounter rate.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-flute.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-flute.png",
-    "effect": null,
+    "effect": "Doubles the wild Pokémon encounter rate.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-flute.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-salt.png",
-    "effect": null,
+    "effect": "No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-salt.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-shell.png",
-    "effect": null,
+    "effect": "No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shoal-shell.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-shard.png",
-    "effect": null,
+    "effect": "No effect. Can be traded for items or moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-shard.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-shard.png",
-    "effect": null,
+    "effect": "No effect. Can be traded for items or moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-shard.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-shard.png",
-    "effect": null,
+    "effect": "No effect. Can be traded for items or moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-shard.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-shard.png",
-    "effect": null,
+    "effect": "No effect. Can be traded for items or moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-shard.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png",
-    "effect": null,
+    "effect": "For 200 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-repel.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png",
-    "effect": null,
+    "effect": "For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/max-repel.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/escape-rope.png",
-    "effect": null,
+    "effect": "Transports user to the outside entrance of a cave.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/escape-rope.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "spelunking",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repel.png",
-    "effect": null,
+    "effect": "For 100 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/repel.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png",
-    "effect": null,
+    "effect": "Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-stone.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png",
-    "effect": null,
+    "effect": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-stone.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-stone.png",
-    "effect": null,
+    "effect": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-stone.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thunder-stone.png",
-    "effect": null,
+    "effect": "Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/thunder-stone.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-stone.png",
-    "effect": null,
+    "effect": "Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-stone.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "evolution",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leaf-stone.png",
-    "effect": null,
+    "effect": "Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leaf-stone.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png",
-    "effect": null,
+    "effect": "Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tiny-mushroom.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png",
-    "effect": null,
+    "effect": "Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-mushroom.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png",
-    "effect": null,
+    "effect": "Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png",
-    "effect": null,
+    "effect": "Sell for 3750 Pokédollars, or to Ore Collector for 7500 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-pearl.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png",
-    "effect": null,
+    "effect": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stardust.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png",
-    "effect": null,
+    "effect": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/star-piece.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "loot",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nugget.png",
-    "effect": null,
+    "effect": "Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nugget.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "collectibles",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png",
-    "effect": null,
+    "effect": "No effect. Can be traded for prior Level-up moves.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-scale.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/growth-mulch.png",
-    "effect": null,
+    "effect": "Growing time of berries is reduced, but the soil dries out faster.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/growth-mulch.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-mulch.png",
-    "effect": null,
+    "effect": "Growing time of berries is increased, but the soil dries out slower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/damp-mulch.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stable-mulch.png",
-    "effect": null,
+    "effect": "Berries stay on the plant for longer than their usual time.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/stable-mulch.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "mulch",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gooey-mulch.png",
-    "effect": null,
+    "effect": "Berries regrow from dead plants an increased number of times.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gooey-mulch.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/root-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into a Lileep.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/root-fossil.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "dex-completion",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/claw-fossil.png",
-    "effect": null,
+    "effect": "Can be revived into an Anorith.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/claw-fossil.png"
     }

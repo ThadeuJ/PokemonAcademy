@@ -20,7 +20,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 3,
-    "effect": null,
+    "effect": "Prevents any priority moves from hitting friendly Pokémon this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur et son équipe sont protégés\ncontre les attaques prioritaires. Peut\néchouer si utilisée plusieurs fois de suite.",
@@ -800,7 +800,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 2,
-    "effect": null,
+    "effect": "User switches places with the friendly Pokémon opposite it.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur se téléporte à l’aide d’un\npouvoir mystérieux. Il échange sa place\navec celle d’un allié sur le terrain.",
@@ -1580,7 +1580,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "L’ennemi est attaqué par un jet d’eau\nbouillante. Peut aussi le brûler.",
@@ -2360,7 +2360,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises user’s Attack, Special Attack, and Speed by two stages.  Lower user’s Defense and Special Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur brise sa coquille. Il baisse sa\nDéfense et Déf. Spé., mais augmente forte-\nment son Attaque, Atq. Spé. et Vitesse.",
@@ -3140,7 +3140,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the target for half its max HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une aura de bien-être fait récupérer\nla moitié de ses PV max à la cible.",
@@ -3920,7 +3920,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has double power if the target has a major status ailment.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attaque acharnée qui cause\ndavantage de dégâts à l’ennemi\ns’il a un problème de statut.",
@@ -4700,7 +4700,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Carries the target high into the air, dodging all attacks against either, and drops it next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur emmène l’ennemi dans les airs\nau 1er tour et le lâche dans le vide au\n2è. L’ennemi saisi ne peut pas attaquer.",
@@ -5458,7 +5458,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Attack by one stage and its Speed by two stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur fait tourner ses engrenages.\nCeci augmente son Attaque et augmente\nfortement sa Vitesse.",
@@ -6238,7 +6238,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": -6,
-    "effect": null,
+    "effect": "Ends wild battles.  Forces trainers to switch Pokémon.",
     "flavor_text_entries": [
       {
         "flavor_text": "Projette le Pokémon ennemi et le\nremplace par un autre. Dans la\nnature, met fin au combat.",
@@ -7018,7 +7018,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Destroys the target’s held berry.",
     "flavor_text_entries": [
       {
         "flavor_text": "Des flammes calcinent l’ennemi.\nS’il tient une Baie, elle est\nbrûlée et devient inutilisable.",
@@ -7798,7 +7798,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Makes the target act last this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Retient la cible de force,\nl’obligeant à agir en dernier.",
@@ -8578,7 +8578,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has double power if the user has no held item.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attaque agile. Si le lanceur ne tient\npas d’objet, l’attaque inflige\ndavantage de dégâts.",
@@ -9358,7 +9358,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "User becomes the target’s type.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur copie le type de la cible\net devient du même type.",
@@ -10138,7 +10138,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has double power if a friendly Pokémon fainted last turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Venge un Pokémon de l’équipe mis K.O.\nSi un Pokémon de l’équipe a été mis\nK.O. au tour d’avant, l’effet augmente.",
@@ -10918,7 +10918,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage equal to the user’s remaining HP.  User faints.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une attaque très risquée. Le lanceur perd\ntous ses PV restants et inflige autant de\ndégâts à l’ennemi.",
@@ -11698,7 +11698,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Gives the user’s held item to the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Si la cible ne tient pas d’objet, le\nlanceur lui donne l’objet qu’il tient.",
@@ -12456,7 +12456,7 @@
     "accuracy": 50,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "L’ennemi est entouré d’un torrent de\nflammes ardentes qui le brûlent.",
@@ -13236,7 +13236,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "With Grass Pledge, halves opposing Pokémon’s Speed for four turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une masse d’eau s’abat sur l’ennemi.\nEn l’utilisant avec Aire de Feu, l’effet\naugmente et un arc-en-ciel apparaît.",
@@ -14016,7 +14016,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "With Water Pledge, doubles the effect chance of friendly Pokémon’s moves for four turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une masse de feu s’abat sur l’ennemi.\nEn l’utilisant avec Aire d’Herbe, l’effet\naugmente et une mer de feu apparaît.",
@@ -14796,7 +14796,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une masse végétale s’abat sur l’ennemi.\nEn l’utilisant avec Aire d’Eau, l’effet\naugmente et un marécage apparaît.",
@@ -15576,7 +15576,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "User must switch out after attacking.",
     "flavor_text_entries": [
       {
         "flavor_text": "Après son attaque, le lanceur revient à\ntoute vitesse et change de place avec\nun Pokémon de l’équipe prêt au combat.",
@@ -16356,7 +16356,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur se débat de toutes ses forces,\net baisse l’Attaque Spéciale de l’ennemi.",
@@ -17136,7 +17136,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Speed by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur piétine le sol et inflige des\ndégâts à tous les Pokémon autour\nde lui. Baisse aussi la Vitesse.",
@@ -17916,7 +17916,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Always scores a critical hit.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un souffle froid blesse l’ennemi.\nL’effet est toujours critique.",
@@ -18696,7 +18696,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": -6,
-    "effect": null,
+    "effect": "Ends wild battles.  Forces trainers to switch Pokémon.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un coup puissant qui blesse la cible\net l’envoie balader. Dans la nature,\nmet fin au combat.",
@@ -19476,7 +19476,7 @@
     "accuracy": null,
     "pp": 30,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Attack and Special Attack by one stage each.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur se rengorge.\nAugmente l’Attaque et l’Attaque Spéciale.",
@@ -20256,7 +20256,7 @@
     "accuracy": 95,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Speed by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Attrape l’ennemi dans un filet électrique.\nBaisse aussi la Vitesse de l’ennemi.",
@@ -21036,7 +21036,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "User receives 1/4 the damage it inflicts in recoil.",
     "flavor_text_entries": [
       {
         "flavor_text": "Une charge électrique violente qui blesse\naussi légèrement le lanceur.",
@@ -21816,7 +21816,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has an increased chance for a critical hit.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur tourne sur lui-même comme\nune perceuse et se jette sur l’ennemi.\nTaux de critiques élevé.",
@@ -22596,7 +22596,7 @@
     "accuracy": 90,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits twice in one turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur frappe l’ennemi deux fois\nd’affilée avec les parties les plus\nrobustes de son corps.",
@@ -23354,7 +23354,7 @@
     "accuracy": 100,
     "pp": 25,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to make the target flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "Déconcentre l’ennemi avec des mouvements\nmignons avant de le frapper violemment.\nPeut apeurer l’ennemi.",
@@ -24112,7 +24112,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Drains half the damage inflicted to heal the user.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un coup de corne qui draine l’énergie\nde l’ennemi. Convertit la moitié des dégâts\ninfligés en PV pour le lanceur.",
@@ -24892,7 +24892,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Ignores the target’s stat modifiers.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un coup de lame violent qui lacère\nl’ennemi et lui inflige des dégâts quels\nque soient ses changements de stats.",
@@ -25672,7 +25672,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un coquillage aiguisé lacère l’ennemi.\nPeut aussi baisser sa Défense.",
@@ -26452,7 +26452,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Power is higher when the user weighs more than the target, up to a maximum of 120.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur projette son corps enflammé\ncontre l’ennemi. S’il est plus lourd que\nl’ennemi, l’effet augmente en conséquence.",
@@ -27232,7 +27232,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s accuracy by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "L’ennemi est pris dans un tourbillon de\nfeuilles acérées. Peut aussi baisser\nla Précision de l’ennemi.",
@@ -27990,7 +27990,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to make the target flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur se roule en boule et\nécrase son ennemi. Peut aussi\napeurer l’ennemi.",
@@ -28748,7 +28748,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Defense by three stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur se protège en s’emmitouflant\ndans du coton. Sa Défense augmente\nfortement.",
@@ -29528,7 +29528,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s accuracy by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur attaque l’ennemi avec une onde\nde choc ténébreuse. Peut aussi baisser la\nPrécision de l’ennemi.",
@@ -30308,7 +30308,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage based on the target’s Defense, not Special Defense.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur matérialise des ondes\nmystérieuses qu’il projette sur\nl’ennemi. Inflige des dégâts physiques.",
@@ -31088,7 +31088,7 @@
     "accuracy": 85,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits 2-5 times in one turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur frappe l’ennemi de 2 à 5 fois\nd’affilée avec sa queue robuste.",
@@ -31868,7 +31868,7 @@
     "accuracy": 70,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to confuse the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur déclenche une tempête de\nvents violents qui s’abat sur l’ennemi.\nPeut aussi le rendre confus.",
@@ -32648,7 +32648,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "User receives 1/4 the damage it inflicts in recoil.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur donne un coup avec sa tête\ncouronnée d’une fière crinière.\nBlesse aussi légèrement le lanceur.",
@@ -33406,7 +33406,7 @@
     "accuracy": 85,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Hits twice in one turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur jette deux écrous d’acier qui\nfrappent l’ennemi deux fois d’affilée.",
@@ -34164,7 +34164,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Des flammes rougeoyantes s’abattent\nsur tous les Pokémon autour du lanceur.\nPeut aussi brûler.",
@@ -34922,7 +34922,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "If the user is holding a appropriate plate or drive, the damage inflicted will match it.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur projette un rayon lumineux sur\nl’ennemi. Le type varie selon le Module\nque tient le lanceur.",
@@ -35680,7 +35680,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to put the target to sleep.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur attaque l’ennemi en lui\nchantant une chanson d’un autre temps.\nPeut endormir l’ennemi.",
@@ -36460,7 +36460,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts damage based on the target’s Defense, not Special Defense.",
     "flavor_text_entries": [
       {
         "flavor_text": "L’ennemi est lacéré par une longue lame.\nLe pouvoir mystérieux de la lame inflige\ndes dégâts physiques.",
@@ -37240,7 +37240,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Speed by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Un souffle de vent qui congèle tout\nsur son passage s’abat sur l’ennemi.\nRéduit aussi sa Vitesse.",
@@ -38020,7 +38020,7 @@
     "accuracy": 85,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to paralyze the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "S’enveloppe d’une charge électrique\nsurpuissante et se jette sur l’ennemi.\nPeut aussi le paralyser.",
@@ -38800,7 +38800,7 @@
     "accuracy": 85,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "De magnifiques et redoutables flammes\nbleues fondent sur l’ennemi.\nPeut aussi le brûler.",
@@ -39580,7 +39580,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to raise the user’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur enveloppe l’ennemi de flammes.\nPeut aussi augmenter l’Attaque Spéciale\ndu lanceur.",
@@ -40360,7 +40360,7 @@
     "accuracy": 90,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Requires a turn to charge before attacking.  Has a chance to paralyze the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Projette un bloc de glace électrifié\nsur l’ennemi au second tour.\nPeut aussi le paralyser.",
@@ -41140,7 +41140,7 @@
     "accuracy": 90,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Requires a turn to charge before attacking.  Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "Au second tour, le lanceur projette un\nsouffle de vent glacial dévastateur\nsur l’ennemi. Peut le brûler.",
@@ -41920,7 +41920,7 @@
     "accuracy": 95,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur hurle sur l’ennemi.\nBaisse l’Attaque Spéciale de l’ennemi.",
@@ -42700,7 +42700,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to make the target flinch.",
     "flavor_text_entries": [
       {
         "flavor_text": "Envoie de gros blocs de glace sur\nl’ennemi pour lui infliger des dégâts.\nPeut aussi l’apeurer.",
@@ -43480,7 +43480,7 @@
     "accuracy": 95,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the user’s Defense, Special Defense, and Speed by one stage each.",
     "flavor_text_entries": [
       {
         "flavor_text": "Le lanceur projette une flamme ardente de\nson front et se jette sur l’ennemi. Baisse\nla Défense, la Déf. Spé. et la Vitesse.",
@@ -44238,7 +44238,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "With Fusion Bolt, inflicts double damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Projette une boule de feu\ngigantesque. L’effet augmente\nsous l’influence d’Éclair Croix.",
@@ -45018,7 +45018,7 @@
     "accuracy": 100,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "With Fusion Flare, inflicts double damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "Projette un orbe électrique\ngigantesque. L’effet augmente\nsous l’influence de Flamme Croix.",
@@ -45798,7 +45798,7 @@
     "accuracy": 95,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Deals both Fighting and Flying-type damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "くうちゅうから　あいてに　ダイブする。\nこのわざは　かくとうタイプと　どうじに\nひこうタイプでも　ある。",
@@ -46545,7 +46545,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Protects all friendly Pokémon from damaging moves.  Only works on the first turn after the user is sent out.",
     "flavor_text_entries": [
       {
         "flavor_text": "かえした　タタミを　たてにして　じぶんや\nみかたへの　わざの　ダメージを　ふせぐ。\nへんかわざは　ふせぐことが　できない。",
@@ -47270,7 +47270,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Can only be used after the user has eaten a berry.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてに　むかって　ゲップを\nあびせて　ダメージを　あたえる。\nきのみを　たべないと　だせない。",
@@ -48017,7 +48017,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the Attack and Special Attack of all Grass Pokémon in battle.",
     "flavor_text_entries": [
       {
         "flavor_text": "じめんを　たがやして　くさきが\nそだちやすいようにする。くさタイプの\nこうげきと　とくこうが　あがる。",
@@ -48742,7 +48742,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Covers the opposing field, lowering opponents’ Speed by one stage upon switching in.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　まわりに　ねばねばした\nネットを　はりめぐらせ　こうたいで\nでてきた　あいての　すばやさを　さげる。",
@@ -49489,7 +49489,7 @@
     "accuracy": 100,
     "pp": 25,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the user’s Attack by two stages if it KOs the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "この　わざを　つかって\nあいてを　たおすと\nこうげきが　ぐーんと　あがる。",
@@ -50236,7 +50236,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "User vanishes, dodging all attacks, and hits next turn.  Hits through Protect and Detect.",
     "flavor_text_entries": [
       {
         "flavor_text": "１ターンめで　どこかに　きえて\n２ターンめに　あいてを　こうげきする。\nまもりを　むしして　こうげきできる。",
@@ -50983,7 +50983,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Adds Ghost to the target’s types.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてを　ハロウィンに　さそう。\nあいての　タイプに\nゴーストタイプが　ついかされる。",
@@ -51708,7 +51708,7 @@
     "accuracy": 100,
     "pp": 30,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack and Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "おたけびを　あげて\nあいてを　いかくし　あいての\nこうげきと　とくこうを　さげる。",
@@ -52455,7 +52455,7 @@
     "accuracy": null,
     "pp": 25,
     "priority": 1,
-    "effect": null,
+    "effect": "Changes all Normal moves to Electric moves for the rest of the turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "でんきを　おびた　りゅうしを\nかくさんし　ノーマルタイプの　わざを\nでんきタイプに　してしまう。",
@@ -53180,7 +53180,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Heals the user for half the total damage dealt to all targets.",
     "flavor_text_entries": [
       {
         "flavor_text": "まわりにいる　ポケモン　ぜんいんに\nダメージ。　あたえた　ダメージの\nはんぶんを　じぶんが　かいふくする。",
@@ -53927,7 +53927,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Adds Grass to the target’s types.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてに　もりののろいを　かける。\nのろいを　かけられた　あいては\nタイプに　くさタイプが　ついかされる。",
@@ -54674,7 +54674,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "はげしい　はなふぶきを　おこし\nまわりに　いるものに　こうげきして\nダメージを　あたえる。",
@@ -55421,7 +55421,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Super-effective against Water.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてを　きゅうげきに　ひやして\nこおり　じょうたいに　することが　ある。\nみずタイプにも　こうかばつぐんに　なる。",
@@ -56168,7 +56168,7 @@
     "accuracy": null,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Never misses.",
     "flavor_text_entries": [
       {
         "flavor_text": "みわくの　なきごえを　だして　あいてに\nせいしんてきな　ダメージを　あたえる。\nこうげきは　かならず　めいちゅう　する。",
@@ -56915,7 +56915,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers all targets’ Attack and Special Attack by one stage.  Makes the user switch out.",
     "flavor_text_entries": [
       {
         "flavor_text": "すてゼリフで　あいてを　いかくし\nこうげきと　とくこうを　さげたのち\nひかえの　ポケモンと　いれかわる。",
@@ -57662,7 +57662,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Inverts the target’s stat modifiers.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてに　かかっている\nすべての　のうりょくへんかを\nひっくりかえして　ぎゃくにする。",
@@ -58409,7 +58409,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Drains 75% of the damage inflicted to heal the user.",
     "flavor_text_entries": [
       {
         "flavor_text": "キッスによって　あいてから　ＨＰを\nすいとる。あたえた　ダメージの\nはんぶんいじょう　ＨＰを　かいふくする。",
@@ -59156,7 +59156,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 3,
-    "effect": null,
+    "effect": "Protects all friendly Pokémon from non-damaging moves.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふしぎな　ちからを　つかって\nみかたへの　へんかわざを　ふせぐ。\nダメージわざは　うけてしまう。",
@@ -59881,7 +59881,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises the Defense of all Grass Pokémon in battle.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふしぎな　ちからを　つかって\nばにいる　くさタイプの　ポケモン\nぜんいんの　ぼうぎょを　あげる。",
@@ -60606,7 +60606,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their Grass moves to 1.5× their power.",
     "flavor_text_entries": [
       {
         "flavor_text": "５ターンの　あいだ　あしもとを\nグラスフィールドにする。　じめんにいる\nポケモンは　まいターン　かいふくする。",
@@ -61353,7 +61353,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "For five turns, protects all Pokémon on the ground from major status ailments and confusion, and halves the power of incoming Dragon moves.",
     "flavor_text_entries": [
       {
         "flavor_text": "５ターンの　あいだ　あしもとを\nミストフィールドにする。　じめんにいると\nじょうたいいじょうに　ならない。",
@@ -62100,7 +62100,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Changes the target’s move’s type to Electric if it hasn’t moved yet this turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてが　わざを　だすまえに\nそうでん　すると　そのターン\nあいての　わざは　でんきタイプになる。",
@@ -62825,7 +62825,7 @@
     "accuracy": 90,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてに　じゃれついて\nこうげきする。　あいての\nこうげきを　さげる　ことがある。",
@@ -63572,7 +63572,7 @@
     "accuracy": 100,
     "pp": 30,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage with no additional effect.",
     "flavor_text_entries": [
       {
         "flavor_text": "ようせいのかぜを　おこし\nあいてに　ふきつけて　こうげきする。\n",
@@ -64319,7 +64319,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "つきの　パワーを　かりて\nあいてを　こうげきする。　あいての\nとくこうを　さげる　ことがある。",
@@ -65066,7 +65066,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Inflicts regular damage.",
     "flavor_text_entries": [
       {
         "flavor_text": "すさまじい　ばくおんの\nはかいりょくに　よって\nまわりに　いるものを　こうげきする。",
@@ -65813,7 +65813,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Prevents all Pokémon from fleeing or switching out during the next turn.",
     "flavor_text_entries": [
       {
         "flavor_text": "ロックを　かけることによって\nつぎのターン　すべての\nポケモンを　にげられなくする。",
@@ -66560,7 +66560,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact.  Switches Aegislash to Shield Forme.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　こうげきを　ふせぐと　どうじに\nぼうぎょたいせいになる。　ふれた\nあいての　こうげきを　がくっと　さげる。",
@@ -67285,7 +67285,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいてと　なかよくなって\nたたかう　きりょくを　うしなわせ\nあいての　こうげきを　さげる。",
@@ -68032,7 +68032,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ないしょばなしを　することで　あいての\nしゅうちゅうりょくを　うしなわせ\nあいての　とくこうを　さげる。",
@@ -68779,7 +68779,7 @@
     "accuracy": 95,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to raise the user’s Defense by two stages for each target hit.",
     "flavor_text_entries": [
       {
         "flavor_text": "ダイヤの　あらしを　まきおこし\nダメージを　あたえる。　じぶんの\nぼうぎょを　あげることが　ある。",
@@ -69526,7 +69526,7 @@
     "accuracy": 95,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to burn the target.",
     "flavor_text_entries": [
       {
         "flavor_text": "ものすごく　あつい　じょうきを\nあいてに　あびせる。\nあいては　やけどする　ことがある。",
@@ -70273,7 +70273,7 @@
     "accuracy": null,
     "pp": 5,
     "priority": 0,
-    "effect": null,
+    "effect": "Ignores and destroys protection effects.",
     "flavor_text_entries": [
       {
         "flavor_text": "いじげんホールで　とつぜん　あいての\nまよこに　あらわれ　こうげきする。\nまもるや　みきりも　むし　できる。",
@@ -71020,7 +71020,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 1,
-    "effect": null,
+    "effect": "Hits 2–5 times.",
     "flavor_text_entries": [
       {
         "flavor_text": "ねんえきで　できた　しゅりけんを\n２ー５かいの　あいだ　れんぞくで　だす。\nかならず　せんせい　こうげき　できる。",
@@ -71767,7 +71767,7 @@
     "accuracy": 100,
     "pp": 10,
     "priority": 0,
-    "effect": null,
+    "effect": "Has a chance to lower the target’s Special Attack by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "くちから　はきだす　とくべつ\nあつい　ほのおで　こうげきする。\nあいての　とくこうを　さげる。",
@@ -72514,7 +72514,7 @@
     "accuracy": null,
     "pp": 10,
     "priority": 4,
-    "effect": null,
+    "effect": "Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.",
     "flavor_text_entries": [
       {
         "flavor_text": "あいての　こうげきを　ふせぐと\nどうじに　ふれた　あいての\nたいりょくを　けずって　しまう。",
@@ -73261,7 +73261,7 @@
     "accuracy": null,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Raises a selected ally’s Special Defense by one stage.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふしぎな　アロマの　かおりによって\nみかたの　とくぼうを　あげる。\n",
@@ -74008,7 +74008,7 @@
     "accuracy": 100,
     "pp": 15,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Special Attack by two stages.",
     "flavor_text_entries": [
       {
         "flavor_text": "からだから　かいでんぱを　はなち\nあいてに　あびせる　ことによって\nとくこうを　がくっと　さげる。",
@@ -74755,7 +74755,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 0,
-    "effect": null,
+    "effect": "Lowers the target’s Attack, Special Attack, and Speed by one stage if it is poisoned.",
     "flavor_text_entries": [
       {
         "flavor_text": "とくしゅな　どくえきを　あびせかける。\nどく　じょうたいの　あいては\nこうげき　とくこう　すばやさが　さがる。",
@@ -75480,7 +75480,7 @@
     "accuracy": 100,
     "pp": 20,
     "priority": 1,
-    "effect": null,
+    "effect": "Explodes if the target uses a Fire move this turn, damaging it for 1/4 its max HP and preventing the move.",
     "flavor_text_entries": [
       {
         "flavor_text": "ふんじんを　あびせた　あいてが\nほのおわざを　つかうと\nばくはつして　ダメージを　あたえる。",

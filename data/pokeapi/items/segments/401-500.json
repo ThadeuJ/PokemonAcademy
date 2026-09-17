@@ -9,7 +9,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -24,7 +24,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -39,7 +39,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches a move to a compatible Pokémon. (Gen IV & III & II: Waterfall)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -54,7 +54,7 @@
     "category": "all-machines",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
-    "effect": null,
+    "effect": "Teaches a move to a compatible Pokémon. (Gen IV: Rock Climb Gen III: Dive)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
     }
@@ -69,7 +69,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/explorer-kit.png",
-    "effect": null,
+    "effect": "Allows visiting the Underground.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/explorer-kit.png"
     }
@@ -84,7 +84,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png",
-    "effect": null,
+    "effect": "Carries coal mine loot.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png"
     }
@@ -99,7 +99,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rule-book.png",
-    "effect": null,
+    "effect": "List of battle types and their rules.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rule-book.png"
     }
@@ -114,7 +114,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-radar.png",
-    "effect": null,
+    "effect": "Use to track down rare or shiny Pokémon. 50 steps to recharge.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-radar.png"
     }
@@ -129,7 +129,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/point-card.png",
-    "effect": null,
+    "effect": "Keeps count of Battle Points earned.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/point-card.png"
     }
@@ -144,7 +144,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/journal.png",
-    "effect": null,
+    "effect": "Records prior significant activities the player took.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/journal.png"
     }
@@ -159,7 +159,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-case.png",
-    "effect": null,
+    "effect": "Stores Seals that can be applied to Poké Ball capsules.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-case.png"
     }
@@ -174,7 +174,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fashion-case.png",
-    "effect": null,
+    "effect": "Holds Pokémon Accessories for use in Contests.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fashion-case.png"
     }
@@ -189,7 +189,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-bag.png",
-    "effect": null,
+    "effect": "Holds ten Seals for Poké Balls.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-bag.png"
     }
@@ -204,7 +204,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pal-pad.png",
-    "effect": null,
+    "effect": "Use to record Friend Codes and check your own.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pal-pad.png"
     }
@@ -219,7 +219,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png",
-    "effect": null,
+    "effect": "Grants access to Valley Windworks.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png"
     }
@@ -234,7 +234,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-charm.png",
-    "effect": null,
+    "effect": "Trade to Cynthia’s grandmother in Celestic Town for HM04 (Surf).",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-charm.png"
     }
@@ -249,7 +249,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galactic-key.png",
-    "effect": null,
+    "effect": "Grants access to Galactic HQ in Veilstone City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galactic-key.png"
     }
@@ -264,7 +264,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-chain.png",
-    "effect": null,
+    "effect": "Used to bind Palkia and Dialga.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-chain.png"
     }
@@ -279,7 +279,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png",
-    "effect": null,
+    "effect": "Use to see the overworld map.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png"
     }
@@ -294,7 +294,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png",
-    "effect": null,
+    "effect": "Allows rebattling of on-screen trainers. 100 steps to recharge.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png"
     }
@@ -309,7 +309,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coin-case.png",
-    "effect": null,
+    "effect": "Holds coins for the Game Corner.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coin-case.png"
     }
@@ -324,7 +324,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png",
-    "effect": null,
+    "effect": "Used to catch Pokémon in bodies of water.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png"
     }
@@ -339,7 +339,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/good-rod.png",
-    "effect": null,
+    "effect": "Used to catch Pokémon in bodies of water.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/good-rod.png"
     }
@@ -354,7 +354,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png",
-    "effect": null,
+    "effect": "Used to catch Pokémon in bodies of water.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png"
     }
@@ -369,7 +369,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png",
-    "effect": null,
+    "effect": "Used to water berries.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png"
     }
@@ -384,7 +384,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poffin-case.png",
-    "effect": null,
+    "effect": "Holds Poffins.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poffin-case.png"
     }
@@ -399,7 +399,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bicycle.png",
-    "effect": null,
+    "effect": "Use for fast transit.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bicycle.png"
     }
@@ -414,7 +414,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png",
-    "effect": null,
+    "effect": "Opens a locked building in the Lakeside Resort.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png"
     }
@@ -429,7 +429,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oaks-letter.png",
-    "effect": null,
+    "effect": "Allows access to Seabreak path, Flower Paradise, and Shaymin.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oaks-letter.png"
     }
@@ -444,7 +444,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png",
-    "effect": null,
+    "effect": "Cures sailor’s son of nightmares in Canalave City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png"
     }
@@ -459,7 +459,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/member-card.png",
-    "effect": null,
+    "effect": "Allows access to Newmoon Island and Darkrai.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/member-card.png"
     }
@@ -474,7 +474,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/azure-flute.png",
-    "effect": null,
+    "effect": "Allows entry into the Hall of Origin. Unreleased.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/azure-flute.png"
     }
@@ -489,7 +489,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket.png",
-    "effect": null,
+    "effect": "Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket.png"
     }
@@ -504,7 +504,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-pass.png",
-    "effect": null,
+    "effect": "Allows participation in Pokémon Contests.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-pass.png"
     }
@@ -519,7 +519,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-stone.png",
-    "effect": null,
+    "effect": "Magma is sealed inside.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-stone.png"
     }
@@ -534,7 +534,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png",
-    "effect": null,
+    "effect": "Given to the trainer’s rival in Jubilife City. Contains Town Maps.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png"
     }
@@ -549,7 +549,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-1.png",
-    "effect": null,
+    "effect": "The first of three tickets used to obtain a Pokétch.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-1.png"
     }
@@ -564,7 +564,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-2.png",
-    "effect": null,
+    "effect": "The second of three tickets used to obtain a Pokétch.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-2.png"
     }
@@ -579,7 +579,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-3.png",
-    "effect": null,
+    "effect": "The last of three tickets used to obtain a Pokétch.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-3.png"
     }
@@ -594,7 +594,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png",
-    "effect": null,
+    "effect": "Grants access to the Team Galactic warehouse in Veilstone City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png"
     }
@@ -609,7 +609,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-potion.png",
-    "effect": null,
+    "effect": "Used to heal the Ampharos at the top of Olivine Lighthouse.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-potion.png"
     }
@@ -624,7 +624,7 @@
     "category": "species-specific",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png",
-    "effect": null,
+    "effect": "Boosts the damage from Giratina’s Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png"
     }
@@ -639,7 +639,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-recorder.png",
-    "effect": null,
+    "effect": "Records wireless, Wi-Fi, or Battle Frontier battles, and stores points.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-recorder.png"
     }
@@ -654,7 +654,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gracidea.png",
-    "effect": null,
+    "effect": "Changes an unfrozen Shaymin to Sky Forme in the day.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gracidea.png"
     }
@@ -669,7 +669,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-key.png",
-    "effect": null,
+    "effect": "Gen IV: The key to Rotom’s appliance room. Gen III: The key to Cinnabar Gym.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-key.png"
     }
@@ -684,7 +684,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apricorn-box.png",
-    "effect": null,
+    "effect": "Holds Apricorns.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apricorn-box.png"
     }
@@ -699,7 +699,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-pots.png",
-    "effect": null,
+    "effect": "Allows portable berry growing.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-pots.png"
     }
@@ -714,7 +714,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/squirt-bottle.png",
-    "effect": null,
+    "effect": "Use on Sudowoodo blocking the path on Route 36. Also waters berries.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/squirt-bottle.png"
     }
@@ -729,7 +729,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lure-ball.png",
-    "effect": null,
+    "effect": "3× effectiveness while fishing. Made from Blu Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lure-ball.png"
     }
@@ -744,7 +744,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/level-ball.png",
-    "effect": null,
+    "effect": "Success rate based off of fraction target Pokémon is of user’s Pokémon. Made from Red Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/level-ball.png"
     }
@@ -759,7 +759,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png",
-    "effect": null,
+    "effect": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png"
     }
@@ -774,7 +774,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png",
-    "effect": null,
+    "effect": "Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png"
     }
@@ -789,7 +789,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fast-ball.png",
-    "effect": null,
+    "effect": "4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fast-ball.png"
     }
@@ -804,7 +804,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/friend-ball.png",
-    "effect": null,
+    "effect": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/friend-ball.png"
     }
@@ -819,7 +819,7 @@
     "category": "apricorn-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/love-ball.png",
-    "effect": null,
+    "effect": "8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/love-ball.png"
     }
@@ -834,7 +834,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/park-ball.png",
-    "effect": null,
+    "effect": "Catches Pokémon in the Pal Park every time.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/park-ball.png"
     }
@@ -849,7 +849,7 @@
     "category": "standard-balls",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sport-ball.png",
-    "effect": null,
+    "effect": "Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sport-ball.png"
     }
@@ -864,7 +864,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Level Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-apricorn.png"
     }
@@ -879,7 +879,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Lure Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-apricorn.png"
     }
@@ -894,7 +894,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Moon Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-apricorn.png"
     }
@@ -909,7 +909,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Friend Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-apricorn.png"
     }
@@ -924,7 +924,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Love Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-apricorn.png"
     }
@@ -939,7 +939,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Fast Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png"
     }
@@ -954,7 +954,7 @@
     "category": "apricorn-box",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-apricorn.png",
-    "effect": null,
+    "effect": "Used to make a Heavy Ball.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-apricorn.png"
     }
@@ -969,7 +969,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png",
-    "effect": null,
+    "effect": "Use to find hidden items on the field. AKA Itemfinder.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png"
     }
@@ -984,7 +984,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rage-candy-bar.png",
-    "effect": null,
+    "effect": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rage-candy-bar.png"
     }
@@ -999,7 +999,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-orb.png",
-    "effect": null,
+    "effect": "Summons Groudon to the Embedded Tower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-orb.png"
     }
@@ -1014,7 +1014,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-orb.png",
-    "effect": null,
+    "effect": "Summons Kyogre to the Embedded Tower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-orb.png"
     }
@@ -1029,7 +1029,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jade-orb.png",
-    "effect": null,
+    "effect": "Summons Rayquaza to the Embedded Tower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jade-orb.png"
     }
@@ -1044,7 +1044,7 @@
     "category": "event-items",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-stone.png",
-    "effect": null,
+    "effect": "S: Summons Latias H: Summons Latios.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-stone.png"
     }
@@ -1059,7 +1059,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/unown-report.png",
-    "effect": null,
+    "effect": "Keeps track of Unown types caught.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/unown-report.png"
     }
@@ -1074,7 +1074,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-card.png",
-    "effect": null,
+    "effect": "Keeps track of points from Buena’s show.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-card.png"
     }
@@ -1089,7 +1089,7 @@
     "category": "unused",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowpoke-tail.png",
-    "effect": null,
+    "effect": "A tasty tail that sells for a high price.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowpoke-tail.png"
     }
@@ -1104,7 +1104,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png",
-    "effect": null,
+    "effect": "HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png"
     }
@@ -1119,7 +1119,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/card-key.png",
-    "effect": null,
+    "effect": "HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/card-key.png"
     }
@@ -1134,7 +1134,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key.png",
-    "effect": null,
+    "effect": "HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key.png"
     }
@@ -1149,7 +1149,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scale.png",
-    "effect": null,
+    "effect": "Trade to Mr. Pokémon for an Exp. Share.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scale.png"
     }
@@ -1164,7 +1164,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lost-item.png",
-    "effect": null,
+    "effect": "A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lost-item.png"
     }
@@ -1179,7 +1179,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass.png",
-    "effect": null,
+    "effect": "Grants access to ride the Magnet Train between Goldenrod City and Saffron City.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass.png"
     }
@@ -1194,7 +1194,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/machine-part.png",
-    "effect": null,
+    "effect": "Must be replaced in the Power Plant to power the Magnet Train.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/machine-part.png"
     }
@@ -1209,7 +1209,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-wing.png",
-    "effect": null,
+    "effect": "Summons Lugia to the Whirl Islands.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-wing.png"
     }
@@ -1224,7 +1224,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-wing.png",
-    "effect": null,
+    "effect": "Summons Ho-Oh at the top of the Bell Tower.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-wing.png"
     }
@@ -1239,7 +1239,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystery-egg.png",
-    "effect": null,
+    "effect": "Deliver to Professor Elm.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystery-egg.png"
     }
@@ -1254,7 +1254,7 @@
     "category": "gameplay",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gb-sounds.png",
-    "effect": null,
+    "effect": "Use to listen to GameBoy era audio.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gb-sounds.png"
     }
@@ -1269,7 +1269,7 @@
     "category": "plot-advancement",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tidal-bell.png",
-    "effect": null,
+    "effect": "Allows Kimono-girls to summon Lugia.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tidal-bell.png"
     }
@@ -1284,7 +1284,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1299,7 +1299,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1314,7 +1314,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have dashed in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1329,7 +1329,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have jumped in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1344,7 +1344,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1359,7 +1359,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Relay Run.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1374,7 +1374,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1389,7 +1389,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1404,7 +1404,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1419,7 +1419,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1434,7 +1434,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of points the trainer has earned in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1449,7 +1449,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have messed up in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1464,7 +1464,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have defeated themselves in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1479,7 +1479,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have tackled in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }
@@ -1494,7 +1494,7 @@
     "category": "data-cards",
     "cost": null,
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
-    "effect": null,
+    "effect": "Records the number of times the trainer’s Pokémon have fallen in the Pokéathlon.",
     "sprites": {
       "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
     }

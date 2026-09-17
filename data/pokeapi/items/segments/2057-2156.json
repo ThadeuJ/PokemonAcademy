@@ -1,0 +1,1502 @@
+{
+  "2057": {
+    "id": 2057,
+    "name": "pink-cup",
+    "names": {
+      "en": "pink-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2058": {
+    "id": 2058,
+    "name": "blue-cup",
+    "names": {
+      "en": "blue-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2059": {
+    "id": 2059,
+    "name": "yellow-cup",
+    "names": {
+      "en": "yellow-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2060": {
+    "id": 2060,
+    "name": "pikachu-cup",
+    "names": {
+      "en": "pikachu-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2061": {
+    "id": 2061,
+    "name": "eevee-cup",
+    "names": {
+      "en": "eevee-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2062": {
+    "id": 2062,
+    "name": "slowpoke-cup",
+    "names": {
+      "en": "slowpoke-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2063": {
+    "id": 2063,
+    "name": "silver-cup",
+    "names": {
+      "en": "silver-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2064": {
+    "id": 2064,
+    "name": "exercise-ball",
+    "names": {
+      "en": "exercise-ball",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2065": {
+    "id": 2065,
+    "name": "plaid-tablecloth-y",
+    "names": {
+      "en": "plaid-tablecloth-y",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2066": {
+    "id": 2066,
+    "name": "plaid-tablecloth-b",
+    "names": {
+      "en": "plaid-tablecloth-b",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2067": {
+    "id": 2067,
+    "name": "plaid-tablecloth-r",
+    "names": {
+      "en": "plaid-tablecloth-r",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2068": {
+    "id": 2068,
+    "name": "bw-grass-tablecloth",
+    "names": {
+      "en": "bw-grass-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2069": {
+    "id": 2069,
+    "name": "battle-tablecloth",
+    "names": {
+      "en": "battle-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2070": {
+    "id": 2070,
+    "name": "monstrous-tablecloth",
+    "names": {
+      "en": "monstrous-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2071": {
+    "id": 2071,
+    "name": "striped-tablecloth",
+    "names": {
+      "en": "striped-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2072": {
+    "id": 2072,
+    "name": "diamond-tablecloth",
+    "names": {
+      "en": "diamond-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2073": {
+    "id": 2073,
+    "name": "polka-dot-tablecloth",
+    "names": {
+      "en": "polka-dot-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2074": {
+    "id": 2074,
+    "name": "lilac-tablecloth",
+    "names": {
+      "en": "lilac-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2075": {
+    "id": 2075,
+    "name": "mint-tablecloth",
+    "names": {
+      "en": "mint-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2076": {
+    "id": 2076,
+    "name": "peach-tablecloth",
+    "names": {
+      "en": "peach-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2077": {
+    "id": 2077,
+    "name": "yellow-tablecloth",
+    "names": {
+      "en": "yellow-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2078": {
+    "id": 2078,
+    "name": "blue-tablecloth",
+    "names": {
+      "en": "blue-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2079": {
+    "id": 2079,
+    "name": "pink-tablecloth",
+    "names": {
+      "en": "pink-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2080": {
+    "id": 2080,
+    "name": "gold-bottle",
+    "names": {
+      "en": "gold-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2081": {
+    "id": 2081,
+    "name": "bronze-bottle",
+    "names": {
+      "en": "bronze-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2082": {
+    "id": 2082,
+    "name": "gold-cup",
+    "names": {
+      "en": "gold-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2083": {
+    "id": 2083,
+    "name": "bronze-cup",
+    "names": {
+      "en": "bronze-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2084": {
+    "id": 2084,
+    "name": "green-poke-ball-pick",
+    "names": {
+      "en": "green-poke-ball-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2085": {
+    "id": 2085,
+    "name": "red-poke-ball-pick",
+    "names": {
+      "en": "red-poke-ball-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2086": {
+    "id": 2086,
+    "name": "party-sparkler-pick",
+    "names": {
+      "en": "party-sparkler-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2087": {
+    "id": 2087,
+    "name": "heroic-sword-pick",
+    "names": {
+      "en": "heroic-sword-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2088": {
+    "id": 2088,
+    "name": "magical-star-pick",
+    "names": {
+      "en": "magical-star-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2089": {
+    "id": 2089,
+    "name": "magical-heart-pick",
+    "names": {
+      "en": "magical-heart-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2090": {
+    "id": 2090,
+    "name": "parasol-pick",
+    "names": {
+      "en": "parasol-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2091": {
+    "id": 2091,
+    "name": "blue-sky-flower-pick",
+    "names": {
+      "en": "blue-sky-flower-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2092": {
+    "id": 2092,
+    "name": "sunset-flower-pick",
+    "names": {
+      "en": "sunset-flower-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2093": {
+    "id": 2093,
+    "name": "sunrise-flower-pick",
+    "names": {
+      "en": "sunrise-flower-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2094": {
+    "id": 2094,
+    "name": "blue-dish",
+    "names": {
+      "en": "blue-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2095": {
+    "id": 2095,
+    "name": "green-dish",
+    "names": {
+      "en": "green-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2096": {
+    "id": 2096,
+    "name": "orange-dish",
+    "names": {
+      "en": "orange-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2097": {
+    "id": 2097,
+    "name": "red-dish",
+    "names": {
+      "en": "red-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2098": {
+    "id": 2098,
+    "name": "white-dish",
+    "names": {
+      "en": "white-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2099": {
+    "id": 2099,
+    "name": "yellow-dish",
+    "names": {
+      "en": "yellow-dish",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2100": {
+    "id": 2100,
+    "name": "roto-stick",
+    "names": {
+      "en": "roto-stick",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2101": {
+    "id": 2101,
+    "name": "teal-style-card",
+    "names": {
+      "en": "teal-style-card",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2102": {
+    "id": 2102,
+    "name": "teal-mask",
+    "names": {
+      "en": "teal-mask",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2103": {
+    "id": 2103,
+    "name": "glimmering-charm",
+    "names": {
+      "en": "glimmering-charm",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2104": {
+    "id": 2104,
+    "name": "crystal-cluster",
+    "names": {
+      "en": "crystal-cluster",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2105": {
+    "id": 2105,
+    "name": "fairy-feather",
+    "names": {
+      "en": "fairy-feather",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2106": {
+    "id": 2106,
+    "name": "wellspring-mask",
+    "names": {
+      "en": "wellspring-mask",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2107": {
+    "id": 2107,
+    "name": "hearthflame-mask",
+    "names": {
+      "en": "hearthflame-mask",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2108": {
+    "id": 2108,
+    "name": "cornerstone-mask",
+    "names": {
+      "en": "cornerstone-mask",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2109": {
+    "id": 2109,
+    "name": "syrupy-apple",
+    "names": {
+      "en": "syrupy-apple",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2110": {
+    "id": 2110,
+    "name": "unremarkable-teacup",
+    "names": {
+      "en": "unremarkable-teacup",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2111": {
+    "id": 2111,
+    "name": "masterpiece-teacup",
+    "names": {
+      "en": "masterpiece-teacup",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2112": {
+    "id": 2112,
+    "name": "health-mochi",
+    "names": {
+      "en": "health-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2113": {
+    "id": 2113,
+    "name": "muscle-mochi",
+    "names": {
+      "en": "muscle-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2114": {
+    "id": 2114,
+    "name": "resist-mochi",
+    "names": {
+      "en": "resist-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2115": {
+    "id": 2115,
+    "name": "genius-mochi",
+    "names": {
+      "en": "genius-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2116": {
+    "id": 2116,
+    "name": "clever-mochi",
+    "names": {
+      "en": "clever-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2117": {
+    "id": 2117,
+    "name": "swift-mochi",
+    "names": {
+      "en": "swift-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2118": {
+    "id": 2118,
+    "name": "fresh-start-mochi",
+    "names": {
+      "en": "fresh-start-mochi",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2119": {
+    "id": 2119,
+    "name": "ekans-fang",
+    "names": {
+      "en": "ekans-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2120": {
+    "id": 2120,
+    "name": "sandshrew-claw",
+    "names": {
+      "en": "sandshrew-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2121": {
+    "id": 2121,
+    "name": "cleffa-fur",
+    "names": {
+      "en": "cleffa-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2122": {
+    "id": 2122,
+    "name": "vulpix-fur",
+    "names": {
+      "en": "vulpix-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2123": {
+    "id": 2123,
+    "name": "poliwag-slime",
+    "names": {
+      "en": "poliwag-slime",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2124": {
+    "id": 2124,
+    "name": "bellsprout-vine",
+    "names": {
+      "en": "bellsprout-vine",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2125": {
+    "id": 2125,
+    "name": "geodude-fragment",
+    "names": {
+      "en": "geodude-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2126": {
+    "id": 2126,
+    "name": "koffing-gas",
+    "names": {
+      "en": "koffing-gas",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2127": {
+    "id": 2127,
+    "name": "munchlax-fang",
+    "names": {
+      "en": "munchlax-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2128": {
+    "id": 2128,
+    "name": "sentret-fur",
+    "names": {
+      "en": "sentret-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2129": {
+    "id": 2129,
+    "name": "hoothoot-feather",
+    "names": {
+      "en": "hoothoot-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2130": {
+    "id": 2130,
+    "name": "spinarak-thread",
+    "names": {
+      "en": "spinarak-thread",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2131": {
+    "id": 2131,
+    "name": "aipom-hair",
+    "names": {
+      "en": "aipom-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2132": {
+    "id": 2132,
+    "name": "yanma-spike",
+    "names": {
+      "en": "yanma-spike",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2133": {
+    "id": 2133,
+    "name": "gligar-fang",
+    "names": {
+      "en": "gligar-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2134": {
+    "id": 2134,
+    "name": "slugma-lava",
+    "names": {
+      "en": "slugma-lava",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2135": {
+    "id": 2135,
+    "name": "swinub-hair",
+    "names": {
+      "en": "swinub-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2136": {
+    "id": 2136,
+    "name": "poochyena-fang",
+    "names": {
+      "en": "poochyena-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2137": {
+    "id": 2137,
+    "name": "lotad-leaf",
+    "names": {
+      "en": "lotad-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2138": {
+    "id": 2138,
+    "name": "seedot-stem",
+    "names": {
+      "en": "seedot-stem",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2139": {
+    "id": 2139,
+    "name": "nosepass-fragment",
+    "names": {
+      "en": "nosepass-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2140": {
+    "id": 2140,
+    "name": "volbeat-fluid",
+    "names": {
+      "en": "volbeat-fluid",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2141": {
+    "id": 2141,
+    "name": "illumise-fluid",
+    "names": {
+      "en": "illumise-fluid",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2142": {
+    "id": 2142,
+    "name": "corphish-shell",
+    "names": {
+      "en": "corphish-shell",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2143": {
+    "id": 2143,
+    "name": "feebas-scales",
+    "names": {
+      "en": "feebas-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2144": {
+    "id": 2144,
+    "name": "duskull-fragment",
+    "names": {
+      "en": "duskull-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2145": {
+    "id": 2145,
+    "name": "chingling-fragment",
+    "names": {
+      "en": "chingling-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2146": {
+    "id": 2146,
+    "name": "timburr-sweat",
+    "names": {
+      "en": "timburr-sweat",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2147": {
+    "id": 2147,
+    "name": "sewaddle-leaf",
+    "names": {
+      "en": "sewaddle-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2148": {
+    "id": 2148,
+    "name": "ducklett-feather",
+    "names": {
+      "en": "ducklett-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2149": {
+    "id": 2149,
+    "name": "litwick-soot",
+    "names": {
+      "en": "litwick-soot",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2150": {
+    "id": 2150,
+    "name": "mienfoo-claw",
+    "names": {
+      "en": "mienfoo-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2151": {
+    "id": 2151,
+    "name": "vullaby-feather",
+    "names": {
+      "en": "vullaby-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2152": {
+    "id": 2152,
+    "name": "carbink-jewel",
+    "names": {
+      "en": "carbink-jewel",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2153": {
+    "id": 2153,
+    "name": "phantump-twig",
+    "names": {
+      "en": "phantump-twig",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2154": {
+    "id": 2154,
+    "name": "grubbin-thread",
+    "names": {
+      "en": "grubbin-thread",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2155": {
+    "id": 2155,
+    "name": "cutiefly-powder",
+    "names": {
+      "en": "cutiefly-powder",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2156": {
+    "id": 2156,
+    "name": "jangmo-o-scales",
+    "names": {
+      "en": "jangmo-o-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

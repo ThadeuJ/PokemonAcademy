@@ -1,0 +1,1502 @@
+{
+  "1852": {
+    "id": 1852,
+    "name": "axew-scales",
+    "names": {
+      "en": "axew-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1853": {
+    "id": 1853,
+    "name": "cubchoo-fur",
+    "names": {
+      "en": "cubchoo-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1854": {
+    "id": 1854,
+    "name": "cryogonal-ice",
+    "names": {
+      "en": "cryogonal-ice",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1855": {
+    "id": 1855,
+    "name": "pawniard-blade",
+    "names": {
+      "en": "pawniard-blade",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1856": {
+    "id": 1856,
+    "name": "rufflet-feather",
+    "names": {
+      "en": "rufflet-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1857": {
+    "id": 1857,
+    "name": "deino-scales",
+    "names": {
+      "en": "deino-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1858": {
+    "id": 1858,
+    "name": "larvesta-fuzz",
+    "names": {
+      "en": "larvesta-fuzz",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1859": {
+    "id": 1859,
+    "name": "fletchling-feather",
+    "names": {
+      "en": "fletchling-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1860": {
+    "id": 1860,
+    "name": "scatterbug-powder",
+    "names": {
+      "en": "scatterbug-powder",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1861": {
+    "id": 1861,
+    "name": "litleo-tuft",
+    "names": {
+      "en": "litleo-tuft",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1862": {
+    "id": 1862,
+    "name": "flabebe-pollen",
+    "names": {
+      "en": "flabebe-pollen",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1863": {
+    "id": 1863,
+    "name": "skiddo-leaf",
+    "names": {
+      "en": "skiddo-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1864": {
+    "id": 1864,
+    "name": "skrelp-kelp",
+    "names": {
+      "en": "skrelp-kelp",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1865": {
+    "id": 1865,
+    "name": "clauncher-claw",
+    "names": {
+      "en": "clauncher-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1866": {
+    "id": 1866,
+    "name": "hawlucha-down",
+    "names": {
+      "en": "hawlucha-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1867": {
+    "id": 1867,
+    "name": "dedenne-fur",
+    "names": {
+      "en": "dedenne-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1868": {
+    "id": 1868,
+    "name": "goomy-goo",
+    "names": {
+      "en": "goomy-goo",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1869": {
+    "id": 1869,
+    "name": "klefki-key",
+    "names": {
+      "en": "klefki-key",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1870": {
+    "id": 1870,
+    "name": "bergmite-ice",
+    "names": {
+      "en": "bergmite-ice",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1871": {
+    "id": 1871,
+    "name": "noibat-fur",
+    "names": {
+      "en": "noibat-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1872": {
+    "id": 1872,
+    "name": "yungoos-fur",
+    "names": {
+      "en": "yungoos-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1873": {
+    "id": 1873,
+    "name": "crabrawler-shell",
+    "names": {
+      "en": "crabrawler-shell",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1874": {
+    "id": 1874,
+    "name": "oricorio-feather",
+    "names": {
+      "en": "oricorio-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1875": {
+    "id": 1875,
+    "name": "rockruff-rock",
+    "names": {
+      "en": "rockruff-rock",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1876": {
+    "id": 1876,
+    "name": "mareanie-spike",
+    "names": {
+      "en": "mareanie-spike",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1877": {
+    "id": 1877,
+    "name": "mudbray-mud",
+    "names": {
+      "en": "mudbray-mud",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1878": {
+    "id": 1878,
+    "name": "fomantis-leaf",
+    "names": {
+      "en": "fomantis-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1879": {
+    "id": 1879,
+    "name": "salandit-gas",
+    "names": {
+      "en": "salandit-gas",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1880": {
+    "id": 1880,
+    "name": "bounsweet-sweat",
+    "names": {
+      "en": "bounsweet-sweat",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1881": {
+    "id": 1881,
+    "name": "oranguru-fur",
+    "names": {
+      "en": "oranguru-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1882": {
+    "id": 1882,
+    "name": "passimian-fur",
+    "names": {
+      "en": "passimian-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1883": {
+    "id": 1883,
+    "name": "sandygast-sand",
+    "names": {
+      "en": "sandygast-sand",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1884": {
+    "id": 1884,
+    "name": "komala-claw",
+    "names": {
+      "en": "komala-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1885": {
+    "id": 1885,
+    "name": "mimikyu-scrap",
+    "names": {
+      "en": "mimikyu-scrap",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1886": {
+    "id": 1886,
+    "name": "bruxish-tooth",
+    "names": {
+      "en": "bruxish-tooth",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1887": {
+    "id": 1887,
+    "name": "chewtle-claw",
+    "names": {
+      "en": "chewtle-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1888": {
+    "id": 1888,
+    "name": "skwovet-fur",
+    "names": {
+      "en": "skwovet-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1889": {
+    "id": 1889,
+    "name": "arrokuda-scales",
+    "names": {
+      "en": "arrokuda-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1890": {
+    "id": 1890,
+    "name": "rookidee-feather",
+    "names": {
+      "en": "rookidee-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1891": {
+    "id": 1891,
+    "name": "toxel-sparks",
+    "names": {
+      "en": "toxel-sparks",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1892": {
+    "id": 1892,
+    "name": "falinks-sweat",
+    "names": {
+      "en": "falinks-sweat",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1893": {
+    "id": 1893,
+    "name": "cufant-tarnish",
+    "names": {
+      "en": "cufant-tarnish",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1894": {
+    "id": 1894,
+    "name": "rolycoly-coal",
+    "names": {
+      "en": "rolycoly-coal",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1895": {
+    "id": 1895,
+    "name": "silicobra-sand",
+    "names": {
+      "en": "silicobra-sand",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1896": {
+    "id": 1896,
+    "name": "indeedee-fur",
+    "names": {
+      "en": "indeedee-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1897": {
+    "id": 1897,
+    "name": "pincurchin-spines",
+    "names": {
+      "en": "pincurchin-spines",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1898": {
+    "id": 1898,
+    "name": "snom-thread",
+    "names": {
+      "en": "snom-thread",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1899": {
+    "id": 1899,
+    "name": "impidimp-hair",
+    "names": {
+      "en": "impidimp-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1900": {
+    "id": 1900,
+    "name": "applin-juice",
+    "names": {
+      "en": "applin-juice",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1901": {
+    "id": 1901,
+    "name": "sinistea-chip",
+    "names": {
+      "en": "sinistea-chip",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1902": {
+    "id": 1902,
+    "name": "hatenna-dust",
+    "names": {
+      "en": "hatenna-dust",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1903": {
+    "id": 1903,
+    "name": "stonjourner-stone",
+    "names": {
+      "en": "stonjourner-stone",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1904": {
+    "id": 1904,
+    "name": "eiscue-down",
+    "names": {
+      "en": "eiscue-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1905": {
+    "id": 1905,
+    "name": "dreepy-powder",
+    "names": {
+      "en": "dreepy-powder",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1906": {
+    "id": 1906,
+    "name": "lechonk-hair",
+    "names": {
+      "en": "lechonk-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1907": {
+    "id": 1907,
+    "name": "tarountula-thread",
+    "names": {
+      "en": "tarountula-thread",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1908": {
+    "id": 1908,
+    "name": "nymble-claw",
+    "names": {
+      "en": "nymble-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1909": {
+    "id": 1909,
+    "name": "rellor-mud",
+    "names": {
+      "en": "rellor-mud",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1910": {
+    "id": 1910,
+    "name": "greavard-wax",
+    "names": {
+      "en": "greavard-wax",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1911": {
+    "id": 1911,
+    "name": "flittle-down",
+    "names": {
+      "en": "flittle-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1912": {
+    "id": 1912,
+    "name": "wiglett-sand",
+    "names": {
+      "en": "wiglett-sand",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1913": {
+    "id": 1913,
+    "name": "dondozo-whisker",
+    "names": {
+      "en": "dondozo-whisker",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1914": {
+    "id": 1914,
+    "name": "veluza-fillet",
+    "names": {
+      "en": "veluza-fillet",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1915": {
+    "id": 1915,
+    "name": "finizen-mucus",
+    "names": {
+      "en": "finizen-mucus",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1916": {
+    "id": 1916,
+    "name": "smoliv-oil",
+    "names": {
+      "en": "smoliv-oil",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1917": {
+    "id": 1917,
+    "name": "capsakid-seed",
+    "names": {
+      "en": "capsakid-seed",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1918": {
+    "id": 1918,
+    "name": "tadbulb-mucus",
+    "names": {
+      "en": "tadbulb-mucus",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1919": {
+    "id": 1919,
+    "name": "varoom-fume",
+    "names": {
+      "en": "varoom-fume",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1920": {
+    "id": 1920,
+    "name": "orthworm-tarnish",
+    "names": {
+      "en": "orthworm-tarnish",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1921": {
+    "id": 1921,
+    "name": "tandemaus-fur",
+    "names": {
+      "en": "tandemaus-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1922": {
+    "id": 1922,
+    "name": "cetoddle-grease",
+    "names": {
+      "en": "cetoddle-grease",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1923": {
+    "id": 1923,
+    "name": "frigibax-scales",
+    "names": {
+      "en": "frigibax-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1924": {
+    "id": 1924,
+    "name": "tatsugiri-scales",
+    "names": {
+      "en": "tatsugiri-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1925": {
+    "id": 1925,
+    "name": "cyclizar-scales",
+    "names": {
+      "en": "cyclizar-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1926": {
+    "id": 1926,
+    "name": "pawmi-fur",
+    "names": {
+      "en": "pawmi-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1927": {
+    "id": 1927,
+    "name": "wattrel-feather",
+    "names": {
+      "en": "wattrel-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1928": {
+    "id": 1928,
+    "name": "bombirdier-feather",
+    "names": {
+      "en": "bombirdier-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1929": {
+    "id": 1929,
+    "name": "squawkabilly-feather",
+    "names": {
+      "en": "squawkabilly-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1930": {
+    "id": 1930,
+    "name": "flamigo-down",
+    "names": {
+      "en": "flamigo-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1931": {
+    "id": 1931,
+    "name": "klawf-claw",
+    "names": {
+      "en": "klawf-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1932": {
+    "id": 1932,
+    "name": "nacli-salt",
+    "names": {
+      "en": "nacli-salt",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1933": {
+    "id": 1933,
+    "name": "glimmet-crystal",
+    "names": {
+      "en": "glimmet-crystal",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1934": {
+    "id": 1934,
+    "name": "shroodle-ink",
+    "names": {
+      "en": "shroodle-ink",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1935": {
+    "id": 1935,
+    "name": "fidough-fur",
+    "names": {
+      "en": "fidough-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1936": {
+    "id": 1936,
+    "name": "maschiff-fang",
+    "names": {
+      "en": "maschiff-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1937": {
+    "id": 1937,
+    "name": "bramblin-twig",
+    "names": {
+      "en": "bramblin-twig",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1938": {
+    "id": 1938,
+    "name": "gimmighoul-coin",
+    "names": {
+      "en": "gimmighoul-coin",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1939": {
+    "id": 1939,
+    "name": "tinkatink-hair",
+    "names": {
+      "en": "tinkatink-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1940": {
+    "id": 1940,
+    "name": "charcadet-soot",
+    "names": {
+      "en": "charcadet-soot",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1941": {
+    "id": 1941,
+    "name": "toedscool-flaps",
+    "names": {
+      "en": "toedscool-flaps",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1942": {
+    "id": 1942,
+    "name": "wooper-slime",
+    "names": {
+      "en": "wooper-slime",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1944": {
+    "id": 1944,
+    "name": "tm101",
+    "names": {
+      "en": "tm101",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1945": {
+    "id": 1945,
+    "name": "tm102",
+    "names": {
+      "en": "tm102",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1946": {
+    "id": 1946,
+    "name": "tm103",
+    "names": {
+      "en": "tm103",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1947": {
+    "id": 1947,
+    "name": "tm104",
+    "names": {
+      "en": "tm104",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1948": {
+    "id": 1948,
+    "name": "tm105",
+    "names": {
+      "en": "tm105",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1949": {
+    "id": 1949,
+    "name": "tm106",
+    "names": {
+      "en": "tm106",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1950": {
+    "id": 1950,
+    "name": "tm107",
+    "names": {
+      "en": "tm107",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1951": {
+    "id": 1951,
+    "name": "tm108",
+    "names": {
+      "en": "tm108",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1952": {
+    "id": 1952,
+    "name": "tm109",
+    "names": {
+      "en": "tm109",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  }
+}

@@ -1,0 +1,1502 @@
+{
+  "2157": {
+    "id": 2157,
+    "name": "cramorant-down",
+    "names": {
+      "en": "cramorant-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2158": {
+    "id": 2158,
+    "name": "morpeko-snack",
+    "names": {
+      "en": "morpeko-snack",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2159": {
+    "id": 2159,
+    "name": "poltchageist-powder",
+    "names": {
+      "en": "poltchageist-powder",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2160": {
+    "id": 2160,
+    "name": "linking-cord",
+    "names": {
+      "en": "linking-cord",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2161": {
+    "id": 2161,
+    "name": "tm172",
+    "names": {
+      "en": "tm172",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2162": {
+    "id": 2162,
+    "name": "tm173",
+    "names": {
+      "en": "tm173",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2163": {
+    "id": 2163,
+    "name": "tm174",
+    "names": {
+      "en": "tm174",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2164": {
+    "id": 2164,
+    "name": "tm175",
+    "names": {
+      "en": "tm175",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2165": {
+    "id": 2165,
+    "name": "tm176",
+    "names": {
+      "en": "tm176",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2166": {
+    "id": 2166,
+    "name": "tm177",
+    "names": {
+      "en": "tm177",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2167": {
+    "id": 2167,
+    "name": "tm178",
+    "names": {
+      "en": "tm178",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2168": {
+    "id": 2168,
+    "name": "tm179",
+    "names": {
+      "en": "tm179",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2169": {
+    "id": 2169,
+    "name": "tm180",
+    "names": {
+      "en": "tm180",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2170": {
+    "id": 2170,
+    "name": "tm181",
+    "names": {
+      "en": "tm181",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2171": {
+    "id": 2171,
+    "name": "tm182",
+    "names": {
+      "en": "tm182",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2172": {
+    "id": 2172,
+    "name": "tm183",
+    "names": {
+      "en": "tm183",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2173": {
+    "id": 2173,
+    "name": "tm184",
+    "names": {
+      "en": "tm184",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2174": {
+    "id": 2174,
+    "name": "tm185",
+    "names": {
+      "en": "tm185",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2175": {
+    "id": 2175,
+    "name": "tm186",
+    "names": {
+      "en": "tm186",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2176": {
+    "id": 2176,
+    "name": "tm187",
+    "names": {
+      "en": "tm187",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2177": {
+    "id": 2177,
+    "name": "tm188",
+    "names": {
+      "en": "tm188",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2178": {
+    "id": 2178,
+    "name": "tm189",
+    "names": {
+      "en": "tm189",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2179": {
+    "id": 2179,
+    "name": "tm190",
+    "names": {
+      "en": "tm190",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2180": {
+    "id": 2180,
+    "name": "tm191",
+    "names": {
+      "en": "tm191",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2181": {
+    "id": 2181,
+    "name": "tm192",
+    "names": {
+      "en": "tm192",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2182": {
+    "id": 2182,
+    "name": "tm193",
+    "names": {
+      "en": "tm193",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2183": {
+    "id": 2183,
+    "name": "tm194",
+    "names": {
+      "en": "tm194",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2184": {
+    "id": 2184,
+    "name": "tm195",
+    "names": {
+      "en": "tm195",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2185": {
+    "id": 2185,
+    "name": "tm196",
+    "names": {
+      "en": "tm196",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2186": {
+    "id": 2186,
+    "name": "tm197",
+    "names": {
+      "en": "tm197",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2187": {
+    "id": 2187,
+    "name": "tm198",
+    "names": {
+      "en": "tm198",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2188": {
+    "id": 2188,
+    "name": "tm199",
+    "names": {
+      "en": "tm199",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2189": {
+    "id": 2189,
+    "name": "tm200",
+    "names": {
+      "en": "tm200",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2190": {
+    "id": 2190,
+    "name": "tm201",
+    "names": {
+      "en": "tm201",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2191": {
+    "id": 2191,
+    "name": "tm202",
+    "names": {
+      "en": "tm202",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2192": {
+    "id": 2192,
+    "name": "tm203",
+    "names": {
+      "en": "tm203",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2193": {
+    "id": 2193,
+    "name": "tm204",
+    "names": {
+      "en": "tm204",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2194": {
+    "id": 2194,
+    "name": "tm205",
+    "names": {
+      "en": "tm205",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2195": {
+    "id": 2195,
+    "name": "tm206",
+    "names": {
+      "en": "tm206",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2196": {
+    "id": 2196,
+    "name": "tm207",
+    "names": {
+      "en": "tm207",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2197": {
+    "id": 2197,
+    "name": "tm208",
+    "names": {
+      "en": "tm208",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2198": {
+    "id": 2198,
+    "name": "tm209",
+    "names": {
+      "en": "tm209",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2199": {
+    "id": 2199,
+    "name": "tm210",
+    "names": {
+      "en": "tm210",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2200": {
+    "id": 2200,
+    "name": "tm211",
+    "names": {
+      "en": "tm211",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2201": {
+    "id": 2201,
+    "name": "tm212",
+    "names": {
+      "en": "tm212",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2202": {
+    "id": 2202,
+    "name": "tm213",
+    "names": {
+      "en": "tm213",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2203": {
+    "id": 2203,
+    "name": "tm214",
+    "names": {
+      "en": "tm214",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2204": {
+    "id": 2204,
+    "name": "tm215",
+    "names": {
+      "en": "tm215",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2205": {
+    "id": 2205,
+    "name": "tm216",
+    "names": {
+      "en": "tm216",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2206": {
+    "id": 2206,
+    "name": "tm217",
+    "names": {
+      "en": "tm217",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2207": {
+    "id": 2207,
+    "name": "tm218",
+    "names": {
+      "en": "tm218",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2208": {
+    "id": 2208,
+    "name": "tm219",
+    "names": {
+      "en": "tm219",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2209": {
+    "id": 2209,
+    "name": "tm220",
+    "names": {
+      "en": "tm220",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2210": {
+    "id": 2210,
+    "name": "tm221",
+    "names": {
+      "en": "tm221",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2211": {
+    "id": 2211,
+    "name": "tm222",
+    "names": {
+      "en": "tm222",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2212": {
+    "id": 2212,
+    "name": "tm223",
+    "names": {
+      "en": "tm223",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2213": {
+    "id": 2213,
+    "name": "tm224",
+    "names": {
+      "en": "tm224",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2214": {
+    "id": 2214,
+    "name": "tm225",
+    "names": {
+      "en": "tm225",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2215": {
+    "id": 2215,
+    "name": "tm226",
+    "names": {
+      "en": "tm226",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2216": {
+    "id": 2216,
+    "name": "tm227",
+    "names": {
+      "en": "tm227",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2217": {
+    "id": 2217,
+    "name": "tm228",
+    "names": {
+      "en": "tm228",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2218": {
+    "id": 2218,
+    "name": "tm229",
+    "names": {
+      "en": "tm229",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2219": {
+    "id": 2219,
+    "name": "lastrange-ball",
+    "names": {
+      "en": "lastrange-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lastrange-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lastrange-ball.png"
+    }
+  },
+  "2220": {
+    "id": 2220,
+    "name": "lapoke-ball",
+    "names": {
+      "en": "lapoke-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lapoke-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lapoke-ball.png"
+    }
+  },
+  "2221": {
+    "id": 2221,
+    "name": "lagreat-ball",
+    "names": {
+      "en": "lagreat-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagreat-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagreat-ball.png"
+    }
+  },
+  "2222": {
+    "id": 2222,
+    "name": "laultra-ball",
+    "names": {
+      "en": "laultra-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laultra-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laultra-ball.png"
+    }
+  },
+  "2223": {
+    "id": 2223,
+    "name": "laheavy-ball",
+    "names": {
+      "en": "laheavy-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laheavy-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laheavy-ball.png"
+    }
+  },
+  "2224": {
+    "id": 2224,
+    "name": "laleaden-ball",
+    "names": {
+      "en": "laleaden-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laleaden-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laleaden-ball.png"
+    }
+  },
+  "2225": {
+    "id": 2225,
+    "name": "lagigaton-ball",
+    "names": {
+      "en": "lagigaton-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagigaton-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lagigaton-ball.png"
+    }
+  },
+  "2226": {
+    "id": 2226,
+    "name": "lafeather-ball",
+    "names": {
+      "en": "lafeather-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lafeather-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lafeather-ball.png"
+    }
+  },
+  "2227": {
+    "id": 2227,
+    "name": "lawing-ball",
+    "names": {
+      "en": "lawing-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lawing-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lawing-ball.png"
+    }
+  },
+  "2228": {
+    "id": 2228,
+    "name": "lajet-ball",
+    "names": {
+      "en": "lajet-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lajet-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lajet-ball.png"
+    }
+  },
+  "2229": {
+    "id": 2229,
+    "name": "laorigin-ball",
+    "names": {
+      "en": "laorigin-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laorigin-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/laorigin-ball.png"
+    }
+  },
+  "2230": {
+    "id": 2230,
+    "name": "black-augurite",
+    "names": {
+      "en": "black-augurite",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2231": {
+    "id": 2231,
+    "name": "peat-block",
+    "names": {
+      "en": "peat-block",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2232": {
+    "id": 2232,
+    "name": "metal-alloy",
+    "names": {
+      "en": "metal-alloy",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2233": {
+    "id": 2233,
+    "name": "clefablite",
+    "names": {
+      "en": "clefablite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2234": {
+    "id": 2234,
+    "name": "victreebelite",
+    "names": {
+      "en": "victreebelite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2235": {
+    "id": 2235,
+    "name": "starminite",
+    "names": {
+      "en": "starminite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2236": {
+    "id": 2236,
+    "name": "dragoninite",
+    "names": {
+      "en": "dragoninite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2237": {
+    "id": 2237,
+    "name": "meganiumite",
+    "names": {
+      "en": "meganiumite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2238": {
+    "id": 2238,
+    "name": "feraligite",
+    "names": {
+      "en": "feraligite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2239": {
+    "id": 2239,
+    "name": "skarmorite",
+    "names": {
+      "en": "skarmorite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2240": {
+    "id": 2240,
+    "name": "froslassite",
+    "names": {
+      "en": "froslassite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2241": {
+    "id": 2241,
+    "name": "heatranite",
+    "names": {
+      "en": "heatranite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2242": {
+    "id": 2242,
+    "name": "darkranite",
+    "names": {
+      "en": "darkranite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2243": {
+    "id": 2243,
+    "name": "emboarite",
+    "names": {
+      "en": "emboarite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2244": {
+    "id": 2244,
+    "name": "excadrite",
+    "names": {
+      "en": "excadrite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2245": {
+    "id": 2245,
+    "name": "scolipite",
+    "names": {
+      "en": "scolipite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2246": {
+    "id": 2246,
+    "name": "scraftinite",
+    "names": {
+      "en": "scraftinite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2247": {
+    "id": 2247,
+    "name": "eelektrossite",
+    "names": {
+      "en": "eelektrossite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2248": {
+    "id": 2248,
+    "name": "chandelurite",
+    "names": {
+      "en": "chandelurite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2249": {
+    "id": 2249,
+    "name": "chesnaughtite",
+    "names": {
+      "en": "chesnaughtite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2250": {
+    "id": 2250,
+    "name": "delphoxite",
+    "names": {
+      "en": "delphoxite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2251": {
+    "id": 2251,
+    "name": "greninjite",
+    "names": {
+      "en": "greninjite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2252": {
+    "id": 2252,
+    "name": "pyroarite",
+    "names": {
+      "en": "pyroarite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2253": {
+    "id": 2253,
+    "name": "floettite",
+    "names": {
+      "en": "floettite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2254": {
+    "id": 2254,
+    "name": "malamarite",
+    "names": {
+      "en": "malamarite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2255": {
+    "id": 2255,
+    "name": "barbaracite",
+    "names": {
+      "en": "barbaracite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2256": {
+    "id": 2256,
+    "name": "dragalgite",
+    "names": {
+      "en": "dragalgite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

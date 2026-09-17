@@ -1,0 +1,4762 @@
+{
+  "10176": {
+    "id": 10176,
+    "name": "darumaka-galar",
+    "names": {
+      "en": "darumaka-galar",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "hustle",
+      "inner-focus"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 45,
+      "special-attack": 15,
+      "special-defense": 45,
+      "speed": 50
+    },
+    "height": 7,
+    "weight": 400,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10176.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10176.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+    },
+    "species": {
+      "name": "darumaka"
+    }
+  },
+  "10177": {
+    "id": 10177,
+    "name": "darmanitan-galar-standard",
+    "names": {
+      "en": "darmanitan-galar-standard",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "gorilla-tactics",
+      "zen-mode"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140,
+      "defense": 55,
+      "special-attack": 30,
+      "special-defense": 55,
+      "speed": 95
+    },
+    "height": 17,
+    "weight": 1200,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10177.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png"
+    },
+    "species": {
+      "name": "darmanitan"
+    }
+  },
+  "10178": {
+    "id": 10178,
+    "name": "darmanitan-galar-zen",
+    "names": {
+      "en": "darmanitan-galar-zen",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "gorilla-tactics",
+      "zen-mode"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 160,
+      "defense": 55,
+      "special-attack": 30,
+      "special-defense": 55,
+      "speed": 135
+    },
+    "height": 17,
+    "weight": 1200,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10178.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10178.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10178.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10178.png"
+    },
+    "species": {
+      "name": "darmanitan"
+    }
+  },
+  "10179": {
+    "id": 10179,
+    "name": "yamask-galar",
+    "names": {
+      "en": "yamask-galar",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "wandering-spirit"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 55,
+      "defense": 85,
+      "special-attack": 30,
+      "special-defense": 65,
+      "speed": 30
+    },
+    "height": 5,
+    "weight": 15,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
+    },
+    "species": {
+      "name": "yamask"
+    }
+  },
+  "10180": {
+    "id": 10180,
+    "name": "stunfisk-galar",
+    "names": {
+      "en": "stunfisk-galar",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "mimicry"
+    ],
+    "stats": {
+      "hp": 109,
+      "attack": 81,
+      "defense": 99,
+      "special-attack": 66,
+      "special-defense": 84,
+      "speed": 32
+    },
+    "height": 7,
+    "weight": 205,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10180.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
+    },
+    "species": {
+      "name": "stunfisk"
+    }
+  },
+  "10181": {
+    "id": 10181,
+    "name": "zygarde-10",
+    "names": {
+      "en": "zygarde-10",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "aura-break"
+    ],
+    "stats": {
+      "hp": 54,
+      "attack": 100,
+      "defense": 71,
+      "special-attack": 61,
+      "special-defense": 85,
+      "speed": 115
+    },
+    "height": 12,
+    "weight": 335,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10181.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10181.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10181.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10181.png"
+    },
+    "species": {
+      "name": "zygarde"
+    }
+  },
+  "10182": {
+    "id": 10182,
+    "name": "cramorant-gulping",
+    "names": {
+      "en": "cramorant-gulping",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "gulp-missile"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 55,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "height": 8,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10182.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10182.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10182.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10182.png"
+    },
+    "species": {
+      "name": "cramorant"
+    }
+  },
+  "10183": {
+    "id": 10183,
+    "name": "cramorant-gorging",
+    "names": {
+      "en": "cramorant-gorging",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "gulp-missile"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 55,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 85
+    },
+    "height": 8,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10183.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10183.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10183.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10183.png"
+    },
+    "species": {
+      "name": "cramorant"
+    }
+  },
+  "10184": {
+    "id": 10184,
+    "name": "toxtricity-low-key",
+    "names": {
+      "en": "toxtricity-low-key",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "punk-rock",
+      "minus",
+      "technician"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "height": 16,
+    "weight": 400,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10184.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10184.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10184.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10184.png"
+    },
+    "species": {
+      "name": "toxtricity"
+    }
+  },
+  "10185": {
+    "id": 10185,
+    "name": "eiscue-noice",
+    "names": {
+      "en": "eiscue-noice",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "ice-face"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 70,
+      "special-attack": 65,
+      "special-defense": 50,
+      "speed": 130
+    },
+    "height": 14,
+    "weight": 890,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10185.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10185.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10185.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10185.png"
+    },
+    "species": {
+      "name": "eiscue"
+    }
+  },
+  "10186": {
+    "id": 10186,
+    "name": "indeedee-female",
+    "names": {
+      "en": "indeedee-female",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "own-tempo",
+      "synchronize",
+      "psychic-surge"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 65,
+      "special-attack": 95,
+      "special-defense": 105,
+      "speed": 85
+    },
+    "height": 9,
+    "weight": 280,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10186.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10186.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10186.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10186.png"
+    },
+    "species": {
+      "name": "indeedee"
+    }
+  },
+  "10187": {
+    "id": 10187,
+    "name": "morpeko-hangry",
+    "names": {
+      "en": "morpeko-hangry",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "hunger-switch"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 95,
+      "defense": 58,
+      "special-attack": 70,
+      "special-defense": 58,
+      "speed": 97
+    },
+    "height": 3,
+    "weight": 30,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10187.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10187.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10187.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10187.png"
+    },
+    "species": {
+      "name": "morpeko"
+    }
+  },
+  "10188": {
+    "id": 10188,
+    "name": "zacian-crowned",
+    "names": {
+      "en": "zacian-crowned",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "intrepid-sword"
+    ],
+    "stats": {
+      "hp": 92,
+      "attack": 150,
+      "defense": 115,
+      "special-attack": 80,
+      "special-defense": 115,
+      "speed": 148
+    },
+    "height": 28,
+    "weight": 3550,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10188.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10188.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
+    },
+    "species": {
+      "name": "zacian"
+    }
+  },
+  "10189": {
+    "id": 10189,
+    "name": "zamazenta-crowned",
+    "names": {
+      "en": "zamazenta-crowned",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "dauntless-shield"
+    ],
+    "stats": {
+      "hp": 92,
+      "attack": 120,
+      "defense": 140,
+      "special-attack": 80,
+      "special-defense": 140,
+      "speed": 128
+    },
+    "height": 29,
+    "weight": 7850,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10189.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10189.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
+    },
+    "species": {
+      "name": "zamazenta"
+    }
+  },
+  "10190": {
+    "id": 10190,
+    "name": "eternatus-eternamax",
+    "names": {
+      "en": "eternatus-eternamax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "pressure"
+    ],
+    "stats": {
+      "hp": 255,
+      "attack": 115,
+      "defense": 250,
+      "special-attack": 125,
+      "special-defense": 250,
+      "speed": 130
+    },
+    "height": 1000,
+    "weight": 0,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10190.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10190.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10190.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10190.png"
+    },
+    "species": {
+      "name": "eternatus"
+    }
+  },
+  "10191": {
+    "id": 10191,
+    "name": "urshifu-rapid-strike",
+    "names": {
+      "en": "urshifu-rapid-strike",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "unseen-fist"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "height": 19,
+    "weight": 1050,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10191.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10191.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png"
+    },
+    "species": {
+      "name": "urshifu"
+    }
+  },
+  "10192": {
+    "id": 10192,
+    "name": "zarude-dada",
+    "names": {
+      "en": "zarude-dada",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "leaf-guard"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 120,
+      "defense": 105,
+      "special-attack": 70,
+      "special-defense": 95,
+      "speed": 105
+    },
+    "height": 18,
+    "weight": 700,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10192.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10192.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10192.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10192.png"
+    },
+    "species": {
+      "name": "zarude"
+    }
+  },
+  "10193": {
+    "id": 10193,
+    "name": "calyrex-ice",
+    "names": {
+      "en": "calyrex-ice",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "as-one-glastrier"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 165,
+      "defense": 150,
+      "special-attack": 85,
+      "special-defense": 130,
+      "speed": 50
+    },
+    "height": 24,
+    "weight": 8091,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10193.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10193.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10193.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10193.png"
+    },
+    "species": {
+      "name": "calyrex"
+    }
+  },
+  "10194": {
+    "id": 10194,
+    "name": "calyrex-shadow",
+    "names": {
+      "en": "calyrex-shadow",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "as-one-spectrier"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 165,
+      "special-defense": 100,
+      "speed": 150
+    },
+    "height": 24,
+    "weight": 536,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10194.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10194.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10194.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10194.png"
+    },
+    "species": {
+      "name": "calyrex"
+    }
+  },
+  "10195": {
+    "id": 10195,
+    "name": "venusaur-gmax",
+    "names": {
+      "en": "venusaur-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "overgrow",
+      "chlorophyll"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 82,
+      "defense": 83,
+      "special-attack": 100,
+      "special-defense": 100,
+      "speed": 80
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10195.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10195.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10195.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10195.png"
+    },
+    "species": {
+      "name": "venusaur"
+    }
+  },
+  "10196": {
+    "id": 10196,
+    "name": "charizard-gmax",
+    "names": {
+      "en": "charizard-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "blaze",
+      "solar-power"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 84,
+      "defense": 78,
+      "special-attack": 109,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "height": 280,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10196.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10196.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10196.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10196.png"
+    },
+    "species": {
+      "name": "charizard"
+    }
+  },
+  "10197": {
+    "id": 10197,
+    "name": "blastoise-gmax",
+    "names": {
+      "en": "blastoise-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "rain-dish"
+    ],
+    "stats": {
+      "hp": 79,
+      "attack": 83,
+      "defense": 100,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 78
+    },
+    "height": 250,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10197.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10197.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10197.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10197.png"
+    },
+    "species": {
+      "name": "blastoise"
+    }
+  },
+  "10198": {
+    "id": 10198,
+    "name": "butterfree-gmax",
+    "names": {
+      "en": "butterfree-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "compound-eyes",
+      "tinted-lens"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 50,
+      "special-attack": 90,
+      "special-defense": 80,
+      "speed": 70
+    },
+    "height": 170,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10198.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10198.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png"
+    },
+    "species": {
+      "name": "butterfree"
+    }
+  },
+  "10199": {
+    "id": 10199,
+    "name": "pikachu-gmax",
+    "names": {
+      "en": "pikachu-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "static",
+      "lightning-rod"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 90
+    },
+    "height": 210,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10199.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10199.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10199.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10199.png"
+    },
+    "species": {
+      "name": "pikachu"
+    }
+  },
+  "10200": {
+    "id": 10200,
+    "name": "meowth-gmax",
+    "names": {
+      "en": "meowth-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "pickup",
+      "technician",
+      "unnerve"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 45,
+      "defense": 35,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 90
+    },
+    "height": 330,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10200.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10200.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10200.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10200.png"
+    },
+    "species": {
+      "name": "meowth"
+    }
+  },
+  "10201": {
+    "id": 10201,
+    "name": "machamp-gmax",
+    "names": {
+      "en": "machamp-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "guts",
+      "no-guard",
+      "steadfast"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 130,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 85,
+      "speed": 55
+    },
+    "height": 250,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10201.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10201.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png"
+    },
+    "species": {
+      "name": "machamp"
+    }
+  },
+  "10202": {
+    "id": 10202,
+    "name": "gengar-gmax",
+    "names": {
+      "en": "gengar-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "cursed-body"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "special-attack": 130,
+      "special-defense": 75,
+      "speed": 110
+    },
+    "height": 200,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10202.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10202.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10202.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10202.png"
+    },
+    "species": {
+      "name": "gengar"
+    }
+  },
+  "10203": {
+    "id": 10203,
+    "name": "kingler-gmax",
+    "names": {
+      "en": "kingler-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "hyper-cutter",
+      "shell-armor",
+      "sheer-force"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 130,
+      "defense": 115,
+      "special-attack": 50,
+      "special-defense": 50,
+      "speed": 75
+    },
+    "height": 190,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10203.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10203.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10203.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10203.png"
+    },
+    "species": {
+      "name": "kingler"
+    }
+  },
+  "10204": {
+    "id": 10204,
+    "name": "lapras-gmax",
+    "names": {
+      "en": "lapras-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "water-absorb",
+      "shell-armor",
+      "hydration"
+    ],
+    "stats": {
+      "hp": 130,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 85,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10204.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10204.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10204.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10204.png"
+    },
+    "species": {
+      "name": "lapras"
+    }
+  },
+  "10205": {
+    "id": 10205,
+    "name": "eevee-gmax",
+    "names": {
+      "en": "eevee-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "run-away",
+      "adaptability",
+      "anticipation"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "special-attack": 45,
+      "special-defense": 65,
+      "speed": 55
+    },
+    "height": 180,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10205.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10205.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10205.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10205.png"
+    },
+    "species": {
+      "name": "eevee"
+    }
+  },
+  "10206": {
+    "id": 10206,
+    "name": "snorlax-gmax",
+    "names": {
+      "en": "snorlax-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "immunity",
+      "thick-fat",
+      "gluttony"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "special-attack": 65,
+      "special-defense": 110,
+      "speed": 30
+    },
+    "height": 350,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10206.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10206.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10206.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10206.png"
+    },
+    "species": {
+      "name": "snorlax"
+    }
+  },
+  "10207": {
+    "id": 10207,
+    "name": "garbodor-gmax",
+    "names": {
+      "en": "garbodor-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "stench",
+      "weak-armor",
+      "aftermath"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 82,
+      "special-attack": 60,
+      "special-defense": 82,
+      "speed": 75
+    },
+    "height": 210,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10207.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10207.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10207.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10207.png"
+    },
+    "species": {
+      "name": "garbodor"
+    }
+  },
+  "10208": {
+    "id": 10208,
+    "name": "melmetal-gmax",
+    "names": {
+      "en": "melmetal-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "iron-fist"
+    ],
+    "stats": {
+      "hp": 135,
+      "attack": 143,
+      "defense": 143,
+      "special-attack": 80,
+      "special-defense": 65,
+      "speed": 34
+    },
+    "height": 250,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10208.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10208.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10208.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10208.png"
+    },
+    "species": {
+      "name": "melmetal"
+    }
+  },
+  "10209": {
+    "id": 10209,
+    "name": "rillaboom-gmax",
+    "names": {
+      "en": "rillaboom-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "overgrow",
+      "grassy-surge"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 125,
+      "defense": 90,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 85
+    },
+    "height": 280,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10209.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10209.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10209.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10209.png"
+    },
+    "species": {
+      "name": "rillaboom"
+    }
+  },
+  "10210": {
+    "id": 10210,
+    "name": "cinderace-gmax",
+    "names": {
+      "en": "cinderace-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "blaze",
+      "libero"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 116,
+      "defense": 75,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 119
+    },
+    "height": 270,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10210.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10210.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10210.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10210.png"
+    },
+    "species": {
+      "name": "cinderace"
+    }
+  },
+  "10211": {
+    "id": 10211,
+    "name": "inteleon-gmax",
+    "names": {
+      "en": "inteleon-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "sniper"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 85,
+      "defense": 65,
+      "special-attack": 125,
+      "special-defense": 65,
+      "speed": 120
+    },
+    "height": 400,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10211.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10211.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10211.png"
+    },
+    "species": {
+      "name": "inteleon"
+    }
+  },
+  "10212": {
+    "id": 10212,
+    "name": "corviknight-gmax",
+    "names": {
+      "en": "corviknight-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "flying"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "pressure",
+      "unnerve",
+      "mirror-armor"
+    ],
+    "stats": {
+      "hp": 98,
+      "attack": 87,
+      "defense": 105,
+      "special-attack": 53,
+      "special-defense": 85,
+      "speed": 67
+    },
+    "height": 140,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10212.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10212.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10212.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10212.png"
+    },
+    "species": {
+      "name": "corviknight"
+    }
+  },
+  "10213": {
+    "id": 10213,
+    "name": "orbeetle-gmax",
+    "names": {
+      "en": "orbeetle-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "swarm",
+      "frisk",
+      "telepathy"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 110,
+      "special-attack": 80,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "height": 140,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10213.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10213.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10213.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10213.png"
+    },
+    "species": {
+      "name": "orbeetle"
+    }
+  },
+  "10214": {
+    "id": 10214,
+    "name": "drednaw-gmax",
+    "names": {
+      "en": "drednaw-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "strong-jaw",
+      "shell-armor",
+      "swift-swim"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 115,
+      "defense": 90,
+      "special-attack": 48,
+      "special-defense": 68,
+      "speed": 74
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10214.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10214.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10214.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10214.png"
+    },
+    "species": {
+      "name": "drednaw"
+    }
+  },
+  "10215": {
+    "id": 10215,
+    "name": "coalossal-gmax",
+    "names": {
+      "en": "coalossal-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "steam-engine",
+      "flame-body",
+      "flash-fire"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 80,
+      "defense": 120,
+      "special-attack": 80,
+      "special-defense": 90,
+      "speed": 30
+    },
+    "height": 420,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10215.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10215.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10215.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10215.png"
+    },
+    "species": {
+      "name": "coalossal"
+    }
+  },
+  "10216": {
+    "id": 10216,
+    "name": "flapple-gmax",
+    "names": {
+      "en": "flapple-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "ripen",
+      "gluttony",
+      "hustle"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 110,
+      "defense": 80,
+      "special-attack": 95,
+      "special-defense": 60,
+      "speed": 70
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10216.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10216.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10216.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10216.png"
+    },
+    "species": {
+      "name": "flapple"
+    }
+  },
+  "10217": {
+    "id": 10217,
+    "name": "appletun-gmax",
+    "names": {
+      "en": "appletun-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "ripen",
+      "gluttony",
+      "thick-fat"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 85,
+      "defense": 80,
+      "special-attack": 100,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10217.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10217.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10217.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10217.png"
+    },
+    "species": {
+      "name": "appletun"
+    }
+  },
+  "10218": {
+    "id": 10218,
+    "name": "sandaconda-gmax",
+    "names": {
+      "en": "sandaconda-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "sand-spit",
+      "shed-skin",
+      "sand-veil"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 107,
+      "defense": 125,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 71
+    },
+    "height": 220,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10218.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10218.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10218.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10218.png"
+    },
+    "species": {
+      "name": "sandaconda"
+    }
+  },
+  "10219": {
+    "id": 10219,
+    "name": "toxtricity-amped-gmax",
+    "names": {
+      "en": "toxtricity-amped-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "punk-rock",
+      "plus",
+      "technician"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10219.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10219.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10219.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10219.png"
+    },
+    "species": {
+      "name": "toxtricity"
+    }
+  },
+  "10220": {
+    "id": 10220,
+    "name": "centiskorch-gmax",
+    "names": {
+      "en": "centiskorch-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "bug"
+        }
+      }
+    ],
+    "abilities": [
+      "flash-fire",
+      "white-smoke",
+      "flame-body"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 115,
+      "defense": 65,
+      "special-attack": 90,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "height": 750,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10220.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10220.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10220.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10220.png"
+    },
+    "species": {
+      "name": "centiskorch"
+    }
+  },
+  "10221": {
+    "id": 10221,
+    "name": "hatterene-gmax",
+    "names": {
+      "en": "hatterene-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "healer",
+      "anticipation",
+      "magic-bounce"
+    ],
+    "stats": {
+      "hp": 57,
+      "attack": 90,
+      "defense": 95,
+      "special-attack": 136,
+      "special-defense": 103,
+      "speed": 29
+    },
+    "height": 260,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10221.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10221.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10221.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10221.png"
+    },
+    "species": {
+      "name": "hatterene"
+    }
+  },
+  "10222": {
+    "id": 10222,
+    "name": "grimmsnarl-gmax",
+    "names": {
+      "en": "grimmsnarl-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "prankster",
+      "frisk",
+      "pickpocket"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 120,
+      "defense": 65,
+      "special-attack": 95,
+      "special-defense": 75,
+      "speed": 60
+    },
+    "height": 320,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10222.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10222.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10222.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10222.png"
+    },
+    "species": {
+      "name": "grimmsnarl"
+    }
+  },
+  "10223": {
+    "id": 10223,
+    "name": "alcremie-gmax",
+    "names": {
+      "en": "alcremie-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "sweet-veil",
+      "aroma-veil"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 60,
+      "defense": 75,
+      "special-attack": 110,
+      "special-defense": 121,
+      "speed": 64
+    },
+    "height": 300,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10223.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10223.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10223.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10223.png"
+    },
+    "species": {
+      "name": "alcremie"
+    }
+  },
+  "10224": {
+    "id": 10224,
+    "name": "copperajah-gmax",
+    "names": {
+      "en": "copperajah-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "sheer-force",
+      "heavy-metal"
+    ],
+    "stats": {
+      "hp": 122,
+      "attack": 130,
+      "defense": 69,
+      "special-attack": 80,
+      "special-defense": 69,
+      "speed": 30
+    },
+    "height": 230,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10224.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10224.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10224.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10224.png"
+    },
+    "species": {
+      "name": "copperajah"
+    }
+  },
+  "10225": {
+    "id": 10225,
+    "name": "duraludon-gmax",
+    "names": {
+      "en": "duraludon-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "light-metal",
+      "heavy-metal",
+      "stalwart"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 95,
+      "defense": 115,
+      "special-attack": 120,
+      "special-defense": 50,
+      "speed": 85
+    },
+    "height": 430,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10225.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10225.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10225.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10225.png"
+    },
+    "species": {
+      "name": "duraludon"
+    }
+  },
+  "10226": {
+    "id": 10226,
+    "name": "urshifu-single-strike-gmax",
+    "names": {
+      "en": "urshifu-single-strike-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "unseen-fist"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "height": 290,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10226.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10226.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10226.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10226.png"
+    },
+    "species": {
+      "name": "urshifu"
+    }
+  },
+  "10227": {
+    "id": 10227,
+    "name": "urshifu-rapid-strike-gmax",
+    "names": {
+      "en": "urshifu-rapid-strike-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "unseen-fist"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 130,
+      "defense": 100,
+      "special-attack": 63,
+      "special-defense": 60,
+      "speed": 97
+    },
+    "height": 260,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10227.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10227.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10227.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10227.png"
+    },
+    "species": {
+      "name": "urshifu"
+    }
+  },
+  "10228": {
+    "id": 10228,
+    "name": "toxtricity-low-key-gmax",
+    "names": {
+      "en": "toxtricity-low-key-gmax",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "punk-rock",
+      "minus",
+      "technician"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 70,
+      "special-attack": 114,
+      "special-defense": 70,
+      "speed": 75
+    },
+    "height": 240,
+    "weight": 10000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10228.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10228.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10228.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10228.png"
+    },
+    "species": {
+      "name": "toxtricity"
+    }
+  },
+  "10229": {
+    "id": 10229,
+    "name": "growlithe-hisui",
+    "names": {
+      "en": "growlithe-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "rock-head"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 45,
+      "special-attack": 65,
+      "special-defense": 50,
+      "speed": 55
+    },
+    "height": 8,
+    "weight": 227,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10229.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10229.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10229.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10229.png"
+    },
+    "species": {
+      "name": "growlithe"
+    }
+  },
+  "10230": {
+    "id": 10230,
+    "name": "arcanine-hisui",
+    "names": {
+      "en": "arcanine-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "flash-fire",
+      "rock-head"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 115,
+      "defense": 80,
+      "special-attack": 95,
+      "special-defense": 80,
+      "speed": 90
+    },
+    "height": 20,
+    "weight": 1680,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10230.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10230.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
+    },
+    "species": {
+      "name": "arcanine"
+    }
+  },
+  "10231": {
+    "id": 10231,
+    "name": "voltorb-hisui",
+    "names": {
+      "en": "voltorb-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 30,
+      "defense": 50,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 100
+    },
+    "height": 5,
+    "weight": 130,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10231.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10231.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png"
+    },
+    "species": {
+      "name": "voltorb"
+    }
+  },
+  "10232": {
+    "id": 10232,
+    "name": "electrode-hisui",
+    "names": {
+      "en": "electrode-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "soundproof",
+      "static",
+      "aftermath"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 50,
+      "defense": 70,
+      "special-attack": 80,
+      "special-defense": 80,
+      "speed": 150
+    },
+    "height": 12,
+    "weight": 710,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10232.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10232.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10232.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10232.png"
+    },
+    "species": {
+      "name": "electrode"
+    }
+  },
+  "10233": {
+    "id": 10233,
+    "name": "typhlosion-hisui",
+    "names": {
+      "en": "typhlosion-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "blaze",
+      "frisk"
+    ],
+    "stats": {
+      "hp": 73,
+      "attack": 84,
+      "defense": 78,
+      "special-attack": 119,
+      "special-defense": 85,
+      "speed": 95
+    },
+    "height": 16,
+    "weight": 698,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10233.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10233.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
+    },
+    "species": {
+      "name": "typhlosion"
+    }
+  },
+  "10234": {
+    "id": 10234,
+    "name": "qwilfish-hisui",
+    "names": {
+      "en": "qwilfish-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "poison-point",
+      "swift-swim",
+      "intimidate"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 95,
+      "defense": 85,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 85
+    },
+    "height": 5,
+    "weight": 39,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10234.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10234.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10234.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10234.png"
+    },
+    "species": {
+      "name": "qwilfish"
+    }
+  },
+  "10235": {
+    "id": 10235,
+    "name": "sneasel-hisui",
+    "names": {
+      "en": "sneasel-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "inner-focus",
+      "keen-eye",
+      "pickpocket"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 95,
+      "defense": 55,
+      "special-attack": 35,
+      "special-defense": 75,
+      "speed": 115
+    },
+    "height": 9,
+    "weight": 270,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10235.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10235.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10235.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10235.png"
+    },
+    "species": {
+      "name": "sneasel"
+    }
+  },
+  "10236": {
+    "id": 10236,
+    "name": "samurott-hisui",
+    "names": {
+      "en": "samurott-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "sharpness"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 108,
+      "defense": 80,
+      "special-attack": 100,
+      "special-defense": 65,
+      "speed": 85
+    },
+    "height": 15,
+    "weight": 582,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10236.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10236.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png"
+    },
+    "species": {
+      "name": "samurott"
+    }
+  },
+  "10237": {
+    "id": 10237,
+    "name": "lilligant-hisui",
+    "names": {
+      "en": "lilligant-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "chlorophyll",
+      "hustle",
+      "leaf-guard"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105,
+      "defense": 75,
+      "special-attack": 50,
+      "special-defense": 75,
+      "speed": 105
+    },
+    "height": 12,
+    "weight": 192,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10237.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10237.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png"
+    },
+    "species": {
+      "name": "lilligant"
+    }
+  },
+  "10238": {
+    "id": 10238,
+    "name": "zorua-hisui",
+    "names": {
+      "en": "zorua-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "illusion"
+    ],
+    "stats": {
+      "hp": 35,
+      "attack": 60,
+      "defense": 40,
+      "special-attack": 85,
+      "special-defense": 40,
+      "speed": 70
+    },
+    "height": 7,
+    "weight": 125,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10238.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10238.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10238.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10238.png"
+    },
+    "species": {
+      "name": "zorua"
+    }
+  },
+  "10239": {
+    "id": 10239,
+    "name": "zoroark-hisui",
+    "names": {
+      "en": "zoroark-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "illusion"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 100,
+      "defense": 60,
+      "special-attack": 125,
+      "special-defense": 60,
+      "speed": 110
+    },
+    "height": 16,
+    "weight": 730,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10239.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10239.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
+    },
+    "species": {
+      "name": "zoroark"
+    }
+  },
+  "10240": {
+    "id": 10240,
+    "name": "braviary-hisui",
+    "names": {
+      "en": "braviary-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "keen-eye",
+      "sheer-force",
+      "tinted-lens"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 83,
+      "defense": 70,
+      "special-attack": 112,
+      "special-defense": 70,
+      "speed": 65
+    },
+    "height": 17,
+    "weight": 434,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10240.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10240.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10240.png"
+    },
+    "species": {
+      "name": "braviary"
+    }
+  },
+  "10241": {
+    "id": 10241,
+    "name": "sliggoo-hisui",
+    "names": {
+      "en": "sliggoo-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "sap-sipper",
+      "shell-armor",
+      "gooey"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 75,
+      "defense": 83,
+      "special-attack": 83,
+      "special-defense": 113,
+      "speed": 40
+    },
+    "height": 7,
+    "weight": 685,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10241.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10241.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10241.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10241.png"
+    },
+    "species": {
+      "name": "sliggoo"
+    }
+  },
+  "10242": {
+    "id": 10242,
+    "name": "goodra-hisui",
+    "names": {
+      "en": "goodra-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "sap-sipper",
+      "shell-armor",
+      "gooey"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 100,
+      "special-attack": 110,
+      "special-defense": 150,
+      "speed": 60
+    },
+    "height": 17,
+    "weight": 3341,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10242.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10242.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10242.png"
+    },
+    "species": {
+      "name": "goodra"
+    }
+  },
+  "10243": {
+    "id": 10243,
+    "name": "avalugg-hisui",
+    "names": {
+      "en": "avalugg-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "strong-jaw",
+      "ice-body",
+      "sturdy"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 127,
+      "defense": 184,
+      "special-attack": 34,
+      "special-defense": 36,
+      "speed": 38
+    },
+    "height": 14,
+    "weight": 2624,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10243.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10243.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10243.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10243.png"
+    },
+    "species": {
+      "name": "avalugg"
+    }
+  },
+  "10244": {
+    "id": 10244,
+    "name": "decidueye-hisui",
+    "names": {
+      "en": "decidueye-hisui",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "overgrow",
+      "scrappy"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 112,
+      "defense": 80,
+      "special-attack": 95,
+      "special-defense": 95,
+      "speed": 60
+    },
+    "height": 16,
+    "weight": 370,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10244.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10244.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
+    },
+    "species": {
+      "name": "decidueye"
+    }
+  },
+  "10245": {
+    "id": 10245,
+    "name": "dialga-origin",
+    "names": {
+      "en": "dialga-origin",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 100,
+      "defense": 120,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 90
+    },
+    "height": 70,
+    "weight": 8487,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10245.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10245.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10245.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10245.png"
+    },
+    "species": {
+      "name": "dialga"
+    }
+  },
+  "10246": {
+    "id": 10246,
+    "name": "palkia-origin",
+    "names": {
+      "en": "palkia-origin",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "pressure",
+      "telepathy"
+    ],
+    "stats": {
+      "hp": 90,
+      "attack": 100,
+      "defense": 100,
+      "special-attack": 150,
+      "special-defense": 120,
+      "speed": 120
+    },
+    "height": 63,
+    "weight": 6590,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10246.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10246.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10246.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10246.png"
+    },
+    "species": {
+      "name": "palkia"
+    }
+  },
+  "10247": {
+    "id": 10247,
+    "name": "basculin-white-striped",
+    "names": {
+      "en": "basculin-white-striped",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "rattled",
+      "adaptability",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 92,
+      "defense": 65,
+      "special-attack": 80,
+      "special-defense": 55,
+      "speed": 98
+    },
+    "height": 10,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10247.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10247.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10247.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10247.png"
+    },
+    "species": {
+      "name": "basculin"
+    }
+  },
+  "10248": {
+    "id": 10248,
+    "name": "basculegion-female",
+    "names": {
+      "en": "basculegion-female",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "swift-swim",
+      "adaptability",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 92,
+      "defense": 65,
+      "special-attack": 100,
+      "special-defense": 75,
+      "speed": 78
+    },
+    "height": 30,
+    "weight": 1100,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10248.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10248.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10248.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10248.png"
+    },
+    "species": {
+      "name": "basculegion"
+    }
+  },
+  "10249": {
+    "id": 10249,
+    "name": "enamorus-therian",
+    "names": {
+      "en": "enamorus-therian",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "overcoat"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 115,
+      "defense": 110,
+      "special-attack": 135,
+      "special-defense": 100,
+      "speed": 46
+    },
+    "height": 16,
+    "weight": 480,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10249.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10249.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10249.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10249.png"
+    },
+    "species": {
+      "name": "enamorus"
+    }
+  },
+  "10250": {
+    "id": 10250,
+    "name": "tauros-paldea-combat-breed",
+    "names": {
+      "en": "tauros-paldea-combat-breed",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "anger-point",
+      "cud-chew"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "height": 14,
+    "weight": 1150,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10250.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10250.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png"
+    },
+    "species": {
+      "name": "tauros"
+    }
+  },
+  "10251": {
+    "id": 10251,
+    "name": "tauros-paldea-blaze-breed",
+    "names": {
+      "en": "tauros-paldea-blaze-breed",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "anger-point",
+      "cud-chew"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "height": 14,
+    "weight": 850,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10251.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10251.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10251.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10251.png"
+    },
+    "species": {
+      "name": "tauros"
+    }
+  },
+  "10252": {
+    "id": 10252,
+    "name": "tauros-paldea-aqua-breed",
+    "names": {
+      "en": "tauros-paldea-aqua-breed",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "anger-point",
+      "cud-chew"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 110,
+      "defense": 105,
+      "special-attack": 30,
+      "special-defense": 70,
+      "speed": 100
+    },
+    "height": 14,
+    "weight": 1100,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10252.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10252.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10252.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10252.png"
+    },
+    "species": {
+      "name": "tauros"
+    }
+  },
+  "10253": {
+    "id": 10253,
+    "name": "wooper-paldea",
+    "names": {
+      "en": "wooper-paldea",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "poison-point",
+      "water-absorb",
+      "unaware"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 45,
+      "defense": 45,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 15
+    },
+    "height": 4,
+    "weight": 110,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10253.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10253.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10253.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10253.png"
+    },
+    "species": {
+      "name": "wooper"
+    }
+  },
+  "10254": {
+    "id": 10254,
+    "name": "oinkologne-female",
+    "names": {
+      "en": "oinkologne-female",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "aroma-veil",
+      "gluttony",
+      "thick-fat"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 90,
+      "defense": 70,
+      "special-attack": 59,
+      "special-defense": 90,
+      "speed": 65
+    },
+    "height": 10,
+    "weight": 1200,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10254.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10254.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10254.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10254.png"
+    },
+    "species": {
+      "name": "oinkologne"
+    }
+  },
+  "10255": {
+    "id": 10255,
+    "name": "dudunsparce-three-segment",
+    "names": {
+      "en": "dudunsparce-three-segment",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "serene-grace",
+      "run-away",
+      "rattled"
+    ],
+    "stats": {
+      "hp": 125,
+      "attack": 100,
+      "defense": 80,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 55
+    },
+    "height": 45,
+    "weight": 474,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10255.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10255.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10255.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10255.png"
+    },
+    "species": {
+      "name": "dudunsparce"
+    }
+  },
+  "10256": {
+    "id": 10256,
+    "name": "palafin-hero",
+    "names": {
+      "en": "palafin-hero",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "zero-to-hero"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 160,
+      "defense": 97,
+      "special-attack": 106,
+      "special-defense": 87,
+      "speed": 100
+    },
+    "height": 18,
+    "weight": 974,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10256.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10256.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10256.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10256.png"
+    },
+    "species": {
+      "name": "palafin"
+    }
+  },
+  "10257": {
+    "id": 10257,
+    "name": "maushold-family-of-three",
+    "names": {
+      "en": "maushold-family-of-three",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "friend-guard",
+      "cheek-pouch",
+      "technician"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 75,
+      "defense": 70,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 111
+    },
+    "height": 3,
+    "weight": 23,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10257.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10257.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10257.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10257.png"
+    },
+    "species": {
+      "name": "maushold"
+    }
+  },
+  "10258": {
+    "id": 10258,
+    "name": "tatsugiri-droopy",
+    "names": {
+      "en": "tatsugiri-droopy",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "commander",
+      "storm-drain"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 50,
+      "defense": 60,
+      "special-attack": 120,
+      "special-defense": 95,
+      "speed": 82
+    },
+    "height": 3,
+    "weight": 80,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10258.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10258.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10258.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10258.png"
+    },
+    "species": {
+      "name": "tatsugiri"
+    }
+  },
+  "10259": {
+    "id": 10259,
+    "name": "tatsugiri-stretchy",
+    "names": {
+      "en": "tatsugiri-stretchy",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "commander",
+      "storm-drain"
+    ],
+    "stats": {
+      "hp": 68,
+      "attack": 50,
+      "defense": 60,
+      "special-attack": 120,
+      "special-defense": 95,
+      "speed": 82
+    },
+    "height": 3,
+    "weight": 80,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10259.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10259.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10259.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10259.png"
+    },
+    "species": {
+      "name": "tatsugiri"
+    }
+  },
+  "10260": {
+    "id": 10260,
+    "name": "squawkabilly-blue-plumage",
+    "names": {
+      "en": "squawkabilly-blue-plumage",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "hustle",
+      "guts"
+    ],
+    "stats": {
+      "hp": 82,
+      "attack": 96,
+      "defense": 51,
+      "special-attack": 45,
+      "special-defense": 51,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 24,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10260.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10260.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10260.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10260.png"
+    },
+    "species": {
+      "name": "squawkabilly"
+    }
+  },
+  "10261": {
+    "id": 10261,
+    "name": "squawkabilly-yellow-plumage",
+    "names": {
+      "en": "squawkabilly-yellow-plumage",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "hustle",
+      "sheer-force"
+    ],
+    "stats": {
+      "hp": 82,
+      "attack": 96,
+      "defense": 51,
+      "special-attack": 45,
+      "special-defense": 51,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 24,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10261.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10261.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10261.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10261.png"
+    },
+    "species": {
+      "name": "squawkabilly"
+    }
+  },
+  "10262": {
+    "id": 10262,
+    "name": "squawkabilly-white-plumage",
+    "names": {
+      "en": "squawkabilly-white-plumage",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "hustle",
+      "sheer-force"
+    ],
+    "stats": {
+      "hp": 82,
+      "attack": 96,
+      "defense": 51,
+      "special-attack": 45,
+      "special-defense": 51,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 24,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10262.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10262.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10262.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10262.png"
+    },
+    "species": {
+      "name": "squawkabilly"
+    }
+  },
+  "10263": {
+    "id": 10263,
+    "name": "gimmighoul-roaming",
+    "names": {
+      "en": "gimmighoul-roaming",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "run-away"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 25,
+      "special-attack": 75,
+      "special-defense": 45,
+      "speed": 80
+    },
+    "height": 1,
+    "weight": 10,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10263.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10263.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10263.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10263.png"
+    },
+    "species": {
+      "name": "gimmighoul"
+    }
+  },
+  "10264": {
+    "id": 10264,
+    "name": "koraidon-limited-build",
+    "names": {
+      "en": "koraidon-limited-build",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "height": 35,
+    "weight": 3030,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "koraidon"
+    }
+  },
+  "10265": {
+    "id": 10265,
+    "name": "koraidon-sprinting-build",
+    "names": {
+      "en": "koraidon-sprinting-build",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "height": 35,
+    "weight": 3030,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "koraidon"
+    }
+  },
+  "10266": {
+    "id": 10266,
+    "name": "koraidon-swimming-build",
+    "names": {
+      "en": "koraidon-swimming-build",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "height": 35,
+    "weight": 3030,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "koraidon"
+    }
+  },
+  "10267": {
+    "id": 10267,
+    "name": "koraidon-gliding-build",
+    "names": {
+      "en": "koraidon-gliding-build",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "orichalcum-pulse"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 135,
+      "defense": 115,
+      "special-attack": 85,
+      "special-defense": 100,
+      "speed": 135
+    },
+    "height": 35,
+    "weight": 3030,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "koraidon"
+    }
+  },
+  "10268": {
+    "id": 10268,
+    "name": "miraidon-low-power-mode",
+    "names": {
+      "en": "miraidon-low-power-mode",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "hadron-engine"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "height": 28,
+    "weight": 2400,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "miraidon"
+    }
+  },
+  "10269": {
+    "id": 10269,
+    "name": "miraidon-drive-mode",
+    "names": {
+      "en": "miraidon-drive-mode",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "hadron-engine"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "height": 28,
+    "weight": 2400,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "miraidon"
+    }
+  },
+  "10270": {
+    "id": 10270,
+    "name": "miraidon-aquatic-mode",
+    "names": {
+      "en": "miraidon-aquatic-mode",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "hadron-engine"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "height": 28,
+    "weight": 2400,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "miraidon"
+    }
+  },
+  "10271": {
+    "id": 10271,
+    "name": "miraidon-glide-mode",
+    "names": {
+      "en": "miraidon-glide-mode",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "hadron-engine"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 85,
+      "defense": 100,
+      "special-attack": 135,
+      "special-defense": 115,
+      "speed": 135
+    },
+    "height": 28,
+    "weight": 2400,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "miraidon"
+    }
+  },
+  "10272": {
+    "id": 10272,
+    "name": "ursaluna-bloodmoon",
+    "names": {
+      "en": "ursaluna-bloodmoon",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "minds-eye"
+    ],
+    "stats": {
+      "hp": 113,
+      "attack": 70,
+      "defense": 120,
+      "special-attack": 135,
+      "special-defense": 65,
+      "speed": 52
+    },
+    "height": 24,
+    "weight": 2900,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10272.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10272.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10272.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10272.png"
+    },
+    "species": {
+      "name": "ursaluna"
+    }
+  },
+  "10273": {
+    "id": 10273,
+    "name": "ogerpon-wellspring-mask",
+    "names": {
+      "en": "ogerpon-wellspring-mask",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "water-absorb"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "height": 12,
+    "weight": 398,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10273.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10273.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10273.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10273.png"
+    },
+    "species": {
+      "name": "ogerpon"
+    }
+  },
+  "10274": {
+    "id": 10274,
+    "name": "ogerpon-hearthflame-mask",
+    "names": {
+      "en": "ogerpon-hearthflame-mask",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "height": 12,
+    "weight": 398,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10274.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10274.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10274.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10274.png"
+    },
+    "species": {
+      "name": "ogerpon"
+    }
+  },
+  "10275": {
+    "id": 10275,
+    "name": "ogerpon-cornerstone-mask",
+    "names": {
+      "en": "ogerpon-cornerstone-mask",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 120,
+      "defense": 84,
+      "special-attack": 60,
+      "special-defense": 96,
+      "speed": 110
+    },
+    "height": 12,
+    "weight": 398,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10275.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10275.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10275.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10275.png"
+    },
+    "species": {
+      "name": "ogerpon"
+    }
+  }
+}

@@ -1,0 +1,1339 @@
+[
+  {
+    "id": 1,
+    "name": "national",
+    "names": [
+      {
+        "name": "National",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "National",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Nacional",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "National",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Nacional",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "kanto",
+    "names": [
+      {
+        "name": "Kanto",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kanto",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Kanto",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Kanto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Kanto",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "original-johto",
+    "names": [
+      {
+        "name": "Johto initial",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Original Johto",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Johto Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Johto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Johto Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "hoenn",
+    "names": [
+      {
+        "name": "Hoenn initial",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Original Hoenn",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hoenn Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Hoenn",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Hoenn Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "original-sinnoh",
+    "names": [
+      {
+        "name": "Sinnoh initial",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Original Sinnoh",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sinnoh Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Sinnoh",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sinnoh Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "extended-sinnoh",
+    "names": [
+      {
+        "name": "Sinnoh étendu",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Erweitertes Sinnoh",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sinnoh Extendido",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Extended Sinnoh",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sinnoh Extendido",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "updated-johto",
+    "names": [
+      {
+        "name": "Johto amélioré",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Aktualisiertes Johto",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Johto Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Johto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Johto Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "original-unova",
+    "names": [
+      {
+        "name": "Unys initial",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Original Einall",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Teselia Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Unova",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Teselia Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "updated-unova",
+    "names": [
+      {
+        "name": "Unys amélioré",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Aktualisiertes Einall",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Teselia Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Unova",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Teselia Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "conquest-gallery",
+    "names": [
+      {
+        "name": "Galerie",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gallerie",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Galería",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Gallery",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Galería",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "kalos-central",
+    "names": [
+      {
+        "name": "Kalos : Centre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kalos-Zentral",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Kalos Centro",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Central Kalos",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Kalos Centro",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "kalos-coastal",
+    "names": [
+      {
+        "name": "Kalos : Côtes",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kalos-Küste",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Kalos Costa",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Coastal Kalos",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Kalos Costa",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "kalos-mountain",
+    "names": [
+      {
+        "name": "Kalos : Monts",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kalos-Gebirge",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Kalos Montaña",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Mountain Kalos",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Kalos Montaña",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "updated-hoenn",
+    "names": [
+      {
+        "name": "Hoenn amélioré",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Neue Hoenn",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hoenn Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "New Hoenn",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Hoenn Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "original-alola",
+    "names": [
+      {
+        "name": "Alola original",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Alola Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Alola",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Alola Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "original-melemele",
+    "names": [
+      {
+        "name": "Mele-Mele original",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Melemele Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Melemele",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Melemele Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "original-akala",
+    "names": [
+      {
+        "name": "Akala original",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Akala Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Akala",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Akala Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "original-ulaula",
+    "names": [
+      {
+        "name": "Ula-Ula original",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ula-Ula Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Ula’ula",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Ula-Ula Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "original-poni",
+    "names": [
+      {
+        "name": "Poni original",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Poni Original",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Original Poni",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Poni Original",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "updated-alola",
+    "names": [
+      {
+        "name": "Alola mis à jour",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Alola Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Alola",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Alola Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "updated-melemele",
+    "names": [
+      {
+        "name": "Mele-Mele mis à jour",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Melemele Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Melemele",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Melemele Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "updated-akala",
+    "names": [
+      {
+        "name": "Akala mis à jour",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Akala Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Akala",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Akala Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "updated-ulaula",
+    "names": [
+      {
+        "name": "Ula-Ula mis à jour",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ula-Ula Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Ula’ula",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Ula-Ula Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "updated-poni",
+    "names": [
+      {
+        "name": "Poni mis à jour",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Poni Actualizado",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Updated Poni",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Poni Actualizado",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "letsgo-kanto",
+    "names": [
+      {
+        "name": "Let's Go Kanto",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Let's Go Kanto",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Let’s Go Kanto",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Let’s Go Kanto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Let’s Go Kanto",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "galar",
+    "names": [
+      {
+        "name": "Galar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Galar",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Galar",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Galar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Galar",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "isle-of-armor",
+    "names": [
+      {
+        "name": "Isolarmure",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Die Insel der Rüstung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Isla de la Armadura",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Isla de la Armadura",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "crown-tundra",
+    "names": [
+      {
+        "name": "Couronneige",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kronen-Schneelande",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Nieves de la Corona",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Crown Tundra",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Nieves de la Corona",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "hisui",
+    "names": [
+      {
+        "name": "Hisui",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Hisui",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hisui",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Hisui",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Hisui",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "paldea",
+    "names": [
+      {
+        "name": "Paldea",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Paldea",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Paldea",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Paldea",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Paldea",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "kitakami",
+    "names": [
+      {
+        "name": "Septentria",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kitakami",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Kitakami",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Kitakami",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "blueberry",
+    "names": [
+      {
+        "name": "Myrtille",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Blaubeer-Akademie",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Arándano",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Blueberry",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Arándano",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "lumiose-city",
+    "names": [
+      {
+        "name": "Illumis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Illumina City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Luminalia",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Lumiose",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Ciudad Luminalia",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "hyperspace",
+    "names": [
+      {
+        "name": "Extra Illumis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Dimensions-Illumina",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Luminalia Dimensional",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Hyperspace",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Luminalia Dimensional",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "champions",
+    "names": [
+      {
+        "name": "Champions",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Champions",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  }
+]

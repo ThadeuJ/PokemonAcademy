@@ -1,0 +1,4505 @@
+{
+  "918": {
+    "id": 918,
+    "name": "motostoke",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Motorby",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Engine City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Motostoke",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 20,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "motostoke-main",
+        "url": "https://pokeapi.co/api/v2/location-area/906/"
+      },
+      {
+        "name": "motostoke-gym",
+        "url": "https://pokeapi.co/api/v2/location-area/1367/"
+      },
+      {
+        "name": "motostoke-pokemon-center",
+        "url": "https://pokeapi.co/api/v2/location-area/1373/"
+      }
+    ]
+  },
+  "919": {
+    "id": 919,
+    "name": "motostoke-outskirts",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Abords de Motorby",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Engine-Ortsrand",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Motostoke Outskirts",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 52,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "motostoke-outskirts-area",
+        "url": "https://pokeapi.co/api/v2/location-area/907/"
+      }
+    ]
+  },
+  "920": {
+    "id": 920,
+    "name": "motostoke-riverbank",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Berges de Motorby",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Engine-Flussufer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Motostoke Riverbank",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 140,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "motostoke-riverbank-area",
+        "url": "https://pokeapi.co/api/v2/location-area/908/"
+      },
+      {
+        "name": "motostoke-riverbank-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1428/"
+      },
+      {
+        "name": "motostoke-riverbank-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1429/"
+      },
+      {
+        "name": "motostoke-riverbank-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1430/"
+      },
+      {
+        "name": "motostoke-riverbank-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1431/"
+      }
+    ]
+  },
+  "921": {
+    "id": 921,
+    "name": "north-lake-miloch",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Lac Milobellus Nord",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Milotic-See (Norden)",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "North Lake Miloch",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 138,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "north-lake-miloch-area",
+        "url": "https://pokeapi.co/api/v2/location-area/909/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1412/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1413/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1414/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1415/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1416/"
+      },
+      {
+        "name": "north-lake-miloch-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1417/"
+      }
+    ]
+  },
+  "922": {
+    "id": 922,
+    "name": "old-cemetery",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Cimetière Ancien",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Uralter Friedhof",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Old Cemetery",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 212,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "old-cemetery-area",
+        "url": "https://pokeapi.co/api/v2/location-area/910/"
+      },
+      {
+        "name": "old-cemetery-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1585/"
+      },
+      {
+        "name": "old-cemetery-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1586/"
+      }
+    ]
+  },
+  "923": {
+    "id": 923,
+    "name": "path-to-the-peak",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Sentier Blanche-Cime",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schneegipfelpfad",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Path to the Peak",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 218,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "path-to-the-peak-area",
+        "url": "https://pokeapi.co/api/v2/location-area/911/"
+      },
+      {
+        "name": "path-to-the-peak-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1596/"
+      },
+      {
+        "name": "path-to-the-peak-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1597/"
+      },
+      {
+        "name": "path-to-the-peak-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1598/"
+      }
+    ]
+  },
+  "924": {
+    "id": 924,
+    "name": "postwick",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Paddoxton",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Furlongham",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Postwick",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 6,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "postwick-area",
+        "url": "https://pokeapi.co/api/v2/location-area/912/"
+      },
+      {
+        "name": "postwick-leons-room",
+        "url": "https://pokeapi.co/api/v2/location-area/1372/"
+      }
+    ]
+  },
+  "925": {
+    "id": 925,
+    "name": "potbottom-desert",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Sables de Kudsac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wüstensenke",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Potbottom Desert",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 184,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "potbottom-desert-area",
+        "url": "https://pokeapi.co/api/v2/location-area/913/"
+      },
+      {
+        "name": "potbottom-desert-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1539/"
+      },
+      {
+        "name": "potbottom-desert-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1540/"
+      },
+      {
+        "name": "potbottom-desert-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1541/"
+      }
+    ]
+  },
+  "926": {
+    "id": 926,
+    "name": "roaring-sea-caves",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Cavernes Gronde-Mer",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Rauschende Höhlen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Roaring-Sea Caves",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 224,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "roaring-sea-caves-area",
+        "url": "https://pokeapi.co/api/v2/location-area/914/"
+      }
+    ]
+  },
+  "927": {
+    "id": 927,
+    "name": "galar-rock-peak-ruins",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Ruines Pic Roche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gipfelruinen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Rock Peak Ruins",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "galar-rock-peak-ruins-area",
+        "url": "https://pokeapi.co/api/v2/location-area/915/"
+      }
+    ]
+  },
+  "928": {
+    "id": 928,
+    "name": "rolling-fields",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Plaine Verdoyante",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wonnewiesen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Rolling Fields",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 122,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "rolling-fields-main",
+        "url": "https://pokeapi.co/api/v2/location-area/916/"
+      },
+      {
+        "name": "rolling-fields-area-2",
+        "url": "https://pokeapi.co/api/v2/location-area/917/"
+      },
+      {
+        "name": "rolling-fields-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1384/"
+      },
+      {
+        "name": "rolling-fields-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1385/"
+      },
+      {
+        "name": "rolling-fields-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1386/"
+      },
+      {
+        "name": "rolling-fields-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1387/"
+      },
+      {
+        "name": "rolling-fields-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1388/"
+      },
+      {
+        "name": "rolling-fields-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1389/"
+      },
+      {
+        "name": "rolling-fields-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1390/"
+      },
+      {
+        "name": "rolling-fields-max-den-h",
+        "url": "https://pokeapi.co/api/v2/location-area/1391/"
+      },
+      {
+        "name": "rolling-fields-max-den-i",
+        "url": "https://pokeapi.co/api/v2/location-area/1392/"
+      }
+    ]
+  },
+  "929": {
+    "id": 929,
+    "name": "slippery-slope",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Plateau Beau-Gant",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schlitterfeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Slippery Slope",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 204,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "slippery-slope-area",
+        "url": "https://pokeapi.co/api/v2/location-area/918/"
+      },
+      {
+        "name": "slippery-slope-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1574/"
+      },
+      {
+        "name": "slippery-slope-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1575/"
+      },
+      {
+        "name": "slippery-slope-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1576/"
+      },
+      {
+        "name": "slippery-slope-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1577/"
+      },
+      {
+        "name": "slippery-slope-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1578/"
+      },
+      {
+        "name": "slippery-slope-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1579/"
+      }
+    ]
+  },
+  "930": {
+    "id": 930,
+    "name": "slumbering-weald",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Forêt de Sleepwood",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schlummerwald",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Slumbering Weald",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 8,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "slumbering-weald-main",
+        "url": "https://pokeapi.co/api/v2/location-area/919/"
+      },
+      {
+        "name": "slumbering-weald-deep",
+        "url": "https://pokeapi.co/api/v2/location-area/1369/"
+      }
+    ]
+  },
+  "931": {
+    "id": 931,
+    "name": "snowslide-slope",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Pente Enneigée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schneeschlucht",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Snowslide Slope",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 214,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "snowslide-slope-area",
+        "url": "https://pokeapi.co/api/v2/location-area/920/"
+      },
+      {
+        "name": "snowslide-slope-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1587/"
+      },
+      {
+        "name": "snowslide-slope-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1588/"
+      },
+      {
+        "name": "snowslide-slope-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1589/"
+      },
+      {
+        "name": "snowslide-slope-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1590/"
+      },
+      {
+        "name": "snowslide-slope-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1591/"
+      },
+      {
+        "name": "snowslide-slope-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1592/"
+      },
+      {
+        "name": "snowslide-slope-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1593/"
+      },
+      {
+        "name": "snowslide-slope-max-den-h",
+        "url": "https://pokeapi.co/api/v2/location-area/1594/"
+      },
+      {
+        "name": "snowslide-slope-max-den-i",
+        "url": "https://pokeapi.co/api/v2/location-area/1595/"
+      }
+    ]
+  },
+  "932": {
+    "id": 932,
+    "name": "soothing-wetlands",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Lande Boldair",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Balsamsumpf",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Soothing Wetlands",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 166,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "soothing-wetlands-area",
+        "url": "https://pokeapi.co/api/v2/location-area/921/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1494/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1495/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1496/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1497/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1498/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1499/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1500/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-h",
+        "url": "https://pokeapi.co/api/v2/location-area/1501/"
+      },
+      {
+        "name": "soothing-wetlands-max-den-i",
+        "url": "https://pokeapi.co/api/v2/location-area/1502/"
+      }
+    ]
+  },
+  "933": {
+    "id": 933,
+    "name": "south-lake-miloch",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Lac Milobellus Sud",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Milotic-See (Süden)",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "South Lake Miloch",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 134,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "south-lake-miloch-main",
+        "url": "https://pokeapi.co/api/v2/location-area/922/"
+      },
+      {
+        "name": "south-lake-miloch-area-2",
+        "url": "https://pokeapi.co/api/v2/location-area/923/"
+      },
+      {
+        "name": "south-lake-miloch-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1423/"
+      },
+      {
+        "name": "south-lake-miloch-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1424/"
+      },
+      {
+        "name": "south-lake-miloch-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1425/"
+      },
+      {
+        "name": "south-lake-miloch-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1426/"
+      },
+      {
+        "name": "south-lake-miloch-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1427/"
+      }
+    ]
+  },
+  "934": {
+    "id": 934,
+    "name": "spikemuth",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Smashings",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Spikeford",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Spikemuth",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 102,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "spikemuth-area",
+        "url": "https://pokeapi.co/api/v2/location-area/924/"
+      }
+    ]
+  },
+  "935": {
+    "id": 935,
+    "name": "split-decision-ruins",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Ruines du Choix",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Zwiespaltruinen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Split-Decision Ruins",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 242,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "split-decision-ruins-area",
+        "url": "https://pokeapi.co/api/v2/location-area/925/"
+      }
+    ]
+  },
+  "936": {
+    "id": 936,
+    "name": "steamdrift-way",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Route 8",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 8",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Route 8",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 89,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "937": {
+    "id": 937,
+    "name": "stepping-stone-sea",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Mer Align'Îlots",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Inselkettenmeer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Stepping-Stone Sea",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 188,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "stepping-stone-sea-main",
+        "url": "https://pokeapi.co/api/v2/location-area/927/"
+      },
+      {
+        "name": "stepping-stone-sea-area-2",
+        "url": "https://pokeapi.co/api/v2/location-area/928/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1549/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1550/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1551/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1552/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1553/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1554/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1555/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-h",
+        "url": "https://pokeapi.co/api/v2/location-area/1556/"
+      },
+      {
+        "name": "stepping-stone-sea-max-den-i",
+        "url": "https://pokeapi.co/api/v2/location-area/1557/"
+      }
+    ]
+  },
+  "938": {
+    "id": 938,
+    "name": "stony-wilderness",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Plaine Rocheuse",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Megalithen-Ebene",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Stony Wilderness",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 144,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "stony-wilderness-main",
+        "url": "https://pokeapi.co/api/v2/location-area/929/"
+      },
+      {
+        "name": "stony-wilderness-area-2",
+        "url": "https://pokeapi.co/api/v2/location-area/930/"
+      },
+      {
+        "name": "stony-wilderness-area-3",
+        "url": "https://pokeapi.co/api/v2/location-area/931/"
+      },
+      {
+        "name": "stony-wilderness-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1441/"
+      },
+      {
+        "name": "stony-wilderness-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1442/"
+      },
+      {
+        "name": "stony-wilderness-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1443/"
+      },
+      {
+        "name": "stony-wilderness-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1444/"
+      },
+      {
+        "name": "stony-wilderness-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1445/"
+      },
+      {
+        "name": "stony-wilderness-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1446/"
+      },
+      {
+        "name": "stony-wilderness-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1447/"
+      },
+      {
+        "name": "stony-wilderness-max-den-h",
+        "url": "https://pokeapi.co/api/v2/location-area/1448/"
+      },
+      {
+        "name": "stony-wilderness-max-den-i",
+        "url": "https://pokeapi.co/api/v2/location-area/1449/"
+      },
+      {
+        "name": "stony-wilderness-max-den-j",
+        "url": "https://pokeapi.co/api/v2/location-area/1450/"
+      },
+      {
+        "name": "stony-wilderness-max-den-k",
+        "url": "https://pokeapi.co/api/v2/location-area/1451/"
+      },
+      {
+        "name": "stony-wilderness-max-den-l",
+        "url": "https://pokeapi.co/api/v2/location-area/1452/"
+      }
+    ]
+  },
+  "939": {
+    "id": 939,
+    "name": "stow-on-side",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Old Chister",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Passbeck",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Stow-on-Side",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 70,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "stow-on-side-area",
+        "url": "https://pokeapi.co/api/v2/location-area/932/"
+      }
+    ]
+  },
+  "940": {
+    "id": 940,
+    "name": "three-point-pass",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Croisée Trois-Voies",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Dreiwegpass",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Three-Point Pass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 228,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "three-point-pass-area",
+        "url": "https://pokeapi.co/api/v2/location-area/933/"
+      },
+      {
+        "name": "three-point-pass-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1600/"
+      },
+      {
+        "name": "three-point-pass-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1601/"
+      }
+    ]
+  },
+  "941": {
+    "id": 941,
+    "name": "tower-of-darkness",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Tour des Ténèbres",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Turm des Unlichts",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Tower of Darkness",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 198,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "tower-of-darkness-area",
+        "url": "https://pokeapi.co/api/v2/location-area/934/"
+      }
+    ]
+  },
+  "942": {
+    "id": 942,
+    "name": "tower-of-waters",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Tour de l'Eau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Turm des Wassers",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Tower of Waters",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 200,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "tower-of-waters-area",
+        "url": "https://pokeapi.co/api/v2/location-area/935/"
+      }
+    ]
+  },
+  "943": {
+    "id": 943,
+    "name": "training-lowlands",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Plaine des Efforts",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Fleißebene",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Training Lowlands",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 180,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "training-lowlands-area",
+        "url": "https://pokeapi.co/api/v2/location-area/936/"
+      },
+      {
+        "name": "training-lowlands-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1532/"
+      },
+      {
+        "name": "training-lowlands-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1533/"
+      },
+      {
+        "name": "training-lowlands-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1534/"
+      },
+      {
+        "name": "training-lowlands-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1535/"
+      },
+      {
+        "name": "training-lowlands-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1536/"
+      },
+      {
+        "name": "training-lowlands-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1537/"
+      },
+      {
+        "name": "training-lowlands-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1538/"
+      }
+    ]
+  },
+  "944": {
+    "id": 944,
+    "name": "tunnel-to-the-top",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Galeries Monte-Pic",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Aufstiegstunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Tunnel to the Top",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 216,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "tunnel-to-the-top-area",
+        "url": "https://pokeapi.co/api/v2/location-area/938/"
+      }
+    ]
+  },
+  "945": {
+    "id": 945,
+    "name": "turffield",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Greenbury",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Turffield",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Turffield",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 34,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "turffield-area",
+        "url": "https://pokeapi.co/api/v2/location-area/939/"
+      },
+      {
+        "name": "turffield-gym",
+        "url": "https://pokeapi.co/api/v2/location-area/1374/"
+      }
+    ]
+  },
+  "946": {
+    "id": 946,
+    "name": "warm-up-tunnel",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Voie des Étirements",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Aufwärmtunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Warm-Up Tunnel",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 182,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "warm-up-tunnel-area",
+        "url": "https://pokeapi.co/api/v2/location-area/940/"
+      }
+    ]
+  },
+  "947": {
+    "id": 947,
+    "name": "watchtower-ruins",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Tour en ruines",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wachturmruine",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Watchtower Ruins",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 126,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "watchtower-ruins-area",
+        "url": "https://pokeapi.co/api/v2/location-area/941/"
+      },
+      {
+        "name": "watchtower-ruins-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1404/"
+      },
+      {
+        "name": "watchtower-ruins-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1405/"
+      }
+    ]
+  },
+  "948": {
+    "id": 948,
+    "name": "wedgehurst",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Brasswick",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Brassbury",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Wedgehurst",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 14,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "wedgehurst-area",
+        "url": "https://pokeapi.co/api/v2/location-area/942/"
+      }
+    ]
+  },
+  "949": {
+    "id": 949,
+    "name": "west-lake-axewell",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Lac Coupenotte Ouest",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Milza-See (Westen)",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "West Lake Axewell",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 130,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "west-lake-axewell-area",
+        "url": "https://pokeapi.co/api/v2/location-area/943/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1398/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1399/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1400/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1401/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1402/"
+      },
+      {
+        "name": "west-lake-axewell-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1403/"
+      }
+    ]
+  },
+  "950": {
+    "id": 950,
+    "name": "workout-sea",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Mer Eau-Hisse",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Fitnessmeer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Workout Sea",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 186,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "workout-sea-area",
+        "url": "https://pokeapi.co/api/v2/location-area/944/"
+      },
+      {
+        "name": "workout-sea-max-den-a",
+        "url": "https://pokeapi.co/api/v2/location-area/1542/"
+      },
+      {
+        "name": "workout-sea-max-den-b",
+        "url": "https://pokeapi.co/api/v2/location-area/1543/"
+      },
+      {
+        "name": "workout-sea-max-den-c",
+        "url": "https://pokeapi.co/api/v2/location-area/1544/"
+      },
+      {
+        "name": "workout-sea-max-den-d",
+        "url": "https://pokeapi.co/api/v2/location-area/1545/"
+      },
+      {
+        "name": "workout-sea-max-den-e",
+        "url": "https://pokeapi.co/api/v2/location-area/1546/"
+      },
+      {
+        "name": "workout-sea-max-den-f",
+        "url": "https://pokeapi.co/api/v2/location-area/1547/"
+      },
+      {
+        "name": "workout-sea-max-den-g",
+        "url": "https://pokeapi.co/api/v2/location-area/1548/"
+      }
+    ]
+  },
+  "951": {
+    "id": 951,
+    "name": "wyndon",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Winscor",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Score City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Wyndon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 110,
+        "generation": {
+          "name": "generation-viii",
+          "url": "https://pokeapi.co/api/v2/generation/8/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "wyndon-area",
+        "url": "https://pokeapi.co/api/v2/location-area/945/"
+      }
+    ]
+  },
+  "952": {
+    "id": 952,
+    "name": "aipom-hill",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Mont des Capumain",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Griffel-Hügel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Aipom Hill",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "aipom-hill-area",
+        "url": "https://pokeapi.co/api/v2/location-area/946/"
+      }
+    ]
+  },
+  "953": {
+    "id": 953,
+    "name": "ancient-quarry",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Ancienne Carrière",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Uralter Steinbruch",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ancient Quarry",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "ancient-quarry-area",
+        "url": "https://pokeapi.co/api/v2/location-area/947/"
+      }
+    ]
+  },
+  "954": {
+    "id": 954,
+    "name": "arenas-approach",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Sentier de l'Arène",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Pfad zum Kampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Arena's Approach",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "arenas-approach-area",
+        "url": "https://pokeapi.co/api/v2/location-area/948/"
+      }
+    ]
+  },
+  "955": {
+    "id": 955,
+    "name": "aspiration-hill",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Colline Ambition",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ambitionshügel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Aspiration Hill",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "aspiration-hill-area",
+        "url": "https://pokeapi.co/api/v2/location-area/949/"
+      }
+    ]
+  },
+  "956": {
+    "id": 956,
+    "name": "avalanche-slopes",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Pente de l'Avalanche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Lawinenhügel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Avalanche Slopes",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "avalanche-slopes-area",
+        "url": "https://pokeapi.co/api/v2/location-area/950/"
+      }
+    ]
+  },
+  "957": {
+    "id": 957,
+    "name": "avaluggs-legacy",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Glacier Séracrawl",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Arktilas-Eisblock",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Avalugg's Legacy",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "avaluggs-legacy-area",
+        "url": "https://pokeapi.co/api/v2/location-area/951/"
+      }
+    ]
+  },
+  "958": {
+    "id": 958,
+    "name": "bathers-lagoon",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lagune des Bains",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Badelagune",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bathers' Lagoon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "bathers-lagoon-area",
+        "url": "https://pokeapi.co/api/v2/location-area/952/"
+      }
+    ]
+  },
+  "959": {
+    "id": 959,
+    "name": "bolderoll-ravine",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Mont des Gringoles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geröllberge",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bolderoll Ravine",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "bolderoll-ravine-area",
+        "url": "https://pokeapi.co/api/v2/location-area/953/"
+      }
+    ]
+  },
+  "960": {
+    "id": 960,
+    "name": "bolderoll-slope",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Pente des Gringoles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geröllhügel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bolderoll Slope",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "bolderoll-slope-area",
+        "url": "https://pokeapi.co/api/v2/location-area/954/"
+      }
+    ]
+  },
+  "961": {
+    "id": 961,
+    "name": "bonechill-wastes",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Étendue Polaire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eisige Ödnis",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bonechill Wastes",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "bonechill-wastes-area",
+        "url": "https://pokeapi.co/api/v2/location-area/955/"
+      }
+    ]
+  },
+  "962": {
+    "id": 962,
+    "name": "brava-arena",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arène du Théâtre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Bühnenkampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Brava Arena",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "brava-arena-area",
+        "url": "https://pokeapi.co/api/v2/location-area/956/"
+      }
+    ]
+  },
+  "963": {
+    "id": 963,
+    "name": "castaway-shore",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Plage de l'Errance",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Küste der Verirrten",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Castaway Shore",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "castaway-shore-area",
+        "url": "https://pokeapi.co/api/v2/location-area/957/"
+      }
+    ]
+  },
+  "964": {
+    "id": 964,
+    "name": "celestica-ruins",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Temple Céleste",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Elysien-Tempelruinen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Celestica Ruins",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "celestica-ruins-area",
+        "url": "https://pokeapi.co/api/v2/location-area/958/"
+      }
+    ]
+  },
+  "965": {
+    "id": 965,
+    "name": "celestica-trail",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Sentier Céleste",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Elysien-Bergpfad",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Celestica Trail",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "celestica-trail-area",
+        "url": "https://pokeapi.co/api/v2/location-area/959/"
+      }
+    ]
+  },
+  "966": {
+    "id": 966,
+    "name": "clamberclaw-cliffs",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Falaise Cascade",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kletterklippe",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Clamberclaw Cliffs",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "clamberclaw-cliffs-area",
+        "url": "https://pokeapi.co/api/v2/location-area/960/"
+      }
+    ]
+  },
+  "967": {
+    "id": 967,
+    "name": "cloudcap-pass",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Passage des Nuages",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gipfelschwadentunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cloudcap Pass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "cloudcap-pass-area",
+        "url": "https://pokeapi.co/api/v2/location-area/961/"
+      }
+    ]
+  },
+  "968": {
+    "id": 968,
+    "name": "cloudpool-ridge",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Col Mer-de-Nuages",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wolkenmeerkamm",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cloudpool Ridge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "cloudpool-ridge-area",
+        "url": "https://pokeapi.co/api/v2/location-area/962/"
+      }
+    ]
+  },
+  "969": {
+    "id": 969,
+    "name": "coastlands-camp",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Bivouac Côtier",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Küstenlandbasis",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Coastlands Base Camp",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "coastlands-camp-area",
+        "url": "https://pokeapi.co/api/v2/location-area/963/"
+      }
+    ]
+  },
+  "970": {
+    "id": 970,
+    "name": "cottonsedge-prairie",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lande Herbacoton",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wollgraswiese",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cottonsedge Prairie",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "cottonsedge-prairie-area",
+        "url": "https://pokeapi.co/api/v2/location-area/964/"
+      }
+    ]
+  },
+  "971": {
+    "id": 971,
+    "name": "crossing-slope",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Coteau du Passage",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Übergangshang",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Crossing Slope",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "crossing-slope-area",
+        "url": "https://pokeapi.co/api/v2/location-area/965/"
+      }
+    ]
+  },
+  "972": {
+    "id": 972,
+    "name": "deadwood-haunt",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Rive des Revenants",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schauriger Welkwald",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Deadwood Haunt",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "deadwood-haunt-area",
+        "url": "https://pokeapi.co/api/v2/location-area/966/"
+      }
+    ]
+  },
+  "973": {
+    "id": 973,
+    "name": "deertrack-heights",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Plateau Cer-Mont",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geweihanhöhe",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Deertrack Heights",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "deertrack-heights-area",
+        "url": "https://pokeapi.co/api/v2/location-area/967/"
+      }
+    ]
+  },
+  "974": {
+    "id": 974,
+    "name": "deertrack-path",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Sentier Cer-Mont",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geweihbergweg",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Deertrack Path",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "deertrack-path-area",
+        "url": "https://pokeapi.co/api/v2/location-area/968/"
+      }
+    ]
+  },
+  "975": {
+    "id": 975,
+    "name": "diamond-heath",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lisière du Hameau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Diamant-Ebene",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Diamond Heath",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "diamond-heath-area",
+        "url": "https://pokeapi.co/api/v2/location-area/969/"
+      }
+    ]
+  },
+  "976": {
+    "id": 976,
+    "name": "diamond-settlement",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Hameau Diamant",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Diamant-Siedlung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Diamond Settlement",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "diamond-settlement-area",
+        "url": "https://pokeapi.co/api/v2/location-area/970/"
+      }
+    ]
+  },
+  "977": {
+    "id": 977,
+    "name": "droning-meadow",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Champ Bourdonne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Surrende Felder",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Droning Meadow",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "droning-meadow-area",
+        "url": "https://pokeapi.co/api/v2/location-area/971/"
+      }
+    ]
+  },
+  "978": {
+    "id": 978,
+    "name": "fabled-spring",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Source Féérique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Feenweiher",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fabled Spring",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "fabled-spring-area",
+        "url": "https://pokeapi.co/api/v2/location-area/972/"
+      }
+    ]
+  },
+  "979": {
+    "id": 979,
+    "name": "firespit-island",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Île Crache-Feu",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Feuerspei-Insel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Firespit Island",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "firespit-island-area",
+        "url": "https://pokeapi.co/api/v2/location-area/973/"
+      }
+    ]
+  },
+  "980": {
+    "id": 980,
+    "name": "floaro-gardens",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Champ Flora",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Flora-Rodefläche",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Floaro Gardens",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "floaro-gardens-area",
+        "url": "https://pokeapi.co/api/v2/location-area/974/"
+      }
+    ]
+  },
+  "981": {
+    "id": 981,
+    "name": "gapejaw-bog",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Marais Bouchebée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Großmaulmoor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Gapejaw Bog",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "gapejaw-bog-area",
+        "url": "https://pokeapi.co/api/v2/location-area/975/"
+      }
+    ]
+  },
+  "982": {
+    "id": 982,
+    "name": "ginkgo-landing",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Place Ginkgo",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ginkgo-Strand",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ginkgo Landing",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "ginkgo-landing-area",
+        "url": "https://pokeapi.co/api/v2/location-area/976/"
+      }
+    ]
+  },
+  "983": {
+    "id": 983,
+    "name": "glacier-terrace",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Terrasse du Glacier",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gletscherstufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Glacier Terrace",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "glacier-terrace-area",
+        "url": "https://pokeapi.co/api/v2/location-area/977/"
+      }
+    ]
+  },
+  "984": {
+    "id": 984,
+    "name": "golden-lowlands",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Plaine d'Or",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Güldene Felder",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Golden Lowlands",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "golden-lowlands-area",
+        "url": "https://pokeapi.co/api/v2/location-area/978/"
+      }
+    ]
+  },
+  "985": {
+    "id": 985,
+    "name": "grandtree-arena",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arène du Grand Arbre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Baumriesenkampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Grandtree Arena",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "grandtree-arena-area",
+        "url": "https://pokeapi.co/api/v2/location-area/979/"
+      }
+    ]
+  },
+  "986": {
+    "id": 986,
+    "name": "grueling-grove",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Bocage Agité",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Strapazenhain",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Grueling Grove",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "grueling-grove-area",
+        "url": "https://pokeapi.co/api/v2/location-area/980/"
+      }
+    ]
+  },
+  "987": {
+    "id": 987,
+    "name": "hearts-crag",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Rocher Esprit",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geistesfelsen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Heart's Crag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "hearts-crag-area",
+        "url": "https://pokeapi.co/api/v2/location-area/981/"
+      }
+    ]
+  },
+  "988": {
+    "id": 988,
+    "name": "heavenward-lookout",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Hauts de l'Humilité",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Sakralplateau",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Heavenward Lookout",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "heavenward-lookout-area",
+        "url": "https://pokeapi.co/api/v2/location-area/982/"
+      }
+    ]
+  },
+  "989": {
+    "id": 989,
+    "name": "heights-camp",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Bivouac de la Friche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Anhöhenbasis",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Heights Base Camp",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "heights-camp-area",
+        "url": "https://pokeapi.co/api/v2/location-area/983/"
+      }
+    ]
+  },
+  "990": {
+    "id": 990,
+    "name": "hideaway-bay",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Crique Paisible",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Versteckte Bucht",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hideaway Bay",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "hideaway-bay-area",
+        "url": "https://pokeapi.co/api/v2/location-area/984/"
+      }
+    ]
+  },
+  "991": {
+    "id": 991,
+    "name": "holm-of-trials",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Île de l’Épreuve",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Prüfungsbarre",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Holm of Trials",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "holm-of-trials-area",
+        "url": "https://pokeapi.co/api/v2/location-area/985/"
+      }
+    ]
+  },
+  "992": {
+    "id": 992,
+    "name": "horseshoe-plains",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Val Ferrache",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Hufeisenwiesen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Horseshoe Plains",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "horseshoe-plains-area",
+        "url": "https://pokeapi.co/api/v2/location-area/986/"
+      }
+    ]
+  },
+  "993": {
+    "id": 993,
+    "name": "ice-column-chamber",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Chambre des Piliers",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eissäulenkammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ice Column Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "ice-column-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/987/"
+      }
+    ]
+  },
+  "994": {
+    "id": 994,
+    "name": "icebound-falls",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Chute d'Oglacé",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Firnfälle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Icebound Falls",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "icebound-falls-area",
+        "url": "https://pokeapi.co/api/v2/location-area/988/"
+      }
+    ]
+  },
+  "995": {
+    "id": 995,
+    "name": "icepeak-arena",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arène de l'Iceberg",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eisgipfelkampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Icepeak Arena",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "icepeak-arena-area",
+        "url": "https://pokeapi.co/api/v2/location-area/989/"
+      }
+    ]
+  },
+  "996": {
+    "id": 996,
+    "name": "icepeak-cavern",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Souterrain de Givre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eisgipfelhöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Icepeak Cavern",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "icepeak-cavern-area",
+        "url": "https://pokeapi.co/api/v2/location-area/990/"
+      }
+    ]
+  },
+  "997": {
+    "id": 997,
+    "name": "islespy-shore",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Plage Long-des-Îles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Inselblickufer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Islespy Shore",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "islespy-shore-area",
+        "url": "https://pokeapi.co/api/v2/location-area/991/"
+      }
+    ]
+  },
+  "998": {
+    "id": 998,
+    "name": "jubilife-village",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Rusti-Cité",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Jubeldorf",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Jubilife Village",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "jubilife-village-area",
+        "url": "https://pokeapi.co/api/v2/location-area/992/"
+      }
+    ]
+  },
+  "999": {
+    "id": 999,
+    "name": "hisui-lake-acuity",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lac Savoir",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "See der Stärke",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lake Acuity",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "hisui-lake-acuity-area",
+        "url": "https://pokeapi.co/api/v2/location-area/993/"
+      }
+    ]
+  },
+  "1000": {
+    "id": 1000,
+    "name": "hisui-lake-valor",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lac Courage",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "See der Kühnheit",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lake Valor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "hisui-lake-valor-area",
+        "url": "https://pokeapi.co/api/v2/location-area/994/"
+      }
+    ]
+  },
+  "1001": {
+    "id": 1001,
+    "name": "hisui-lake-verity",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Lac Vérité",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "See der Wahrheit",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lake Verity",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "hisui-lake-verity-area",
+        "url": "https://pokeapi.co/api/v2/location-area/995/"
+      }
+    ]
+  },
+  "1002": {
+    "id": 1002,
+    "name": "lonely-spring",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Source Reculée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Einsame Quelle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lonely Spring",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "lonely-spring-area",
+        "url": "https://pokeapi.co/api/v2/location-area/996/"
+      }
+    ]
+  },
+  "1003": {
+    "id": 1003,
+    "name": "lunkers-lair",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arche Poissigrand",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Großfischfelsen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lunker's Lair",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "lunkers-lair-area",
+        "url": "https://pokeapi.co/api/v2/location-area/997/"
+      }
+    ]
+  },
+  "1004": {
+    "id": 1004,
+    "name": "molten-arena",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arène de la Lave",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Lavakampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Molten Arena",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "molten-arena-area",
+        "url": "https://pokeapi.co/api/v2/location-area/998/"
+      }
+    ]
+  },
+  "1005": {
+    "id": 1005,
+    "name": "moonview-arena",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Arène de la Lune",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Mondgrußkampffeld",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Moonview Arena",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "moonview-arena-area",
+        "url": "https://pokeapi.co/api/v2/location-area/999/"
+      }
+    ]
+  },
+  "1006": {
+    "id": 1006,
+    "name": "natures-pantry",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Cellier Champêtre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Waldesküche",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Nature's Pantry",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "natures-pantry-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1000/"
+      }
+    ]
+  },
+  "1007": {
+    "id": 1007,
+    "name": "obsidian-falls",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Chute d'Obsidienne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Obsidian-Wasserfall",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Obsidian Falls",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "obsidian-falls-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1001/"
+      }
+    ]
+  },
+  "1008": {
+    "id": 1008,
+    "name": "oreburrow-tunnel",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Tunnel de Fer",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Erztunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Oreburrow Tunnel",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "oreburrow-tunnel-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1002/"
+      }
+    ]
+  },
+  "1009": {
+    "id": 1009,
+    "name": "pearl-settlement",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Hameau Perle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Perl-Siedlung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Pearl Settlement",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "pearl-settlement-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1003/"
+      }
+    ]
+  },
+  "1010": {
+    "id": 1010,
+    "name": "primeval-grotto",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Grotte Préhistorique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Urzeitliche Höhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Primeval Grotto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "primeval-grotto-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1004/"
+      }
+    ]
+  },
+  "1011": {
+    "id": 1011,
+    "name": "ramanas-island",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Île Rosa Rugosa",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Hamanasu-Insel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ramanas Island",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "ramanas-island-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1005/"
+      }
+    ]
+  },
+  "1012": {
+    "id": 1012,
+    "name": "sacred-plaza",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Parvis des Prières",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Platz der Huldigung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sacred Plaza",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "sacred-plaza-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1006/"
+      }
+    ]
+  },
+  "1013": {
+    "id": 1013,
+    "name": "sands-reach",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Main de Sable",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Sandfinger",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sand's Reach",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "sands-reach-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1007/"
+      }
+    ]
+  },
+  "1014": {
+    "id": 1014,
+    "name": "sandgem-flats",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Plaine Littorella",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Sandgemmenheide",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sandgem Flats",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "sandgem-flats-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1008/"
+      }
+    ]
+  },
+  "1015": {
+    "id": 1015,
+    "name": "scarlet-bog",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Marais Carlate",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Purpurrotes Moor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Scarlet Bog",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "scarlet-bog-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1009/"
+      }
+    ]
+  },
+  "1016": {
+    "id": 1016,
+    "name": "seagrass-haven",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Havre des Algues",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Seegrasidyll",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Seagrass Haven",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "seagrass-haven-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1010/"
+      }
+    ]
+  },
+  "1017": {
+    "id": 1017,
+    "name": "seaside-hollow",
+    "region": {
+      "name": "hisui",
+      "url": "https://pokeapi.co/api/v2/region/9/"
+    },
+    "names": [
+      {
+        "name": "Creux du Cap",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kleine Meeresgrotte",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Seaside Hollow",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "seaside-hollow-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1011/"
+      }
+    ]
+  }
+}

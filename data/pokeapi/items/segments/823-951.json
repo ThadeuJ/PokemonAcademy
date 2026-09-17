@@ -1,0 +1,1502 @@
+{
+  "823": {
+    "id": 823,
+    "name": "fightinium-z--held",
+    "names": {
+      "en": "fightinium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--held.png"
+    }
+  },
+  "824": {
+    "id": 824,
+    "name": "poisonium-z--held",
+    "names": {
+      "en": "poisonium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--held.png"
+    }
+  },
+  "825": {
+    "id": 825,
+    "name": "groundium-z--held",
+    "names": {
+      "en": "groundium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--held.png"
+    }
+  },
+  "826": {
+    "id": 826,
+    "name": "flyinium-z--held",
+    "names": {
+      "en": "flyinium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--held.png"
+    }
+  },
+  "827": {
+    "id": 827,
+    "name": "psychium-z--held",
+    "names": {
+      "en": "psychium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--held.png"
+    }
+  },
+  "828": {
+    "id": 828,
+    "name": "buginium-z--held",
+    "names": {
+      "en": "buginium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--held.png"
+    }
+  },
+  "829": {
+    "id": 829,
+    "name": "rockium-z--held",
+    "names": {
+      "en": "rockium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--held.png"
+    }
+  },
+  "830": {
+    "id": 830,
+    "name": "ghostium-z--held",
+    "names": {
+      "en": "ghostium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--held.png"
+    }
+  },
+  "831": {
+    "id": 831,
+    "name": "dragonium-z--held",
+    "names": {
+      "en": "dragonium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--held.png"
+    }
+  },
+  "832": {
+    "id": 832,
+    "name": "darkinium-z--held",
+    "names": {
+      "en": "darkinium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--held.png"
+    }
+  },
+  "833": {
+    "id": 833,
+    "name": "steelium-z--held",
+    "names": {
+      "en": "steelium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--held.png"
+    }
+  },
+  "834": {
+    "id": 834,
+    "name": "fairium-z--held",
+    "names": {
+      "en": "fairium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--held.png"
+    }
+  },
+  "835": {
+    "id": 835,
+    "name": "pikanium-z--held",
+    "names": {
+      "en": "pikanium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--held.png"
+    }
+  },
+  "836": {
+    "id": 836,
+    "name": "bottle-cap",
+    "names": {
+      "en": "bottle-cap",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bottle-cap.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bottle-cap.png"
+    }
+  },
+  "837": {
+    "id": 837,
+    "name": "gold-bottle-cap",
+    "names": {
+      "en": "gold-bottle-cap",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-bottle-cap.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gold-bottle-cap.png"
+    }
+  },
+  "838": {
+    "id": 838,
+    "name": "z-ring",
+    "names": {
+      "en": "z-ring",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-ring.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-ring.png"
+    }
+  },
+  "839": {
+    "id": 839,
+    "name": "decidium-z--held",
+    "names": {
+      "en": "decidium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--held.png"
+    }
+  },
+  "840": {
+    "id": 840,
+    "name": "incinium-z--held",
+    "names": {
+      "en": "incinium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--held.png"
+    }
+  },
+  "841": {
+    "id": 841,
+    "name": "primarium-z--held",
+    "names": {
+      "en": "primarium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--held.png"
+    }
+  },
+  "842": {
+    "id": 842,
+    "name": "tapunium-z--held",
+    "names": {
+      "en": "tapunium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--held.png"
+    }
+  },
+  "843": {
+    "id": 843,
+    "name": "marshadium-z--held",
+    "names": {
+      "en": "marshadium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--held.png"
+    }
+  },
+  "844": {
+    "id": 844,
+    "name": "aloraichium-z--held",
+    "names": {
+      "en": "aloraichium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--held.png"
+    }
+  },
+  "845": {
+    "id": 845,
+    "name": "snorlium-z--held",
+    "names": {
+      "en": "snorlium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--held.png"
+    }
+  },
+  "846": {
+    "id": 846,
+    "name": "eevium-z--held",
+    "names": {
+      "en": "eevium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--held.png"
+    }
+  },
+  "847": {
+    "id": 847,
+    "name": "mewnium-z--held",
+    "names": {
+      "en": "mewnium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--held.png"
+    }
+  },
+  "877": {
+    "id": 877,
+    "name": "pikashunium-z--held",
+    "names": {
+      "en": "pikashunium-z--held",
+      "pt": null
+    },
+    "category": "z-crystals",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--held.png"
+    }
+  },
+  "878": {
+    "id": 878,
+    "name": "forage-bag",
+    "names": {
+      "en": "forage-bag",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/forage-bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/forage-bag.png"
+    }
+  },
+  "879": {
+    "id": 879,
+    "name": "fishing-rod",
+    "names": {
+      "en": "fishing-rod",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fishing-rod.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fishing-rod.png"
+    }
+  },
+  "880": {
+    "id": 880,
+    "name": "professors-mask",
+    "names": {
+      "en": "professors-mask",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/professors-mask.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/professors-mask.png"
+    }
+  },
+  "881": {
+    "id": 881,
+    "name": "festival-ticket",
+    "names": {
+      "en": "festival-ticket",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/festival-ticket.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/festival-ticket.png"
+    }
+  },
+  "882": {
+    "id": 882,
+    "name": "sparkling-stone",
+    "names": {
+      "en": "sparkling-stone",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sparkling-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sparkling-stone.png"
+    }
+  },
+  "883": {
+    "id": 883,
+    "name": "adrenaline-orb",
+    "names": {
+      "en": "adrenaline-orb",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adrenaline-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adrenaline-orb.png"
+    }
+  },
+  "884": {
+    "id": 884,
+    "name": "zygarde-cube",
+    "names": {
+      "en": "zygarde-cube",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zygarde-cube.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/zygarde-cube.png"
+    }
+  },
+  "885": {
+    "id": 885,
+    "name": "ice-stone",
+    "names": {
+      "en": "ice-stone",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-stone.png"
+    }
+  },
+  "886": {
+    "id": 886,
+    "name": "ride-pager",
+    "names": {
+      "en": "ride-pager",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ride-pager.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ride-pager.png"
+    }
+  },
+  "887": {
+    "id": 887,
+    "name": "beast-ball",
+    "names": {
+      "en": "beast-ball",
+      "pt": null
+    },
+    "category": "special-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/beast-ball.png"
+    }
+  },
+  "888": {
+    "id": 888,
+    "name": "big-malasada",
+    "names": {
+      "en": "big-malasada",
+      "pt": null
+    },
+    "category": "status-cures",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-malasada.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-malasada.png"
+    }
+  },
+  "889": {
+    "id": 889,
+    "name": "red-nectar",
+    "names": {
+      "en": "red-nectar",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-nectar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-nectar.png"
+    }
+  },
+  "890": {
+    "id": 890,
+    "name": "yellow-nectar",
+    "names": {
+      "en": "yellow-nectar",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-nectar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-nectar.png"
+    }
+  },
+  "891": {
+    "id": 891,
+    "name": "pink-nectar",
+    "names": {
+      "en": "pink-nectar",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-nectar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-nectar.png"
+    }
+  },
+  "892": {
+    "id": 892,
+    "name": "purple-nectar",
+    "names": {
+      "en": "purple-nectar",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-nectar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-nectar.png"
+    }
+  },
+  "893": {
+    "id": 893,
+    "name": "sun-flute",
+    "names": {
+      "en": "sun-flute",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-flute.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sun-flute.png"
+    }
+  },
+  "894": {
+    "id": 894,
+    "name": "moon-flute",
+    "names": {
+      "en": "moon-flute",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-flute.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-flute.png"
+    }
+  },
+  "895": {
+    "id": 895,
+    "name": "enigmatic-card",
+    "names": {
+      "en": "enigmatic-card",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigmatic-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigmatic-card.png"
+    }
+  },
+  "896": {
+    "id": 896,
+    "name": "terrain-extender",
+    "names": {
+      "en": "terrain-extender",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/terrain-extender.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/terrain-extender.png"
+    }
+  },
+  "897": {
+    "id": 897,
+    "name": "protective-pads",
+    "names": {
+      "en": "protective-pads",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protective-pads.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/protective-pads.png"
+    }
+  },
+  "898": {
+    "id": 898,
+    "name": "electric-seed",
+    "names": {
+      "en": "electric-seed",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-seed.png"
+    }
+  },
+  "899": {
+    "id": 899,
+    "name": "psychic-seed",
+    "names": {
+      "en": "psychic-seed",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-seed.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-seed.png"
+    }
+  },
+  "900": {
+    "id": 900,
+    "name": "misty-seed",
+    "names": {
+      "en": "misty-seed",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/misty-seed.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/misty-seed.png"
+    }
+  },
+  "901": {
+    "id": 901,
+    "name": "grassy-seed",
+    "names": {
+      "en": "grassy-seed",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassy-seed.png"
+    }
+  },
+  "902": {
+    "id": 902,
+    "name": "fighting-memory",
+    "names": {
+      "en": "fighting-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fighting-memory.png"
+    }
+  },
+  "903": {
+    "id": 903,
+    "name": "flying-memory",
+    "names": {
+      "en": "flying-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flying-memory.png"
+    }
+  },
+  "904": {
+    "id": 904,
+    "name": "poison-memory",
+    "names": {
+      "en": "poison-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poison-memory.png"
+    }
+  },
+  "905": {
+    "id": 905,
+    "name": "ground-memory",
+    "names": {
+      "en": "ground-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ground-memory.png"
+    }
+  },
+  "906": {
+    "id": 906,
+    "name": "rock-memory",
+    "names": {
+      "en": "rock-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-memory.png"
+    }
+  },
+  "907": {
+    "id": 907,
+    "name": "bug-memory",
+    "names": {
+      "en": "bug-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-memory.png"
+    }
+  },
+  "908": {
+    "id": 908,
+    "name": "ghost-memory",
+    "names": {
+      "en": "ghost-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-memory.png"
+    }
+  },
+  "909": {
+    "id": 909,
+    "name": "steel-memory",
+    "names": {
+      "en": "steel-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-memory.png"
+    }
+  },
+  "910": {
+    "id": 910,
+    "name": "fire-memory",
+    "names": {
+      "en": "fire-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fire-memory.png"
+    }
+  },
+  "911": {
+    "id": 911,
+    "name": "water-memory",
+    "names": {
+      "en": "water-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/water-memory.png"
+    }
+  },
+  "912": {
+    "id": 912,
+    "name": "grass-memory",
+    "names": {
+      "en": "grass-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-memory.png"
+    }
+  },
+  "913": {
+    "id": 913,
+    "name": "electric-memory",
+    "names": {
+      "en": "electric-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electric-memory.png"
+    }
+  },
+  "914": {
+    "id": 914,
+    "name": "psychic-memory",
+    "names": {
+      "en": "psychic-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychic-memory.png"
+    }
+  },
+  "915": {
+    "id": 915,
+    "name": "ice-memory",
+    "names": {
+      "en": "ice-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ice-memory.png"
+    }
+  },
+  "916": {
+    "id": 916,
+    "name": "dragon-memory",
+    "names": {
+      "en": "dragon-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-memory.png"
+    }
+  },
+  "917": {
+    "id": 917,
+    "name": "dark-memory",
+    "names": {
+      "en": "dark-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-memory.png"
+    }
+  },
+  "918": {
+    "id": 918,
+    "name": "fairy-memory",
+    "names": {
+      "en": "fairy-memory",
+      "pt": null
+    },
+    "category": "memories",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-memory.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairy-memory.png"
+    }
+  },
+  "919": {
+    "id": 919,
+    "name": "bike--green",
+    "names": {
+      "en": "bike--green",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--green.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--green.png"
+    }
+  },
+  "920": {
+    "id": 920,
+    "name": "storage-key--galactic-warehouse",
+    "names": {
+      "en": "storage-key--galactic-warehouse",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--galactic-warehouse.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--galactic-warehouse.png"
+    }
+  },
+  "921": {
+    "id": 921,
+    "name": "basement-key--goldenrod",
+    "names": {
+      "en": "basement-key--goldenrod",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--goldenrod.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--goldenrod.png"
+    }
+  },
+  "922": {
+    "id": 922,
+    "name": "xtransceiver--red",
+    "names": {
+      "en": "xtransceiver--red",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "923": {
+    "id": 923,
+    "name": "xtransceiver--yellow",
+    "names": {
+      "en": "xtransceiver--yellow",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "924": {
+    "id": 924,
+    "name": "dna-splicers--merge",
+    "names": {
+      "en": "dna-splicers--merge",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--merge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--merge.png"
+    }
+  },
+  "925": {
+    "id": 925,
+    "name": "dna-splicers--split",
+    "names": {
+      "en": "dna-splicers--split",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--split.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers--split.png"
+    }
+  },
+  "926": {
+    "id": 926,
+    "name": "dropped-item--red",
+    "names": {
+      "en": "dropped-item--red",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--red.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--red.png"
+    }
+  },
+  "927": {
+    "id": 927,
+    "name": "dropped-item--yellow",
+    "names": {
+      "en": "dropped-item--yellow",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--yellow.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item--yellow.png"
+    }
+  },
+  "928": {
+    "id": 928,
+    "name": "holo-caster--green",
+    "names": {
+      "en": "holo-caster--green",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--green.png"
+    }
+  },
+  "929": {
+    "id": 929,
+    "name": "bike--yellow",
+    "names": {
+      "en": "bike--yellow",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--yellow.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bike--yellow.png"
+    }
+  },
+  "930": {
+    "id": 930,
+    "name": "holo-caster--red",
+    "names": {
+      "en": "holo-caster--red",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--red.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/holo-caster--red.png"
+    }
+  },
+  "931": {
+    "id": 931,
+    "name": "basement-key--new-mauville",
+    "names": {
+      "en": "basement-key--new-mauville",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--new-mauville.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key--new-mauville.png"
+    }
+  },
+  "932": {
+    "id": 932,
+    "name": "storage-key--sea-mauville",
+    "names": {
+      "en": "storage-key--sea-mauville",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key--sea-mauville.png"
+    }
+  },
+  "933": {
+    "id": 933,
+    "name": "ss-ticket--hoenn",
+    "names": {
+      "en": "ss-ticket--hoenn",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket--hoenn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket--hoenn.png"
+    }
+  },
+  "934": {
+    "id": 934,
+    "name": "contest-costume--dress",
+    "names": {
+      "en": "contest-costume--dress",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--dress.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-costume--dress.png"
+    }
+  },
+  "935": {
+    "id": 935,
+    "name": "meteorite--2",
+    "names": {
+      "en": "meteorite--2",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--2.png"
+    }
+  },
+  "936": {
+    "id": 936,
+    "name": "meteorite--3",
+    "names": {
+      "en": "meteorite--3",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--3.png"
+    }
+  },
+  "937": {
+    "id": 937,
+    "name": "meteorite--4",
+    "names": {
+      "en": "meteorite--4",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--4.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/meteorite--4.png"
+    }
+  },
+  "938": {
+    "id": 938,
+    "name": "normalium-z--bag",
+    "names": {
+      "en": "normalium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normalium-z--bag.png"
+    }
+  },
+  "939": {
+    "id": 939,
+    "name": "firium-z--bag",
+    "names": {
+      "en": "firium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/firium-z--bag.png"
+    }
+  },
+  "940": {
+    "id": 940,
+    "name": "waterium-z--bag",
+    "names": {
+      "en": "waterium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/waterium-z--bag.png"
+    }
+  },
+  "941": {
+    "id": 941,
+    "name": "electrium-z--bag",
+    "names": {
+      "en": "electrium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/electrium-z--bag.png"
+    }
+  },
+  "942": {
+    "id": 942,
+    "name": "grassium-z--bag",
+    "names": {
+      "en": "grassium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grassium-z--bag.png"
+    }
+  },
+  "943": {
+    "id": 943,
+    "name": "icium-z--bag",
+    "names": {
+      "en": "icium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/icium-z--bag.png"
+    }
+  },
+  "944": {
+    "id": 944,
+    "name": "fightinium-z--bag",
+    "names": {
+      "en": "fightinium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fightinium-z--bag.png"
+    }
+  },
+  "945": {
+    "id": 945,
+    "name": "poisonium-z--bag",
+    "names": {
+      "en": "poisonium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poisonium-z--bag.png"
+    }
+  },
+  "946": {
+    "id": 946,
+    "name": "groundium-z--bag",
+    "names": {
+      "en": "groundium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/groundium-z--bag.png"
+    }
+  },
+  "947": {
+    "id": 947,
+    "name": "flyinium-z--bag",
+    "names": {
+      "en": "flyinium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flyinium-z--bag.png"
+    }
+  },
+  "948": {
+    "id": 948,
+    "name": "psychium-z--bag",
+    "names": {
+      "en": "psychium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/psychium-z--bag.png"
+    }
+  },
+  "949": {
+    "id": 949,
+    "name": "buginium-z--bag",
+    "names": {
+      "en": "buginium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/buginium-z--bag.png"
+    }
+  },
+  "950": {
+    "id": 950,
+    "name": "rockium-z--bag",
+    "names": {
+      "en": "rockium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rockium-z--bag.png"
+    }
+  },
+  "951": {
+    "id": 951,
+    "name": "ghostium-z--bag",
+    "names": {
+      "en": "ghostium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghostium-z--bag.png"
+    }
+  }
+}

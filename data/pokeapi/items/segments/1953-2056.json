@@ -1,0 +1,1502 @@
+{
+  "1953": {
+    "id": 1953,
+    "name": "tm110",
+    "names": {
+      "en": "tm110",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1954": {
+    "id": 1954,
+    "name": "tm111",
+    "names": {
+      "en": "tm111",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1955": {
+    "id": 1955,
+    "name": "tm112",
+    "names": {
+      "en": "tm112",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1956": {
+    "id": 1956,
+    "name": "tm113",
+    "names": {
+      "en": "tm113",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1957": {
+    "id": 1957,
+    "name": "tm114",
+    "names": {
+      "en": "tm114",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1958": {
+    "id": 1958,
+    "name": "tm115",
+    "names": {
+      "en": "tm115",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1959": {
+    "id": 1959,
+    "name": "tm116",
+    "names": {
+      "en": "tm116",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1960": {
+    "id": 1960,
+    "name": "tm117",
+    "names": {
+      "en": "tm117",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1961": {
+    "id": 1961,
+    "name": "tm118",
+    "names": {
+      "en": "tm118",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1962": {
+    "id": 1962,
+    "name": "tm119",
+    "names": {
+      "en": "tm119",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1963": {
+    "id": 1963,
+    "name": "tm120",
+    "names": {
+      "en": "tm120",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1964": {
+    "id": 1964,
+    "name": "tm121",
+    "names": {
+      "en": "tm121",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1965": {
+    "id": 1965,
+    "name": "tm122",
+    "names": {
+      "en": "tm122",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1966": {
+    "id": 1966,
+    "name": "tm123",
+    "names": {
+      "en": "tm123",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1967": {
+    "id": 1967,
+    "name": "tm124",
+    "names": {
+      "en": "tm124",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1968": {
+    "id": 1968,
+    "name": "tm125",
+    "names": {
+      "en": "tm125",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1969": {
+    "id": 1969,
+    "name": "tm126",
+    "names": {
+      "en": "tm126",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1970": {
+    "id": 1970,
+    "name": "tm127",
+    "names": {
+      "en": "tm127",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1971": {
+    "id": 1971,
+    "name": "tm128",
+    "names": {
+      "en": "tm128",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1972": {
+    "id": 1972,
+    "name": "tm129",
+    "names": {
+      "en": "tm129",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1973": {
+    "id": 1973,
+    "name": "tm130",
+    "names": {
+      "en": "tm130",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1974": {
+    "id": 1974,
+    "name": "tm131",
+    "names": {
+      "en": "tm131",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1975": {
+    "id": 1975,
+    "name": "tm132",
+    "names": {
+      "en": "tm132",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1976": {
+    "id": 1976,
+    "name": "tm133",
+    "names": {
+      "en": "tm133",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1977": {
+    "id": 1977,
+    "name": "tm134",
+    "names": {
+      "en": "tm134",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1978": {
+    "id": 1978,
+    "name": "tm135",
+    "names": {
+      "en": "tm135",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1979": {
+    "id": 1979,
+    "name": "tm136",
+    "names": {
+      "en": "tm136",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1980": {
+    "id": 1980,
+    "name": "tm137",
+    "names": {
+      "en": "tm137",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1981": {
+    "id": 1981,
+    "name": "tm138",
+    "names": {
+      "en": "tm138",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1982": {
+    "id": 1982,
+    "name": "tm139",
+    "names": {
+      "en": "tm139",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1983": {
+    "id": 1983,
+    "name": "tm140",
+    "names": {
+      "en": "tm140",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1984": {
+    "id": 1984,
+    "name": "tm141",
+    "names": {
+      "en": "tm141",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1985": {
+    "id": 1985,
+    "name": "tm142",
+    "names": {
+      "en": "tm142",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1986": {
+    "id": 1986,
+    "name": "tm143",
+    "names": {
+      "en": "tm143",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1987": {
+    "id": 1987,
+    "name": "tm144",
+    "names": {
+      "en": "tm144",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1988": {
+    "id": 1988,
+    "name": "tm145",
+    "names": {
+      "en": "tm145",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1989": {
+    "id": 1989,
+    "name": "tm146",
+    "names": {
+      "en": "tm146",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1990": {
+    "id": 1990,
+    "name": "tm147",
+    "names": {
+      "en": "tm147",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1991": {
+    "id": 1991,
+    "name": "tm148",
+    "names": {
+      "en": "tm148",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1992": {
+    "id": 1992,
+    "name": "tm149",
+    "names": {
+      "en": "tm149",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1993": {
+    "id": 1993,
+    "name": "tm150",
+    "names": {
+      "en": "tm150",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1994": {
+    "id": 1994,
+    "name": "tm151",
+    "names": {
+      "en": "tm151",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1995": {
+    "id": 1995,
+    "name": "tm152",
+    "names": {
+      "en": "tm152",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1996": {
+    "id": 1996,
+    "name": "tm153",
+    "names": {
+      "en": "tm153",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1997": {
+    "id": 1997,
+    "name": "tm154",
+    "names": {
+      "en": "tm154",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1998": {
+    "id": 1998,
+    "name": "tm155",
+    "names": {
+      "en": "tm155",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "1999": {
+    "id": 1999,
+    "name": "tm156",
+    "names": {
+      "en": "tm156",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2000": {
+    "id": 2000,
+    "name": "tm157",
+    "names": {
+      "en": "tm157",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2001": {
+    "id": 2001,
+    "name": "tm158",
+    "names": {
+      "en": "tm158",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2002": {
+    "id": 2002,
+    "name": "tm159",
+    "names": {
+      "en": "tm159",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2003": {
+    "id": 2003,
+    "name": "tm160",
+    "names": {
+      "en": "tm160",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2004": {
+    "id": 2004,
+    "name": "tm161",
+    "names": {
+      "en": "tm161",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2005": {
+    "id": 2005,
+    "name": "tm162",
+    "names": {
+      "en": "tm162",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2006": {
+    "id": 2006,
+    "name": "tm163",
+    "names": {
+      "en": "tm163",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2007": {
+    "id": 2007,
+    "name": "tm164",
+    "names": {
+      "en": "tm164",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2008": {
+    "id": 2008,
+    "name": "tm165",
+    "names": {
+      "en": "tm165",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2009": {
+    "id": 2009,
+    "name": "tm166",
+    "names": {
+      "en": "tm166",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2010": {
+    "id": 2010,
+    "name": "tm167",
+    "names": {
+      "en": "tm167",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2011": {
+    "id": 2011,
+    "name": "tm168",
+    "names": {
+      "en": "tm168",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2012": {
+    "id": 2012,
+    "name": "tm169",
+    "names": {
+      "en": "tm169",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2013": {
+    "id": 2013,
+    "name": "tm170",
+    "names": {
+      "en": "tm170",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2014": {
+    "id": 2014,
+    "name": "tm171",
+    "names": {
+      "en": "tm171",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "2015": {
+    "id": 2015,
+    "name": "picnic-set",
+    "names": {
+      "en": "picnic-set",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2016": {
+    "id": 2016,
+    "name": "academy-bottle",
+    "names": {
+      "en": "academy-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2018": {
+    "id": 2018,
+    "name": "polka-dot-bottle",
+    "names": {
+      "en": "polka-dot-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2019": {
+    "id": 2019,
+    "name": "striped-bottle",
+    "names": {
+      "en": "striped-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2020": {
+    "id": 2020,
+    "name": "diamond-bottle",
+    "names": {
+      "en": "diamond-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2021": {
+    "id": 2021,
+    "name": "academy-cup",
+    "names": {
+      "en": "academy-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2023": {
+    "id": 2023,
+    "name": "striped-cup",
+    "names": {
+      "en": "striped-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2024": {
+    "id": 2024,
+    "name": "polka-dot-cup",
+    "names": {
+      "en": "polka-dot-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2025": {
+    "id": 2025,
+    "name": "flower-pattern-cup",
+    "names": {
+      "en": "flower-pattern-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2026": {
+    "id": 2026,
+    "name": "academy-tablecloth",
+    "names": {
+      "en": "academy-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2028": {
+    "id": 2028,
+    "name": "whimsical-tablecloth",
+    "names": {
+      "en": "whimsical-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2029": {
+    "id": 2029,
+    "name": "leafy-tablecloth",
+    "names": {
+      "en": "leafy-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2030": {
+    "id": 2030,
+    "name": "spooky-tablecloth",
+    "names": {
+      "en": "spooky-tablecloth",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2031": {
+    "id": 2031,
+    "name": "academy-ball",
+    "names": {
+      "en": "academy-ball",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2033": {
+    "id": 2033,
+    "name": "marill-ball",
+    "names": {
+      "en": "marill-ball",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2034": {
+    "id": 2034,
+    "name": "yarn-ball",
+    "names": {
+      "en": "yarn-ball",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2035": {
+    "id": 2035,
+    "name": "cyber-ball",
+    "names": {
+      "en": "cyber-ball",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2036": {
+    "id": 2036,
+    "name": "gold-pick",
+    "names": {
+      "en": "gold-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2037": {
+    "id": 2037,
+    "name": "silver-pick",
+    "names": {
+      "en": "silver-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2038": {
+    "id": 2038,
+    "name": "red-flag-pick",
+    "names": {
+      "en": "red-flag-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2039": {
+    "id": 2039,
+    "name": "blue-flag-pick",
+    "names": {
+      "en": "blue-flag-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2040": {
+    "id": 2040,
+    "name": "pika-pika-pick",
+    "names": {
+      "en": "pika-pika-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2041": {
+    "id": 2041,
+    "name": "winking-pika-pick",
+    "names": {
+      "en": "winking-pika-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2042": {
+    "id": 2042,
+    "name": "vee-vee-pick",
+    "names": {
+      "en": "vee-vee-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2043": {
+    "id": 2043,
+    "name": "smiling-vee-pick",
+    "names": {
+      "en": "smiling-vee-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2044": {
+    "id": 2044,
+    "name": "blue-poke-ball-pick",
+    "names": {
+      "en": "blue-poke-ball-pick",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2045": {
+    "id": 2045,
+    "name": "auspicious-armor",
+    "names": {
+      "en": "auspicious-armor",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2046": {
+    "id": 2046,
+    "name": "leaders-crest",
+    "names": {
+      "en": "leaders-crest",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2047": {
+    "id": 2047,
+    "name": "pink-bottle",
+    "names": {
+      "en": "pink-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2048": {
+    "id": 2048,
+    "name": "blue-bottle",
+    "names": {
+      "en": "blue-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2049": {
+    "id": 2049,
+    "name": "yellow-bottle",
+    "names": {
+      "en": "yellow-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2050": {
+    "id": 2050,
+    "name": "steel-bottle-r",
+    "names": {
+      "en": "steel-bottle-r",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2051": {
+    "id": 2051,
+    "name": "steel-bottle-y",
+    "names": {
+      "en": "steel-bottle-y",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2052": {
+    "id": 2052,
+    "name": "steel-bottle-b",
+    "names": {
+      "en": "steel-bottle-b",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2053": {
+    "id": 2053,
+    "name": "silver-bottle",
+    "names": {
+      "en": "silver-bottle",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2054": {
+    "id": 2054,
+    "name": "barred-cup",
+    "names": {
+      "en": "barred-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2055": {
+    "id": 2055,
+    "name": "diamond-pattern-cup",
+    "names": {
+      "en": "diamond-pattern-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2056": {
+    "id": 2056,
+    "name": "fire-pattern-cup",
+    "names": {
+      "en": "fire-pattern-cup",
+      "pt": null
+    },
+    "category": "picnic",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

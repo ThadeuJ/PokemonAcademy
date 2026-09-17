@@ -1,0 +1,1502 @@
+{
+  "401": {
+    "id": 401,
+    "name": "hm05",
+    "names": {
+      "en": "hm05",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
+    }
+  },
+  "402": {
+    "id": 402,
+    "name": "hm06",
+    "names": {
+      "en": "hm06",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
+    }
+  },
+  "403": {
+    "id": 403,
+    "name": "hm07",
+    "names": {
+      "en": "hm07",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
+    }
+  },
+  "404": {
+    "id": 404,
+    "name": "hm08",
+    "names": {
+      "en": "hm08",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hm-normal.png"
+    }
+  },
+  "405": {
+    "id": 405,
+    "name": "explorer-kit",
+    "names": {
+      "en": "explorer-kit",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/explorer-kit.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/explorer-kit.png"
+    }
+  },
+  "406": {
+    "id": 406,
+    "name": "loot-sack",
+    "names": {
+      "en": "loot-sack",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/loot-sack.png"
+    }
+  },
+  "407": {
+    "id": 407,
+    "name": "rule-book",
+    "names": {
+      "en": "rule-book",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rule-book.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rule-book.png"
+    }
+  },
+  "408": {
+    "id": 408,
+    "name": "poke-radar",
+    "names": {
+      "en": "poke-radar",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-radar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-radar.png"
+    }
+  },
+  "409": {
+    "id": 409,
+    "name": "point-card",
+    "names": {
+      "en": "point-card",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/point-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/point-card.png"
+    }
+  },
+  "410": {
+    "id": 410,
+    "name": "journal",
+    "names": {
+      "en": "journal",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/journal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/journal.png"
+    }
+  },
+  "411": {
+    "id": 411,
+    "name": "seal-case",
+    "names": {
+      "en": "seal-case",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-case.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-case.png"
+    }
+  },
+  "412": {
+    "id": 412,
+    "name": "fashion-case",
+    "names": {
+      "en": "fashion-case",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fashion-case.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fashion-case.png"
+    }
+  },
+  "413": {
+    "id": 413,
+    "name": "seal-bag",
+    "names": {
+      "en": "seal-bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/seal-bag.png"
+    }
+  },
+  "414": {
+    "id": 414,
+    "name": "pal-pad",
+    "names": {
+      "en": "pal-pad",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pal-pad.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pal-pad.png"
+    }
+  },
+  "415": {
+    "id": 415,
+    "name": "works-key",
+    "names": {
+      "en": "works-key",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/works-key.png"
+    }
+  },
+  "416": {
+    "id": 416,
+    "name": "old-charm",
+    "names": {
+      "en": "old-charm",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-charm.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-charm.png"
+    }
+  },
+  "417": {
+    "id": 417,
+    "name": "galactic-key",
+    "names": {
+      "en": "galactic-key",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galactic-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/galactic-key.png"
+    }
+  },
+  "418": {
+    "id": 418,
+    "name": "red-chain",
+    "names": {
+      "en": "red-chain",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-chain.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-chain.png"
+    }
+  },
+  "419": {
+    "id": 419,
+    "name": "town-map",
+    "names": {
+      "en": "town-map",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/town-map.png"
+    }
+  },
+  "420": {
+    "id": 420,
+    "name": "vs-seeker",
+    "names": {
+      "en": "vs-seeker",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png"
+    }
+  },
+  "421": {
+    "id": 421,
+    "name": "coin-case",
+    "names": {
+      "en": "coin-case",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coin-case.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coin-case.png"
+    }
+  },
+  "422": {
+    "id": 422,
+    "name": "old-rod",
+    "names": {
+      "en": "old-rod",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-rod.png"
+    }
+  },
+  "423": {
+    "id": 423,
+    "name": "good-rod",
+    "names": {
+      "en": "good-rod",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/good-rod.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/good-rod.png"
+    }
+  },
+  "424": {
+    "id": 424,
+    "name": "super-rod",
+    "names": {
+      "en": "super-rod",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/super-rod.png"
+    }
+  },
+  "425": {
+    "id": 425,
+    "name": "sprayduck",
+    "names": {
+      "en": "sprayduck",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sprayduck.png"
+    }
+  },
+  "426": {
+    "id": 426,
+    "name": "poffin-case",
+    "names": {
+      "en": "poffin-case",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poffin-case.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poffin-case.png"
+    }
+  },
+  "427": {
+    "id": 427,
+    "name": "bicycle",
+    "names": {
+      "en": "bicycle",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bicycle.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bicycle.png"
+    }
+  },
+  "428": {
+    "id": 428,
+    "name": "suite-key",
+    "names": {
+      "en": "suite-key",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/suite-key.png"
+    }
+  },
+  "429": {
+    "id": 429,
+    "name": "oaks-letter",
+    "names": {
+      "en": "oaks-letter",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oaks-letter.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oaks-letter.png"
+    }
+  },
+  "430": {
+    "id": 430,
+    "name": "lunar-wing",
+    "names": {
+      "en": "lunar-wing",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunar-wing.png"
+    }
+  },
+  "431": {
+    "id": 431,
+    "name": "member-card",
+    "names": {
+      "en": "member-card",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/member-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/member-card.png"
+    }
+  },
+  "432": {
+    "id": 432,
+    "name": "azure-flute",
+    "names": {
+      "en": "azure-flute",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/azure-flute.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/azure-flute.png"
+    }
+  },
+  "433": {
+    "id": 433,
+    "name": "ss-ticket",
+    "names": {
+      "en": "ss-ticket",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ss-ticket.png"
+    }
+  },
+  "434": {
+    "id": 434,
+    "name": "contest-pass",
+    "names": {
+      "en": "contest-pass",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-pass.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/contest-pass.png"
+    }
+  },
+  "435": {
+    "id": 435,
+    "name": "magma-stone",
+    "names": {
+      "en": "magma-stone",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magma-stone.png"
+    }
+  },
+  "436": {
+    "id": 436,
+    "name": "parcel",
+    "names": {
+      "en": "parcel",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/parcel.png"
+    }
+  },
+  "437": {
+    "id": 437,
+    "name": "coupon-1",
+    "names": {
+      "en": "coupon-1",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-1.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-1.png"
+    }
+  },
+  "438": {
+    "id": 438,
+    "name": "coupon-2",
+    "names": {
+      "en": "coupon-2",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-2.png"
+    }
+  },
+  "439": {
+    "id": 439,
+    "name": "coupon-3",
+    "names": {
+      "en": "coupon-3",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coupon-3.png"
+    }
+  },
+  "440": {
+    "id": 440,
+    "name": "storage-key",
+    "names": {
+      "en": "storage-key",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/storage-key.png"
+    }
+  },
+  "441": {
+    "id": 441,
+    "name": "secret-potion",
+    "names": {
+      "en": "secret-potion",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-potion.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-potion.png"
+    }
+  },
+  "442": {
+    "id": 442,
+    "name": "griseous-orb",
+    "names": {
+      "en": "griseous-orb",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/griseous-orb.png"
+    }
+  },
+  "443": {
+    "id": 443,
+    "name": "vs-recorder",
+    "names": {
+      "en": "vs-recorder",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-recorder.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-recorder.png"
+    }
+  },
+  "444": {
+    "id": 444,
+    "name": "gracidea",
+    "names": {
+      "en": "gracidea",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gracidea.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gracidea.png"
+    }
+  },
+  "445": {
+    "id": 445,
+    "name": "secret-key",
+    "names": {
+      "en": "secret-key",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/secret-key.png"
+    }
+  },
+  "446": {
+    "id": 446,
+    "name": "apricorn-box",
+    "names": {
+      "en": "apricorn-box",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apricorn-box.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apricorn-box.png"
+    }
+  },
+  "447": {
+    "id": 447,
+    "name": "berry-pots",
+    "names": {
+      "en": "berry-pots",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-pots.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/berry-pots.png"
+    }
+  },
+  "448": {
+    "id": 448,
+    "name": "squirt-bottle",
+    "names": {
+      "en": "squirt-bottle",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/squirt-bottle.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/squirt-bottle.png"
+    }
+  },
+  "449": {
+    "id": 449,
+    "name": "lure-ball",
+    "names": {
+      "en": "lure-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lure-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lure-ball.png"
+    }
+  },
+  "450": {
+    "id": 450,
+    "name": "level-ball",
+    "names": {
+      "en": "level-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/level-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/level-ball.png"
+    }
+  },
+  "451": {
+    "id": 451,
+    "name": "moon-ball",
+    "names": {
+      "en": "moon-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/moon-ball.png"
+    }
+  },
+  "452": {
+    "id": 452,
+    "name": "heavy-ball",
+    "names": {
+      "en": "heavy-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heavy-ball.png"
+    }
+  },
+  "453": {
+    "id": 453,
+    "name": "fast-ball",
+    "names": {
+      "en": "fast-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fast-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fast-ball.png"
+    }
+  },
+  "454": {
+    "id": 454,
+    "name": "friend-ball",
+    "names": {
+      "en": "friend-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/friend-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/friend-ball.png"
+    }
+  },
+  "455": {
+    "id": 455,
+    "name": "love-ball",
+    "names": {
+      "en": "love-ball",
+      "pt": null
+    },
+    "category": "apricorn-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/love-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/love-ball.png"
+    }
+  },
+  "456": {
+    "id": 456,
+    "name": "park-ball",
+    "names": {
+      "en": "park-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/park-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/park-ball.png"
+    }
+  },
+  "457": {
+    "id": 457,
+    "name": "sport-ball",
+    "names": {
+      "en": "sport-ball",
+      "pt": null
+    },
+    "category": "standard-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sport-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sport-ball.png"
+    }
+  },
+  "458": {
+    "id": 458,
+    "name": "red-apricorn",
+    "names": {
+      "en": "red-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-apricorn.png"
+    }
+  },
+  "459": {
+    "id": 459,
+    "name": "blue-apricorn",
+    "names": {
+      "en": "blue-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-apricorn.png"
+    }
+  },
+  "460": {
+    "id": 460,
+    "name": "yellow-apricorn",
+    "names": {
+      "en": "yellow-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-apricorn.png"
+    }
+  },
+  "461": {
+    "id": 461,
+    "name": "green-apricorn",
+    "names": {
+      "en": "green-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-apricorn.png"
+    }
+  },
+  "462": {
+    "id": 462,
+    "name": "pink-apricorn",
+    "names": {
+      "en": "pink-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-apricorn.png"
+    }
+  },
+  "463": {
+    "id": 463,
+    "name": "white-apricorn",
+    "names": {
+      "en": "white-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-apricorn.png"
+    }
+  },
+  "464": {
+    "id": 464,
+    "name": "black-apricorn",
+    "names": {
+      "en": "black-apricorn",
+      "pt": null
+    },
+    "category": "apricorn-box",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-apricorn.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/black-apricorn.png"
+    }
+  },
+  "465": {
+    "id": 465,
+    "name": "dowsing-machine",
+    "names": {
+      "en": "dowsing-machine",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dowsing-machine.png"
+    }
+  },
+  "466": {
+    "id": 466,
+    "name": "rage-candy-bar",
+    "names": {
+      "en": "rage-candy-bar",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rage-candy-bar.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rage-candy-bar.png"
+    }
+  },
+  "467": {
+    "id": 467,
+    "name": "red-orb",
+    "names": {
+      "en": "red-orb",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-orb.png"
+    }
+  },
+  "468": {
+    "id": 468,
+    "name": "blue-orb",
+    "names": {
+      "en": "blue-orb",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-orb.png"
+    }
+  },
+  "469": {
+    "id": 469,
+    "name": "jade-orb",
+    "names": {
+      "en": "jade-orb",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jade-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jade-orb.png"
+    }
+  },
+  "470": {
+    "id": 470,
+    "name": "enigma-stone",
+    "names": {
+      "en": "enigma-stone",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-stone.png"
+    }
+  },
+  "471": {
+    "id": 471,
+    "name": "unown-report",
+    "names": {
+      "en": "unown-report",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/unown-report.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/unown-report.png"
+    }
+  },
+  "472": {
+    "id": 472,
+    "name": "blue-card",
+    "names": {
+      "en": "blue-card",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-card.png"
+    }
+  },
+  "473": {
+    "id": 473,
+    "name": "slowpoke-tail",
+    "names": {
+      "en": "slowpoke-tail",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowpoke-tail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/slowpoke-tail.png"
+    }
+  },
+  "474": {
+    "id": 474,
+    "name": "clear-bell",
+    "names": {
+      "en": "clear-bell",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clear-bell.png"
+    }
+  },
+  "475": {
+    "id": 475,
+    "name": "card-key",
+    "names": {
+      "en": "card-key",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/card-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/card-key.png"
+    }
+  },
+  "476": {
+    "id": 476,
+    "name": "basement-key",
+    "names": {
+      "en": "basement-key",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/basement-key.png"
+    }
+  },
+  "477": {
+    "id": 477,
+    "name": "red-scale",
+    "names": {
+      "en": "red-scale",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scale.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-scale.png"
+    }
+  },
+  "478": {
+    "id": 478,
+    "name": "lost-item",
+    "names": {
+      "en": "lost-item",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lost-item.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lost-item.png"
+    }
+  },
+  "479": {
+    "id": 479,
+    "name": "pass",
+    "names": {
+      "en": "pass",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass.png"
+    }
+  },
+  "480": {
+    "id": 480,
+    "name": "machine-part",
+    "names": {
+      "en": "machine-part",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/machine-part.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/machine-part.png"
+    }
+  },
+  "481": {
+    "id": 481,
+    "name": "silver-wing",
+    "names": {
+      "en": "silver-wing",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-wing.png"
+    }
+  },
+  "482": {
+    "id": 482,
+    "name": "rainbow-wing",
+    "names": {
+      "en": "rainbow-wing",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-wing.png"
+    }
+  },
+  "483": {
+    "id": 483,
+    "name": "mystery-egg",
+    "names": {
+      "en": "mystery-egg",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystery-egg.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mystery-egg.png"
+    }
+  },
+  "484": {
+    "id": 484,
+    "name": "gb-sounds",
+    "names": {
+      "en": "gb-sounds",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gb-sounds.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gb-sounds.png"
+    }
+  },
+  "485": {
+    "id": 485,
+    "name": "tidal-bell",
+    "names": {
+      "en": "tidal-bell",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tidal-bell.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tidal-bell.png"
+    }
+  },
+  "486": {
+    "id": 486,
+    "name": "data-card-01",
+    "names": {
+      "en": "data-card-01",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "487": {
+    "id": 487,
+    "name": "data-card-02",
+    "names": {
+      "en": "data-card-02",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "488": {
+    "id": 488,
+    "name": "data-card-03",
+    "names": {
+      "en": "data-card-03",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "489": {
+    "id": 489,
+    "name": "data-card-04",
+    "names": {
+      "en": "data-card-04",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "490": {
+    "id": 490,
+    "name": "data-card-05",
+    "names": {
+      "en": "data-card-05",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "491": {
+    "id": 491,
+    "name": "data-card-06",
+    "names": {
+      "en": "data-card-06",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "492": {
+    "id": 492,
+    "name": "data-card-07",
+    "names": {
+      "en": "data-card-07",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "493": {
+    "id": 493,
+    "name": "data-card-08",
+    "names": {
+      "en": "data-card-08",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "494": {
+    "id": 494,
+    "name": "data-card-09",
+    "names": {
+      "en": "data-card-09",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "495": {
+    "id": 495,
+    "name": "data-card-10",
+    "names": {
+      "en": "data-card-10",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "496": {
+    "id": 496,
+    "name": "data-card-11",
+    "names": {
+      "en": "data-card-11",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "497": {
+    "id": 497,
+    "name": "data-card-12",
+    "names": {
+      "en": "data-card-12",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "498": {
+    "id": 498,
+    "name": "data-card-13",
+    "names": {
+      "en": "data-card-13",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "499": {
+    "id": 499,
+    "name": "data-card-14",
+    "names": {
+      "en": "data-card-14",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  },
+  "500": {
+    "id": 500,
+    "name": "data-card-15",
+    "names": {
+      "en": "data-card-15",
+      "pt": null
+    },
+    "category": "data-cards",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/data-card.png"
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "1118": {
+    "id": 1118,
+    "name": "roaming-isle-of-armor",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Roaming the Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "roaming-isle-of-armor-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1381/"
+      }
+    ]
+  },
+  "1119": {
+    "id": 1119,
+    "name": "roaming-crown-tundra",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Roaming the Crown Tundra",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "roaming-crown-tundra-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1382/"
+      }
+    ]
+  },
+  "1120": {
+    "id": 1120,
+    "name": "galar-wild-area-max-dens",
+    "region": {
+      "name": "galar",
+      "url": "https://pokeapi.co/api/v2/region/8/"
+    },
+    "names": [
+      {
+        "name": "Max Dens in the Galar Wild Area",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "galar-wild-area-max-dens-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1383/"
+      }
+    ]
+  },
+  "1121": {
+    "id": 1121,
+    "name": "kalos-berry-fields",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    },
+    "names": [
+      {
+        "name": "Kalos Berry Fields",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      }
+    ],
+    "game_indices": [],
+    "areas": [
+      {
+        "name": "kalos-berry-fields-area",
+        "url": "https://pokeapi.co/api/v2/location-area/1483/"
+      }
+    ]
+  }
+}

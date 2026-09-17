@@ -1,0 +1,6311 @@
+{
+  "901": {
+    "id": 901,
+    "name": "ursaluna",
+    "order": 1305,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "ursaluna",
+      "url": "https://pokeapi.co/api/v2/pokemon/901/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/901.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/901.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/901.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/901.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "legends-arceus",
+      "url": "https://pokeapi.co/api/v2/version-group/24/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "902": {
+    "id": 902,
+    "name": "basculegion-male",
+    "order": 1306,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "male",
+    "pokemon": {
+      "name": "basculegion-male",
+      "url": "https://pokeapi.co/api/v2/pokemon/902/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/female/902.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/902.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/902.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/902.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/902.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902.png",
+      "back_shiny_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/female/902.png",
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "legends-arceus",
+      "url": "https://pokeapi.co/api/v2/version-group/24/"
+    },
+    "form_names": [
+      {
+        "name": "オスのすがた",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Mâle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Male",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "オスのすがた",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Paragruel Mâle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Male Basculegion",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "903": {
+    "id": 903,
+    "name": "sneasler",
+    "order": 1307,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "sneasler",
+      "url": "https://pokeapi.co/api/v2/pokemon/903/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/903.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/903.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/903.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/903.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/903.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "legends-arceus",
+      "url": "https://pokeapi.co/api/v2/version-group/24/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "904": {
+    "id": 904,
+    "name": "overqwil",
+    "order": 1308,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "overqwil",
+      "url": "https://pokeapi.co/api/v2/pokemon/904/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/904.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/904.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/904.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/904.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "legends-arceus",
+      "url": "https://pokeapi.co/api/v2/version-group/24/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "905": {
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "order": 1309,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "incarnate",
+    "pokemon": {
+      "name": "enamorus-incarnate",
+      "url": "https://pokeapi.co/api/v2/pokemon/905/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/905.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/905.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/905.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/905.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "legends-arceus",
+      "url": "https://pokeapi.co/api/v2/version-group/24/"
+    },
+    "form_names": [
+      {
+        "name": "けしんフォルム",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forme Avatar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Incarnate Forme",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "けしんフォルム",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Amovénus Avatar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Incarnate Enamorus",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "906": {
+    "id": 906,
+    "name": "sprigatito",
+    "order": 1310,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "sprigatito",
+      "url": "https://pokeapi.co/api/v2/pokemon/906/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/906.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/906.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/906.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/906.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "907": {
+    "id": 907,
+    "name": "floragato",
+    "order": 1311,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "floragato",
+      "url": "https://pokeapi.co/api/v2/pokemon/907/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/907.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/907.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/907.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/907.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/907.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "908": {
+    "id": 908,
+    "name": "meowscarada",
+    "order": 1312,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "meowscarada",
+      "url": "https://pokeapi.co/api/v2/pokemon/908/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/908.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/908.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/908.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/908.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/908.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "909": {
+    "id": 909,
+    "name": "fuecoco",
+    "order": 1313,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "fuecoco",
+      "url": "https://pokeapi.co/api/v2/pokemon/909/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/909.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/909.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/909.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/909.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "910": {
+    "id": 910,
+    "name": "crocalor",
+    "order": 1314,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "crocalor",
+      "url": "https://pokeapi.co/api/v2/pokemon/910/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/910.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/910.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/910.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/910.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/910.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "911": {
+    "id": 911,
+    "name": "skeledirge",
+    "order": 1315,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "skeledirge",
+      "url": "https://pokeapi.co/api/v2/pokemon/911/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/911.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/911.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/911.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/911.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/911.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "912": {
+    "id": 912,
+    "name": "quaxly",
+    "order": 1316,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "quaxly",
+      "url": "https://pokeapi.co/api/v2/pokemon/912/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/912.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/912.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/912.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/912.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "913": {
+    "id": 913,
+    "name": "quaxwell",
+    "order": 1317,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "quaxwell",
+      "url": "https://pokeapi.co/api/v2/pokemon/913/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/913.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/913.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/913.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/913.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/913.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "914": {
+    "id": 914,
+    "name": "quaquaval",
+    "order": 1318,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "quaquaval",
+      "url": "https://pokeapi.co/api/v2/pokemon/914/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/914.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/914.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/914.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/914.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/914.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "915": {
+    "id": 915,
+    "name": "lechonk",
+    "order": 1319,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "lechonk",
+      "url": "https://pokeapi.co/api/v2/pokemon/915/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/915.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/915.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/915.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/915.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/915.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "916": {
+    "id": 916,
+    "name": "oinkologne-male",
+    "order": 1320,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "male",
+    "pokemon": {
+      "name": "oinkologne-male",
+      "url": "https://pokeapi.co/api/v2/pokemon/916/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/female/916.png",
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/916.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/916.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/916.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/916.png",
+      "front_female": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/female/916.png",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "オスのすがた",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Mâle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Male",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "オスのすがた",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Fragroin Mâle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Male Oinkologne",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "917": {
+    "id": 917,
+    "name": "tarountula",
+    "order": 1322,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tarountula",
+      "url": "https://pokeapi.co/api/v2/pokemon/917/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/917.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/917.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/917.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/917.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/917.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "918": {
+    "id": 918,
+    "name": "spidops",
+    "order": 1323,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "spidops",
+      "url": "https://pokeapi.co/api/v2/pokemon/918/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/918.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/918.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/918.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/918.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/918.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "919": {
+    "id": 919,
+    "name": "nymble",
+    "order": 1324,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "nymble",
+      "url": "https://pokeapi.co/api/v2/pokemon/919/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/919.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/919.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/919.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/919.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/919.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "920": {
+    "id": 920,
+    "name": "lokix",
+    "order": 1325,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "lokix",
+      "url": "https://pokeapi.co/api/v2/pokemon/920/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/920.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/920.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/920.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/920.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/920.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "921": {
+    "id": 921,
+    "name": "pawmi",
+    "order": 1363,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "pawmi",
+      "url": "https://pokeapi.co/api/v2/pokemon/921/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/921.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/921.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/921.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/921.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/921.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "922": {
+    "id": 922,
+    "name": "pawmo",
+    "order": 1364,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "pawmo",
+      "url": "https://pokeapi.co/api/v2/pokemon/922/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/922.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/922.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/922.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/922.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/922.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "923": {
+    "id": 923,
+    "name": "pawmot",
+    "order": 1365,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "pawmot",
+      "url": "https://pokeapi.co/api/v2/pokemon/923/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/923.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/923.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/923.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/923.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/923.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "924": {
+    "id": 924,
+    "name": "tandemaus",
+    "order": 1350,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tandemaus",
+      "url": "https://pokeapi.co/api/v2/pokemon/924/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/924.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/924.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/924.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/924.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/924.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "925": {
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "order": 1351,
+    "form_order": 2,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "family-of-four",
+    "pokemon": {
+      "name": "maushold-family-of-four",
+      "url": "https://pokeapi.co/api/v2/pokemon/925/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/925.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/925.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/925.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/925.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "４ひきかぞく",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Famille de Quatre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Family of Four",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "４ひきかぞく",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Famignol Famille de Quatre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Maushold (Family of Four)",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "926": {
+    "id": 926,
+    "name": "fidough",
+    "order": 1380,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "fidough",
+      "url": "https://pokeapi.co/api/v2/pokemon/926/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/926.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/926.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/926.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/926.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "927": {
+    "id": 927,
+    "name": "dachsbun",
+    "order": 1381,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "dachsbun",
+      "url": "https://pokeapi.co/api/v2/pokemon/927/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/927.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/927.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/927.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/927.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/927.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "928": {
+    "id": 928,
+    "name": "smoliv",
+    "order": 1339,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "smoliv",
+      "url": "https://pokeapi.co/api/v2/pokemon/928/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/928.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/928.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/928.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/928.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/928.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "929": {
+    "id": 929,
+    "name": "dolliv",
+    "order": 1340,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "dolliv",
+      "url": "https://pokeapi.co/api/v2/pokemon/929/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/929.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/929.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/929.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/929.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/929.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "930": {
+    "id": 930,
+    "name": "arboliva",
+    "order": 1341,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "arboliva",
+      "url": "https://pokeapi.co/api/v2/pokemon/930/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/930.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/930.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/930.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/930.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "931": {
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "order": 1369,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "green-plumage",
+    "pokemon": {
+      "name": "squawkabilly-green-plumage",
+      "url": "https://pokeapi.co/api/v2/pokemon/931/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/931.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/931.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/931.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/931.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "グリーンフェザー",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Plumage Vert",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Green Plumage",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "グリーンフェザー",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Tapatoès Plumage Vert",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Green Plumage Squawkabilly",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "932": {
+    "id": 932,
+    "name": "nacli",
+    "order": 1372,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "nacli",
+      "url": "https://pokeapi.co/api/v2/pokemon/932/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/932.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/932.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/932.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/932.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/932.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "933": {
+    "id": 933,
+    "name": "naclstack",
+    "order": 1373,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "naclstack",
+      "url": "https://pokeapi.co/api/v2/pokemon/933/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/933.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/933.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/933.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/933.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/933.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "934": {
+    "id": 934,
+    "name": "garganacl",
+    "order": 1374,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "garganacl",
+      "url": "https://pokeapi.co/api/v2/pokemon/934/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/934.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/934.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/934.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/934.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/934.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "935": {
+    "id": 935,
+    "name": "charcadet",
+    "order": 1411,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "charcadet",
+      "url": "https://pokeapi.co/api/v2/pokemon/935/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/935.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/935.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/935.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/935.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "936": {
+    "id": 936,
+    "name": "armarouge",
+    "order": 1412,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "armarouge",
+      "url": "https://pokeapi.co/api/v2/pokemon/936/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/936.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/936.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/936.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/936.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/936.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "937": {
+    "id": 937,
+    "name": "ceruledge",
+    "order": 1413,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "ceruledge",
+      "url": "https://pokeapi.co/api/v2/pokemon/937/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/937.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/937.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/937.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/937.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/937.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "938": {
+    "id": 938,
+    "name": "tadbulb",
+    "order": 1345,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tadbulb",
+      "url": "https://pokeapi.co/api/v2/pokemon/938/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/938.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/938.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/938.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/938.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "939": {
+    "id": 939,
+    "name": "bellibolt",
+    "order": 1346,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "bellibolt",
+      "url": "https://pokeapi.co/api/v2/pokemon/939/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/939.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/939.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/939.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/939.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/939.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "940": {
+    "id": 940,
+    "name": "wattrel",
+    "order": 1366,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "wattrel",
+      "url": "https://pokeapi.co/api/v2/pokemon/940/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/940.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/940.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/940.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/940.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/940.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "941": {
+    "id": 941,
+    "name": "kilowattrel",
+    "order": 1367,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "kilowattrel",
+      "url": "https://pokeapi.co/api/v2/pokemon/941/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/941.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/941.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/941.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/941.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/941.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "942": {
+    "id": 942,
+    "name": "maschiff",
+    "order": 1382,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "maschiff",
+      "url": "https://pokeapi.co/api/v2/pokemon/942/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/942.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/942.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/942.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/942.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "943": {
+    "id": 943,
+    "name": "mabosstiff",
+    "order": 1383,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "mabosstiff",
+      "url": "https://pokeapi.co/api/v2/pokemon/943/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/943.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/943.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/943.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/943.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/943.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "944": {
+    "id": 944,
+    "name": "shroodle",
+    "order": 1378,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "shroodle",
+      "url": "https://pokeapi.co/api/v2/pokemon/944/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/944.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/944.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/944.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/944.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "945": {
+    "id": 945,
+    "name": "grafaiai",
+    "order": 1379,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "grafaiai",
+      "url": "https://pokeapi.co/api/v2/pokemon/945/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/945.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/945.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/945.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/945.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/945.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "946": {
+    "id": 946,
+    "name": "bramblin",
+    "order": 1384,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "bramblin",
+      "url": "https://pokeapi.co/api/v2/pokemon/946/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/946.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/946.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/946.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/946.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/946.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "947": {
+    "id": 947,
+    "name": "brambleghast",
+    "order": 1385,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "brambleghast",
+      "url": "https://pokeapi.co/api/v2/pokemon/947/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/947.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/947.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/947.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/947.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/947.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "948": {
+    "id": 948,
+    "name": "toedscool",
+    "order": 1414,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "toedscool",
+      "url": "https://pokeapi.co/api/v2/pokemon/948/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/948.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/948.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/948.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/948.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/948.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "949": {
+    "id": 949,
+    "name": "toedscruel",
+    "order": 1415,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "toedscruel",
+      "url": "https://pokeapi.co/api/v2/pokemon/949/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/949.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/949.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/949.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/949.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/949.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "950": {
+    "id": 950,
+    "name": "klawf",
+    "order": 1371,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "klawf",
+      "url": "https://pokeapi.co/api/v2/pokemon/950/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/950.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/950.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/950.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/950.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/950.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "951": {
+    "id": 951,
+    "name": "capsakid",
+    "order": 1342,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "capsakid",
+      "url": "https://pokeapi.co/api/v2/pokemon/951/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/951.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/951.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/951.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/951.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/951.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "952": {
+    "id": 952,
+    "name": "scovillain",
+    "order": 1343,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "scovillain",
+      "url": "https://pokeapi.co/api/v2/pokemon/952/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/952.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/952.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/952.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/952.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/952.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "953": {
+    "id": 953,
+    "name": "rellor",
+    "order": 1326,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "rellor",
+      "url": "https://pokeapi.co/api/v2/pokemon/953/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/953.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/953.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/953.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/953.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/953.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "954": {
+    "id": 954,
+    "name": "rabsca",
+    "order": 1327,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "rabsca",
+      "url": "https://pokeapi.co/api/v2/pokemon/954/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/954.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/954.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/954.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/954.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/954.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "955": {
+    "id": 955,
+    "name": "flittle",
+    "order": 1330,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "flittle",
+      "url": "https://pokeapi.co/api/v2/pokemon/955/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/955.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/955.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/955.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/955.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/955.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "956": {
+    "id": 956,
+    "name": "espathra",
+    "order": 1331,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "espathra",
+      "url": "https://pokeapi.co/api/v2/pokemon/956/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/956.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/956.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/956.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/956.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/956.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "957": {
+    "id": 957,
+    "name": "tinkatink",
+    "order": 1408,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tinkatink",
+      "url": "https://pokeapi.co/api/v2/pokemon/957/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/957.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/957.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/957.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/957.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/957.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "958": {
+    "id": 958,
+    "name": "tinkatuff",
+    "order": 1409,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tinkatuff",
+      "url": "https://pokeapi.co/api/v2/pokemon/958/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/958.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/958.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/958.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/958.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/958.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "959": {
+    "id": 959,
+    "name": "tinkaton",
+    "order": 1410,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "tinkaton",
+      "url": "https://pokeapi.co/api/v2/pokemon/959/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/959.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/959.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/959.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/959.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/959.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "960": {
+    "id": 960,
+    "name": "wiglett",
+    "order": 1333,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "wiglett",
+      "url": "https://pokeapi.co/api/v2/pokemon/960/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/960.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/960.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/960.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/960.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/960.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "961": {
+    "id": 961,
+    "name": "wugtrio",
+    "order": 1334,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "wugtrio",
+      "url": "https://pokeapi.co/api/v2/pokemon/961/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/961.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/961.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/961.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/961.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/961.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "962": {
+    "id": 962,
+    "name": "bombirdier",
+    "order": 1368,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "bombirdier",
+      "url": "https://pokeapi.co/api/v2/pokemon/962/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/962.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/962.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/962.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/962.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/962.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "963": {
+    "id": 963,
+    "name": "finizen",
+    "order": 1337,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "finizen",
+      "url": "https://pokeapi.co/api/v2/pokemon/963/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/963.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/963.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/963.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/963.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/963.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "964": {
+    "id": 964,
+    "name": "palafin-zero",
+    "order": 1338,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "zero",
+    "pokemon": {
+      "name": "palafin-zero",
+      "url": "https://pokeapi.co/api/v2/pokemon/964/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/964.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/964.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/964.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/964.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "ナイーブフォルム",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forme Ordinaire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Zero Form",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ナイーブフォルム",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Superdofin Forme Ordinaire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Zero Form Palafin",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "965": {
+    "id": 965,
+    "name": "varoom",
+    "order": 1347,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "varoom",
+      "url": "https://pokeapi.co/api/v2/pokemon/965/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/965.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/965.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/965.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/965.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/965.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "966": {
+    "id": 966,
+    "name": "revavroom",
+    "order": 1348,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "revavroom",
+      "url": "https://pokeapi.co/api/v2/pokemon/966/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/966.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/966.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/966.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/966.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/966.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "967": {
+    "id": 967,
+    "name": "cyclizar",
+    "order": 1361,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "cyclizar",
+      "url": "https://pokeapi.co/api/v2/pokemon/967/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/967.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/967.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/967.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/967.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/967.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "968": {
+    "id": 968,
+    "name": "orthworm",
+    "order": 1349,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "orthworm",
+      "url": "https://pokeapi.co/api/v2/pokemon/968/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/968.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/968.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/968.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/968.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/968.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "969": {
+    "id": 969,
+    "name": "glimmet",
+    "order": 1375,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "glimmet",
+      "url": "https://pokeapi.co/api/v2/pokemon/969/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/969.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/969.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/969.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/969.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/969.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "970": {
+    "id": 970,
+    "name": "glimmora",
+    "order": 1376,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "glimmora",
+      "url": "https://pokeapi.co/api/v2/pokemon/970/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/970.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/970.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/970.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/970.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/970.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "971": {
+    "id": 971,
+    "name": "greavard",
+    "order": 1328,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "greavard",
+      "url": "https://pokeapi.co/api/v2/pokemon/971/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/971.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/971.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/971.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/971.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/971.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "972": {
+    "id": 972,
+    "name": "houndstone",
+    "order": 1329,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "houndstone",
+      "url": "https://pokeapi.co/api/v2/pokemon/972/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/972.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/972.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/972.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/972.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "973": {
+    "id": 973,
+    "name": "flamigo",
+    "order": 1370,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "flamigo",
+      "url": "https://pokeapi.co/api/v2/pokemon/973/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/973.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/973.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/973.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/973.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/973.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "974": {
+    "id": 974,
+    "name": "cetoddle",
+    "order": 1352,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "cetoddle",
+      "url": "https://pokeapi.co/api/v2/pokemon/974/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/974.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/974.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/974.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/974.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/974.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "975": {
+    "id": 975,
+    "name": "cetitan",
+    "order": 1353,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "cetitan",
+      "url": "https://pokeapi.co/api/v2/pokemon/975/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/975.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/975.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/975.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/975.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/975.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "976": {
+    "id": 976,
+    "name": "veluza",
+    "order": 1336,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "veluza",
+      "url": "https://pokeapi.co/api/v2/pokemon/976/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/976.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/976.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/976.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/976.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/976.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "977": {
+    "id": 977,
+    "name": "dondozo",
+    "order": 1335,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "dondozo",
+      "url": "https://pokeapi.co/api/v2/pokemon/977/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/977.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/977.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/977.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/977.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/977.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "978": {
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "order": 1358,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "curly",
+    "pokemon": {
+      "name": "tatsugiri-curly",
+      "url": "https://pokeapi.co/api/v2/pokemon/978/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/978.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/978.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/978.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/978.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "そったすがた",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forme Courbée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Curly Form",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "そったすがた",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Nigirigon Forme Courbée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Curly Form Tatsugiri",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "979": {
+    "id": 979,
+    "name": "annihilape",
+    "order": 1418,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "annihilape",
+      "url": "https://pokeapi.co/api/v2/pokemon/979/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/979.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/979.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/979.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/979.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/979.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "980": {
+    "id": 980,
+    "name": "clodsire",
+    "order": 1417,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "clodsire",
+      "url": "https://pokeapi.co/api/v2/pokemon/980/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/980.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/980.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/980.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/980.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/980.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "981": {
+    "id": 981,
+    "name": "farigiraf",
+    "order": 1332,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "farigiraf",
+      "url": "https://pokeapi.co/api/v2/pokemon/981/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/981.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/981.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/981.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/981.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/981.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "982": {
+    "id": 982,
+    "name": "dudunsparce-two-segment",
+    "order": 1321,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "two-segment",
+    "pokemon": {
+      "name": "dudunsparce-two-segment",
+      "url": "https://pokeapi.co/api/v2/pokemon/982/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/982.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/982.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/982.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/982.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "ふたふしフォルム",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forme Double",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Two-Segment Form",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ふたふしフォルム",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Deusolourdo Forme Double",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Two-Segment Form Dudunsparce",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal",
+          "url": "https://pokeapi.co/api/v2/type/1/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "983": {
+    "id": 983,
+    "name": "kingambit",
+    "order": 1416,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "kingambit",
+      "url": "https://pokeapi.co/api/v2/pokemon/983/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/983.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/983.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/983.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/983.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/983.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "984": {
+    "id": 984,
+    "name": "great-tusk",
+    "order": 1388,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "great-tusk",
+      "url": "https://pokeapi.co/api/v2/pokemon/984/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/984.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/984.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/984.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/984.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "985": {
+    "id": 985,
+    "name": "scream-tail",
+    "order": 1391,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "scream-tail",
+      "url": "https://pokeapi.co/api/v2/pokemon/985/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/985.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/985.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/985.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic",
+          "url": "https://pokeapi.co/api/v2/type/14/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "986": {
+    "id": 986,
+    "name": "brute-bonnet",
+    "order": 1389,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "brute-bonnet",
+      "url": "https://pokeapi.co/api/v2/pokemon/986/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/986.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/986.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/986.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/986.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/986.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "987": {
+    "id": 987,
+    "name": "flutter-mane",
+    "order": 1392,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "flutter-mane",
+      "url": "https://pokeapi.co/api/v2/pokemon/987/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/987.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/987.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/987.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/987.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/987.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy",
+          "url": "https://pokeapi.co/api/v2/type/18/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "988": {
+    "id": 988,
+    "name": "slither-wing",
+    "order": 1393,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "slither-wing",
+      "url": "https://pokeapi.co/api/v2/pokemon/988/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/988.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/988.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/988.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/988.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/988.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/type/7/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "989": {
+    "id": 989,
+    "name": "sandy-shocks",
+    "order": 1390,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "sandy-shocks",
+      "url": "https://pokeapi.co/api/v2/pokemon/989/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/989.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/989.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/989.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/989.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/989.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "990": {
+    "id": 990,
+    "name": "iron-treads",
+    "order": 1395,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-treads",
+      "url": "https://pokeapi.co/api/v2/pokemon/990/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/990.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/990.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/990.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/990.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/990.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground",
+          "url": "https://pokeapi.co/api/v2/type/5/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "991": {
+    "id": 991,
+    "name": "iron-bundle",
+    "order": 1400,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-bundle",
+      "url": "https://pokeapi.co/api/v2/pokemon/991/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/991.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/991.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/991.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/991.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/991.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water",
+          "url": "https://pokeapi.co/api/v2/type/11/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "992": {
+    "id": 992,
+    "name": "iron-hands",
+    "order": 1397,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-hands",
+      "url": "https://pokeapi.co/api/v2/pokemon/992/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/992.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/992.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/992.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/992.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/992.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting",
+          "url": "https://pokeapi.co/api/v2/type/2/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "993": {
+    "id": 993,
+    "name": "iron-jugulis",
+    "order": 1398,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-jugulis",
+      "url": "https://pokeapi.co/api/v2/pokemon/993/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/993.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/993.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/993.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/993.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/993.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark",
+          "url": "https://pokeapi.co/api/v2/type/17/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying",
+          "url": "https://pokeapi.co/api/v2/type/3/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "994": {
+    "id": 994,
+    "name": "iron-moth",
+    "order": 1396,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-moth",
+      "url": "https://pokeapi.co/api/v2/pokemon/994/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/994.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/994.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/994.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/994.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/994.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire",
+          "url": "https://pokeapi.co/api/v2/type/10/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison",
+          "url": "https://pokeapi.co/api/v2/type/4/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "995": {
+    "id": 995,
+    "name": "iron-thorns",
+    "order": 1399,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "iron-thorns",
+      "url": "https://pokeapi.co/api/v2/pokemon/995/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/995.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/995.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/995.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/995.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/995.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock",
+          "url": "https://pokeapi.co/api/v2/type/6/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "electric",
+          "url": "https://pokeapi.co/api/v2/type/13/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "996": {
+    "id": 996,
+    "name": "frigibax",
+    "order": 1354,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "frigibax",
+      "url": "https://pokeapi.co/api/v2/pokemon/996/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/996.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/996.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/996.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/996.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "997": {
+    "id": 997,
+    "name": "arctibax",
+    "order": 1355,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "arctibax",
+      "url": "https://pokeapi.co/api/v2/pokemon/997/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/997.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/997.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/997.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/997.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/997.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "998": {
+    "id": 998,
+    "name": "baxcalibur",
+    "order": 1356,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "baxcalibur",
+      "url": "https://pokeapi.co/api/v2/pokemon/998/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/998.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/998.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/998.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/998.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/998.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon",
+          "url": "https://pokeapi.co/api/v2/type/16/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice",
+          "url": "https://pokeapi.co/api/v2/type/15/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "999": {
+    "id": 999,
+    "name": "gimmighoul-chest",
+    "order": 1386,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "chest",
+    "pokemon": {
+      "name": "gimmighoul",
+      "url": "https://pokeapi.co/api/v2/pokemon/999/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/999.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/999.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/999.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/999.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [
+      {
+        "name": "はこフォルム",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forme Coffre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Chest Form",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "はこフォルム",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      }
+    ],
+    "names": [
+      {
+        "name": "Mordudor Forme Coffre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Chest Form Gimmighoul",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  },
+  "1000": {
+    "id": 1000,
+    "name": "gholdengo",
+    "order": 1387,
+    "form_order": 1,
+    "is_default": true,
+    "is_battle_only": false,
+    "is_mega": false,
+    "form_name": "",
+    "pokemon": {
+      "name": "gholdengo",
+      "url": "https://pokeapi.co/api/v2/pokemon/1000/"
+    },
+    "sprites": {
+      "versions": {
+        "generation-ix": {
+          "scarlet-violet": {
+            "front_female": null,
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-ix/scarlet-violet/1000.png"
+          }
+        },
+        "generation-viii": {
+          "brilliant-diamond-shining-pearl": {
+            "front_female": null,
+            "front_default": null
+          }
+        }
+      },
+      "back_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/1000.png",
+      "back_female": null,
+      "front_shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1000.png",
+      "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1000.png",
+      "front_female": null,
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1000.png",
+      "back_shiny_female": null,
+      "front_shiny_female": null
+    },
+    "version_group": {
+      "name": "scarlet-violet",
+      "url": "https://pokeapi.co/api/v2/version-group/25/"
+    },
+    "form_names": [],
+    "names": [],
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel",
+          "url": "https://pokeapi.co/api/v2/type/9/"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost",
+          "url": "https://pokeapi.co/api/v2/type/8/"
+        }
+      }
+    ],
+    "trigger_conditions": [],
+    "flavor_text_entries": []
+  }
+}

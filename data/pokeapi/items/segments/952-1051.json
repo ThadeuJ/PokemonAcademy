@@ -1,0 +1,1502 @@
+{
+  "952": {
+    "id": 952,
+    "name": "dragonium-z--bag",
+    "names": {
+      "en": "dragonium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragonium-z--bag.png"
+    }
+  },
+  "953": {
+    "id": 953,
+    "name": "darkinium-z--bag",
+    "names": {
+      "en": "darkinium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/darkinium-z--bag.png"
+    }
+  },
+  "954": {
+    "id": 954,
+    "name": "steelium-z--bag",
+    "names": {
+      "en": "steelium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steelium-z--bag.png"
+    }
+  },
+  "955": {
+    "id": 955,
+    "name": "fairium-z--bag",
+    "names": {
+      "en": "fairium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/fairium-z--bag.png"
+    }
+  },
+  "956": {
+    "id": 956,
+    "name": "pikanium-z--bag",
+    "names": {
+      "en": "pikanium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikanium-z--bag.png"
+    }
+  },
+  "957": {
+    "id": 957,
+    "name": "decidium-z--bag",
+    "names": {
+      "en": "decidium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/decidium-z--bag.png"
+    }
+  },
+  "958": {
+    "id": 958,
+    "name": "incinium-z--bag",
+    "names": {
+      "en": "incinium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/incinium-z--bag.png"
+    }
+  },
+  "959": {
+    "id": 959,
+    "name": "primarium-z--bag",
+    "names": {
+      "en": "primarium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/primarium-z--bag.png"
+    }
+  },
+  "960": {
+    "id": 960,
+    "name": "tapunium-z--bag",
+    "names": {
+      "en": "tapunium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tapunium-z--bag.png"
+    }
+  },
+  "961": {
+    "id": 961,
+    "name": "marshadium-z--bag",
+    "names": {
+      "en": "marshadium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/marshadium-z--bag.png"
+    }
+  },
+  "962": {
+    "id": 962,
+    "name": "aloraichium-z--bag",
+    "names": {
+      "en": "aloraichium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aloraichium-z--bag.png"
+    }
+  },
+  "963": {
+    "id": 963,
+    "name": "snorlium-z--bag",
+    "names": {
+      "en": "snorlium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snorlium-z--bag.png"
+    }
+  },
+  "964": {
+    "id": 964,
+    "name": "eevium-z--bag",
+    "names": {
+      "en": "eevium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/eevium-z--bag.png"
+    }
+  },
+  "965": {
+    "id": 965,
+    "name": "mewnium-z--bag",
+    "names": {
+      "en": "mewnium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewnium-z--bag.png"
+    }
+  },
+  "966": {
+    "id": 966,
+    "name": "pikashunium-z--bag",
+    "names": {
+      "en": "pikashunium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pikashunium-z--bag.png"
+    }
+  },
+  "967": {
+    "id": 967,
+    "name": "solganium-z--held",
+    "names": {
+      "en": "solganium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--held.png"
+    }
+  },
+  "968": {
+    "id": 968,
+    "name": "lunalium-z--held",
+    "names": {
+      "en": "lunalium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--held.png"
+    }
+  },
+  "969": {
+    "id": 969,
+    "name": "ultranecrozium-z--held",
+    "names": {
+      "en": "ultranecrozium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--held.png"
+    }
+  },
+  "970": {
+    "id": 970,
+    "name": "mimikium-z--held",
+    "names": {
+      "en": "mimikium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--held.png"
+    }
+  },
+  "971": {
+    "id": 971,
+    "name": "lycanium-z--held",
+    "names": {
+      "en": "lycanium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--held.png"
+    }
+  },
+  "972": {
+    "id": 972,
+    "name": "kommonium-z--held",
+    "names": {
+      "en": "kommonium-z--held",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--held.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--held.png"
+    }
+  },
+  "973": {
+    "id": 973,
+    "name": "solganium-z--bag",
+    "names": {
+      "en": "solganium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/solganium-z--bag.png"
+    }
+  },
+  "974": {
+    "id": 974,
+    "name": "lunalium-z--bag",
+    "names": {
+      "en": "lunalium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lunalium-z--bag.png"
+    }
+  },
+  "975": {
+    "id": 975,
+    "name": "ultranecrozium-z--bag",
+    "names": {
+      "en": "ultranecrozium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultranecrozium-z--bag.png"
+    }
+  },
+  "976": {
+    "id": 976,
+    "name": "mimikium-z--bag",
+    "names": {
+      "en": "mimikium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mimikium-z--bag.png"
+    }
+  },
+  "977": {
+    "id": 977,
+    "name": "lycanium-z--bag",
+    "names": {
+      "en": "lycanium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lycanium-z--bag.png"
+    }
+  },
+  "978": {
+    "id": 978,
+    "name": "kommonium-z--bag",
+    "names": {
+      "en": "kommonium-z--bag",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--bag.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kommonium-z--bag.png"
+    }
+  },
+  "979": {
+    "id": 979,
+    "name": "z-power-ring",
+    "names": {
+      "en": "z-power-ring",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-power-ring.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/z-power-ring.png"
+    }
+  },
+  "980": {
+    "id": 980,
+    "name": "pink-petal",
+    "names": {
+      "en": "pink-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pink-petal.png"
+    }
+  },
+  "981": {
+    "id": 981,
+    "name": "orange-petal",
+    "names": {
+      "en": "orange-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/orange-petal.png"
+    }
+  },
+  "982": {
+    "id": 982,
+    "name": "blue-petal",
+    "names": {
+      "en": "blue-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blue-petal.png"
+    }
+  },
+  "983": {
+    "id": 983,
+    "name": "red-petal",
+    "names": {
+      "en": "red-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/red-petal.png"
+    }
+  },
+  "984": {
+    "id": 984,
+    "name": "green-petal",
+    "names": {
+      "en": "green-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/green-petal.png"
+    }
+  },
+  "985": {
+    "id": 985,
+    "name": "yellow-petal",
+    "names": {
+      "en": "yellow-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yellow-petal.png"
+    }
+  },
+  "986": {
+    "id": 986,
+    "name": "purple-petal",
+    "names": {
+      "en": "purple-petal",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-petal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/purple-petal.png"
+    }
+  },
+  "987": {
+    "id": 987,
+    "name": "rainbow-flower",
+    "names": {
+      "en": "rainbow-flower",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-flower.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rainbow-flower.png"
+    }
+  },
+  "988": {
+    "id": 988,
+    "name": "surge-badge",
+    "names": {
+      "en": "surge-badge",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surge-badge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surge-badge.png"
+    }
+  },
+  "989": {
+    "id": 989,
+    "name": "n-solarizer--merge",
+    "names": {
+      "en": "n-solarizer--merge",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--merge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--merge.png"
+    }
+  },
+  "990": {
+    "id": 990,
+    "name": "n-lunarizer--merge",
+    "names": {
+      "en": "n-lunarizer--merge",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--merge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--merge.png"
+    }
+  },
+  "991": {
+    "id": 991,
+    "name": "n-solarizer--split",
+    "names": {
+      "en": "n-solarizer--split",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--split.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-solarizer--split.png"
+    }
+  },
+  "992": {
+    "id": 992,
+    "name": "n-lunarizer--split",
+    "names": {
+      "en": "n-lunarizer--split",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--split.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/n-lunarizer--split.png"
+    }
+  },
+  "993": {
+    "id": 993,
+    "name": "ilimas-normalium-z",
+    "names": {
+      "en": "ilimas-normalium-z",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ilimas-normalium-z.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ilimas-normalium-z.png"
+    }
+  },
+  "994": {
+    "id": 994,
+    "name": "left-poke-ball",
+    "names": {
+      "en": "left-poke-ball",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/left-poke-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/left-poke-ball.png"
+    }
+  },
+  "995": {
+    "id": 995,
+    "name": "roto-hatch",
+    "names": {
+      "en": "roto-hatch",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hatch.png"
+    }
+  },
+  "996": {
+    "id": 996,
+    "name": "roto-bargain",
+    "names": {
+      "en": "roto-bargain",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-bargain.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-bargain.png"
+    }
+  },
+  "997": {
+    "id": 997,
+    "name": "roto-prize-money",
+    "names": {
+      "en": "roto-prize-money",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-prize-money.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-prize-money.png"
+    }
+  },
+  "998": {
+    "id": 998,
+    "name": "roto-exp-points",
+    "names": {
+      "en": "roto-exp-points",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-exp-points.png"
+    }
+  },
+  "999": {
+    "id": 999,
+    "name": "roto-friendship",
+    "names": {
+      "en": "roto-friendship",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-friendship.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-friendship.png"
+    }
+  },
+  "1000": {
+    "id": 1000,
+    "name": "roto-encounter",
+    "names": {
+      "en": "roto-encounter",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-encounter.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-encounter.png"
+    }
+  },
+  "1001": {
+    "id": 1001,
+    "name": "roto-stealth",
+    "names": {
+      "en": "roto-stealth",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-stealth.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-stealth.png"
+    }
+  },
+  "1002": {
+    "id": 1002,
+    "name": "roto-hp-restore",
+    "names": {
+      "en": "roto-hp-restore",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hp-restore.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-hp-restore.png"
+    }
+  },
+  "1003": {
+    "id": 1003,
+    "name": "roto-pp-restore",
+    "names": {
+      "en": "roto-pp-restore",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-pp-restore.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-pp-restore.png"
+    }
+  },
+  "1004": {
+    "id": 1004,
+    "name": "roto-boost",
+    "names": {
+      "en": "roto-boost",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-boost.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-boost.png"
+    }
+  },
+  "1005": {
+    "id": 1005,
+    "name": "roto-catch",
+    "names": {
+      "en": "roto-catch",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-catch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roto-catch.png"
+    }
+  },
+  "1006": {
+    "id": 1006,
+    "name": "autograph",
+    "names": {
+      "en": "autograph",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1007": {
+    "id": 1007,
+    "name": "pokemon-box",
+    "names": {
+      "en": "pokemon-box",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1008": {
+    "id": 1008,
+    "name": "medicine-pocket",
+    "names": {
+      "en": "medicine-pocket",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1009": {
+    "id": 1009,
+    "name": "candy-jar",
+    "names": {
+      "en": "candy-jar",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1010": {
+    "id": 1010,
+    "name": "power-up-pocket",
+    "names": {
+      "en": "power-up-pocket",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1011": {
+    "id": 1011,
+    "name": "clothing-trunk",
+    "names": {
+      "en": "clothing-trunk",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1012": {
+    "id": 1012,
+    "name": "catching-pocket",
+    "names": {
+      "en": "catching-pocket",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1013": {
+    "id": 1013,
+    "name": "battle-pocket",
+    "names": {
+      "en": "battle-pocket",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1014": {
+    "id": 1014,
+    "name": "silver-razz-berry",
+    "names": {
+      "en": "silver-razz-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1015": {
+    "id": 1015,
+    "name": "golden-razz-berry",
+    "names": {
+      "en": "golden-razz-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1016": {
+    "id": 1016,
+    "name": "silver-nanab-berry",
+    "names": {
+      "en": "silver-nanab-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1017": {
+    "id": 1017,
+    "name": "golden-nanab-berry",
+    "names": {
+      "en": "golden-nanab-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1018": {
+    "id": 1018,
+    "name": "silver-pinap-berry",
+    "names": {
+      "en": "silver-pinap-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1019": {
+    "id": 1019,
+    "name": "golden-pinap-berry",
+    "names": {
+      "en": "golden-pinap-berry",
+      "pt": null
+    },
+    "category": "catching-bonus",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1020": {
+    "id": 1020,
+    "name": "secret-key--letsgo",
+    "names": {
+      "en": "secret-key--letsgo",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1021": {
+    "id": 1021,
+    "name": "ss-ticket--letsgo",
+    "names": {
+      "en": "ss-ticket--letsgo",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1022": {
+    "id": 1022,
+    "name": "parcel--letsgo",
+    "names": {
+      "en": "parcel--letsgo",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1023": {
+    "id": 1023,
+    "name": "card-key--letsgo",
+    "names": {
+      "en": "card-key--letsgo",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1024": {
+    "id": 1024,
+    "name": "stretchy-spring",
+    "names": {
+      "en": "stretchy-spring",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1025": {
+    "id": 1025,
+    "name": "chalky-stone",
+    "names": {
+      "en": "chalky-stone",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1026": {
+    "id": 1026,
+    "name": "marble",
+    "names": {
+      "en": "marble",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1027": {
+    "id": 1027,
+    "name": "lone-earring",
+    "names": {
+      "en": "lone-earring",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1028": {
+    "id": 1028,
+    "name": "beach-glass",
+    "names": {
+      "en": "beach-glass",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1029": {
+    "id": 1029,
+    "name": "gold-leaf",
+    "names": {
+      "en": "gold-leaf",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1030": {
+    "id": 1030,
+    "name": "silver-leaf",
+    "names": {
+      "en": "silver-leaf",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1031": {
+    "id": 1031,
+    "name": "polished-mud-ball",
+    "names": {
+      "en": "polished-mud-ball",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1032": {
+    "id": 1032,
+    "name": "tropical-shell",
+    "names": {
+      "en": "tropical-shell",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1033": {
+    "id": 1033,
+    "name": "leaf-letter--pikachu",
+    "names": {
+      "en": "leaf-letter--pikachu",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1034": {
+    "id": 1034,
+    "name": "leaf-letter--eevee",
+    "names": {
+      "en": "leaf-letter--eevee",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1035": {
+    "id": 1035,
+    "name": "small-bouquet",
+    "names": {
+      "en": "small-bouquet",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1036": {
+    "id": 1036,
+    "name": "lure",
+    "names": {
+      "en": "lure",
+      "pt": null
+    },
+    "category": "spelunking",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1037": {
+    "id": 1037,
+    "name": "super-lure",
+    "names": {
+      "en": "super-lure",
+      "pt": null
+    },
+    "category": "spelunking",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1038": {
+    "id": 1038,
+    "name": "max-lure",
+    "names": {
+      "en": "max-lure",
+      "pt": null
+    },
+    "category": "spelunking",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1039": {
+    "id": 1039,
+    "name": "pewter-crunchies",
+    "names": {
+      "en": "pewter-crunchies",
+      "pt": null
+    },
+    "category": "status-cures",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1040": {
+    "id": 1040,
+    "name": "health-candy",
+    "names": {
+      "en": "health-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1041": {
+    "id": 1041,
+    "name": "mighty-candy",
+    "names": {
+      "en": "mighty-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1042": {
+    "id": 1042,
+    "name": "tough-candy",
+    "names": {
+      "en": "tough-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1043": {
+    "id": 1043,
+    "name": "smart-candy",
+    "names": {
+      "en": "smart-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1044": {
+    "id": 1044,
+    "name": "courage-candy",
+    "names": {
+      "en": "courage-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1045": {
+    "id": 1045,
+    "name": "quick-candy",
+    "names": {
+      "en": "quick-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1046": {
+    "id": 1046,
+    "name": "health-candy-l",
+    "names": {
+      "en": "health-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1047": {
+    "id": 1047,
+    "name": "mighty-candy-l",
+    "names": {
+      "en": "mighty-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1048": {
+    "id": 1048,
+    "name": "tough-candy-l",
+    "names": {
+      "en": "tough-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1049": {
+    "id": 1049,
+    "name": "smart-candy-l",
+    "names": {
+      "en": "smart-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1050": {
+    "id": 1050,
+    "name": "courage-candy-l",
+    "names": {
+      "en": "courage-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1051": {
+    "id": 1051,
+    "name": "quick-candy-l",
+    "names": {
+      "en": "quick-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

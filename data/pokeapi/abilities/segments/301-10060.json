@@ -1,0 +1,3096 @@
+{
+  "301": {
+    "id": 301,
+    "name": "hospitality",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "おもてなし",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "대접",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "款待",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Aux Petits Soins",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gastlichkeit",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hospitalidad",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Ospitalità",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Hospitality",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "おもてなし",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "款待",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Hospitalidad",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Quand le Pokémon entre au combat, il comble son allié d'hospitalité, rendant une petite quantité des PV des alliés.",
+        "short_effect": "Quand un Pokémon avec Aux Petits Soins entre au combat, il restaure les PV d’un allié de 25%.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP.",
+        "short_effect": "When a Pokémon with Hospitality enters a battle, it restores HP for an ally by 25%.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Quand il rejoint le combat, ce Pokémon est aux petits\\nsoins avec son allié et restaure quelques PV.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      },
+      {
+        "flavor_text": "When the Pokémon enters a battle, it showers its ally with hospitality, restoring a small amount of the ally's HP",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      },
+      {
+        "flavor_text": "登場したとき　味方を　もてなして\nHPを　少しだけ　回復してあげる。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "poltchageist",
+          "url": "https://pokeapi.co/api/v2/pokemon/1012/"
+        }
+      },
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "sinistcha",
+          "url": "https://pokeapi.co/api/v2/pokemon/1013/"
+        }
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "name": "toxic-chain",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "どくのくさり",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "독사슬",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "毒鎖鏈",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Chaîne Toxique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Giftkette",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cadena Tóxica",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Catena Tossica",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Toxic Chain",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "どくのくさり",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "毒锁链",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Cadena Tóxica",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Le pouvoir de la chaîne toxique du Pokémon peut empoisonner gravement n'importe quelle cible que ce Pokémon frappe avec une capacité.",
+        "short_effect": "Peut infliger un poison grave quand le Pokémon frappe un adversaire avec une capacité.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move.",
+        "short_effect": "May cause bad poisoning when the Pokémon hits an opponent with a move.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Grâce aux pouvoirs de sa chaîne imprégnée de toxines,\\nle Pokémon peut empoisonner gravement sa cible\\nen la touchant avec une capacité.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      },
+      {
+        "flavor_text": "毒素を　ふくんだ　鎖の力で\n技を　当てた　相手を\n猛毒の状態に　することが　ある。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "okidogi",
+          "url": "https://pokeapi.co/api/v2/pokemon/1014/"
+        }
+      },
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "munkidori",
+          "url": "https://pokeapi.co/api/v2/pokemon/1015/"
+        }
+      },
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "fezandipiti",
+          "url": "https://pokeapi.co/api/v2/pokemon/1016/"
+        }
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "name": "embody-aspect",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "おもかげやどし",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "초상투영",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "面影輝映",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Force Mémorielle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Erinnerungskraft",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Evocarrecuerdos",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Albergamemorie",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Embody Aspect",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "おもかげやどし",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "面影辉映",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Evocarrecuerdos",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Force Mémorielle booste une stat particulière, selon la forme d’un Ogerpon Téracristallisé.",
+        "short_effect": "Force Mémorielle booste une stat particulière, selon la forme d’un Ogerpon Téracristallisé.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon",
+        "short_effect": "Embody Aspect boosts a particular stat, depending on the form of a Terastallized Ogerpon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le Pokémon fait briller le Masque en puisant dans ses souvenirs, ce qui augmente ses stats.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The Pokémon's heart fills with memories, causing the Mask to shine and one of the Pokémon's stats to be boosted.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      },
+      {
+        "flavor_text": "思い出を 心に 宿すことで\nおめんを かがやかせ\n自分の 能力を 上げる。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-teal-mask",
+          "url": "https://pokeapi.co/api/v2/version-group/26/"
+        }
+      }
+    ],
+    "pokemon": []
+  },
+  "304": {
+    "id": 304,
+    "name": "tera-shift",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "テラスチェンジ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "테라체인지",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "太晶變形",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Téramorphose",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Tera-Wandel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Teracambio",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Teramorfosi",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Tera Shift",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "テラスチェンジ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "太晶变形",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Teracambio",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Quand le Pokémon entre au combat, il absorbe l'énergie autour de lui et se transforme en sa Forme Téracristal.",
+        "short_effect": "Quand Terapagos entre au combat, il se change en sa Forme Téracristal jusqu’à la fin du combat.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
+        "short_effect": "When Terapagos enters the battle, it turns into its Terastal Form until the end of the battle. ",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Quand le Pokémon rejoint le combat, il absorbe\\nl’énergie alentour et prend sa Forme Téracristal.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "When the Pokémon enters a battle, it absorbs the energy around itself and transforms into its Terastal Form.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "登場したとき　周囲の\nエネルギーを　吸収し\nテラスタルフォルムに　変化する。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "terapagos",
+          "url": "https://pokeapi.co/api/v2/pokemon/1024/"
+        }
+      }
+    ]
+  },
+  "305": {
+    "id": 305,
+    "name": "tera-shell",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "テラスシェル",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "테라셸",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "太晶甲殼",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Téra-Carapace",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Tera-Panzer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Teracaparazón",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Teraguscio",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Tera Shell",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "テラスシェル",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "太晶甲壳",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Teracaparazón",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "La carapace du Pokémon renferme les pouvoirs de chaque type. Toutes les capacités infligeant des dégâts qui touchent le Pokémon lorsque ses PV sont au maximum seront pas très efficaces.",
+        "short_effect": "Toutes les capacités infligeant des dégâts qui frappent le Pokémon quand ses PV sont au max seront pas très efficaces.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "The Pokémon’s shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
+        "short_effect": "All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Grâce à sa carapace qui renferme l’énergie de tous\\nles types, les capacités subies par ce Pokémon quand\\nses PV sont au maximum ne sont pas très efficaces.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "全タイプの力を　秘めた甲羅は\nHPが　満タンの　ときに　受ける\nダメージを　すべて　今ひとつに　する。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "terapagos-terastal",
+          "url": "https://pokeapi.co/api/v2/pokemon/10276/"
+        }
+      }
+    ]
+  },
+  "306": {
+    "id": 306,
+    "name": "teraform-zero",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "ゼロフォーミング",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "제로포밍",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "歸零化境",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Téraformation 0",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Teraforming Null",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Teraformación 0",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Zeroformazione",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Teraform Zero",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ゼロフォーミング",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "归零化境",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Teraformación 0",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Quand Terapagos prend sa Forme Stellaire, il utilise ses pouvoirs cachés pour éliminer tous les effets du météo et de terrain, les réduisant à zéro.",
+        "short_effect": "Tant que Terapagos est dans sa Forme Stellaire, il neutralisera immédiatement les effets de météo et terrain.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
+        "short_effect": "As soon as Terapagos assumes its Stellar Form, it will immediately neutralize weather and terrain effects. ",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Lorsque Terapagos prend sa Forme Stellaire, il utilise\\nson pouvoir enfoui pour annuler les effets de la météo\\net des champs actifs.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "テラパゴスが　ステラフォルムに　なったとき\n秘められた力で　天気と　フィールドの\n影響を　すべて　ゼロにする。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "terapagos-stellar",
+          "url": "https://pokeapi.co/api/v2/pokemon/10277/"
+        }
+      }
+    ]
+  },
+  "307": {
+    "id": 307,
+    "name": "poison-puppeteer",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "どくくぐつ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "독조종",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "毒傀儡",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Emprise Toxique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Giftpuppenspiel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Títere Tóxico",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Malia Tossica",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Poison Puppeteer",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "どくくぐつ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "毒傀儡",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Títere Tóxico",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Quand un Pokémon est empoisonné par n'importe quelle capacité de Pêchaminus, il sera aussi confus.",
+        "short_effect": "Un Pokémon empoisonné par les capacités de Pêchaminus sera aussi confus.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "When a Pokémon is poisoned by any of Pecharunt's moves, it will also become confused.",
+        "short_effect": "Pokémon poisoned by Pecharunt's moves will also become confused.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Lorsque Pêchaminus empoisonne un Pokémon grâce\\nà l’une de ses capacités, ce dernier devient également\\nconfus.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "Pokémon poisoned by Pecharunt's moves will also become confused.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      },
+      {
+        "flavor_text": "モモワロウの　技によって\nどく状態に　なった　相手は\nこんらん状態にも　なってしまう。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "the-indigo-disk",
+          "url": "https://pokeapi.co/api/v2/version-group/27/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "pecharunt",
+          "url": "https://pokeapi.co/api/v2/pokemon/1025/"
+        }
+      }
+    ]
+  },
+  "308": {
+    "id": 308,
+    "name": "piercing-drill",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "かんつうドリル",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "관통드릴",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "貫穿鑽",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Transperceuse",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Stichbohrer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Turbotaladro",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Punta Perforante",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Piercing Drill",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "かんつうドリル",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "贯穿钻",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Broca Pervasiva",
+        "language": {
+          "name": "pt-br",
+          "url": "https://pokeapi.co/api/v2/language/13/"
+        }
+      },
+      {
+        "name": "Turbotaladro",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered.",
+        "short_effect": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      },
+      {
+        "flavor_text": "接触技を使う時\n相手の守りの効果を無視して\n本来の1/4のダメージを与える。\n相手の守りの効果以外は発動される。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "excadrill-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10287/"
+        }
+      }
+    ]
+  },
+  "309": {
+    "id": 309,
+    "name": "dragonize",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "ドラゴンスキン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "드래곤스킨",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "龍皮膚",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Peau Draconique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Drachenschicht",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Piel Dragontina",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Pelledrago",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Dragonize",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ドラゴンスキン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "龙皮肤",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Piel Dracónica",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.",
+        "short_effect": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      },
+      {
+        "flavor_text": "ノーマルタイプの技がドラゴンタイプになり\n威力が1.2倍になる。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "feraligatr-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10283/"
+        }
+      }
+    ]
+  },
+  "310": {
+    "id": 310,
+    "name": "mega-sol",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "メガソーラー",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "메가솔라",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "超級日光",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Méga-Soleil",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Mega-Solarladung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Megasolar",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Megasolar",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Mega Sol",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "メガソーラー",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "超级日光",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Megasolar",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",
+        "short_effect": "The Pokémon can use its moves as if the weather were harsh sunlight.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      },
+      {
+        "flavor_text": "天気が　にほんばれ状態でなくても\nにほんばれ状態として\n技を使うことができる。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "meganium-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10282/"
+        }
+      }
+    ]
+  },
+  "311": {
+    "id": 311,
+    "name": "spicy-spray",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "とびだすハバネロ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "하바네로분출",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "辣椒噴發",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Habanéruption",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Chilispritzer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Salpicante",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Spargipiccante",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Spicy Spray",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "とびだすハバネロ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "辣椒喷发",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Salpicante",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "When the Pokémon takes damage from a move, it burns the attacker.",
+        "short_effect": "When the Pokémon takes damage from a move, it burns the attacker.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "When the Pokémon takes damage from a move, it burns the attacker.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      },
+      {
+        "flavor_text": "技のダメージを受けると\n相手をやけど状態にする。",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "scovillain-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10320/"
+        }
+      }
+    ]
+  },
+  "312": {
+    "id": 312,
+    "name": "eelevate",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "Eelevate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses. When the Pokémon knocks out a target with an attack, its highest stat is boosted by 1 stage.",
+        "short_effect": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses. When the Pokémon knocks out a target with an attack, its highest stat is boosted by 1 stage.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses. When the Pokémon knocks out a target with an attack, its highest stat is boosted by 1 stage.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "eelektross-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10290/"
+        }
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "name": "fire-mane",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "Fire Mane",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "Boosts the power of the Pokémon's Fire-type moves by 50%.",
+        "short_effect": "Boosts the power of the Pokémon's Fire-type moves by 50%.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Boosts the power of the Pokémon's Fire-type moves by 50%.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "pyroar-mega",
+          "url": "https://pokeapi.co/api/v2/pokemon/10295/"
+        }
+      }
+    ]
+  },
+  "314": {
+    "id": 314,
+    "name": "aura-guard",
+    "is_main_series": true,
+    "generation": {
+      "name": "generation-ix",
+      "url": "https://pokeapi.co/api/v2/generation/9/"
+    },
+    "names": [
+      {
+        "name": "Aura Guard",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [
+      {
+        "effect": "A Pokémon with Aura Guard takes half damage from moves that make contact. Moves affected by Long Reach which make contact will deal regular damage.",
+        "short_effect": "A Pokémon with Aura Guard takes half damage from moves that make contact.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_changes": [],
+    "flavor_text_entries": [
+      {
+        "flavor_text": "A Pokémon with Aura Guard takes half damage from moves that make contact. Moves affected by Long Reach which make contact will deal regular damage.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "champions",
+          "url": "https://pokeapi.co/api/v2/version-group/32/"
+        }
+      }
+    ],
+    "pokemon": [
+      {
+        "is_hidden": false,
+        "slot": 1,
+        "pokemon": {
+          "name": "lucario-mega-z",
+          "url": "https://pokeapi.co/api/v2/pokemon/10310/"
+        }
+      }
+    ]
+  },
+  "10001": {
+    "id": 10001,
+    "name": "mountaineer",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Mountaineer",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10002": {
+    "id": 10002,
+    "name": "wave-rider",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Wave Rider",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10003": {
+    "id": 10003,
+    "name": "skater",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Skater",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10004": {
+    "id": 10004,
+    "name": "thrust",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Thrust",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10005": {
+    "id": 10005,
+    "name": "perception",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Perception",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10006": {
+    "id": 10006,
+    "name": "parry",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Parry",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10007": {
+    "id": 10007,
+    "name": "instinct",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Instinct",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10008": {
+    "id": 10008,
+    "name": "dodge",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Dodge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10009": {
+    "id": 10009,
+    "name": "jagged-edge",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Jagged Edge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10010": {
+    "id": 10010,
+    "name": "frostbite",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Frostbite",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10011": {
+    "id": 10011,
+    "name": "tenacity",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Tenacity",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10012": {
+    "id": 10012,
+    "name": "pride",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Pride",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10013": {
+    "id": 10013,
+    "name": "deep-sleep",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Deep Sleep",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10014": {
+    "id": 10014,
+    "name": "power-nap",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Power Nap",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10015": {
+    "id": 10015,
+    "name": "spirit",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Spirit",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10016": {
+    "id": 10016,
+    "name": "warm-blanket",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Warm Blanket",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10017": {
+    "id": 10017,
+    "name": "gulp",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Gulp",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10018": {
+    "id": 10018,
+    "name": "herbivore",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Herbivore",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10019": {
+    "id": 10019,
+    "name": "sandpit",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Sandpit",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10020": {
+    "id": 10020,
+    "name": "hot-blooded",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Hot Blooded",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10021": {
+    "id": 10021,
+    "name": "medic",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Medic",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10022": {
+    "id": 10022,
+    "name": "life-force",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Life Force",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10023": {
+    "id": 10023,
+    "name": "lunchbox",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Lunchbox",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10024": {
+    "id": 10024,
+    "name": "nurse",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Nurse",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10025": {
+    "id": 10025,
+    "name": "melee",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Melee",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10026": {
+    "id": 10026,
+    "name": "sponge",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Sponge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10027": {
+    "id": 10027,
+    "name": "bodyguard",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Bodyguard",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10028": {
+    "id": 10028,
+    "name": "hero",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Hero",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10029": {
+    "id": 10029,
+    "name": "last-bastion",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Last Bastion",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10030": {
+    "id": 10030,
+    "name": "stealth",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Stealth",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10031": {
+    "id": 10031,
+    "name": "vanguard",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Vanguard",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10032": {
+    "id": 10032,
+    "name": "nomad",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Nomad",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10033": {
+    "id": 10033,
+    "name": "sequence",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Sequence",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10034": {
+    "id": 10034,
+    "name": "grass-cloak",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Grass Cloak",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10035": {
+    "id": 10035,
+    "name": "celebrate",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Celebrate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10036": {
+    "id": 10036,
+    "name": "lullaby",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Lullaby",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10037": {
+    "id": 10037,
+    "name": "calming",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Calming",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10038": {
+    "id": 10038,
+    "name": "daze",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Daze",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10039": {
+    "id": 10039,
+    "name": "frighten",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Frighten",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10040": {
+    "id": 10040,
+    "name": "interference",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Interference",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10041": {
+    "id": 10041,
+    "name": "mood-maker",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Mood Maker",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10042": {
+    "id": 10042,
+    "name": "confidence",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Confidence",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10043": {
+    "id": 10043,
+    "name": "fortune",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Fortune",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10044": {
+    "id": 10044,
+    "name": "bonanza",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Bonanza",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10045": {
+    "id": 10045,
+    "name": "explode",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Explode",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10046": {
+    "id": 10046,
+    "name": "omnipotent",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Omnipotent",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10047": {
+    "id": 10047,
+    "name": "share",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Share",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10048": {
+    "id": 10048,
+    "name": "black-hole",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Black Hole",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10049": {
+    "id": 10049,
+    "name": "shadow-dash",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Shadow Dash",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10050": {
+    "id": 10050,
+    "name": "sprint",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Sprint",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10051": {
+    "id": 10051,
+    "name": "disgust",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Disgust",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10052": {
+    "id": 10052,
+    "name": "high-rise",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "High-rise",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10053": {
+    "id": 10053,
+    "name": "climber",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Climber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10054": {
+    "id": 10054,
+    "name": "flame-boost",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Flame Boost",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10055": {
+    "id": 10055,
+    "name": "aqua-boost",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Aqua Boost",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10056": {
+    "id": 10056,
+    "name": "run-up",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Run Up",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10057": {
+    "id": 10057,
+    "name": "conqueror",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Conqueror",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10058": {
+    "id": 10058,
+    "name": "shackle",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Shackle",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10059": {
+    "id": 10059,
+    "name": "decoy",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Decoy",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  },
+  "10060": {
+    "id": 10060,
+    "name": "shield",
+    "is_main_series": false,
+    "generation": {
+      "name": "generation-v",
+      "url": "https://pokeapi.co/api/v2/generation/5/"
+    },
+    "names": [
+      {
+        "name": "Shield",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "effect_entries": [],
+    "effect_changes": [],
+    "flavor_text_entries": [],
+    "pokemon": []
+  }
+}

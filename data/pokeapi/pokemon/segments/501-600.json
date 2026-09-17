@@ -1,0 +1,4625 @@
+{
+  "501": {
+    "id": 501,
+    "name": "oshawott",
+    "names": {
+      "en": "oshawott",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "shell-armor"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 55,
+      "defense": 45,
+      "special-attack": 63,
+      "special-defense": 45,
+      "speed": 45
+    },
+    "height": 5,
+    "weight": 59,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+    },
+    "species": {
+      "name": "oshawott"
+    }
+  },
+  "502": {
+    "id": 502,
+    "name": "dewott",
+    "names": {
+      "en": "dewott",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "shell-armor"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 75,
+      "defense": 60,
+      "special-attack": 83,
+      "special-defense": 60,
+      "speed": 60
+    },
+    "height": 8,
+    "weight": 245,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/502.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png"
+    },
+    "species": {
+      "name": "dewott"
+    }
+  },
+  "503": {
+    "id": 503,
+    "name": "samurott",
+    "names": {
+      "en": "samurott",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "torrent",
+      "shell-armor"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 100,
+      "defense": 85,
+      "special-attack": 108,
+      "special-defense": 70,
+      "speed": 70
+    },
+    "height": 15,
+    "weight": 946,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png"
+    },
+    "species": {
+      "name": "samurott"
+    }
+  },
+  "504": {
+    "id": 504,
+    "name": "patrat",
+    "names": {
+      "en": "patrat",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "run-away",
+      "keen-eye",
+      "analytic"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 55,
+      "defense": 39,
+      "special-attack": 35,
+      "special-defense": 39,
+      "speed": 42
+    },
+    "height": 5,
+    "weight": 116,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/504.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png"
+    },
+    "species": {
+      "name": "patrat"
+    }
+  },
+  "505": {
+    "id": 505,
+    "name": "watchog",
+    "names": {
+      "en": "watchog",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "illuminate",
+      "keen-eye",
+      "analytic"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 69,
+      "special-attack": 60,
+      "special-defense": 69,
+      "speed": 77
+    },
+    "height": 11,
+    "weight": 270,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/505.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+    },
+    "species": {
+      "name": "watchog"
+    }
+  },
+  "506": {
+    "id": 506,
+    "name": "lillipup",
+    "names": {
+      "en": "lillipup",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "vital-spirit",
+      "pickup",
+      "run-away"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 45,
+      "special-attack": 25,
+      "special-defense": 45,
+      "speed": 55
+    },
+    "height": 4,
+    "weight": 41,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/506.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png"
+    },
+    "species": {
+      "name": "lillipup"
+    }
+  },
+  "507": {
+    "id": 507,
+    "name": "herdier",
+    "names": {
+      "en": "herdier",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "sand-rush",
+      "scrappy"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 80,
+      "defense": 65,
+      "special-attack": 35,
+      "special-defense": 65,
+      "speed": 60
+    },
+    "height": 9,
+    "weight": 147,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/507.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png"
+    },
+    "species": {
+      "name": "herdier"
+    }
+  },
+  "508": {
+    "id": 508,
+    "name": "stoutland",
+    "names": {
+      "en": "stoutland",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "sand-rush",
+      "scrappy"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 110,
+      "defense": 90,
+      "special-attack": 45,
+      "special-defense": 90,
+      "speed": 80
+    },
+    "height": 12,
+    "weight": 610,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/508.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png"
+    },
+    "species": {
+      "name": "stoutland"
+    }
+  },
+  "509": {
+    "id": 509,
+    "name": "purrloin",
+    "names": {
+      "en": "purrloin",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "limber",
+      "unburden",
+      "prankster"
+    ],
+    "stats": {
+      "hp": 41,
+      "attack": 50,
+      "defense": 37,
+      "special-attack": 50,
+      "special-defense": 37,
+      "speed": 66
+    },
+    "height": 4,
+    "weight": 101,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/509.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png"
+    },
+    "species": {
+      "name": "purrloin"
+    }
+  },
+  "510": {
+    "id": 510,
+    "name": "liepard",
+    "names": {
+      "en": "liepard",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "limber",
+      "unburden",
+      "prankster"
+    ],
+    "stats": {
+      "hp": 64,
+      "attack": 88,
+      "defense": 50,
+      "special-attack": 88,
+      "special-defense": 50,
+      "speed": 106
+    },
+    "height": 11,
+    "weight": 375,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
+    },
+    "species": {
+      "name": "liepard"
+    }
+  },
+  "511": {
+    "id": 511,
+    "name": "pansage",
+    "names": {
+      "en": "pansage",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "overgrow"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53,
+      "defense": 48,
+      "special-attack": 53,
+      "special-defense": 48,
+      "speed": 64
+    },
+    "height": 6,
+    "weight": 105,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/511.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png"
+    },
+    "species": {
+      "name": "pansage"
+    }
+  },
+  "512": {
+    "id": 512,
+    "name": "simisage",
+    "names": {
+      "en": "simisage",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "overgrow"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "height": 11,
+    "weight": 305,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/512.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png"
+    },
+    "species": {
+      "name": "simisage"
+    }
+  },
+  "513": {
+    "id": 513,
+    "name": "pansear",
+    "names": {
+      "en": "pansear",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "blaze"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53,
+      "defense": 48,
+      "special-attack": 53,
+      "special-defense": 48,
+      "speed": 64
+    },
+    "height": 6,
+    "weight": 110,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/513.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png"
+    },
+    "species": {
+      "name": "pansear"
+    }
+  },
+  "514": {
+    "id": 514,
+    "name": "simisear",
+    "names": {
+      "en": "simisear",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "blaze"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "height": 10,
+    "weight": 280,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/514.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png"
+    },
+    "species": {
+      "name": "simisear"
+    }
+  },
+  "515": {
+    "id": 515,
+    "name": "panpour",
+    "names": {
+      "en": "panpour",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "torrent"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 53,
+      "defense": 48,
+      "special-attack": 53,
+      "special-defense": 48,
+      "speed": 64
+    },
+    "height": 6,
+    "weight": 135,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/515.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png"
+    },
+    "species": {
+      "name": "panpour"
+    }
+  },
+  "516": {
+    "id": 516,
+    "name": "simipour",
+    "names": {
+      "en": "simipour",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "gluttony",
+      "torrent"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 98,
+      "defense": 63,
+      "special-attack": 98,
+      "special-defense": 63,
+      "speed": 101
+    },
+    "height": 10,
+    "weight": 290,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/516.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png"
+    },
+    "species": {
+      "name": "simipour"
+    }
+  },
+  "517": {
+    "id": 517,
+    "name": "munna",
+    "names": {
+      "en": "munna",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "forewarn",
+      "synchronize",
+      "telepathy"
+    ],
+    "stats": {
+      "hp": 76,
+      "attack": 25,
+      "defense": 45,
+      "special-attack": 67,
+      "special-defense": 55,
+      "speed": 24
+    },
+    "height": 6,
+    "weight": 233,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/517.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png"
+    },
+    "species": {
+      "name": "munna"
+    }
+  },
+  "518": {
+    "id": 518,
+    "name": "musharna",
+    "names": {
+      "en": "musharna",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "forewarn",
+      "synchronize",
+      "telepathy"
+    ],
+    "stats": {
+      "hp": 116,
+      "attack": 55,
+      "defense": 85,
+      "special-attack": 107,
+      "special-defense": 95,
+      "speed": 29
+    },
+    "height": 11,
+    "weight": 605,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/518.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png"
+    },
+    "species": {
+      "name": "musharna"
+    }
+  },
+  "519": {
+    "id": 519,
+    "name": "pidove",
+    "names": {
+      "en": "pidove",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "big-pecks",
+      "super-luck",
+      "rivalry"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 55,
+      "defense": 50,
+      "special-attack": 36,
+      "special-defense": 30,
+      "speed": 43
+    },
+    "height": 3,
+    "weight": 21,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/519.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png"
+    },
+    "species": {
+      "name": "pidove"
+    }
+  },
+  "520": {
+    "id": 520,
+    "name": "tranquill",
+    "names": {
+      "en": "tranquill",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "big-pecks",
+      "super-luck",
+      "rivalry"
+    ],
+    "stats": {
+      "hp": 62,
+      "attack": 77,
+      "defense": 62,
+      "special-attack": 50,
+      "special-defense": 42,
+      "speed": 65
+    },
+    "height": 6,
+    "weight": 150,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/520.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png"
+    },
+    "species": {
+      "name": "tranquill"
+    }
+  },
+  "521": {
+    "id": 521,
+    "name": "unfezant",
+    "names": {
+      "en": "unfezant",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "big-pecks",
+      "super-luck",
+      "rivalry"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 115,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 55,
+      "speed": 93
+    },
+    "height": 12,
+    "weight": 290,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/521.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png"
+    },
+    "species": {
+      "name": "unfezant"
+    }
+  },
+  "522": {
+    "id": 522,
+    "name": "blitzle",
+    "names": {
+      "en": "blitzle",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "lightning-rod",
+      "motor-drive",
+      "sap-sipper"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 60,
+      "defense": 32,
+      "special-attack": 50,
+      "special-defense": 32,
+      "speed": 76
+    },
+    "height": 8,
+    "weight": 298,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/522.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png"
+    },
+    "species": {
+      "name": "blitzle"
+    }
+  },
+  "523": {
+    "id": 523,
+    "name": "zebstrika",
+    "names": {
+      "en": "zebstrika",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "lightning-rod",
+      "motor-drive",
+      "sap-sipper"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 100,
+      "defense": 63,
+      "special-attack": 80,
+      "special-defense": 63,
+      "speed": 116
+    },
+    "height": 16,
+    "weight": 795,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/523.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png"
+    },
+    "species": {
+      "name": "zebstrika"
+    }
+  },
+  "524": {
+    "id": 524,
+    "name": "roggenrola",
+    "names": {
+      "en": "roggenrola",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "weak-armor",
+      "sand-force"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75,
+      "defense": 85,
+      "special-attack": 25,
+      "special-defense": 25,
+      "speed": 15
+    },
+    "height": 4,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/524.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png"
+    },
+    "species": {
+      "name": "roggenrola"
+    }
+  },
+  "525": {
+    "id": 525,
+    "name": "boldore",
+    "names": {
+      "en": "boldore",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "weak-armor",
+      "sand-force"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105,
+      "defense": 105,
+      "special-attack": 50,
+      "special-defense": 40,
+      "speed": 20
+    },
+    "height": 9,
+    "weight": 1020,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/525.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+    },
+    "species": {
+      "name": "boldore"
+    }
+  },
+  "526": {
+    "id": 526,
+    "name": "gigalith",
+    "names": {
+      "en": "gigalith",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "sand-stream",
+      "sand-force"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 135,
+      "defense": 130,
+      "special-attack": 60,
+      "special-defense": 80,
+      "speed": 25
+    },
+    "height": 17,
+    "weight": 2600,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/526.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png"
+    },
+    "species": {
+      "name": "gigalith"
+    }
+  },
+  "527": {
+    "id": 527,
+    "name": "woobat",
+    "names": {
+      "en": "woobat",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "unaware",
+      "klutz",
+      "simple"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 45,
+      "defense": 43,
+      "special-attack": 55,
+      "special-defense": 43,
+      "speed": 72
+    },
+    "height": 4,
+    "weight": 21,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/527.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png"
+    },
+    "species": {
+      "name": "woobat"
+    }
+  },
+  "528": {
+    "id": 528,
+    "name": "swoobat",
+    "names": {
+      "en": "swoobat",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "unaware",
+      "klutz",
+      "simple"
+    ],
+    "stats": {
+      "hp": 67,
+      "attack": 57,
+      "defense": 55,
+      "special-attack": 77,
+      "special-defense": 55,
+      "speed": 114
+    },
+    "height": 9,
+    "weight": 105,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/528.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png"
+    },
+    "species": {
+      "name": "swoobat"
+    }
+  },
+  "529": {
+    "id": 529,
+    "name": "drilbur",
+    "names": {
+      "en": "drilbur",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "sand-rush",
+      "sand-force",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 85,
+      "defense": 40,
+      "special-attack": 30,
+      "special-defense": 45,
+      "speed": 68
+    },
+    "height": 3,
+    "weight": 85,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/529.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png"
+    },
+    "species": {
+      "name": "drilbur"
+    }
+  },
+  "530": {
+    "id": 530,
+    "name": "excadrill",
+    "names": {
+      "en": "excadrill",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "sand-rush",
+      "sand-force",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 135,
+      "defense": 60,
+      "special-attack": 50,
+      "special-defense": 65,
+      "speed": 88
+    },
+    "height": 7,
+    "weight": 404,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/530.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png"
+    },
+    "species": {
+      "name": "excadrill"
+    }
+  },
+  "531": {
+    "id": 531,
+    "name": "audino",
+    "names": {
+      "en": "audino",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "healer",
+      "regenerator",
+      "klutz"
+    ],
+    "stats": {
+      "hp": 103,
+      "attack": 60,
+      "defense": 86,
+      "special-attack": 60,
+      "special-defense": 86,
+      "speed": 50
+    },
+    "height": 11,
+    "weight": 310,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png"
+    },
+    "species": {
+      "name": "audino"
+    }
+  },
+  "532": {
+    "id": 532,
+    "name": "timburr",
+    "names": {
+      "en": "timburr",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "guts",
+      "sheer-force",
+      "iron-fist"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 80,
+      "defense": 55,
+      "special-attack": 25,
+      "special-defense": 35,
+      "speed": 35
+    },
+    "height": 6,
+    "weight": 125,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
+    },
+    "species": {
+      "name": "timburr"
+    }
+  },
+  "533": {
+    "id": 533,
+    "name": "gurdurr",
+    "names": {
+      "en": "gurdurr",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "guts",
+      "sheer-force",
+      "iron-fist"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 105,
+      "defense": 85,
+      "special-attack": 40,
+      "special-defense": 50,
+      "speed": 40
+    },
+    "height": 12,
+    "weight": 400,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/533.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png"
+    },
+    "species": {
+      "name": "gurdurr"
+    }
+  },
+  "534": {
+    "id": 534,
+    "name": "conkeldurr",
+    "names": {
+      "en": "conkeldurr",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "guts",
+      "sheer-force",
+      "iron-fist"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140,
+      "defense": 95,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "height": 14,
+    "weight": 870,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+    },
+    "species": {
+      "name": "conkeldurr"
+    }
+  },
+  "535": {
+    "id": 535,
+    "name": "tympole",
+    "names": {
+      "en": "tympole",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "swift-swim",
+      "hydration",
+      "water-absorb"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 40,
+      "special-attack": 50,
+      "special-defense": 40,
+      "speed": 64
+    },
+    "height": 5,
+    "weight": 45,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/535.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png"
+    },
+    "species": {
+      "name": "tympole"
+    }
+  },
+  "536": {
+    "id": 536,
+    "name": "palpitoad",
+    "names": {
+      "en": "palpitoad",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "swift-swim",
+      "hydration",
+      "water-absorb"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 65,
+      "defense": 55,
+      "special-attack": 65,
+      "special-defense": 55,
+      "speed": 69
+    },
+    "height": 8,
+    "weight": 170,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/536.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png"
+    },
+    "species": {
+      "name": "palpitoad"
+    }
+  },
+  "537": {
+    "id": 537,
+    "name": "seismitoad",
+    "names": {
+      "en": "seismitoad",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [
+      "swift-swim",
+      "poison-touch",
+      "water-absorb"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 95,
+      "defense": 75,
+      "special-attack": 85,
+      "special-defense": 75,
+      "speed": 74
+    },
+    "height": 15,
+    "weight": 620,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/537.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png"
+    },
+    "species": {
+      "name": "seismitoad"
+    }
+  },
+  "538": {
+    "id": 538,
+    "name": "throh",
+    "names": {
+      "en": "throh",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "guts",
+      "inner-focus",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 120,
+      "attack": 100,
+      "defense": 85,
+      "special-attack": 30,
+      "special-defense": 85,
+      "speed": 45
+    },
+    "height": 13,
+    "weight": 555,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/538.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png"
+    },
+    "species": {
+      "name": "throh"
+    }
+  },
+  "539": {
+    "id": 539,
+    "name": "sawk",
+    "names": {
+      "en": "sawk",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "inner-focus",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 125,
+      "defense": 75,
+      "special-attack": 30,
+      "special-defense": 75,
+      "speed": 85
+    },
+    "height": 14,
+    "weight": 510,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/539.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png"
+    },
+    "species": {
+      "name": "sawk"
+    }
+  },
+  "540": {
+    "id": 540,
+    "name": "sewaddle",
+    "names": {
+      "en": "sewaddle",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "swarm",
+      "chlorophyll",
+      "overcoat"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 53,
+      "defense": 70,
+      "special-attack": 40,
+      "special-defense": 60,
+      "speed": 42
+    },
+    "height": 3,
+    "weight": 25,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/540.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png"
+    },
+    "species": {
+      "name": "sewaddle"
+    }
+  },
+  "541": {
+    "id": 541,
+    "name": "swadloon",
+    "names": {
+      "en": "swadloon",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "leaf-guard",
+      "chlorophyll",
+      "overcoat"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 63,
+      "defense": 90,
+      "special-attack": 50,
+      "special-defense": 80,
+      "speed": 42
+    },
+    "height": 5,
+    "weight": 73,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/541.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png"
+    },
+    "species": {
+      "name": "swadloon"
+    }
+  },
+  "542": {
+    "id": 542,
+    "name": "leavanny",
+    "names": {
+      "en": "leavanny",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "swarm",
+      "chlorophyll",
+      "overcoat"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 103,
+      "defense": 80,
+      "special-attack": 70,
+      "special-defense": 80,
+      "speed": 92
+    },
+    "height": 12,
+    "weight": 205,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/542.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png"
+    },
+    "species": {
+      "name": "leavanny"
+    }
+  },
+  "543": {
+    "id": 543,
+    "name": "venipede",
+    "names": {
+      "en": "venipede",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "poison-point",
+      "swarm",
+      "speed-boost"
+    ],
+    "stats": {
+      "hp": 30,
+      "attack": 45,
+      "defense": 59,
+      "special-attack": 30,
+      "special-defense": 39,
+      "speed": 57
+    },
+    "height": 4,
+    "weight": 53,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/543.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png"
+    },
+    "species": {
+      "name": "venipede"
+    }
+  },
+  "544": {
+    "id": 544,
+    "name": "whirlipede",
+    "names": {
+      "en": "whirlipede",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "poison-point",
+      "swarm",
+      "speed-boost"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 99,
+      "special-attack": 40,
+      "special-defense": 79,
+      "speed": 47
+    },
+    "height": 12,
+    "weight": 585,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/544.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png"
+    },
+    "species": {
+      "name": "whirlipede"
+    }
+  },
+  "545": {
+    "id": 545,
+    "name": "scolipede",
+    "names": {
+      "en": "scolipede",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "poison-point",
+      "swarm",
+      "speed-boost"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 89,
+      "special-attack": 55,
+      "special-defense": 69,
+      "speed": 112
+    },
+    "height": 25,
+    "weight": 2005,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
+    },
+    "species": {
+      "name": "scolipede"
+    }
+  },
+  "546": {
+    "id": 546,
+    "name": "cottonee",
+    "names": {
+      "en": "cottonee",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "prankster",
+      "infiltrator",
+      "chlorophyll"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 27,
+      "defense": 60,
+      "special-attack": 37,
+      "special-defense": 50,
+      "speed": 66
+    },
+    "height": 3,
+    "weight": 6,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/546.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png"
+    },
+    "species": {
+      "name": "cottonee"
+    }
+  },
+  "547": {
+    "id": 547,
+    "name": "whimsicott",
+    "names": {
+      "en": "whimsicott",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "prankster",
+      "infiltrator",
+      "chlorophyll"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 67,
+      "defense": 85,
+      "special-attack": 77,
+      "special-defense": 75,
+      "speed": 116
+    },
+    "height": 7,
+    "weight": 66,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/547.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png"
+    },
+    "species": {
+      "name": "whimsicott"
+    }
+  },
+  "548": {
+    "id": 548,
+    "name": "petilil",
+    "names": {
+      "en": "petilil",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "chlorophyll",
+      "own-tempo",
+      "leaf-guard"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 35,
+      "defense": 50,
+      "special-attack": 70,
+      "special-defense": 50,
+      "speed": 30
+    },
+    "height": 5,
+    "weight": 66,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png"
+    },
+    "species": {
+      "name": "petilil"
+    }
+  },
+  "549": {
+    "id": 549,
+    "name": "lilligant",
+    "names": {
+      "en": "lilligant",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "chlorophyll",
+      "own-tempo",
+      "leaf-guard"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 60,
+      "defense": 75,
+      "special-attack": 110,
+      "special-defense": 75,
+      "speed": 90
+    },
+    "height": 11,
+    "weight": 163,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png"
+    },
+    "species": {
+      "name": "lilligant"
+    }
+  },
+  "550": {
+    "id": 550,
+    "name": "basculin-red-striped",
+    "names": {
+      "en": "basculin-red-striped",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "reckless",
+      "adaptability",
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 92,
+      "defense": 65,
+      "special-attack": 80,
+      "special-defense": 55,
+      "speed": 98
+    },
+    "height": 10,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+    },
+    "species": {
+      "name": "basculin"
+    }
+  },
+  "551": {
+    "id": 551,
+    "name": "sandile",
+    "names": {
+      "en": "sandile",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "moxie",
+      "anger-point"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 72,
+      "defense": 35,
+      "special-attack": 35,
+      "special-defense": 35,
+      "speed": 65
+    },
+    "height": 7,
+    "weight": 152,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+    },
+    "species": {
+      "name": "sandile"
+    }
+  },
+  "552": {
+    "id": 552,
+    "name": "krokorok",
+    "names": {
+      "en": "krokorok",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "moxie",
+      "anger-point"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 82,
+      "defense": 45,
+      "special-attack": 45,
+      "special-defense": 45,
+      "speed": 74
+    },
+    "height": 10,
+    "weight": 334,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png"
+    },
+    "species": {
+      "name": "krokorok"
+    }
+  },
+  "553": {
+    "id": 553,
+    "name": "krookodile",
+    "names": {
+      "en": "krookodile",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate",
+      "moxie",
+      "anger-point"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 117,
+      "defense": 80,
+      "special-attack": 65,
+      "special-defense": 70,
+      "speed": 92
+    },
+    "height": 15,
+    "weight": 963,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png"
+    },
+    "species": {
+      "name": "krookodile"
+    }
+  },
+  "554": {
+    "id": 554,
+    "name": "darumaka",
+    "names": {
+      "en": "darumaka",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "hustle",
+      "inner-focus"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 90,
+      "defense": 45,
+      "special-attack": 15,
+      "special-defense": 45,
+      "speed": 50
+    },
+    "height": 6,
+    "weight": 375,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png"
+    },
+    "species": {
+      "name": "darumaka"
+    }
+  },
+  "555": {
+    "id": 555,
+    "name": "darmanitan-standard",
+    "names": {
+      "en": "darmanitan-standard",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "sheer-force",
+      "zen-mode"
+    ],
+    "stats": {
+      "hp": 105,
+      "attack": 140,
+      "defense": 55,
+      "special-attack": 30,
+      "special-defense": 55,
+      "speed": 95
+    },
+    "height": 13,
+    "weight": 929,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png"
+    },
+    "species": {
+      "name": "darmanitan"
+    }
+  },
+  "556": {
+    "id": 556,
+    "name": "maractus",
+    "names": {
+      "en": "maractus",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "water-absorb",
+      "chlorophyll",
+      "storm-drain"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 86,
+      "defense": 67,
+      "special-attack": 106,
+      "special-defense": 67,
+      "speed": 60
+    },
+    "height": 10,
+    "weight": 280,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/556.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png"
+    },
+    "species": {
+      "name": "maractus"
+    }
+  },
+  "557": {
+    "id": 557,
+    "name": "dwebble",
+    "names": {
+      "en": "dwebble",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "shell-armor",
+      "weak-armor"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 65,
+      "defense": 85,
+      "special-attack": 35,
+      "special-defense": 35,
+      "speed": 55
+    },
+    "height": 3,
+    "weight": 145,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png"
+    },
+    "species": {
+      "name": "dwebble"
+    }
+  },
+  "558": {
+    "id": 558,
+    "name": "crustle",
+    "names": {
+      "en": "crustle",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "sturdy",
+      "shell-armor",
+      "weak-armor"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 105,
+      "defense": 125,
+      "special-attack": 65,
+      "special-defense": 75,
+      "speed": 45
+    },
+    "height": 14,
+    "weight": 2000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/558.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png"
+    },
+    "species": {
+      "name": "crustle"
+    }
+  },
+  "559": {
+    "id": 559,
+    "name": "scraggy",
+    "names": {
+      "en": "scraggy",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "shed-skin",
+      "moxie",
+      "intimidate"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 70,
+      "special-attack": 35,
+      "special-defense": 70,
+      "speed": 48
+    },
+    "height": 6,
+    "weight": 118,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/559.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
+    },
+    "species": {
+      "name": "scraggy"
+    }
+  },
+  "560": {
+    "id": 560,
+    "name": "scrafty",
+    "names": {
+      "en": "scrafty",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "shed-skin",
+      "moxie",
+      "intimidate"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 90,
+      "defense": 115,
+      "special-attack": 45,
+      "special-defense": 115,
+      "speed": 58
+    },
+    "height": 11,
+    "weight": 300,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/560.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png"
+    },
+    "species": {
+      "name": "scrafty"
+    }
+  },
+  "561": {
+    "id": 561,
+    "name": "sigilyph",
+    "names": {
+      "en": "sigilyph",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "wonder-skin",
+      "magic-guard",
+      "tinted-lens"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 58,
+      "defense": 80,
+      "special-attack": 103,
+      "special-defense": 80,
+      "speed": 97
+    },
+    "height": 14,
+    "weight": 140,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/561.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png"
+    },
+    "species": {
+      "name": "sigilyph"
+    }
+  },
+  "562": {
+    "id": 562,
+    "name": "yamask",
+    "names": {
+      "en": "yamask",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "mummy"
+    ],
+    "stats": {
+      "hp": 38,
+      "attack": 30,
+      "defense": 85,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 30
+    },
+    "height": 5,
+    "weight": 15,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png"
+    },
+    "species": {
+      "name": "yamask"
+    }
+  },
+  "563": {
+    "id": 563,
+    "name": "cofagrigus",
+    "names": {
+      "en": "cofagrigus",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "mummy"
+    ],
+    "stats": {
+      "hp": 58,
+      "attack": 50,
+      "defense": 145,
+      "special-attack": 95,
+      "special-defense": 105,
+      "speed": 30
+    },
+    "height": 17,
+    "weight": 765,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+    },
+    "species": {
+      "name": "cofagrigus"
+    }
+  },
+  "564": {
+    "id": 564,
+    "name": "tirtouga",
+    "names": {
+      "en": "tirtouga",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "solid-rock",
+      "sturdy",
+      "swift-swim"
+    ],
+    "stats": {
+      "hp": 54,
+      "attack": 78,
+      "defense": 103,
+      "special-attack": 53,
+      "special-defense": 45,
+      "speed": 22
+    },
+    "height": 7,
+    "weight": 165,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/564.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png"
+    },
+    "species": {
+      "name": "tirtouga"
+    }
+  },
+  "565": {
+    "id": 565,
+    "name": "carracosta",
+    "names": {
+      "en": "carracosta",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "rock"
+        }
+      }
+    ],
+    "abilities": [
+      "solid-rock",
+      "sturdy",
+      "swift-swim"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 108,
+      "defense": 133,
+      "special-attack": 83,
+      "special-defense": 65,
+      "speed": 32
+    },
+    "height": 12,
+    "weight": 810,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/565.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png"
+    },
+    "species": {
+      "name": "carracosta"
+    }
+  },
+  "566": {
+    "id": 566,
+    "name": "archen",
+    "names": {
+      "en": "archen",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "defeatist"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 112,
+      "defense": 45,
+      "special-attack": 74,
+      "special-defense": 45,
+      "speed": 70
+    },
+    "height": 5,
+    "weight": 95,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/566.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png"
+    },
+    "species": {
+      "name": "archen"
+    }
+  },
+  "567": {
+    "id": 567,
+    "name": "archeops",
+    "names": {
+      "en": "archeops",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "defeatist"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 140,
+      "defense": 65,
+      "special-attack": 112,
+      "special-defense": 65,
+      "speed": 110
+    },
+    "height": 14,
+    "weight": 320,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/567.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png"
+    },
+    "species": {
+      "name": "archeops"
+    }
+  },
+  "568": {
+    "id": 568,
+    "name": "trubbish",
+    "names": {
+      "en": "trubbish",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "stench",
+      "sticky-hold",
+      "aftermath"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 50,
+      "defense": 62,
+      "special-attack": 40,
+      "special-defense": 62,
+      "speed": 65
+    },
+    "height": 6,
+    "weight": 310,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/568.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png"
+    },
+    "species": {
+      "name": "trubbish"
+    }
+  },
+  "569": {
+    "id": 569,
+    "name": "garbodor",
+    "names": {
+      "en": "garbodor",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "stench",
+      "weak-armor",
+      "aftermath"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 95,
+      "defense": 82,
+      "special-attack": 60,
+      "special-defense": 82,
+      "speed": 75
+    },
+    "height": 19,
+    "weight": 1073,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png"
+    },
+    "species": {
+      "name": "garbodor"
+    }
+  },
+  "570": {
+    "id": 570,
+    "name": "zorua",
+    "names": {
+      "en": "zorua",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "illusion"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 65,
+      "defense": 40,
+      "special-attack": 80,
+      "special-defense": 40,
+      "speed": 65
+    },
+    "height": 7,
+    "weight": 125,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png"
+    },
+    "species": {
+      "name": "zorua"
+    }
+  },
+  "571": {
+    "id": 571,
+    "name": "zoroark",
+    "names": {
+      "en": "zoroark",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "illusion"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 105,
+      "defense": 60,
+      "special-attack": 120,
+      "special-defense": 60,
+      "speed": 105
+    },
+    "height": 16,
+    "weight": 811,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png"
+    },
+    "species": {
+      "name": "zoroark"
+    }
+  },
+  "572": {
+    "id": 572,
+    "name": "minccino",
+    "names": {
+      "en": "minccino",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "cute-charm",
+      "technician",
+      "skill-link"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 50,
+      "defense": 40,
+      "special-attack": 40,
+      "special-defense": 40,
+      "speed": 75
+    },
+    "height": 4,
+    "weight": 58,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/572.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png"
+    },
+    "species": {
+      "name": "minccino"
+    }
+  },
+  "573": {
+    "id": 573,
+    "name": "cinccino",
+    "names": {
+      "en": "cinccino",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "cute-charm",
+      "technician",
+      "skill-link"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 95,
+      "defense": 60,
+      "special-attack": 65,
+      "special-defense": 60,
+      "speed": 115
+    },
+    "height": 5,
+    "weight": 75,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/573.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png"
+    },
+    "species": {
+      "name": "cinccino"
+    }
+  },
+  "574": {
+    "id": 574,
+    "name": "gothita",
+    "names": {
+      "en": "gothita",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "frisk",
+      "competitive",
+      "shadow-tag"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 50,
+      "special-attack": 55,
+      "special-defense": 65,
+      "speed": 45
+    },
+    "height": 4,
+    "weight": 58,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/574.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png"
+    },
+    "species": {
+      "name": "gothita"
+    }
+  },
+  "575": {
+    "id": 575,
+    "name": "gothorita",
+    "names": {
+      "en": "gothorita",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "frisk",
+      "competitive",
+      "shadow-tag"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 45,
+      "defense": 70,
+      "special-attack": 75,
+      "special-defense": 85,
+      "speed": 55
+    },
+    "height": 7,
+    "weight": 180,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/575.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png"
+    },
+    "species": {
+      "name": "gothorita"
+    }
+  },
+  "576": {
+    "id": 576,
+    "name": "gothitelle",
+    "names": {
+      "en": "gothitelle",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "frisk",
+      "competitive",
+      "shadow-tag"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 55,
+      "defense": 95,
+      "special-attack": 95,
+      "special-defense": 110,
+      "speed": 65
+    },
+    "height": 15,
+    "weight": 440,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/576.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+    },
+    "species": {
+      "name": "gothitelle"
+    }
+  },
+  "577": {
+    "id": 577,
+    "name": "solosis",
+    "names": {
+      "en": "solosis",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "overcoat",
+      "magic-guard",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 45,
+      "attack": 30,
+      "defense": 40,
+      "special-attack": 105,
+      "special-defense": 50,
+      "speed": 20
+    },
+    "height": 3,
+    "weight": 10,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/577.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png"
+    },
+    "species": {
+      "name": "solosis"
+    }
+  },
+  "578": {
+    "id": 578,
+    "name": "duosion",
+    "names": {
+      "en": "duosion",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "overcoat",
+      "magic-guard",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 40,
+      "defense": 50,
+      "special-attack": 125,
+      "special-defense": 60,
+      "speed": 30
+    },
+    "height": 6,
+    "weight": 80,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
+    },
+    "species": {
+      "name": "duosion"
+    }
+  },
+  "579": {
+    "id": 579,
+    "name": "reuniclus",
+    "names": {
+      "en": "reuniclus",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "overcoat",
+      "magic-guard",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 65,
+      "defense": 75,
+      "special-attack": 125,
+      "special-defense": 85,
+      "speed": 30
+    },
+    "height": 10,
+    "weight": 201,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
+    },
+    "species": {
+      "name": "reuniclus"
+    }
+  },
+  "580": {
+    "id": 580,
+    "name": "ducklett",
+    "names": {
+      "en": "ducklett",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "keen-eye",
+      "big-pecks",
+      "hydration"
+    ],
+    "stats": {
+      "hp": 62,
+      "attack": 44,
+      "defense": 50,
+      "special-attack": 44,
+      "special-defense": 50,
+      "speed": 55
+    },
+    "height": 5,
+    "weight": 55,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/580.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png"
+    },
+    "species": {
+      "name": "ducklett"
+    }
+  },
+  "581": {
+    "id": 581,
+    "name": "swanna",
+    "names": {
+      "en": "swanna",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "keen-eye",
+      "big-pecks",
+      "hydration"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 87,
+      "defense": 63,
+      "special-attack": 87,
+      "special-defense": 63,
+      "speed": 98
+    },
+    "height": 13,
+    "weight": 242,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+    },
+    "species": {
+      "name": "swanna"
+    }
+  },
+  "582": {
+    "id": 582,
+    "name": "vanillite",
+    "names": {
+      "en": "vanillite",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "ice-body",
+      "snow-cloak",
+      "weak-armor"
+    ],
+    "stats": {
+      "hp": 36,
+      "attack": 50,
+      "defense": 50,
+      "special-attack": 65,
+      "special-defense": 60,
+      "speed": 44
+    },
+    "height": 4,
+    "weight": 57,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/582.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png"
+    },
+    "species": {
+      "name": "vanillite"
+    }
+  },
+  "583": {
+    "id": 583,
+    "name": "vanillish",
+    "names": {
+      "en": "vanillish",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "ice-body",
+      "snow-cloak",
+      "weak-armor"
+    ],
+    "stats": {
+      "hp": 51,
+      "attack": 65,
+      "defense": 65,
+      "special-attack": 80,
+      "special-defense": 75,
+      "speed": 59
+    },
+    "height": 11,
+    "weight": 410,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/583.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png"
+    },
+    "species": {
+      "name": "vanillish"
+    }
+  },
+  "584": {
+    "id": 584,
+    "name": "vanilluxe",
+    "names": {
+      "en": "vanilluxe",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "ice-body",
+      "snow-warning",
+      "weak-armor"
+    ],
+    "stats": {
+      "hp": 71,
+      "attack": 95,
+      "defense": 85,
+      "special-attack": 110,
+      "special-defense": 95,
+      "speed": 79
+    },
+    "height": 13,
+    "weight": 575,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/584.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png"
+    },
+    "species": {
+      "name": "vanilluxe"
+    }
+  },
+  "585": {
+    "id": 585,
+    "name": "deerling",
+    "names": {
+      "en": "deerling",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "chlorophyll",
+      "sap-sipper",
+      "serene-grace"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 60,
+      "defense": 50,
+      "special-attack": 40,
+      "special-defense": 50,
+      "speed": 75
+    },
+    "height": 6,
+    "weight": 195,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+    },
+    "species": {
+      "name": "deerling"
+    }
+  },
+  "586": {
+    "id": 586,
+    "name": "sawsbuck",
+    "names": {
+      "en": "sawsbuck",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "grass"
+        }
+      }
+    ],
+    "abilities": [
+      "chlorophyll",
+      "sap-sipper",
+      "serene-grace"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 100,
+      "defense": 70,
+      "special-attack": 60,
+      "special-defense": 70,
+      "speed": 95
+    },
+    "height": 19,
+    "weight": 925,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+    },
+    "species": {
+      "name": "sawsbuck"
+    }
+  },
+  "587": {
+    "id": 587,
+    "name": "emolga",
+    "names": {
+      "en": "emolga",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "static",
+      "motor-drive"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 75,
+      "defense": 60,
+      "special-attack": 75,
+      "special-defense": 60,
+      "speed": 103
+    },
+    "height": 4,
+    "weight": 50,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/587.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png"
+    },
+    "species": {
+      "name": "emolga"
+    }
+  },
+  "588": {
+    "id": 588,
+    "name": "karrablast",
+    "names": {
+      "en": "karrablast",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      }
+    ],
+    "abilities": [
+      "swarm",
+      "shed-skin",
+      "no-guard"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 75,
+      "defense": 45,
+      "special-attack": 40,
+      "special-defense": 45,
+      "speed": 60
+    },
+    "height": 5,
+    "weight": 59,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/588.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png"
+    },
+    "species": {
+      "name": "karrablast"
+    }
+  },
+  "589": {
+    "id": 589,
+    "name": "escavalier",
+    "names": {
+      "en": "escavalier",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "swarm",
+      "shell-armor",
+      "overcoat"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 135,
+      "defense": 105,
+      "special-attack": 60,
+      "special-defense": 105,
+      "speed": 20
+    },
+    "height": 10,
+    "weight": 330,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/589.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png"
+    },
+    "species": {
+      "name": "escavalier"
+    }
+  },
+  "590": {
+    "id": 590,
+    "name": "foongus",
+    "names": {
+      "en": "foongus",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "effect-spore",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 69,
+      "attack": 55,
+      "defense": 45,
+      "special-attack": 55,
+      "special-defense": 55,
+      "speed": 15
+    },
+    "height": 2,
+    "weight": 10,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/590.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png"
+    },
+    "species": {
+      "name": "foongus"
+    }
+  },
+  "591": {
+    "id": 591,
+    "name": "amoonguss",
+    "names": {
+      "en": "amoonguss",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "effect-spore",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 114,
+      "attack": 85,
+      "defense": 70,
+      "special-attack": 85,
+      "special-defense": 80,
+      "speed": 30
+    },
+    "height": 6,
+    "weight": 105,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/591.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png"
+    },
+    "species": {
+      "name": "amoonguss"
+    }
+  },
+  "592": {
+    "id": 592,
+    "name": "frillish-male",
+    "names": {
+      "en": "frillish-male",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "water-absorb",
+      "cursed-body",
+      "damp"
+    ],
+    "stats": {
+      "hp": 55,
+      "attack": 40,
+      "defense": 50,
+      "special-attack": 65,
+      "special-defense": 85,
+      "speed": 40
+    },
+    "height": 12,
+    "weight": 330,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/592.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+    },
+    "species": {
+      "name": "frillish"
+    }
+  },
+  "593": {
+    "id": 593,
+    "name": "jellicent-male",
+    "names": {
+      "en": "jellicent-male",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "water-absorb",
+      "cursed-body",
+      "damp"
+    ],
+    "stats": {
+      "hp": 100,
+      "attack": 60,
+      "defense": 70,
+      "special-attack": 85,
+      "special-defense": 105,
+      "speed": 60
+    },
+    "height": 22,
+    "weight": 1350,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/593.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+    },
+    "species": {
+      "name": "jellicent"
+    }
+  },
+  "594": {
+    "id": 594,
+    "name": "alomomola",
+    "names": {
+      "en": "alomomola",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [
+      "healer",
+      "hydration",
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 165,
+      "attack": 75,
+      "defense": 80,
+      "special-attack": 40,
+      "special-defense": 45,
+      "speed": 65
+    },
+    "height": 12,
+    "weight": 316,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/594.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png"
+    },
+    "species": {
+      "name": "alomomola"
+    }
+  },
+  "595": {
+    "id": 595,
+    "name": "joltik",
+    "names": {
+      "en": "joltik",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "compound-eyes",
+      "unnerve",
+      "swarm"
+    ],
+    "stats": {
+      "hp": 50,
+      "attack": 47,
+      "defense": 50,
+      "special-attack": 57,
+      "special-defense": 50,
+      "speed": 65
+    },
+    "height": 1,
+    "weight": 6,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/595.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png"
+    },
+    "species": {
+      "name": "joltik"
+    }
+  },
+  "596": {
+    "id": 596,
+    "name": "galvantula",
+    "names": {
+      "en": "galvantula",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "compound-eyes",
+      "unnerve",
+      "swarm"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 77,
+      "defense": 60,
+      "special-attack": 97,
+      "special-defense": 60,
+      "speed": 108
+    },
+    "height": 8,
+    "weight": 143,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/596.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png"
+    },
+    "species": {
+      "name": "galvantula"
+    }
+  },
+  "597": {
+    "id": 597,
+    "name": "ferroseed",
+    "names": {
+      "en": "ferroseed",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "iron-barbs"
+    ],
+    "stats": {
+      "hp": 44,
+      "attack": 50,
+      "defense": 91,
+      "special-attack": 24,
+      "special-defense": 86,
+      "speed": 10
+    },
+    "height": 6,
+    "weight": 188,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/597.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png"
+    },
+    "species": {
+      "name": "ferroseed"
+    }
+  },
+  "598": {
+    "id": 598,
+    "name": "ferrothorn",
+    "names": {
+      "en": "ferrothorn",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "iron-barbs",
+      "anticipation"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 94,
+      "defense": 131,
+      "special-attack": 54,
+      "special-defense": 116,
+      "speed": 20
+    },
+    "height": 10,
+    "weight": 1100,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
+    },
+    "species": {
+      "name": "ferrothorn"
+    }
+  },
+  "599": {
+    "id": 599,
+    "name": "klink",
+    "names": {
+      "en": "klink",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "plus",
+      "minus",
+      "clear-body"
+    ],
+    "stats": {
+      "hp": 40,
+      "attack": 55,
+      "defense": 70,
+      "special-attack": 45,
+      "special-defense": 60,
+      "speed": 30
+    },
+    "height": 3,
+    "weight": 210,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/599.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png"
+    },
+    "species": {
+      "name": "klink"
+    }
+  },
+  "600": {
+    "id": 600,
+    "name": "klang",
+    "names": {
+      "en": "klang",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "plus",
+      "minus",
+      "clear-body"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 80,
+      "defense": 95,
+      "special-attack": 70,
+      "special-defense": 85,
+      "speed": 50
+    },
+    "height": 6,
+    "weight": 510,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/600.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png"
+    },
+    "species": {
+      "name": "klang"
+    }
+  }
+}

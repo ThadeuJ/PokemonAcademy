@@ -1,0 +1,686 @@
+[
+  {
+    "id": 1,
+    "name": "generation-i",
+    "names": [
+      {
+        "name": "だいいちせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "1세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第一世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "1re Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation I",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación I",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation I",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第一世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第一世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación I",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "generation-ii",
+    "names": [
+      {
+        "name": "だいにせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "2세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第二世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "2e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation II",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación II",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation II",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第二世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第二世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación II",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "generation-iii",
+    "names": [
+      {
+        "name": "だいさんせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "3세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第三世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "3e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation III",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación III",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation III",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第三世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第三世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación III",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "generation-iv",
+    "names": [
+      {
+        "name": "だいよんせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "4세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第四世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "4e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation IV",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación IV",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation IV",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第四世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第四世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación IV",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "generation-v",
+    "names": [
+      {
+        "name": "だいごせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "5세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第五世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "5e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation V",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación V",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation V",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第五世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第五世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación V",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "generation-vi",
+    "names": [
+      {
+        "name": "だいろくせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "6세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第六世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "6e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation VI",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación VI",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation VI",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第六世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第六世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación VI",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "generation-vii",
+    "names": [
+      {
+        "name": "だいななせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "7세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第七世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "7e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation VII",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación VII",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation VII",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第七世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第七世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación VII",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "generation-viii",
+    "names": [
+      {
+        "name": "だいはちせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "8세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第八世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "8e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation VIII",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación VIII",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation VIII",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第八世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第八世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación VIII",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "generation-ix",
+    "names": [
+      {
+        "name": "だいきゅうせだい",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "9세대",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "第九世代",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "9e Génération",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Generation IX",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Generación IX",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Generation IX",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "第九世代",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "第九世代",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Generación IX",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  }
+]

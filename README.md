@@ -17,6 +17,24 @@ Cada jogo possui seu próprio módulo e é acessível por uma rota hash compatí
 
 O cache da PokéAPI, filtros e pontuação permanecem compartilhados durante a sessão.
 
+## Dados locais
+
+O projeto possui um snapshot versionado da PokéAPI em `data/pokeapi/`. A aplicação tenta usar esse snapshot antes da API online e mantém um cache local da sessão. Para gerar ou validar os dados, use Node 18+:
+
+```text
+npm run sync:data
+npm run validate:data
+npm test
+```
+
+O sincronizador consulta somente a PokéAPI oficial, gera um manifesto com data e segmenta os recursos para carregamento sob demanda. `--no-assets` pode ser usado quando apenas os JSON forem necessários. A ausência do snapshot não impede o funcionamento: nesse caso, o repositório usa a API online como fallback.
+
+## Dados locais
+
+`src/data/` fornece normalização, cache, leitura do snapshot e fallback para a PokéAPI sem alterar os jogos existentes. Para gerar um snapshot real, com índices, segmentos de 100 registros e artwork local, execute `npm run sync:data`. A opção `--no-assets` evita os downloads de imagens. Depois, `npm run validate:data` verifica o manifesto e todos os arquivos referenciados.
+
+O snapshot não é incluído por padrão: ele é um artefato grande, gerado exclusivamente a partir da PokéAPI, e não há fixture apresentada como dado oficial.
+
 ## Sessões
 
 Os seis quizzes possuem os modos 10, 20, 30 fases e Infinito. O modo de 10 fases é o padrão. A pontuação e a sequência são independentes para cada jogo, aparecem apenas durante a partida e uma partida continua preservada ao navegar pelo menu. O PokeDoku permanece no fluxo livre original.

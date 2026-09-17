@@ -1,0 +1,532 @@
+[
+  {
+    "id": 1,
+    "name": "swarm",
+    "names": [
+      {
+        "name": "Essaim",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schwarm",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Swarm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "time",
+    "names": [
+      {
+        "name": "Période horaire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Tageszeit",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Time of day",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "radar",
+    "names": [
+      {
+        "name": "Poké Radar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "PokeRadar",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "PokeRadar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "slot2",
+    "names": [
+      {
+        "name": "Jeu GBA dans le Slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Spiel der 3. Generation in Slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Gen 3 game in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "radio",
+    "names": [
+      {
+        "name": "Radio",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Radio",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Radio",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "season",
+    "names": [
+      {
+        "name": "Saison",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Jahreszeit",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Season",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "starter",
+    "names": [
+      {
+        "name": "Starter choisi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Chosen Starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "tv-option",
+    "names": [
+      {
+        "name": "Dialogue choisi dans le reportage",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Chosen dialogue at the news report",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "story-progress",
+    "names": [
+      {
+        "name": "Progression dans l’histoire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Story Progress",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "other",
+    "names": [
+      {
+        "name": "Divers",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Miscellaneous",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "item",
+    "names": [
+      {
+        "name": "Objet",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Item",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "weekday",
+    "names": [
+      {
+        "name": "Jour de la semaine",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Weekday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "first-party-pokemon",
+    "names": [
+      {
+        "name": "Premier Pokemon de l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "First party Pokemon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "special-encounter",
+    "names": [
+      {
+        "name": "Rencontre spéciale",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Special encounter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "trade",
+    "names": [
+      {
+        "name": "Trade a specific Pokemon to an NPC",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "coins",
+    "names": [
+      {
+        "name": "Redeem Coins for a Pokemon at the Prize Corner or Game Corner",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "friend-safari-slot",
+    "names": [
+      {
+        "name": "Friend Safari Slot assignment",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "great-marsh-daily-slot",
+    "names": [
+      {
+        "name": "Great Marsh Daily Slot",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "honey-tree-group",
+    "names": [
+      {
+        "name": "Honey Tree Group",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "headbutt-tree",
+    "names": [
+      {
+        "name": "Headbutt Tree Type",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "backlot",
+    "names": [
+      {
+        "name": "Listen to Mr. Backlot",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "bug-catching-contest",
+    "names": [
+      {
+        "name": "Bug-Catching Contest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "save-data",
+    "names": [
+      {
+        "name": "Have save data from another Pokémon game",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "alolan-diglett-found",
+    "names": [
+      {
+        "name": "Find a certain number of Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "weather",
+    "names": [
+      {
+        "name": "During specific weather conditions like sun, rain, or snow",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "johto-safari-blocks",
+    "names": [
+      {
+        "name": "Johto Safari Zone Blocks",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "max-den-rarity",
+    "names": [
+      {
+        "name": "Max Den Rarity",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "max-den-rating",
+    "names": [
+      {
+        "name": "Max Den Difficulty Rating",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "berry-tree-type",
+    "names": [
+      {
+        "name": "Berry Tree Type",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "trash-can-type",
+    "names": [
+      {
+        "name": "Trash Can Type",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1738 @@
+[
+  {
+    "id": 1,
+    "name": "normal",
+    "names": [
+      {
+        "name": "ノーマル",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "노말",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "一般",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Normal",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Normal",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Normal",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Normale",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Normal",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ノーマル",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "一般",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Normal",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "fighting",
+    "names": [
+      {
+        "name": "かくとう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "격투",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "格鬥",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Combat",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kampf",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lucha",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Lotta",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Fighting",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "かくとう",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "格斗",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Pelea",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "flying",
+    "names": [
+      {
+        "name": "ひこう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "비행",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "飛行",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Vol",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Flug",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Volador",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Volante",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Flying",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ひこう",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "飞行",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Volador",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "poison",
+    "names": [
+      {
+        "name": "どく",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "독",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "毒",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Poison",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gift",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Veneno",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Veleno",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Poison",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "どく",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "毒",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Veneno",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "ground",
+    "names": [
+      {
+        "name": "じめん",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "땅",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "地面",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Sol",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Boden",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Tierra",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Terra",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Ground",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "じめん",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "地面",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Tierra",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "rock",
+    "names": [
+      {
+        "name": "いわ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "바위",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "岩石",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Roche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gestein",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Roca",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Roccia",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Rock",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "いわ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "岩石",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Roca",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "bug",
+    "names": [
+      {
+        "name": "むし",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "벌레",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "蟲",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Insecte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Käfer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bicho",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Coleottero",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Bug",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "むし",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "虫",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Insecto",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "ghost",
+    "names": [
+      {
+        "name": "ゴースト",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "고스트",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "幽靈",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Spectre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Geist",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fantasma",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Spettro",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Ghost",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ゴースト",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "幽灵",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Fantasma",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "steel",
+    "names": [
+      {
+        "name": "はがね",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "강철",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "鋼",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Acier",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Stahl",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Acero",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Acciaio",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Steel",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "はがね",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "钢",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Acero",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "fire",
+    "names": [
+      {
+        "name": "ほのお",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "불꽃",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "火",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Feu",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Feuer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fuego",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Fuoco",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Fire",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ほのお",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "火",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Fuego",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "water",
+    "names": [
+      {
+        "name": "みず",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "물",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "水",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Eau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wasser",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Agua",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Acqua",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Water",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "みず",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "水",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Agua",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "grass",
+    "names": [
+      {
+        "name": "くさ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "풀",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "草",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Plante",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Pflanze",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Planta",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Erba",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Grass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "くさ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "草",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Planta",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "electric",
+    "names": [
+      {
+        "name": "でんき",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "전기",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "電",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Électrik",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Elektro",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Eléctrico",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Elettro",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Electric",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "でんき",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "电",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Eléctrico",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "psychic",
+    "names": [
+      {
+        "name": "エスパー",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "에스퍼",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "超能力",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Psy",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Psycho",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Psíquico",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Psico",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Psychic",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "エスパー",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "超能力",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Psíquico",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "ice",
+    "names": [
+      {
+        "name": "こおり",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "얼음",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "冰",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Glace",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eis",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hielo",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Ghiaccio",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Ice",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "こおり",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "冰",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Hielo",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "dragon",
+    "names": [
+      {
+        "name": "ドラゴン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "드래곤",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "龍",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Dragon",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Drache",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Dragón",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Drago",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Dragon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ドラゴン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "龙",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Dragón",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "dark",
+    "names": [
+      {
+        "name": "あく",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "악",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "惡",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Ténèbres",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Unlicht",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Siniestro",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Buio",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Dark",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "あく",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "恶",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Siniestro",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "fairy",
+    "names": [
+      {
+        "name": "フェアリー",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "페어리",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "妖精",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Fée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Fee",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hada",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Folletto",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Fairy",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "フェアリー",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "妖精",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Hada",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "stellar",
+    "names": [
+      {
+        "name": "ステラ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": " Stella",
+        "language": {
+          "name": "ja-roma",
+          "url": "https://pokeapi.co/api/v2/language/2/"
+        }
+      },
+      {
+        "name": " 스텔라",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "星晶",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Stellaire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Stellar",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Astral",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Astrale",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Stellar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ステラ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "星晶",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "Astral",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10001,
+    "name": "unknown",
+    "names": [
+      {
+        "name": "？？？",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "？？？",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      },
+      {
+        "name": "???",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10002,
+    "name": "shadow",
+    "names": [
+      {
+        "name": "ダーク",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "다크",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "暗",
+        "language": {
+          "name": "zh-hant",
+          "url": "https://pokeapi.co/api/v2/language/4/"
+        }
+      },
+      {
+        "name": "Obscur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Crypto",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ombra",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Shadow",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ダーク",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "暗",
+        "language": {
+          "name": "zh-hans",
+          "url": "https://pokeapi.co/api/v2/language/12/"
+        }
+      }
+    ]
+  }
+]

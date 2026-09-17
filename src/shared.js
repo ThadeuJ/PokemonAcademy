@@ -1,9 +1,11 @@
 import { GEN_RANGES, MEGAS, PARADOX_IDS, normalizeFilters } from './filters.js';
+import { createRepository } from './data/repository.js';
+import { createBrowserLocalData } from './data/local-data.js';
 export { GEN_RANGES } from './filters.js';
 export const API = 'https://pokeapi.co/api/v2';
 export const PT = {normal:'Normal',fire:'Fogo',water:'Água',electric:'Elétrico',grass:'Planta',ice:'Gelo',fighting:'Lutador',poison:'Veneno',ground:'Terra',flying:'Voador',psychic:'Psíquico',bug:'Inseto',rock:'Pedra',ghost:'Fantasma',dragon:'Dragão',dark:'Sombrio',steel:'Aço',fairy:'Fada'};
 const TYPE_IDS = {normal:1,fighting:2,flying:3,poison:4,ground:5,rock:6,bug:7,ghost:8,steel:9,fire:10,water:11,grass:12,electric:13,psychic:14,ice:15,dragon:16,dark:17,fairy:18};
-export const TYPE_ICONS = Object.fromEntries(Object.entries(TYPE_IDS).map(([name,id]) => [name, `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/${id}.png`]));
+export const TYPE_ICONS = Object.fromEntries(Object.entries(TYPE_IDS).map(([name,id]) => [name, new URL(`../data/pokeapi/assets/types/${id}.png`, import.meta.url).href]));
 export const $ = (selector, root = document) => root.querySelector(selector);
 export const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 export const cap = value => value.split('-').map(x => x[0].toUpperCase() + x.slice(1)).join(' ');
@@ -12,13 +14,13 @@ export const safe = value => value.replace(/[&<>"']/g, char => ({'&':'&amp;','<'
 
 export function createServices() {
   const cache = new Map();
+  const local = createBrowserLocalData().catch(() => null);
+  const repository = createRepository({ cache: undefined, local: { get: async (resource, id) => (await local)?.get(resource, id), list: async (resource, params) => (await local)?.list(resource, params) } });
   let activeFilters = normalizeFilters();
   return {
     api: async path => {
       if (cache.has(path)) return cache.get(path);
-      const response = await fetch(API + path);
-      if (!response.ok) throw Error('PokéAPI indisponível');
-      const data = await response.json();
+      const data = await repository.apiPath(path);
       cache.set(path, data);
       return data;
     },
@@ -40,7 +42,7 @@ export function createServices() {
   };
 }
 export const addPokemonService = services => services;
-export const sprite = pokemon => pokemon.sprites.other['official-artwork'].front_default || pokemon.sprites.front_default;
+export const sprite = pokemon => pokemon.sprites?.other?.['official-artwork']?.front_default || pokemon.sprites?.front_default || pokemon.sprites?.front || pokemon.sprites?.artwork;
 export const loading = element => { element.innerHTML = '<div class="loading"></div>'; };
 export const fail = (element, error) => { element.innerHTML = `<div class="error">${error.message}<br><small>Tente novamente.</small></div>`; };
 export const typeData = services => name => services.api('/type/' + name);

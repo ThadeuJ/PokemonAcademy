@@ -1,0 +1,10 @@
+{
+  "name": "pokemon-academy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync:data": "node scripts/sync-pokeapi.mjs",
+    "validate:data": "node scripts/sync-pokeapi.mjs --validate",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,1502 @@
+{
+  "1352": {
+    "id": 1352,
+    "name": "dynamax-crystal-psc361",
+    "names": {
+      "en": "dynamax-crystal-psc361",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1353": {
+    "id": 1353,
+    "name": "dynamax-crystal-psc510",
+    "names": {
+      "en": "dynamax-crystal-psc510",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1354": {
+    "id": 1354,
+    "name": "dynamax-crystal-psc437",
+    "names": {
+      "en": "dynamax-crystal-psc437",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1355": {
+    "id": 1355,
+    "name": "dynamax-crystal-psc8773",
+    "names": {
+      "en": "dynamax-crystal-psc8773",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1356": {
+    "id": 1356,
+    "name": "dynamax-crystal-lep1865",
+    "names": {
+      "en": "dynamax-crystal-lep1865",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1357": {
+    "id": 1357,
+    "name": "dynamax-crystal-lep1829",
+    "names": {
+      "en": "dynamax-crystal-lep1829",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1358": {
+    "id": 1358,
+    "name": "dynamax-crystal-boo5340",
+    "names": {
+      "en": "dynamax-crystal-boo5340",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1359": {
+    "id": 1359,
+    "name": "dynamax-crystal-boo5506",
+    "names": {
+      "en": "dynamax-crystal-boo5506",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1360": {
+    "id": 1360,
+    "name": "dynamax-crystal-boo5435",
+    "names": {
+      "en": "dynamax-crystal-boo5435",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1361": {
+    "id": 1361,
+    "name": "dynamax-crystal-boo5602",
+    "names": {
+      "en": "dynamax-crystal-boo5602",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1362": {
+    "id": 1362,
+    "name": "dynamax-crystal-boo5733",
+    "names": {
+      "en": "dynamax-crystal-boo5733",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1363": {
+    "id": 1363,
+    "name": "dynamax-crystal-boo5235",
+    "names": {
+      "en": "dynamax-crystal-boo5235",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1364": {
+    "id": 1364,
+    "name": "dynamax-crystal-boo5351",
+    "names": {
+      "en": "dynamax-crystal-boo5351",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1365": {
+    "id": 1365,
+    "name": "dynamax-crystal-hya3748",
+    "names": {
+      "en": "dynamax-crystal-hya3748",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1366": {
+    "id": 1366,
+    "name": "dynamax-crystal-hya3903",
+    "names": {
+      "en": "dynamax-crystal-hya3903",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1367": {
+    "id": 1367,
+    "name": "dynamax-crystal-hya3418",
+    "names": {
+      "en": "dynamax-crystal-hya3418",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1368": {
+    "id": 1368,
+    "name": "dynamax-crystal-hya3482",
+    "names": {
+      "en": "dynamax-crystal-hya3482",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1369": {
+    "id": 1369,
+    "name": "dynamax-crystal-hya3845",
+    "names": {
+      "en": "dynamax-crystal-hya3845",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1370": {
+    "id": 1370,
+    "name": "dynamax-crystal-eri1084",
+    "names": {
+      "en": "dynamax-crystal-eri1084",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1371": {
+    "id": 1371,
+    "name": "dynamax-crystal-eri472",
+    "names": {
+      "en": "dynamax-crystal-eri472",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1372": {
+    "id": 1372,
+    "name": "dynamax-crystal-eri1666",
+    "names": {
+      "en": "dynamax-crystal-eri1666",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1373": {
+    "id": 1373,
+    "name": "dynamax-crystal-eri897",
+    "names": {
+      "en": "dynamax-crystal-eri897",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1374": {
+    "id": 1374,
+    "name": "dynamax-crystal-eri1231",
+    "names": {
+      "en": "dynamax-crystal-eri1231",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1375": {
+    "id": 1375,
+    "name": "dynamax-crystal-eri874",
+    "names": {
+      "en": "dynamax-crystal-eri874",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1376": {
+    "id": 1376,
+    "name": "dynamax-crystal-eri1298",
+    "names": {
+      "en": "dynamax-crystal-eri1298",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1377": {
+    "id": 1377,
+    "name": "dynamax-crystal-eri1325",
+    "names": {
+      "en": "dynamax-crystal-eri1325",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1378": {
+    "id": 1378,
+    "name": "dynamax-crystal-eri984",
+    "names": {
+      "en": "dynamax-crystal-eri984",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1379": {
+    "id": 1379,
+    "name": "dynamax-crystal-eri1464",
+    "names": {
+      "en": "dynamax-crystal-eri1464",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1380": {
+    "id": 1380,
+    "name": "dynamax-crystal-eri1393",
+    "names": {
+      "en": "dynamax-crystal-eri1393",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1381": {
+    "id": 1381,
+    "name": "dynamax-crystal-eri850",
+    "names": {
+      "en": "dynamax-crystal-eri850",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1382": {
+    "id": 1382,
+    "name": "dynamax-crystal-tau1409",
+    "names": {
+      "en": "dynamax-crystal-tau1409",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1383": {
+    "id": 1383,
+    "name": "dynamax-crystal-tau1457",
+    "names": {
+      "en": "dynamax-crystal-tau1457",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1384": {
+    "id": 1384,
+    "name": "dynamax-crystal-tau1165",
+    "names": {
+      "en": "dynamax-crystal-tau1165",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1385": {
+    "id": 1385,
+    "name": "dynamax-crystal-tau1791",
+    "names": {
+      "en": "dynamax-crystal-tau1791",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1386": {
+    "id": 1386,
+    "name": "dynamax-crystal-tau1910",
+    "names": {
+      "en": "dynamax-crystal-tau1910",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1387": {
+    "id": 1387,
+    "name": "dynamax-crystal-tau1346",
+    "names": {
+      "en": "dynamax-crystal-tau1346",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1388": {
+    "id": 1388,
+    "name": "dynamax-crystal-tau1373",
+    "names": {
+      "en": "dynamax-crystal-tau1373",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1389": {
+    "id": 1389,
+    "name": "dynamax-crystal-tau1412",
+    "names": {
+      "en": "dynamax-crystal-tau1412",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1390": {
+    "id": 1390,
+    "name": "dynamax-crystal-cma2491",
+    "names": {
+      "en": "dynamax-crystal-cma2491",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1391": {
+    "id": 1391,
+    "name": "dynamax-crystal-cma2693",
+    "names": {
+      "en": "dynamax-crystal-cma2693",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1392": {
+    "id": 1392,
+    "name": "dynamax-crystal-cma2294",
+    "names": {
+      "en": "dynamax-crystal-cma2294",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1393": {
+    "id": 1393,
+    "name": "dynamax-crystal-cma2827",
+    "names": {
+      "en": "dynamax-crystal-cma2827",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1394": {
+    "id": 1394,
+    "name": "dynamax-crystal-cma2282",
+    "names": {
+      "en": "dynamax-crystal-cma2282",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1395": {
+    "id": 1395,
+    "name": "dynamax-crystal-cma2618",
+    "names": {
+      "en": "dynamax-crystal-cma2618",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1396": {
+    "id": 1396,
+    "name": "dynamax-crystal-cma2657",
+    "names": {
+      "en": "dynamax-crystal-cma2657",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1397": {
+    "id": 1397,
+    "name": "dynamax-crystal-cma2646",
+    "names": {
+      "en": "dynamax-crystal-cma2646",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1398": {
+    "id": 1398,
+    "name": "dynamax-crystal-uma4905",
+    "names": {
+      "en": "dynamax-crystal-uma4905",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1399": {
+    "id": 1399,
+    "name": "dynamax-crystal-uma4301",
+    "names": {
+      "en": "dynamax-crystal-uma4301",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1400": {
+    "id": 1400,
+    "name": "dynamax-crystal-uma5191",
+    "names": {
+      "en": "dynamax-crystal-uma5191",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1401": {
+    "id": 1401,
+    "name": "dynamax-crystal-uma5054",
+    "names": {
+      "en": "dynamax-crystal-uma5054",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1402": {
+    "id": 1402,
+    "name": "dynamax-crystal-uma4295",
+    "names": {
+      "en": "dynamax-crystal-uma4295",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1403": {
+    "id": 1403,
+    "name": "dynamax-crystal-uma4660",
+    "names": {
+      "en": "dynamax-crystal-uma4660",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1404": {
+    "id": 1404,
+    "name": "dynamax-crystal-uma4554",
+    "names": {
+      "en": "dynamax-crystal-uma4554",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1405": {
+    "id": 1405,
+    "name": "dynamax-crystal-uma4069",
+    "names": {
+      "en": "dynamax-crystal-uma4069",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1406": {
+    "id": 1406,
+    "name": "dynamax-crystal-uma3569",
+    "names": {
+      "en": "dynamax-crystal-uma3569",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1407": {
+    "id": 1407,
+    "name": "dynamax-crystal-uma3323",
+    "names": {
+      "en": "dynamax-crystal-uma3323",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1408": {
+    "id": 1408,
+    "name": "dynamax-crystal-uma4033",
+    "names": {
+      "en": "dynamax-crystal-uma4033",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1409": {
+    "id": 1409,
+    "name": "dynamax-crystal-uma4377",
+    "names": {
+      "en": "dynamax-crystal-uma4377",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1410": {
+    "id": 1410,
+    "name": "dynamax-crystal-uma4375",
+    "names": {
+      "en": "dynamax-crystal-uma4375",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1411": {
+    "id": 1411,
+    "name": "dynamax-crystal-uma4518",
+    "names": {
+      "en": "dynamax-crystal-uma4518",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1412": {
+    "id": 1412,
+    "name": "dynamax-crystal-uma3594",
+    "names": {
+      "en": "dynamax-crystal-uma3594",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1413": {
+    "id": 1413,
+    "name": "dynamax-crystal-vir5056",
+    "names": {
+      "en": "dynamax-crystal-vir5056",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1414": {
+    "id": 1414,
+    "name": "dynamax-crystal-vir4825",
+    "names": {
+      "en": "dynamax-crystal-vir4825",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1415": {
+    "id": 1415,
+    "name": "dynamax-crystal-vir4932",
+    "names": {
+      "en": "dynamax-crystal-vir4932",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1416": {
+    "id": 1416,
+    "name": "dynamax-crystal-vir4540",
+    "names": {
+      "en": "dynamax-crystal-vir4540",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1417": {
+    "id": 1417,
+    "name": "dynamax-crystal-vir4689",
+    "names": {
+      "en": "dynamax-crystal-vir4689",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1418": {
+    "id": 1418,
+    "name": "dynamax-crystal-vir5338",
+    "names": {
+      "en": "dynamax-crystal-vir5338",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1419": {
+    "id": 1419,
+    "name": "dynamax-crystal-vir4910",
+    "names": {
+      "en": "dynamax-crystal-vir4910",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1420": {
+    "id": 1420,
+    "name": "dynamax-crystal-vir5315",
+    "names": {
+      "en": "dynamax-crystal-vir5315",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1421": {
+    "id": 1421,
+    "name": "dynamax-crystal-vir5359",
+    "names": {
+      "en": "dynamax-crystal-vir5359",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1422": {
+    "id": 1422,
+    "name": "dynamax-crystal-vir5409",
+    "names": {
+      "en": "dynamax-crystal-vir5409",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1423": {
+    "id": 1423,
+    "name": "dynamax-crystal-vir5107",
+    "names": {
+      "en": "dynamax-crystal-vir5107",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1424": {
+    "id": 1424,
+    "name": "dynamax-crystal-ari617",
+    "names": {
+      "en": "dynamax-crystal-ari617",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1425": {
+    "id": 1425,
+    "name": "dynamax-crystal-ari553",
+    "names": {
+      "en": "dynamax-crystal-ari553",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1426": {
+    "id": 1426,
+    "name": "dynamax-crystal-ari546",
+    "names": {
+      "en": "dynamax-crystal-ari546",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1427": {
+    "id": 1427,
+    "name": "dynamax-crystal-ari951",
+    "names": {
+      "en": "dynamax-crystal-ari951",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1428": {
+    "id": 1428,
+    "name": "dynamax-crystal-ori1713",
+    "names": {
+      "en": "dynamax-crystal-ori1713",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1429": {
+    "id": 1429,
+    "name": "dynamax-crystal-ori2061",
+    "names": {
+      "en": "dynamax-crystal-ori2061",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1430": {
+    "id": 1430,
+    "name": "dynamax-crystal-ori1790",
+    "names": {
+      "en": "dynamax-crystal-ori1790",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1431": {
+    "id": 1431,
+    "name": "dynamax-crystal-ori1903",
+    "names": {
+      "en": "dynamax-crystal-ori1903",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1432": {
+    "id": 1432,
+    "name": "dynamax-crystal-ori1948",
+    "names": {
+      "en": "dynamax-crystal-ori1948",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1433": {
+    "id": 1433,
+    "name": "dynamax-crystal-ori2004",
+    "names": {
+      "en": "dynamax-crystal-ori2004",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1434": {
+    "id": 1434,
+    "name": "dynamax-crystal-ori1852",
+    "names": {
+      "en": "dynamax-crystal-ori1852",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1435": {
+    "id": 1435,
+    "name": "dynamax-crystal-ori1879",
+    "names": {
+      "en": "dynamax-crystal-ori1879",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1436": {
+    "id": 1436,
+    "name": "dynamax-crystal-ori1899",
+    "names": {
+      "en": "dynamax-crystal-ori1899",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1437": {
+    "id": 1437,
+    "name": "dynamax-crystal-ori1543",
+    "names": {
+      "en": "dynamax-crystal-ori1543",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1438": {
+    "id": 1438,
+    "name": "dynamax-crystal-cas21",
+    "names": {
+      "en": "dynamax-crystal-cas21",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1439": {
+    "id": 1439,
+    "name": "dynamax-crystal-cas168",
+    "names": {
+      "en": "dynamax-crystal-cas168",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1440": {
+    "id": 1440,
+    "name": "dynamax-crystal-cas403",
+    "names": {
+      "en": "dynamax-crystal-cas403",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1441": {
+    "id": 1441,
+    "name": "dynamax-crystal-cas153",
+    "names": {
+      "en": "dynamax-crystal-cas153",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1442": {
+    "id": 1442,
+    "name": "dynamax-crystal-cas542",
+    "names": {
+      "en": "dynamax-crystal-cas542",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1443": {
+    "id": 1443,
+    "name": "dynamax-crystal-cas219",
+    "names": {
+      "en": "dynamax-crystal-cas219",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1444": {
+    "id": 1444,
+    "name": "dynamax-crystal-cas265",
+    "names": {
+      "en": "dynamax-crystal-cas265",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1445": {
+    "id": 1445,
+    "name": "dynamax-crystal-cnc3572",
+    "names": {
+      "en": "dynamax-crystal-cnc3572",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1446": {
+    "id": 1446,
+    "name": "dynamax-crystal-cnc3208",
+    "names": {
+      "en": "dynamax-crystal-cnc3208",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1447": {
+    "id": 1447,
+    "name": "dynamax-crystal-cnc3461",
+    "names": {
+      "en": "dynamax-crystal-cnc3461",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1448": {
+    "id": 1448,
+    "name": "dynamax-crystal-cnc3449",
+    "names": {
+      "en": "dynamax-crystal-cnc3449",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1449": {
+    "id": 1449,
+    "name": "dynamax-crystal-cnc3429",
+    "names": {
+      "en": "dynamax-crystal-cnc3429",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1450": {
+    "id": 1450,
+    "name": "dynamax-crystal-cnc3627",
+    "names": {
+      "en": "dynamax-crystal-cnc3627",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1451": {
+    "id": 1451,
+    "name": "dynamax-crystal-cnc3268",
+    "names": {
+      "en": "dynamax-crystal-cnc3268",
+      "pt": null
+    },
+    "category": "dynamax-crystals",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

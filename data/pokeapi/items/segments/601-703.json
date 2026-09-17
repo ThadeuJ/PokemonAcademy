@@ -1,0 +1,1502 @@
+{
+  "601": {
+    "id": 601,
+    "name": "bug-gem",
+    "names": {
+      "en": "bug-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bug-gem.png"
+    }
+  },
+  "602": {
+    "id": 602,
+    "name": "rock-gem",
+    "names": {
+      "en": "rock-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rock-gem.png"
+    }
+  },
+  "603": {
+    "id": 603,
+    "name": "ghost-gem",
+    "names": {
+      "en": "ghost-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ghost-gem.png"
+    }
+  },
+  "604": {
+    "id": 604,
+    "name": "dark-gem",
+    "names": {
+      "en": "dark-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-gem.png"
+    }
+  },
+  "605": {
+    "id": 605,
+    "name": "steel-gem",
+    "names": {
+      "en": "steel-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-gem.png"
+    }
+  },
+  "606": {
+    "id": 606,
+    "name": "health-wing",
+    "names": {
+      "en": "health-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/health-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/health-wing.png"
+    }
+  },
+  "607": {
+    "id": 607,
+    "name": "muscle-wing",
+    "names": {
+      "en": "muscle-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/muscle-wing.png"
+    }
+  },
+  "608": {
+    "id": 608,
+    "name": "resist-wing",
+    "names": {
+      "en": "resist-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/resist-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/resist-wing.png"
+    }
+  },
+  "609": {
+    "id": 609,
+    "name": "genius-wing",
+    "names": {
+      "en": "genius-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/genius-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/genius-wing.png"
+    }
+  },
+  "610": {
+    "id": 610,
+    "name": "clever-wing",
+    "names": {
+      "en": "clever-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clever-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/clever-wing.png"
+    }
+  },
+  "611": {
+    "id": 611,
+    "name": "swift-wing",
+    "names": {
+      "en": "swift-wing",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swift-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/swift-wing.png"
+    }
+  },
+  "612": {
+    "id": 612,
+    "name": "pretty-wing",
+    "names": {
+      "en": "pretty-wing",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pretty-wing.png"
+    }
+  },
+  "613": {
+    "id": 613,
+    "name": "cover-fossil",
+    "names": {
+      "en": "cover-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cover-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cover-fossil.png"
+    }
+  },
+  "614": {
+    "id": 614,
+    "name": "plume-fossil",
+    "names": {
+      "en": "plume-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plume-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plume-fossil.png"
+    }
+  },
+  "615": {
+    "id": 615,
+    "name": "liberty-pass",
+    "names": {
+      "en": "liberty-pass",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liberty-pass.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liberty-pass.png"
+    }
+  },
+  "616": {
+    "id": 616,
+    "name": "pass-orb",
+    "names": {
+      "en": "pass-orb",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pass-orb.png"
+    }
+  },
+  "617": {
+    "id": 617,
+    "name": "dream-ball",
+    "names": {
+      "en": "dream-ball",
+      "pt": null
+    },
+    "category": "special-balls",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-ball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dream-ball.png"
+    }
+  },
+  "618": {
+    "id": 618,
+    "name": "poke-toy",
+    "names": {
+      "en": "poke-toy",
+      "pt": null
+    },
+    "category": "spelunking",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-toy.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-toy.png"
+    }
+  },
+  "619": {
+    "id": 619,
+    "name": "prop-case",
+    "names": {
+      "en": "prop-case",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prop-case.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/prop-case.png"
+    }
+  },
+  "620": {
+    "id": 620,
+    "name": "dragon-skull",
+    "names": {
+      "en": "dragon-skull",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-skull.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-skull.png"
+    }
+  },
+  "621": {
+    "id": 621,
+    "name": "balm-mushroom",
+    "names": {
+      "en": "balm-mushroom",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/balm-mushroom.png"
+    }
+  },
+  "622": {
+    "id": 622,
+    "name": "big-nugget",
+    "names": {
+      "en": "big-nugget",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/big-nugget.png"
+    }
+  },
+  "623": {
+    "id": 623,
+    "name": "pearl-string",
+    "names": {
+      "en": "pearl-string",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl-string.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pearl-string.png"
+    }
+  },
+  "624": {
+    "id": 624,
+    "name": "comet-shard",
+    "names": {
+      "en": "comet-shard",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/comet-shard.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/comet-shard.png"
+    }
+  },
+  "625": {
+    "id": 625,
+    "name": "relic-copper",
+    "names": {
+      "en": "relic-copper",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-copper.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-copper.png"
+    }
+  },
+  "626": {
+    "id": 626,
+    "name": "relic-silver",
+    "names": {
+      "en": "relic-silver",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-silver.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-silver.png"
+    }
+  },
+  "627": {
+    "id": 627,
+    "name": "relic-gold",
+    "names": {
+      "en": "relic-gold",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-gold.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-gold.png"
+    }
+  },
+  "628": {
+    "id": 628,
+    "name": "relic-vase",
+    "names": {
+      "en": "relic-vase",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-vase.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-vase.png"
+    }
+  },
+  "629": {
+    "id": 629,
+    "name": "relic-band",
+    "names": {
+      "en": "relic-band",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-band.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-band.png"
+    }
+  },
+  "630": {
+    "id": 630,
+    "name": "relic-statue",
+    "names": {
+      "en": "relic-statue",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-statue.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-statue.png"
+    }
+  },
+  "631": {
+    "id": 631,
+    "name": "relic-crown",
+    "names": {
+      "en": "relic-crown",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-crown.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/relic-crown.png"
+    }
+  },
+  "632": {
+    "id": 632,
+    "name": "casteliacone",
+    "names": {
+      "en": "casteliacone",
+      "pt": null
+    },
+    "category": "status-cures",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/casteliacone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/casteliacone.png"
+    }
+  },
+  "633": {
+    "id": 633,
+    "name": "dire-hit-2",
+    "names": {
+      "en": "dire-hit-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-2.png"
+    }
+  },
+  "634": {
+    "id": 634,
+    "name": "x-speed-2",
+    "names": {
+      "en": "x-speed-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-2.png"
+    }
+  },
+  "635": {
+    "id": 635,
+    "name": "x-sp-atk-2",
+    "names": {
+      "en": "x-sp-atk-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-2.png"
+    }
+  },
+  "636": {
+    "id": 636,
+    "name": "x-sp-def-2",
+    "names": {
+      "en": "x-sp-def-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-2.png"
+    }
+  },
+  "637": {
+    "id": 637,
+    "name": "x-defense-2",
+    "names": {
+      "en": "x-defense-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-2.png"
+    }
+  },
+  "638": {
+    "id": 638,
+    "name": "x-attack-2",
+    "names": {
+      "en": "x-attack-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-2.png"
+    }
+  },
+  "639": {
+    "id": 639,
+    "name": "x-accuracy-2",
+    "names": {
+      "en": "x-accuracy-2",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-2.png"
+    }
+  },
+  "640": {
+    "id": 640,
+    "name": "x-speed-3",
+    "names": {
+      "en": "x-speed-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-3.png"
+    }
+  },
+  "641": {
+    "id": 641,
+    "name": "x-sp-atk-3",
+    "names": {
+      "en": "x-sp-atk-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-3.png"
+    }
+  },
+  "642": {
+    "id": 642,
+    "name": "x-sp-def-3",
+    "names": {
+      "en": "x-sp-def-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-3.png"
+    }
+  },
+  "643": {
+    "id": 643,
+    "name": "x-defense-3",
+    "names": {
+      "en": "x-defense-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-3.png"
+    }
+  },
+  "644": {
+    "id": 644,
+    "name": "x-attack-3",
+    "names": {
+      "en": "x-attack-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-3.png"
+    }
+  },
+  "645": {
+    "id": 645,
+    "name": "x-accuracy-3",
+    "names": {
+      "en": "x-accuracy-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-3.png"
+    }
+  },
+  "646": {
+    "id": 646,
+    "name": "x-speed-6",
+    "names": {
+      "en": "x-speed-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-speed-6.png"
+    }
+  },
+  "647": {
+    "id": 647,
+    "name": "x-sp-atk-6",
+    "names": {
+      "en": "x-sp-atk-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-atk-6.png"
+    }
+  },
+  "648": {
+    "id": 648,
+    "name": "x-sp-def-6",
+    "names": {
+      "en": "x-sp-def-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-sp-def-6.png"
+    }
+  },
+  "649": {
+    "id": 649,
+    "name": "x-defense-6",
+    "names": {
+      "en": "x-defense-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-defense-6.png"
+    }
+  },
+  "650": {
+    "id": 650,
+    "name": "x-attack-6",
+    "names": {
+      "en": "x-attack-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-attack-6.png"
+    }
+  },
+  "651": {
+    "id": 651,
+    "name": "x-accuracy-6",
+    "names": {
+      "en": "x-accuracy-6",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-6.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/x-accuracy-6.png"
+    }
+  },
+  "652": {
+    "id": 652,
+    "name": "ability-urge",
+    "names": {
+      "en": "ability-urge",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-urge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-urge.png"
+    }
+  },
+  "653": {
+    "id": 653,
+    "name": "item-drop",
+    "names": {
+      "en": "item-drop",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-drop.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-drop.png"
+    }
+  },
+  "654": {
+    "id": 654,
+    "name": "item-urge",
+    "names": {
+      "en": "item-urge",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-urge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/item-urge.png"
+    }
+  },
+  "655": {
+    "id": 655,
+    "name": "reset-urge",
+    "names": {
+      "en": "reset-urge",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reset-urge.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reset-urge.png"
+    }
+  },
+  "656": {
+    "id": 656,
+    "name": "dire-hit-3",
+    "names": {
+      "en": "dire-hit-3",
+      "pt": null
+    },
+    "category": "miracle-shooter",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dire-hit-3.png"
+    }
+  },
+  "657": {
+    "id": 657,
+    "name": "light-stone",
+    "names": {
+      "en": "light-stone",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/light-stone.png"
+    }
+  },
+  "658": {
+    "id": 658,
+    "name": "dark-stone",
+    "names": {
+      "en": "dark-stone",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dark-stone.png"
+    }
+  },
+  "659": {
+    "id": 659,
+    "name": "tm93",
+    "names": {
+      "en": "tm93",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "660": {
+    "id": 660,
+    "name": "tm94",
+    "names": {
+      "en": "tm94",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "661": {
+    "id": 661,
+    "name": "tm95",
+    "names": {
+      "en": "tm95",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-normal.png"
+    }
+  },
+  "662": {
+    "id": 662,
+    "name": "xtransceiver",
+    "names": {
+      "en": "xtransceiver",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/xtransceiver.png"
+    }
+  },
+  "663": {
+    "id": 663,
+    "name": "god-stone",
+    "names": {
+      "en": "god-stone",
+      "pt": null
+    },
+    "category": "unused",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/god-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/god-stone.png"
+    }
+  },
+  "664": {
+    "id": 664,
+    "name": "gram-1",
+    "names": {
+      "en": "gram-1",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-1.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-1.png"
+    }
+  },
+  "665": {
+    "id": 665,
+    "name": "gram-2",
+    "names": {
+      "en": "gram-2",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-2.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-2.png"
+    }
+  },
+  "666": {
+    "id": 666,
+    "name": "gram-3",
+    "names": {
+      "en": "gram-3",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-3.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gram-3.png"
+    }
+  },
+  "668": {
+    "id": 668,
+    "name": "dragon-gem",
+    "names": {
+      "en": "dragon-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dragon-gem.png"
+    }
+  },
+  "669": {
+    "id": 669,
+    "name": "normal-gem",
+    "names": {
+      "en": "normal-gem",
+      "pt": null
+    },
+    "category": "jewels",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normal-gem.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/normal-gem.png"
+    }
+  },
+  "670": {
+    "id": 670,
+    "name": "medal-box",
+    "names": {
+      "en": "medal-box",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medal-box.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/medal-box.png"
+    }
+  },
+  "671": {
+    "id": 671,
+    "name": "dna-splicers",
+    "names": {
+      "en": "dna-splicers",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dna-splicers.png"
+    }
+  },
+  "673": {
+    "id": 673,
+    "name": "permit",
+    "names": {
+      "en": "permit",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/permit.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/permit.png"
+    }
+  },
+  "674": {
+    "id": 674,
+    "name": "oval-charm",
+    "names": {
+      "en": "oval-charm",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-charm.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-charm.png"
+    }
+  },
+  "675": {
+    "id": 675,
+    "name": "shiny-charm",
+    "names": {
+      "en": "shiny-charm",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-charm.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-charm.png"
+    }
+  },
+  "676": {
+    "id": 676,
+    "name": "plasma-card",
+    "names": {
+      "en": "plasma-card",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plasma-card.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/plasma-card.png"
+    }
+  },
+  "677": {
+    "id": 677,
+    "name": "grubby-hanky",
+    "names": {
+      "en": "grubby-hanky",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grubby-hanky.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grubby-hanky.png"
+    }
+  },
+  "678": {
+    "id": 678,
+    "name": "colress-machine",
+    "names": {
+      "en": "colress-machine",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colress-machine.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colress-machine.png"
+    }
+  },
+  "679": {
+    "id": 679,
+    "name": "dropped-item",
+    "names": {
+      "en": "dropped-item",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dropped-item.png"
+    }
+  },
+  "681": {
+    "id": 681,
+    "name": "reveal-glass",
+    "names": {
+      "en": "reveal-glass",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/reveal-glass.png"
+    }
+  },
+  "682": {
+    "id": 682,
+    "name": "weakness-policy",
+    "names": {
+      "en": "weakness-policy",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/weakness-policy.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/weakness-policy.png"
+    }
+  },
+  "683": {
+    "id": 683,
+    "name": "assault-vest",
+    "names": {
+      "en": "assault-vest",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-vest.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/assault-vest.png"
+    }
+  },
+  "684": {
+    "id": 684,
+    "name": "pixie-plate",
+    "names": {
+      "en": "pixie-plate",
+      "pt": null
+    },
+    "category": "plates",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pixie-plate.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pixie-plate.png"
+    }
+  },
+  "685": {
+    "id": 685,
+    "name": "ability-capsule",
+    "names": {
+      "en": "ability-capsule",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-capsule.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ability-capsule.png"
+    }
+  },
+  "686": {
+    "id": 686,
+    "name": "whipped-dream",
+    "names": {
+      "en": "whipped-dream",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/whipped-dream.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/whipped-dream.png"
+    }
+  },
+  "687": {
+    "id": 687,
+    "name": "sachet",
+    "names": {
+      "en": "sachet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sachet.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sachet.png"
+    }
+  },
+  "688": {
+    "id": 688,
+    "name": "luminous-moss",
+    "names": {
+      "en": "luminous-moss",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luminous-moss.png"
+    }
+  },
+  "689": {
+    "id": 689,
+    "name": "snowball",
+    "names": {
+      "en": "snowball",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snowball.png"
+    }
+  },
+  "690": {
+    "id": 690,
+    "name": "safety-goggles",
+    "names": {
+      "en": "safety-goggles",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safety-goggles.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/safety-goggles.png"
+    }
+  },
+  "691": {
+    "id": 691,
+    "name": "rich-mulch",
+    "names": {
+      "en": "rich-mulch",
+      "pt": null
+    },
+    "category": "mulch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rich-mulch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rich-mulch.png"
+    }
+  },
+  "692": {
+    "id": 692,
+    "name": "surprise-mulch",
+    "names": {
+      "en": "surprise-mulch",
+      "pt": null
+    },
+    "category": "mulch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surprise-mulch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/surprise-mulch.png"
+    }
+  },
+  "693": {
+    "id": 693,
+    "name": "boost-mulch",
+    "names": {
+      "en": "boost-mulch",
+      "pt": null
+    },
+    "category": "mulch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/boost-mulch.png"
+    }
+  },
+  "694": {
+    "id": 694,
+    "name": "amaze-mulch",
+    "names": {
+      "en": "amaze-mulch",
+      "pt": null
+    },
+    "category": "mulch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amaze-mulch.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amaze-mulch.png"
+    }
+  },
+  "695": {
+    "id": 695,
+    "name": "gengarite",
+    "names": {
+      "en": "gengarite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gengarite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gengarite.png"
+    }
+  },
+  "696": {
+    "id": 696,
+    "name": "gardevoirite",
+    "names": {
+      "en": "gardevoirite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gardevoirite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/gardevoirite.png"
+    }
+  },
+  "697": {
+    "id": 697,
+    "name": "ampharosite",
+    "names": {
+      "en": "ampharosite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ampharosite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ampharosite.png"
+    }
+  },
+  "698": {
+    "id": 698,
+    "name": "venusaurite",
+    "names": {
+      "en": "venusaurite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/venusaurite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/venusaurite.png"
+    }
+  },
+  "699": {
+    "id": 699,
+    "name": "charizardite-x",
+    "names": {
+      "en": "charizardite-x",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-x.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charizardite-x.png"
+    }
+  },
+  "700": {
+    "id": 700,
+    "name": "blastoisinite",
+    "names": {
+      "en": "blastoisinite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blastoisinite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blastoisinite.png"
+    }
+  },
+  "701": {
+    "id": 701,
+    "name": "mewtwonite-x",
+    "names": {
+      "en": "mewtwonite-x",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-x.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-x.png"
+    }
+  },
+  "702": {
+    "id": 702,
+    "name": "mewtwonite-y",
+    "names": {
+      "en": "mewtwonite-y",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-y.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mewtwonite-y.png"
+    }
+  },
+  "703": {
+    "id": 703,
+    "name": "blazikenite",
+    "names": {
+      "en": "blazikenite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blazikenite.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/blazikenite.png"
+    }
+  }
+}

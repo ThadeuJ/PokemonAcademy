@@ -1,0 +1,1502 @@
+{
+  "1752": {
+    "id": 1752,
+    "name": "strawberry",
+    "names": {
+      "en": "strawberry",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1753": {
+    "id": 1753,
+    "name": "apple",
+    "names": {
+      "en": "apple",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1754": {
+    "id": 1754,
+    "name": "kiwi",
+    "names": {
+      "en": "kiwi",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1755": {
+    "id": 1755,
+    "name": "pineapple",
+    "names": {
+      "en": "pineapple",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1756": {
+    "id": 1756,
+    "name": "jalapeno",
+    "names": {
+      "en": "jalapeno",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1757": {
+    "id": 1757,
+    "name": "horseradish",
+    "names": {
+      "en": "horseradish",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1758": {
+    "id": 1758,
+    "name": "curry-powder",
+    "names": {
+      "en": "curry-powder",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1759": {
+    "id": 1759,
+    "name": "wasabi",
+    "names": {
+      "en": "wasabi",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1760": {
+    "id": 1760,
+    "name": "watercress",
+    "names": {
+      "en": "watercress",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1761": {
+    "id": 1761,
+    "name": "basil",
+    "names": {
+      "en": "basil",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1762": {
+    "id": 1762,
+    "name": "venonat-fang",
+    "names": {
+      "en": "venonat-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1763": {
+    "id": 1763,
+    "name": "diglett-dirt",
+    "names": {
+      "en": "diglett-dirt",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1764": {
+    "id": 1764,
+    "name": "meowth-fur",
+    "names": {
+      "en": "meowth-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1765": {
+    "id": 1765,
+    "name": "psyduck-down",
+    "names": {
+      "en": "psyduck-down",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1766": {
+    "id": 1766,
+    "name": "mankey-fur",
+    "names": {
+      "en": "mankey-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1767": {
+    "id": 1767,
+    "name": "growlithe-fur",
+    "names": {
+      "en": "growlithe-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1768": {
+    "id": 1768,
+    "name": "slowpoke-claw",
+    "names": {
+      "en": "slowpoke-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1769": {
+    "id": 1769,
+    "name": "magnemite-screw",
+    "names": {
+      "en": "magnemite-screw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1770": {
+    "id": 1770,
+    "name": "grimer-toxin",
+    "names": {
+      "en": "grimer-toxin",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1771": {
+    "id": 1771,
+    "name": "shellder-pearl",
+    "names": {
+      "en": "shellder-pearl",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1772": {
+    "id": 1772,
+    "name": "gastly-gas",
+    "names": {
+      "en": "gastly-gas",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1773": {
+    "id": 1773,
+    "name": "drowzee-fur",
+    "names": {
+      "en": "drowzee-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1774": {
+    "id": 1774,
+    "name": "voltorb-sparks",
+    "names": {
+      "en": "voltorb-sparks",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1775": {
+    "id": 1775,
+    "name": "scyther-claw",
+    "names": {
+      "en": "scyther-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1776": {
+    "id": 1776,
+    "name": "tauros-hair",
+    "names": {
+      "en": "tauros-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1777": {
+    "id": 1777,
+    "name": "magikarp-scales",
+    "names": {
+      "en": "magikarp-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1778": {
+    "id": 1778,
+    "name": "ditto-goo",
+    "names": {
+      "en": "ditto-goo",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1779": {
+    "id": 1779,
+    "name": "eevee-fur",
+    "names": {
+      "en": "eevee-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1780": {
+    "id": 1780,
+    "name": "dratini-scales",
+    "names": {
+      "en": "dratini-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1781": {
+    "id": 1781,
+    "name": "pichu-fur",
+    "names": {
+      "en": "pichu-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1782": {
+    "id": 1782,
+    "name": "igglybuff-fluff",
+    "names": {
+      "en": "igglybuff-fluff",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1783": {
+    "id": 1783,
+    "name": "mareep-wool",
+    "names": {
+      "en": "mareep-wool",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1784": {
+    "id": 1784,
+    "name": "hoppip-leaf",
+    "names": {
+      "en": "hoppip-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1785": {
+    "id": 1785,
+    "name": "sunkern-leaf",
+    "names": {
+      "en": "sunkern-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1786": {
+    "id": 1786,
+    "name": "murkrow-bauble",
+    "names": {
+      "en": "murkrow-bauble",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1787": {
+    "id": 1787,
+    "name": "misdreavus-tears",
+    "names": {
+      "en": "misdreavus-tears",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1788": {
+    "id": 1788,
+    "name": "girafarig-fur",
+    "names": {
+      "en": "girafarig-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1789": {
+    "id": 1789,
+    "name": "pineco-husk",
+    "names": {
+      "en": "pineco-husk",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1790": {
+    "id": 1790,
+    "name": "dunsparce-scales",
+    "names": {
+      "en": "dunsparce-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1791": {
+    "id": 1791,
+    "name": "qwilfish-spines",
+    "names": {
+      "en": "qwilfish-spines",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1792": {
+    "id": 1792,
+    "name": "heracross-claw",
+    "names": {
+      "en": "heracross-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1793": {
+    "id": 1793,
+    "name": "sneasel-claw",
+    "names": {
+      "en": "sneasel-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1794": {
+    "id": 1794,
+    "name": "teddiursa-claw",
+    "names": {
+      "en": "teddiursa-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1795": {
+    "id": 1795,
+    "name": "delibird-parcel",
+    "names": {
+      "en": "delibird-parcel",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1796": {
+    "id": 1796,
+    "name": "houndour-fang",
+    "names": {
+      "en": "houndour-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1797": {
+    "id": 1797,
+    "name": "phanpy-nail",
+    "names": {
+      "en": "phanpy-nail",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1798": {
+    "id": 1798,
+    "name": "stantler-hair",
+    "names": {
+      "en": "stantler-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1799": {
+    "id": 1799,
+    "name": "larvitar-claw",
+    "names": {
+      "en": "larvitar-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1800": {
+    "id": 1800,
+    "name": "wingull-feather",
+    "names": {
+      "en": "wingull-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1801": {
+    "id": 1801,
+    "name": "ralts-dust",
+    "names": {
+      "en": "ralts-dust",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1802": {
+    "id": 1802,
+    "name": "surskit-syrup",
+    "names": {
+      "en": "surskit-syrup",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1803": {
+    "id": 1803,
+    "name": "shroomish-spores",
+    "names": {
+      "en": "shroomish-spores",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1804": {
+    "id": 1804,
+    "name": "slakoth-fur",
+    "names": {
+      "en": "slakoth-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1805": {
+    "id": 1805,
+    "name": "makuhita-sweat",
+    "names": {
+      "en": "makuhita-sweat",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1806": {
+    "id": 1806,
+    "name": "azurill-fur",
+    "names": {
+      "en": "azurill-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1807": {
+    "id": 1807,
+    "name": "sableye-gem",
+    "names": {
+      "en": "sableye-gem",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1808": {
+    "id": 1808,
+    "name": "meditite-sweat",
+    "names": {
+      "en": "meditite-sweat",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1809": {
+    "id": 1809,
+    "name": "gulpin-mucus",
+    "names": {
+      "en": "gulpin-mucus",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1810": {
+    "id": 1810,
+    "name": "numel-lava",
+    "names": {
+      "en": "numel-lava",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1811": {
+    "id": 1811,
+    "name": "torkoal-coal",
+    "names": {
+      "en": "torkoal-coal",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1812": {
+    "id": 1812,
+    "name": "spoink-pearl",
+    "names": {
+      "en": "spoink-pearl",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1813": {
+    "id": 1813,
+    "name": "cacnea-needle",
+    "names": {
+      "en": "cacnea-needle",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1814": {
+    "id": 1814,
+    "name": "swablu-fluff",
+    "names": {
+      "en": "swablu-fluff",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1815": {
+    "id": 1815,
+    "name": "zangoose-claw",
+    "names": {
+      "en": "zangoose-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1816": {
+    "id": 1816,
+    "name": "seviper-fang",
+    "names": {
+      "en": "seviper-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1817": {
+    "id": 1817,
+    "name": "barboach-slime",
+    "names": {
+      "en": "barboach-slime",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1818": {
+    "id": 1818,
+    "name": "shuppet-scrap",
+    "names": {
+      "en": "shuppet-scrap",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1819": {
+    "id": 1819,
+    "name": "tropius-leaf",
+    "names": {
+      "en": "tropius-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1820": {
+    "id": 1820,
+    "name": "snorunt-fur",
+    "names": {
+      "en": "snorunt-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1821": {
+    "id": 1821,
+    "name": "luvdisc-scales",
+    "names": {
+      "en": "luvdisc-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1822": {
+    "id": 1822,
+    "name": "bagon-scales",
+    "names": {
+      "en": "bagon-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1823": {
+    "id": 1823,
+    "name": "starly-feather",
+    "names": {
+      "en": "starly-feather",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1824": {
+    "id": 1824,
+    "name": "kricketot-shell",
+    "names": {
+      "en": "kricketot-shell",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1825": {
+    "id": 1825,
+    "name": "shinx-fang",
+    "names": {
+      "en": "shinx-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1826": {
+    "id": 1826,
+    "name": "combee-honey",
+    "names": {
+      "en": "combee-honey",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1827": {
+    "id": 1827,
+    "name": "pachirisu-fur",
+    "names": {
+      "en": "pachirisu-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1828": {
+    "id": 1828,
+    "name": "buizel-fur",
+    "names": {
+      "en": "buizel-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1829": {
+    "id": 1829,
+    "name": "shellos-mucus",
+    "names": {
+      "en": "shellos-mucus",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1830": {
+    "id": 1830,
+    "name": "drifloon-gas",
+    "names": {
+      "en": "drifloon-gas",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1831": {
+    "id": 1831,
+    "name": "stunky-fur",
+    "names": {
+      "en": "stunky-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1832": {
+    "id": 1832,
+    "name": "bronzor-fragment",
+    "names": {
+      "en": "bronzor-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1833": {
+    "id": 1833,
+    "name": "bonsly-tears",
+    "names": {
+      "en": "bonsly-tears",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1834": {
+    "id": 1834,
+    "name": "happiny-dust",
+    "names": {
+      "en": "happiny-dust",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1835": {
+    "id": 1835,
+    "name": "spiritomb-fragment",
+    "names": {
+      "en": "spiritomb-fragment",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1836": {
+    "id": 1836,
+    "name": "gible-scales",
+    "names": {
+      "en": "gible-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1837": {
+    "id": 1837,
+    "name": "riolu-fur",
+    "names": {
+      "en": "riolu-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1838": {
+    "id": 1838,
+    "name": "hippopotas-sand",
+    "names": {
+      "en": "hippopotas-sand",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1839": {
+    "id": 1839,
+    "name": "croagunk-poison",
+    "names": {
+      "en": "croagunk-poison",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1840": {
+    "id": 1840,
+    "name": "finneon-scales",
+    "names": {
+      "en": "finneon-scales",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1841": {
+    "id": 1841,
+    "name": "snover-berries",
+    "names": {
+      "en": "snover-berries",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1842": {
+    "id": 1842,
+    "name": "rotom-sparks",
+    "names": {
+      "en": "rotom-sparks",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1843": {
+    "id": 1843,
+    "name": "petilil-leaf",
+    "names": {
+      "en": "petilil-leaf",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1844": {
+    "id": 1844,
+    "name": "basculin-fang",
+    "names": {
+      "en": "basculin-fang",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1845": {
+    "id": 1845,
+    "name": "sandile-claw",
+    "names": {
+      "en": "sandile-claw",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1846": {
+    "id": 1846,
+    "name": "zorua-fur",
+    "names": {
+      "en": "zorua-fur",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1847": {
+    "id": 1847,
+    "name": "gothita-eyelash",
+    "names": {
+      "en": "gothita-eyelash",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1848": {
+    "id": 1848,
+    "name": "deerling-hair",
+    "names": {
+      "en": "deerling-hair",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1849": {
+    "id": 1849,
+    "name": "foongus-spores",
+    "names": {
+      "en": "foongus-spores",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1850": {
+    "id": 1850,
+    "name": "alomomola-mucus",
+    "names": {
+      "en": "alomomola-mucus",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1851": {
+    "id": 1851,
+    "name": "tynamo-slime",
+    "names": {
+      "en": "tynamo-slime",
+      "pt": null
+    },
+    "category": "tm-materials",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

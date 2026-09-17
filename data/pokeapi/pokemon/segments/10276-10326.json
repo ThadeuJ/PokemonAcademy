@@ -1,0 +1,2360 @@
+{
+  "10276": {
+    "id": 10276,
+    "name": "terapagos-terastal",
+    "names": {
+      "en": "terapagos-terastal",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "tera-shell"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 95,
+      "defense": 110,
+      "special-attack": 105,
+      "special-defense": 110,
+      "speed": 85
+    },
+    "height": 3,
+    "weight": 160,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10276.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10276.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10276.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10276.png"
+    },
+    "species": {
+      "name": "terapagos"
+    }
+  },
+  "10277": {
+    "id": 10277,
+    "name": "terapagos-stellar",
+    "names": {
+      "en": "terapagos-stellar",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "teraform-zero"
+    ],
+    "stats": {
+      "hp": 160,
+      "attack": 105,
+      "defense": 110,
+      "special-attack": 130,
+      "special-defense": 110,
+      "speed": 85
+    },
+    "height": 17,
+    "weight": 770,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10277.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10277.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10277.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10277.png"
+    },
+    "species": {
+      "name": "terapagos"
+    }
+  },
+  "10278": {
+    "id": 10278,
+    "name": "clefable-mega",
+    "names": {
+      "en": "clefable-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "magic-bounce"
+    ],
+    "stats": {
+      "hp": 95,
+      "attack": 80,
+      "defense": 93,
+      "special-attack": 135,
+      "special-defense": 110,
+      "speed": 70
+    },
+    "height": 17,
+    "weight": 423,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10278.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10278.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10278.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10278.png"
+    },
+    "species": {
+      "name": "clefable"
+    }
+  },
+  "10279": {
+    "id": 10279,
+    "name": "victreebel-mega",
+    "names": {
+      "en": "victreebel-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "innards-out"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 85,
+      "special-attack": 135,
+      "special-defense": 95,
+      "speed": 70
+    },
+    "height": 45,
+    "weight": 1255,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10279.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10279.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10279.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10279.png"
+    },
+    "species": {
+      "name": "victreebel"
+    }
+  },
+  "10280": {
+    "id": 10280,
+    "name": "starmie-mega",
+    "names": {
+      "en": "starmie-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "huge-power"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 105,
+      "special-attack": 130,
+      "special-defense": 105,
+      "speed": 120
+    },
+    "height": 23,
+    "weight": 800,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10280.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10280.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10280.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10280.png"
+    },
+    "species": {
+      "name": "starmie"
+    }
+  },
+  "10281": {
+    "id": 10281,
+    "name": "dragonite-mega",
+    "names": {
+      "en": "dragonite-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "multiscale"
+    ],
+    "stats": {
+      "hp": 91,
+      "attack": 124,
+      "defense": 115,
+      "special-attack": 145,
+      "special-defense": 125,
+      "speed": 100
+    },
+    "height": 22,
+    "weight": 2900,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10281.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10281.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10281.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10281.png"
+    },
+    "species": {
+      "name": "dragonite"
+    }
+  },
+  "10282": {
+    "id": 10282,
+    "name": "meganium-mega",
+    "names": {
+      "en": "meganium-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "mega-sol"
+    ],
+    "stats": {
+      "hp": 80,
+      "attack": 92,
+      "defense": 115,
+      "special-attack": 143,
+      "special-defense": 115,
+      "speed": 80
+    },
+    "height": 24,
+    "weight": 2010,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10282.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10282.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10282.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10282.png"
+    },
+    "species": {
+      "name": "meganium"
+    }
+  },
+  "10283": {
+    "id": 10283,
+    "name": "feraligatr-mega",
+    "names": {
+      "en": "feraligatr-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "dragonize"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 160,
+      "defense": 125,
+      "special-attack": 89,
+      "special-defense": 93,
+      "speed": 78
+    },
+    "height": 23,
+    "weight": 1088,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10283.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10283.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10283.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10283.png"
+    },
+    "species": {
+      "name": "feraligatr"
+    }
+  },
+  "10284": {
+    "id": 10284,
+    "name": "skarmory-mega",
+    "names": {
+      "en": "skarmory-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "stalwart"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 140,
+      "defense": 110,
+      "special-attack": 40,
+      "special-defense": 100,
+      "speed": 110
+    },
+    "height": 17,
+    "weight": 404,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10284.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10284.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10284.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10284.png"
+    },
+    "species": {
+      "name": "skarmory"
+    }
+  },
+  "10285": {
+    "id": 10285,
+    "name": "froslass-mega",
+    "names": {
+      "en": "froslass-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ice"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "snow-warning"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 80,
+      "defense": 70,
+      "special-attack": 140,
+      "special-defense": 100,
+      "speed": 120
+    },
+    "height": 26,
+    "weight": 296,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10285.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10285.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10285.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10285.png"
+    },
+    "species": {
+      "name": "froslass"
+    }
+  },
+  "10286": {
+    "id": 10286,
+    "name": "emboar-mega",
+    "names": {
+      "en": "emboar-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "mold-breaker"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 148,
+      "defense": 75,
+      "special-attack": 110,
+      "special-defense": 110,
+      "speed": 75
+    },
+    "height": 18,
+    "weight": 1803,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10286.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10286.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10286.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10286.png"
+    },
+    "species": {
+      "name": "emboar"
+    }
+  },
+  "10287": {
+    "id": 10287,
+    "name": "excadrill-mega",
+    "names": {
+      "en": "excadrill-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "piercing-drill"
+    ],
+    "stats": {
+      "hp": 110,
+      "attack": 165,
+      "defense": 100,
+      "special-attack": 65,
+      "special-defense": 65,
+      "speed": 103
+    },
+    "height": 9,
+    "weight": 600,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10287.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10287.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10287.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10287.png"
+    },
+    "species": {
+      "name": "excadrill"
+    }
+  },
+  "10288": {
+    "id": 10288,
+    "name": "scolipede-mega",
+    "names": {
+      "en": "scolipede-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "shell-armor"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 140,
+      "defense": 149,
+      "special-attack": 75,
+      "special-defense": 99,
+      "speed": 62
+    },
+    "height": 32,
+    "weight": 2305,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10288.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10288.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10288.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10288.png"
+    },
+    "species": {
+      "name": "scolipede"
+    }
+  },
+  "10289": {
+    "id": 10289,
+    "name": "scrafty-mega",
+    "names": {
+      "en": "scrafty-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "intimidate"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 130,
+      "defense": 135,
+      "special-attack": 55,
+      "special-defense": 135,
+      "speed": 68
+    },
+    "height": 11,
+    "weight": 310,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10289.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10289.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10289.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10289.png"
+    },
+    "species": {
+      "name": "scrafty"
+    }
+  },
+  "10290": {
+    "id": 10290,
+    "name": "eelektross-mega",
+    "names": {
+      "en": "eelektross-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "eelevate"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 145,
+      "defense": 80,
+      "special-attack": 135,
+      "special-defense": 90,
+      "speed": 80
+    },
+    "height": 30,
+    "weight": 1800,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10290.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10290.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10290.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10290.png"
+    },
+    "species": {
+      "name": "eelektross"
+    }
+  },
+  "10291": {
+    "id": 10291,
+    "name": "chandelure-mega",
+    "names": {
+      "en": "chandelure-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ghost"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "infiltrator"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 75,
+      "defense": 110,
+      "special-attack": 175,
+      "special-defense": 110,
+      "speed": 90
+    },
+    "height": 25,
+    "weight": 696,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10291.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10291.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10291.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10291.png"
+    },
+    "species": {
+      "name": "chandelure"
+    }
+  },
+  "10292": {
+    "id": 10292,
+    "name": "chesnaught-mega",
+    "names": {
+      "en": "chesnaught-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "bulletproof"
+    ],
+    "stats": {
+      "hp": 88,
+      "attack": 137,
+      "defense": 172,
+      "special-attack": 74,
+      "special-defense": 115,
+      "speed": 44
+    },
+    "height": 16,
+    "weight": 900,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10292.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10292.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10292.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10292.png"
+    },
+    "species": {
+      "name": "chesnaught"
+    }
+  },
+  "10293": {
+    "id": 10293,
+    "name": "delphox-mega",
+    "names": {
+      "en": "delphox-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 69,
+      "defense": 72,
+      "special-attack": 159,
+      "special-defense": 125,
+      "speed": 134
+    },
+    "height": 15,
+    "weight": 390,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10293.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10293.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10293.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10293.png"
+    },
+    "species": {
+      "name": "delphox"
+    }
+  },
+  "10294": {
+    "id": 10294,
+    "name": "greninja-mega",
+    "names": {
+      "en": "greninja-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "water"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [
+      "protean"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 125,
+      "defense": 77,
+      "special-attack": 133,
+      "special-defense": 81,
+      "speed": 142
+    },
+    "height": 15,
+    "weight": 400,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10294.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10294.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10294.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10294.png"
+    },
+    "species": {
+      "name": "greninja"
+    }
+  },
+  "10295": {
+    "id": 10295,
+    "name": "pyroar-mega",
+    "names": {
+      "en": "pyroar-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "normal"
+        }
+      }
+    ],
+    "abilities": [
+      "fire-mane"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 88,
+      "defense": 92,
+      "special-attack": 129,
+      "special-defense": 86,
+      "speed": 126
+    },
+    "height": 15,
+    "weight": 933,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10295.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10295.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10295.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10295.png"
+    },
+    "species": {
+      "name": "pyroar"
+    }
+  },
+  "10296": {
+    "id": 10296,
+    "name": "floette-mega",
+    "names": {
+      "en": "floette-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [
+      "fairy-aura"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 85,
+      "defense": 87,
+      "special-attack": 155,
+      "special-defense": 148,
+      "speed": 102
+    },
+    "height": 2,
+    "weight": 1008,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10296.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10296.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10296.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10296.png"
+    },
+    "species": {
+      "name": "floette"
+    }
+  },
+  "10297": {
+    "id": 10297,
+    "name": "malamar-mega",
+    "names": {
+      "en": "malamar-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "contrary"
+    ],
+    "stats": {
+      "hp": 86,
+      "attack": 102,
+      "defense": 88,
+      "special-attack": 98,
+      "special-defense": 120,
+      "speed": 88
+    },
+    "height": 29,
+    "weight": 698,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10297.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10297.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10297.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10297.png"
+    },
+    "species": {
+      "name": "malamar"
+    }
+  },
+  "10298": {
+    "id": 10298,
+    "name": "barbaracle-mega",
+    "names": {
+      "en": "barbaracle-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "tough-claws"
+    ],
+    "stats": {
+      "hp": 72,
+      "attack": 140,
+      "defense": 130,
+      "special-attack": 64,
+      "special-defense": 106,
+      "speed": 88
+    },
+    "height": 22,
+    "weight": 1000,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10298.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10298.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10298.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10298.png"
+    },
+    "species": {
+      "name": "barbaracle"
+    }
+  },
+  "10299": {
+    "id": 10299,
+    "name": "dragalge-mega",
+    "names": {
+      "en": "dragalge-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "poison"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "regenerator"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 85,
+      "defense": 105,
+      "special-attack": 132,
+      "special-defense": 163,
+      "speed": 44
+    },
+    "height": 21,
+    "weight": 1003,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10299.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10299.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10299.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10299.png"
+    },
+    "species": {
+      "name": "dragalge"
+    }
+  },
+  "10300": {
+    "id": 10300,
+    "name": "hawlucha-mega",
+    "names": {
+      "en": "hawlucha-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "no-guard"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 137,
+      "defense": 100,
+      "special-attack": 74,
+      "special-defense": 93,
+      "speed": 118
+    },
+    "height": 10,
+    "weight": 250,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10300.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10300.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10300.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10300.png"
+    },
+    "species": {
+      "name": "hawlucha"
+    }
+  },
+  "10301": {
+    "id": 10301,
+    "name": "zygarde-mega",
+    "names": {
+      "en": "zygarde-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ground"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 216,
+      "attack": 70,
+      "defense": 91,
+      "special-attack": 216,
+      "special-defense": 85,
+      "speed": 100
+    },
+    "height": 77,
+    "weight": 6100,
+    "sprites": {
+      "front_default": null,
+      "front": null,
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10301.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10301.png"
+    },
+    "species": {
+      "name": "zygarde"
+    }
+  },
+  "10302": {
+    "id": 10302,
+    "name": "drampa-mega",
+    "names": {
+      "en": "drampa-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "normal"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "berserk"
+    ],
+    "stats": {
+      "hp": 78,
+      "attack": 85,
+      "defense": 110,
+      "special-attack": 160,
+      "special-defense": 116,
+      "speed": 36
+    },
+    "height": 30,
+    "weight": 2405,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10302.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10302.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10302.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10302.png"
+    },
+    "species": {
+      "name": "drampa"
+    }
+  },
+  "10303": {
+    "id": 10303,
+    "name": "falinks-mega",
+    "names": {
+      "en": "falinks-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      }
+    ],
+    "abilities": [
+      "defiant"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 135,
+      "defense": 135,
+      "special-attack": 70,
+      "special-defense": 65,
+      "speed": 100
+    },
+    "height": 16,
+    "weight": 990,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10303.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10303.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10303.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10303.png"
+    },
+    "species": {
+      "name": "falinks"
+    }
+  },
+  "10304": {
+    "id": 10304,
+    "name": "raichu-mega-x",
+    "names": {
+      "en": "raichu-mega-x",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "electric-surge"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 135,
+      "defense": 95,
+      "special-attack": 90,
+      "special-defense": 95,
+      "speed": 110
+    },
+    "height": 12,
+    "weight": 380,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10304.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10304.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10304.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10304.png"
+    },
+    "species": {
+      "name": "raichu"
+    }
+  },
+  "10305": {
+    "id": 10305,
+    "name": "raichu-mega-y",
+    "names": {
+      "en": "raichu-mega-y",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [
+      "no-guard"
+    ],
+    "stats": {
+      "hp": 60,
+      "attack": 100,
+      "defense": 55,
+      "special-attack": 160,
+      "special-defense": 80,
+      "speed": 130
+    },
+    "height": 10,
+    "weight": 260,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10305.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10305.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10305.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10305.png"
+    },
+    "species": {
+      "name": "raichu"
+    }
+  },
+  "10306": {
+    "id": 10306,
+    "name": "chimecho-mega",
+    "names": {
+      "en": "chimecho-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 50,
+      "defense": 110,
+      "special-attack": 135,
+      "special-defense": 120,
+      "speed": 65
+    },
+    "height": 12,
+    "weight": 80,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10306.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10306.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10306.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10306.png"
+    },
+    "species": {
+      "name": "chimecho"
+    }
+  },
+  "10307": {
+    "id": 10307,
+    "name": "absol-mega-z",
+    "names": {
+      "en": "absol-mega-z",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "sharpness"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 154,
+      "defense": 60,
+      "special-attack": 75,
+      "special-defense": 60,
+      "speed": 151
+    },
+    "height": 12,
+    "weight": 490,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10307.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10307.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10307.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10307.png"
+    },
+    "species": {
+      "name": "absol"
+    }
+  },
+  "10308": {
+    "id": 10308,
+    "name": "staraptor-mega",
+    "names": {
+      "en": "staraptor-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "flying"
+        }
+      }
+    ],
+    "abilities": [
+      "contrary"
+    ],
+    "stats": {
+      "hp": 85,
+      "attack": 140,
+      "defense": 100,
+      "special-attack": 60,
+      "special-defense": 90,
+      "speed": 110
+    },
+    "height": 19,
+    "weight": 500,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10308.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10308.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10308.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10308.png"
+    },
+    "species": {
+      "name": "staraptor"
+    }
+  },
+  "10309": {
+    "id": 10309,
+    "name": "garchomp-mega-z",
+    "names": {
+      "en": "garchomp-mega-z",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      }
+    ],
+    "abilities": [
+      "levitate"
+    ],
+    "stats": {
+      "hp": 108,
+      "attack": 130,
+      "defense": 85,
+      "special-attack": 141,
+      "special-defense": 85,
+      "speed": 151
+    },
+    "height": 19,
+    "weight": 990,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10309.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10309.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10309.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10309.png"
+    },
+    "species": {
+      "name": "garchomp"
+    }
+  },
+  "10310": {
+    "id": 10310,
+    "name": "lucario-mega-z",
+    "names": {
+      "en": "lucario-mega-z",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "aura-guard"
+    ],
+    "stats": {
+      "hp": 70,
+      "attack": 100,
+      "defense": 70,
+      "special-attack": 164,
+      "special-defense": 70,
+      "speed": 151
+    },
+    "height": 13,
+    "weight": 494,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10310.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10310.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10310.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10310.png"
+    },
+    "species": {
+      "name": "lucario"
+    }
+  },
+  "10311": {
+    "id": 10311,
+    "name": "heatran-mega",
+    "names": {
+      "en": "heatran-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fire"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 91,
+      "attack": 120,
+      "defense": 106,
+      "special-attack": 175,
+      "special-defense": 141,
+      "speed": 67
+    },
+    "height": 28,
+    "weight": 5700,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10311.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10311.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10311.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10311.png"
+    },
+    "species": {
+      "name": "heatran"
+    }
+  },
+  "10312": {
+    "id": 10312,
+    "name": "darkrai-mega",
+    "names": {
+      "en": "darkrai-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dark"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 70,
+      "attack": 120,
+      "defense": 130,
+      "special-attack": 165,
+      "special-defense": 130,
+      "speed": 85
+    },
+    "height": 30,
+    "weight": 2400,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10312.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10312.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10312.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10312.png"
+    },
+    "species": {
+      "name": "darkrai"
+    }
+  },
+  "10313": {
+    "id": 10313,
+    "name": "golurk-mega",
+    "names": {
+      "en": "golurk-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "ground"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ghost"
+        }
+      }
+    ],
+    "abilities": [
+      "unseen-fist"
+    ],
+    "stats": {
+      "hp": 89,
+      "attack": 159,
+      "defense": 105,
+      "special-attack": 70,
+      "special-defense": 105,
+      "speed": 55
+    },
+    "height": 40,
+    "weight": 3300,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10313.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10313.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10313.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10313.png"
+    },
+    "species": {
+      "name": "golurk"
+    }
+  },
+  "10314": {
+    "id": 10314,
+    "name": "meowstic-male-mega",
+    "names": {
+      "en": "meowstic-male-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "trace"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "special-attack": 143,
+      "special-defense": 101,
+      "speed": 124
+    },
+    "height": 8,
+    "weight": 101,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10314.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10314.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10314.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10314.png"
+    },
+    "species": {
+      "name": "meowstic"
+    }
+  },
+  "10315": {
+    "id": 10315,
+    "name": "crabominable-mega",
+    "names": {
+      "en": "crabominable-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "fighting"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "iron-fist"
+    ],
+    "stats": {
+      "hp": 97,
+      "attack": 157,
+      "defense": 122,
+      "special-attack": 62,
+      "special-defense": 107,
+      "speed": 33
+    },
+    "height": 26,
+    "weight": 2528,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10315.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10315.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10315.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10315.png"
+    },
+    "species": {
+      "name": "crabominable"
+    }
+  },
+  "10316": {
+    "id": 10316,
+    "name": "golisopod-mega",
+    "names": {
+      "en": "golisopod-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "bug"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "steel"
+        }
+      }
+    ],
+    "abilities": [
+      "tough-claws"
+    ],
+    "stats": {
+      "hp": 75,
+      "attack": 150,
+      "defense": 175,
+      "special-attack": 70,
+      "special-defense": 120,
+      "speed": 40
+    },
+    "height": 23,
+    "weight": 1480,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10316.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10316.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10316.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10316.png"
+    },
+    "species": {
+      "name": "golisopod"
+    }
+  },
+  "10317": {
+    "id": 10317,
+    "name": "magearna-mega",
+    "names": {
+      "en": "magearna-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 115,
+      "special-attack": 170,
+      "special-defense": 115,
+      "speed": 95
+    },
+    "height": 13,
+    "weight": 2481,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10317.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10317.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10317.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10317.png"
+    },
+    "species": {
+      "name": "magearna"
+    }
+  },
+  "10318": {
+    "id": 10318,
+    "name": "magearna-original-mega",
+    "names": {
+      "en": "magearna-original-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "steel"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fairy"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 80,
+      "attack": 125,
+      "defense": 115,
+      "special-attack": 170,
+      "special-defense": 115,
+      "speed": 95
+    },
+    "height": 13,
+    "weight": 2481,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10318.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10318.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10318.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10318.png"
+    },
+    "species": {
+      "name": "magearna"
+    }
+  },
+  "10319": {
+    "id": 10319,
+    "name": "zeraora-mega",
+    "names": {
+      "en": "zeraora-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "electric"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 88,
+      "attack": 157,
+      "defense": 75,
+      "special-attack": 147,
+      "special-defense": 80,
+      "speed": 153
+    },
+    "height": 15,
+    "weight": 445,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10319.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10319.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10319.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10319.png"
+    },
+    "species": {
+      "name": "zeraora"
+    }
+  },
+  "10320": {
+    "id": 10320,
+    "name": "scovillain-mega",
+    "names": {
+      "en": "scovillain-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "fire"
+        }
+      }
+    ],
+    "abilities": [
+      "spicy-spray"
+    ],
+    "stats": {
+      "hp": 65,
+      "attack": 138,
+      "defense": 85,
+      "special-attack": 138,
+      "special-defense": 85,
+      "speed": 75
+    },
+    "height": 12,
+    "weight": 220,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10320.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10320.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10320.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10320.png"
+    },
+    "species": {
+      "name": "scovillain"
+    }
+  },
+  "10321": {
+    "id": 10321,
+    "name": "glimmora-mega",
+    "names": {
+      "en": "glimmora-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "rock"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "poison"
+        }
+      }
+    ],
+    "abilities": [
+      "adaptability"
+    ],
+    "stats": {
+      "hp": 83,
+      "attack": 90,
+      "defense": 105,
+      "special-attack": 150,
+      "special-defense": 96,
+      "speed": 101
+    },
+    "height": 28,
+    "weight": 770,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10321.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10321.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10321.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10321.png"
+    },
+    "species": {
+      "name": "glimmora"
+    }
+  },
+  "10322": {
+    "id": 10322,
+    "name": "tatsugiri-curly-mega",
+    "names": {
+      "en": "tatsugiri-curly-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 68,
+      "attack": 65,
+      "defense": 90,
+      "special-attack": 135,
+      "special-defense": 125,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 240,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10322.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10322.png",
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "tatsugiri"
+    }
+  },
+  "10323": {
+    "id": 10323,
+    "name": "tatsugiri-droopy-mega",
+    "names": {
+      "en": "tatsugiri-droopy-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 68,
+      "attack": 65,
+      "defense": 90,
+      "special-attack": 135,
+      "special-defense": 125,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 240,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10323.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10323.png",
+      "other": {
+        "official-artwork": {
+          "front_default": null
+        }
+      },
+      "artwork": null
+    },
+    "species": {
+      "name": "tatsugiri"
+    }
+  },
+  "10324": {
+    "id": 10324,
+    "name": "tatsugiri-stretchy-mega",
+    "names": {
+      "en": "tatsugiri-stretchy-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "water"
+        }
+      }
+    ],
+    "abilities": [],
+    "stats": {
+      "hp": 68,
+      "attack": 65,
+      "defense": 90,
+      "special-attack": 135,
+      "special-defense": 125,
+      "speed": 92
+    },
+    "height": 6,
+    "weight": 240,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10324.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10324.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10324.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10324.png"
+    },
+    "species": {
+      "name": "tatsugiri"
+    }
+  },
+  "10325": {
+    "id": 10325,
+    "name": "baxcalibur-mega",
+    "names": {
+      "en": "baxcalibur-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "dragon"
+        }
+      },
+      {
+        "slot": 2,
+        "type": {
+          "name": "ice"
+        }
+      }
+    ],
+    "abilities": [
+      "thermal-exchange"
+    ],
+    "stats": {
+      "hp": 115,
+      "attack": 175,
+      "defense": 117,
+      "special-attack": 105,
+      "special-defense": 101,
+      "speed": 87
+    },
+    "height": 21,
+    "weight": 3150,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10325.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10325.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10325.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10325.png"
+    },
+    "species": {
+      "name": "baxcalibur"
+    }
+  },
+  "10326": {
+    "id": 10326,
+    "name": "meowstic-female-mega",
+    "names": {
+      "en": "meowstic-female-mega",
+      "pt": null
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "psychic"
+        }
+      }
+    ],
+    "abilities": [
+      "trace"
+    ],
+    "stats": {
+      "hp": 74,
+      "attack": 48,
+      "defense": 76,
+      "special-attack": 143,
+      "special-defense": 101,
+      "speed": 124
+    },
+    "height": 8,
+    "weight": 101,
+    "sprites": {
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10326.png",
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10326.png",
+      "other": {
+        "official-artwork": {
+          "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10326.png"
+        }
+      },
+      "artwork": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10326.png"
+    },
+    "species": {
+      "name": "meowstic"
+    }
+  }
+}

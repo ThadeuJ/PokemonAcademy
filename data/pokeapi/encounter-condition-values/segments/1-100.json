@@ -1,0 +1,2542 @@
+{
+  "1": {
+    "id": 1,
+    "name": "swarm-yes",
+    "condition": {
+      "name": "swarm",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/1/"
+    },
+    "names": [
+      {
+        "name": "Während eines Schwarms",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During a swarm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Pendant une tempête",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "swarm-no",
+    "condition": {
+      "name": "swarm",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/1/"
+    },
+    "names": [
+      {
+        "name": "Außerhalb eines Schwarms",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Not during a swarm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Pas pendant une tempête",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "time-morning",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "Am Morgen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "In the morning",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le matin",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "time-day",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "Am Tag",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During the day",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "La journée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "time-night",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "In der Nacht",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "At night",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "La nuit",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "radar-on",
+    "condition": {
+      "name": "radar",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/3/"
+    },
+    "names": [
+      {
+        "name": "Durch Benutzung des Pokéradars",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Using PokéRadar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant le PokéRadar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "radar-off",
+    "condition": {
+      "name": "radar",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/3/"
+    },
+    "names": [
+      {
+        "name": "Ohne Benutzung des Pokéradars",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Not using PokéRadar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sans utiliser le PokéRadar",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "slot2-none",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Kein Spiel in Slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "No game in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sans jeu dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "slot2-ruby",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Rubin in Slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruby in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Rubis dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "slot2-sapphire",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Saphir in Slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sapphire in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Saphir dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "slot2-emerald",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Smaragd in Slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Emerald in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Émeraude dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "slot2-firered",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Feuerrot in slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "FireRed in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Rouge Feu dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "slot2-leafgreen",
+    "condition": {
+      "name": "slot2",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/4/"
+    },
+    "names": [
+      {
+        "name": "Blattgrün in slot 2",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "LeafGreen in slot 2",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Vert Feuille dans le slot 2",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "radio-off",
+    "condition": {
+      "name": "radio",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/5/"
+    },
+    "names": [
+      {
+        "name": "Radio aus",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Radio off",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Radio éteinte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "radio-hoenn",
+    "condition": {
+      "name": "radio",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/5/"
+    },
+    "names": [
+      {
+        "name": "Hoenn-Sound im Radio",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Hoenn radio",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En écoutant Radio Hoenn",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "radio-sinnoh",
+    "condition": {
+      "name": "radio",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/5/"
+    },
+    "names": [
+      {
+        "name": "Sinnoh-Sound im Radio",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Sinnoh radio",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En écoutant Radio Sinnoh",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "season-spring",
+    "condition": {
+      "name": "season",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/6/"
+    },
+    "names": [
+      {
+        "name": "Im Frühling",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During Spring",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Au printemps",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "season-summer",
+    "condition": {
+      "name": "season",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/6/"
+    },
+    "names": [
+      {
+        "name": "Im Sommer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During Summer",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En été",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "season-autumn",
+    "condition": {
+      "name": "season",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/6/"
+    },
+    "names": [
+      {
+        "name": "Im Herbst",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During Autumn",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En automne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "season-winter",
+    "condition": {
+      "name": "season",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/6/"
+    },
+    "names": [
+      {
+        "name": "Im Winter",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "During Winter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En hiver",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "starter-bulbasaur",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Bulbasaur as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Bulbizarre en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "starter-squirtle",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Squirtle as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Carapuce en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "starter-charmander",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Charmander as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Salamèche en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "starter-chespin",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Chespin as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Marisson en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "name": "starter-fennekin",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Fennekin as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Feunnec en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "starter-froakie",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Froakie as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Grenousse en starter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "tv-option-blue",
+    "condition": {
+      "name": "tv-option",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/8/"
+    },
+    "names": [
+      {
+        "name": "Chose ‘Blue’ on the TV news report",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Choisi « bleu » à la télé",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "tv-option-red",
+    "condition": {
+      "name": "tv-option",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/8/"
+    },
+    "names": [
+      {
+        "name": "Chose ‘Red’ on the TV news report",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Choisi « rouge » à la télé",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "name": "story-progress-awakened-beasts",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Awakened the legendary beasts at Burned Tower",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant réveillé les légendaires à la Tour Cendrée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "story-progress-beat-galactic-coronet",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Visited Lake Verity after defeating Team Galactic at Mt. Coronet",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant visité le Lac Vérité après avoir vaincu la Team Galaxie au Mont Couronné",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "story-progress-oak-eterna-city",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Talked to Professor Oak at Eterna City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir parlé au Prof. Chen à Vestigion",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "story-progress-vermilion-copycat",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Visited the Pokémon Fan Club with Copycat’s doll",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir visité le Fan Club Pokémon avec la poupée de Copieuse",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "story-progress-met-tornadus-thundurus",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Met Tornadus or Thundurus in a cutscene",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir rencontré Boréas ou Fulguris lors d’une cinématique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "story-progress-beat-elite-four-round-two",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Beat the Elite 4 for the second time",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après deux victoires sur le Conseil 4",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "story-progress-hall-of-fame",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Enter the Hall of Fame",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après l’entrée au Panthéon",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "story-progress-none",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "None",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Aucune",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "name": "story-progress-national-dex",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Acquired National Pokédex",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant le Pokédex National",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "other-none",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "None",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Aucune",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "other-snorlax-11-beat-league",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Beat the Pokémon league after knocking out Snorlax at Route 11",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir mis Ronflex KO sur la route 11, puis avoir battu la Ligue",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "other-virtual-console",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Playing on the Virtual Console Release",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En jouant sur la version Virtual Console",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "name": "story-progress-cure-eldritch-nightmares",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Cure the nightmares of Eldritch’s Son",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir soigné les cauchemars du fils d’Edern",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "other-talk-to-cynthias-grandmother",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Talk to Cynthia’s grandmother",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir parlé à la grand-mère de Cynthia",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "item-none",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "No item requirement",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sans objet particulier",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "item-adamant-orb",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Adamant Orb in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Orbe Adamant dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "item-lustrous-orb",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Lustrous Orb in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Orbe Perlé dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "item-helix-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Helix Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Nautile dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "item-dome-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Dome Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Fossile Dôme dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "name": "item-old-amber",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Old Amber in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Vieil Ambre dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "item-root-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Root Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Fossile Racine dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "item-claw-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Claw Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Fossile Griffe dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "story-progress-defeat-jupiter",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Defeat Jupiter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir vaincu Jupiter",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "name": "story-progress-beat-team-galactic-iron-island",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Defeat Team Galactic at Iron Island",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir vaincu la Team Galaxie sur l’Île de Fer",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "other-correct-password",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Input correct password",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir saisi le bon mot de passe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "name": "story-progress-zephyr-badge",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Obtained Zephyr badge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant obtenu le badge Zéphir",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "story-progress-beat-red",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Defeat Red",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir vaincu Red",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "name": "other-received-kanto-starter",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Received a Kanto Starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir recu un starter de Kanto",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "story-progress-receive-tm-from-claire",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Received TM59 From Claire",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir reçu la CT59 de Claire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "name": "other-regirock-regice-registeel-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Regirock, Regice and Registeel in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant Regirock, Regice et Registeel dans l’équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "name": "weekday-sunday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Sunday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le dimanche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "name": "weekday-monday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Monday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le lundi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "name": "weekday-tuesday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Tuesday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le mardi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "name": "weekday-wednesday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Wednesday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le mercredi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "name": "weekday-thursday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Thursday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le jeudi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "weekday-friday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Friday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le vendredi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "weekday-saturday",
+    "condition": {
+      "name": "weekday",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/12/"
+    },
+    "names": [
+      {
+        "name": "Saturday",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Le samedi",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "name": "first-party-pokemon-high-friendship",
+    "condition": {
+      "name": "first-party-pokemon",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/13/"
+    },
+    "names": [
+      {
+        "name": "The first Pokémon in the player’s party has a high friendship stat",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Si le premier Pokémon de l’équipe a une stat d’amitié élevée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "67": {
+    "id": 67,
+    "name": "story-progress-defeat-mars",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Beat Mars for the first time",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après deux victoires face à Mars",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "68": {
+    "id": 68,
+    "name": "item-odd-keystone",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Odd Keystone in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant une Clé de Voûte dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "name": "other-talked-to-32-people-underground",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Has talked to at least 32 people in the underground",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir parlé à 32 personnes dans les souterrains",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "story-progress-returned-machine-part",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Returned Machine Part to Power Plant",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir rapporté la pièce de machine à la centrale",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "other-event-arceus-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have an Event Arceus in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En ayant un Arceus événementiel dans l’équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "72": {
+    "id": 72,
+    "name": "special-encounter-couldnt-capture-before",
+    "condition": {
+      "name": "special-encounter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/14/"
+    },
+    "names": [
+      {
+        "name": "This special Pokémon couldn’t be captured in previous encounters (either fainted or ran from battle)",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Ce Pokémon spécial ne pouvait pas être capturé auparavant (doit avoir été vaincu ou avoir fui le combat)",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "73": {
+    "id": 73,
+    "name": "item-ice-key",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Ice Key in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir la Clé Iceberg dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "74": {
+    "id": 74,
+    "name": "item-iron-key",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Iron Key in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir la Clé Fer dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "75": {
+    "id": 75,
+    "name": "story-progress-juniper-cave-of-being",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Spoke to Professor Juniper in the Cave of Being",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Parler au Professeur Keteleeria dans la Caverne des Esprits",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "76": {
+    "id": 76,
+    "name": "item-lunar-wing",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Lunar Wing in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir la Plume Lune dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "77": {
+    "id": 77,
+    "name": "story-progress-quake-badge",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Obtained Quake Badge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Obtenir le Badge Sismique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "78": {
+    "id": 78,
+    "name": "item-light-stone",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Light Stone in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir le Galet Blanc dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "79": {
+    "id": 79,
+    "name": "item-dark-stone",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Dark Stone in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir le Galet Noir dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "80": {
+    "id": 80,
+    "name": "other-captured-reshiram-or-zekrom",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Captured Reshiram or Zekrom previously",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir capturé Reshiram ou Zekrom précédemment",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "81": {
+    "id": 81,
+    "name": "defeated-ghetsis",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Defeated Ghetsis",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir battu Ghetis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "82": {
+    "id": 82,
+    "name": "other-found-11-times-roaming",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Has been unsuccesfully battled 11 times before",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "A été combattu 11 fois avant sans succès",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "83": {
+    "id": 83,
+    "name": "time-minute-00-to-19",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current minute is between 00 and 19",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "La minute actuelle est entre 00 et 19",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "84": {
+    "id": 84,
+    "name": "time-minute-20-to-39",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current minute is between 20 and 39",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "La minute actuelle est entre 20 et 39",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "time-minute-40-to-59",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current minute is between 40 and 59",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "La minute actuelle est entre 40 et 59",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "86": {
+    "id": 86,
+    "name": "time-04-00-to-19-59",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current time is between 04:00 and 19:59",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "L'heure actuelle est entre 04:00 et 19:59",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "87": {
+    "id": 87,
+    "name": "time-20-00-to-21-59",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current time is between 20:00 and 21:59",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "L'heure actuelle est entre 20:00 et 21:59",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "88": {
+    "id": 88,
+    "name": "time-21-00-to-03-59",
+    "condition": {
+      "name": "time",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/2/"
+    },
+    "names": [
+      {
+        "name": "The current time is between 22:00 and 03:59",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "L'heure actuelle est entre 22:00 et 03:59",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "89": {
+    "id": 89,
+    "name": "item-tidal-bell",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Tidal Bell in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir le Glas Tempête dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "90": {
+    "id": 90,
+    "name": "item-clear-bell",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Clear Bell in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir le Glas Transparent dans le sac",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "91": {
+    "id": 91,
+    "name": "story-progress-defeated-groudon-or-kyogre",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Defeated or captured Groudon or Kyogre",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir battu ou capturé Groudon ou Kyogre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "92": {
+    "id": 92,
+    "name": "other-uxie-mesprit-azelf-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Uxie, Mesprit, and Azelf in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir Créhelf, Créfollet et Créfadet dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "93": {
+    "id": 93,
+    "name": "other-nicknamed-cold-item-regice-regirock-registeel3",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "After capturing the three regis in the game, have a nicknamed Regice holding a cold-based item, plus Regirock and Registeel in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Après avoir capturé les trois Régis du jeu, avoir un Regice surnommé portant un objet relatif à la glace, plus Regirock et Registeel dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "94": {
+    "id": 94,
+    "name": "other-dialga-or-palkia-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Dialga or Palkia in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir Dialga ou Palkia dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "95": {
+    "id": 95,
+    "name": "other-castform-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Castform in party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir Morphéo dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "96": {
+    "id": 96,
+    "name": "other-level-100-pokemon-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have a Level 100 Pokémon in party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir un Pokémon Niveau 100 dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "97": {
+    "id": 97,
+    "name": "other-tornadus-thundurus-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Tornadus and Thundurus in party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir Boréas et Fulguris dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "98": {
+    "id": 98,
+    "name": "other-reshiram-zekrom-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Reshiram and Zekrom in party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir Reshiram et Zekrom dans l'équipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "99": {
+    "id": 99,
+    "name": "other-captured-all-ultra-beasts",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Captured all Ultra Beasts",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir capturé toutes les Ultra-Chimères",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "100": {
+    "id": 100,
+    "name": "story-progress-finished-looker-sidequest",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Finished Looker’s Sidequest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Avoir fini la quête secondaire de Beladonis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  }
+}

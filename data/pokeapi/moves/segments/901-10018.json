@@ -1,0 +1,1670 @@
+{
+  "901": {
+    "id": 901,
+    "name": "blood-moon",
+    "names": {
+      "en": "blood-moon",
+      "pt": null
+    },
+    "type": {
+      "name": "normal"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 140,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur concentre toute son énergie dans la lune rouge sang sur son front et la projette sur la cible. Cette capacité ne peut pas être utilisée deux fois d'affilée.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "902": {
+    "id": 902,
+    "name": "matcha-gotcha",
+    "names": {
+      "en": "matcha-gotcha",
+      "pt": null
+    },
+    "type": {
+      "name": "grass"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur remue son thé et en bombarde la cible. La moitié des dégâts infligés sont convertis en PV pour le lanceur. Cette capacité peut aussi brûler la cible.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user fires a blast of tea that it mixed. The user's HP is restored by up to half the damage taken by the target. This may also leave the target with a burn.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "903": {
+    "id": 903,
+    "name": "syrup-bomb",
+    "names": {
+      "en": "syrup-bomb",
+      "pt": null
+    },
+    "type": {
+      "name": "grass"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 60,
+    "accuracy": 85,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur jette une bombe qui recouvre la cible de sirop gluant et fait progressivement baisser la Vitesse de la cible pendant trois tours.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "904": {
+    "id": 904,
+    "name": "ivy-cudgel",
+    "names": {
+      "en": "ivy-cudgel",
+      "pt": null
+    },
+    "type": {
+      "name": "grass"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur frappe avec un gourdin enveloppé de lierre. Le type de cette capacité change selon le masque porté par le lanceur, et a un taux de critiques élevé.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "905": {
+    "id": 905,
+    "name": "electro-shot",
+    "names": {
+      "en": "electro-shot",
+      "pt": null
+    },
+    "type": {
+      "name": "electric"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 130,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur absorbe de l'électricité au premier tour, ce qui augmente son Attaque Spéciale, et envoie une puissante décharge au second. S'il pleut, il l'envoie au premier tour.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "906": {
+    "id": 906,
+    "name": "tera-starstorm",
+    "names": {
+      "en": "tera-starstorm",
+      "pt": null
+    },
+    "type": {
+      "name": "normal"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur bombarde la cible afin de l'éliminer grâce au pouvoir des cristaux. Si le lanceur est Terapagos sous sa Forme Stellaire, la capacité touche tous les ennemis.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "907": {
+    "id": 907,
+    "name": "fickle-beam",
+    "names": {
+      "en": "fickle-beam",
+      "pt": null
+    },
+    "type": {
+      "name": "dragon"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur attaque en tirant un rayon lumineux. Il arrive parfois que toutes les têtes agissent ensemble, ce qui double la puissance de la capacité.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "908": {
+    "id": 908,
+    "name": "burning-bulwark",
+    "names": {
+      "en": "burning-bulwark",
+      "pt": null
+    },
+    "type": {
+      "name": "fire"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 0,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 4,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur se protège contre les attaques grâce à son pelage incandescent, et si un assaillant utilise une attaque directe contre lui, il le brûle.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "909": {
+    "id": 909,
+    "name": "thunderclap",
+    "names": {
+      "en": "thunderclap",
+      "pt": null
+    },
+    "type": {
+      "name": "electric"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 1,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Permet au lanceur d'attaquer la cible en priorité avec une décharge électrique. Échoue si la cible ne prépare pas une attaque.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "910": {
+    "id": 910,
+    "name": "mighty-cleave",
+    "names": {
+      "en": "mighty-cleave",
+      "pt": null
+    },
+    "type": {
+      "name": "rock"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 95,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur pourfend la cible avec la lumière accumulée sur sa tête. Cette attaque passe outre les protections.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "911": {
+    "id": 911,
+    "name": "tachyon-cutter",
+    "names": {
+      "en": "tachyon-cutter",
+      "pt": null
+    },
+    "type": {
+      "name": "steel"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 50,
+    "accuracy": 0,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur concentre des particules élémentaires pour créer une lame qui inflige des dégâts à la cible deux fois d'affilée. N'échoue jamais.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user attacks by launching particle blades at the target twice in a row. This attack never misses.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "912": {
+    "id": 912,
+    "name": "hard-press",
+    "names": {
+      "en": "hard-press",
+      "pt": null
+    },
+    "type": {
+      "name": "steel"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur écrase la cible avec ses bras ou ses pinces. Plus il reste de PV à la cible, plus la puissance de la capacité augmente.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The target is crushed with an arm, a claw, or the like to inflict damage. The more HP the target has left, the greater the move's power.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "913": {
+    "id": 913,
+    "name": "dragon-cheer",
+    "names": {
+      "en": "dragon-cheer",
+      "pt": null
+    },
+    "type": {
+      "name": "dragon"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 0,
+    "accuracy": 0,
+    "pp": 15,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur galvanise ses alliés avec un encouragement draconique qui augmente leur taux de critiques. L'effet est plus puissant si les alliés ont le type Dragon.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "914": {
+    "id": 914,
+    "name": "alluring-voice",
+    "names": {
+      "en": "alluring-voice",
+      "pt": null
+    },
+    "type": {
+      "name": "fairy"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur attaque la cible avec sa voix angélique. Cette capacité rend la cible confuse si ses stats ont augmenté pendant ce tour.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "915": {
+    "id": 915,
+    "name": "temper-flare",
+    "names": {
+      "en": "temper-flare",
+      "pt": null
+    },
+    "type": {
+      "name": "fire"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur utilise la force de son dépit pour attaquer. S'il a utilisé une capacité qui a échoué au tour précédent, la puissance d'Indignition est doublée.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "916": {
+    "id": 916,
+    "name": "supercell-slam",
+    "names": {
+      "en": "supercell-slam",
+      "pt": null
+    },
+    "type": {
+      "name": "electric"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 100,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur se charge en électricité et fond sur la cible. S'il échoue, le lanceur se blesse.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "917": {
+    "id": 917,
+    "name": "psychic-noise",
+    "names": {
+      "en": "psychic-noise",
+      "pt": null
+    },
+    "type": {
+      "name": "psychic"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur attaque avec des ondes sonores dissonantes. Cela empêche la cible de récupérer des PV à l'aide de capacités, talents ou objets tenus pendant 2 tours.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user attacks the target with unpleasant sound waves. For two turns, the target is prevented from recovering HP through moves, Abilities, or held items.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "918": {
+    "id": 918,
+    "name": "upper-hand",
+    "names": {
+      "en": "upper-hand",
+      "pt": null
+    },
+    "type": {
+      "name": "fighting"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 65,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 3,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur réagit instinctivement au moindre mouvement et donne un coup de paume qui apeure la cible. Échoue si cette dernière n'a pas utilisé une attaque prioritaire.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user reacts to the target's movement and strikes with the heel of its palm, making the target flinch. This move fails if the target is not readying a priority move.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "919": {
+    "id": 919,
+    "name": "malignant-chain",
+    "names": {
+      "en": "malignant-chain",
+      "pt": null
+    },
+    "type": {
+      "name": "poison"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-ix"
+    },
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [
+      {
+        "flavor_text": "Le lanceur ligote la cible avec une chaîne faite de poison et lui injecte un venin corrosif, ce qui peut aussi gravement l'empoisonner.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      },
+      {
+        "flavor_text": "The user pours toxins into the target by wrapping them in a toxic, corrosive chain. This may also leave the target badly poisoned.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        },
+        "version_group": {
+          "name": "scarlet-violet",
+          "url": "https://pokeapi.co/api/v2/version-group/25/"
+        }
+      }
+    ],
+    "effect_entries": []
+  },
+  "10001": {
+    "id": 10001,
+    "name": "shadow-rush",
+    "names": {
+      "en": "shadow-rush",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 55,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégâts réguliers.  Le taux de coups critiques du lanceur est un niveau plus haut en utilisant cette capacité en étant en Mode Hyper.",
+        "short_effect": "A une chance augmentée de coup critique en Mode Hyper.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  User’s critical hit rate is one level higher when using this move while in hyper mode.",
+        "short_effect": "Has an increased chance for a critical hit in Hyper Mode.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10002": {
+    "id": 10002,
+    "name": "shadow-blast",
+    "names": {
+      "en": "shadow-blast",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 80,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégâts réguliers.  Le taux de coups critiques du lanceur est un niveau supérieur en utilisant cette capacité.",
+        "short_effect": "A une chance augmentée de coup critique.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  User’s critical hit rate is one level higher when using this move.",
+        "short_effect": "Has an increased chance for a critical hit.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10003": {
+    "id": 10003,
+    "name": "shadow-blitz",
+    "names": {
+      "en": "shadow-blitz",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 40,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.",
+        "short_effect": "Inflige des dégâts réguliers avec aucun effet additionnel.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.",
+        "short_effect": "Inflicts regular damage with no additional effect.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10004": {
+    "id": 10004,
+    "name": "shadow-bolt",
+    "names": {
+      "en": "shadow-bolt",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.  A une chance de paralyser la cible.",
+        "short_effect": "A une chance de paralyser la cible.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  Has a chance to paralyze the target.",
+        "short_effect": "Has a chance to paralyze the target.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10005": {
+    "id": 10005,
+    "name": "shadow-break",
+    "names": {
+      "en": "shadow-break",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.",
+        "short_effect": "Inflige des dégâts réguliers avec aucun effet additionnel.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.",
+        "short_effect": "Inflicts regular damage with no additional effect.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10006": {
+    "id": 10006,
+    "name": "shadow-chill",
+    "names": {
+      "en": "shadow-chill",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.  A une chance de geler la cible.",
+        "short_effect": "A une chance de geler la cible.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  Has a chance to freeze the target.",
+        "short_effect": "Has a chance to freeze the target.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10007": {
+    "id": 10007,
+    "name": "shadow-end",
+    "names": {
+      "en": "shadow-end",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "physical"
+    },
+    "damageClass": "physical",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 120,
+    "accuracy": 60,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégâts réguliers.  Le lanceur subit 1/2 de ses PV actuels en contrecoup.",
+        "short_effect": "Le lanceur reçoit 1/2 de ses PV en contrecoup.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil.",
+        "short_effect": "User receives 1/2 its HP in recoil.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10008": {
+    "id": 10008,
+    "name": "shadow-fire",
+    "names": {
+      "en": "shadow-fire",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 75,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.  A une chance de brûler la cible.",
+        "short_effect": "A une chance de brûler la cible.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.  Has a chance to burn the target.",
+        "short_effect": "Has a chance to burn the target.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10009": {
+    "id": 10009,
+    "name": "shadow-rave",
+    "names": {
+      "en": "shadow-rave",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 70,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.",
+        "short_effect": "Inflige des dégâts réguliers avec aucun effet additionnel.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.",
+        "short_effect": "Inflicts regular damage with no additional effect.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10010": {
+    "id": 10010,
+    "name": "shadow-storm",
+    "names": {
+      "en": "shadow-storm",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 95,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.",
+        "short_effect": "Inflige des dégâts réguliers avec aucun effet additionnel.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.",
+        "short_effect": "Inflicts regular damage with no additional effect.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10011": {
+    "id": 10011,
+    "name": "shadow-wave",
+    "names": {
+      "en": "shadow-wave",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": 50,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Inflige des dégats réguliers.",
+        "short_effect": "Inflige des dégâts réguliers avec aucun effet additionnel.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Inflicts regular damage.",
+        "short_effect": "Inflicts regular damage with no additional effect.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10012": {
+    "id": 10012,
+    "name": "shadow-down",
+    "names": {
+      "en": "shadow-down",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Diminue la Défense de la cible de deux niveaux.",
+        "short_effect": "Diminue la Défense de la cible de deux niveaux.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Lowers the target’s Defense by two stages.",
+        "short_effect": "Lowers the target’s Defense by two stages.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10013": {
+    "id": 10013,
+    "name": "shadow-half",
+    "names": {
+      "en": "shadow-half",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "special"
+    },
+    "damageClass": "special",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Divise par deux les PV de tous les Pokémon sur le terrain.  Le lanceur perd son prochain tour pour \"se recharger\" et ne peut pas attaquer ou se retirer pendant ce tour.",
+        "short_effect": "Divise par deux les PV de tous les Pokémon sur le terrain.  Doit se recharger.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Halves HP of all Pokémon on the field.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.",
+        "short_effect": "Halves HP of all Pokémon on the field.  Must recharge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10014": {
+    "id": 10014,
+    "name": "shadow-hold",
+    "names": {
+      "en": "shadow-hold",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "La cible ne peut pas se retirer normalement.  Ignore les modifications de précision et d'esquive.\n\nCet effet prend fin quand le lanceur quitte le terrain.  La cible peut toujours s'échapper en utilisant Relais, Demi-Tour, ou un Carapace Mue.\n\nLe lanceur et la cible transmettent tous les deux cet effet avec Relais.",
+        "short_effect": "Empêche la cible de quitter le combat.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using Baton Pass, U-turn, or a Shed Shell.\n\nBoth the user and the target pass on this effect with Baton Pass.",
+        "short_effect": "Prevents the target from leaving battle.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10015": {
+    "id": 10015,
+    "name": "shadow-mist",
+    "names": {
+      "en": "shadow-mist",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": 100,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Diminue l'esquive de la cible de deux niveaux.",
+        "short_effect": "Diminue l'esquive de la cible de deux niveaux.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Lowers the target’s evasion by two stages.",
+        "short_effect": "Lowers the target’s evasion by two stages.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10016": {
+    "id": 10016,
+    "name": "shadow-panic",
+    "names": {
+      "en": "shadow-panic",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": 90,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Rend la cible confuse.",
+        "short_effect": "Rend la cible confuse.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Confuses the target.",
+        "short_effect": "Confuses the target.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10017": {
+    "id": 10017,
+    "name": "shadow-shed",
+    "names": {
+      "en": "shadow-shed",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Supprime les effets de Mur Lumière, Protection, et Rune Protect.",
+        "short_effect": "Supprime Mur Lumière, Protection, et Rune Protect.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Removes the effects of Light Screen, Reflect, and Safeguard.",
+        "short_effect": "Removes Light Screen, Reflect, and Safeguard.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "10018": {
+    "id": 10018,
+    "name": "shadow-sky",
+    "names": {
+      "en": "shadow-sky",
+      "pt": null
+    },
+    "type": {
+      "name": "shadow"
+    },
+    "damage_class": {
+      "name": "status"
+    },
+    "damageClass": "status",
+    "generation": {
+      "name": "generation-iii"
+    },
+    "power": null,
+    "accuracy": null,
+    "pp": null,
+    "priority": 0,
+    "effect": null,
+    "flavor_text_entries": [],
+    "effect_entries": [
+      {
+        "effect": "Change la météo en Ciel Noir pendant cinq tours.  Les autres Pokémon que les Pokémon Obscur prennent 1/16 de leurs PV max en dégâts à la fin de chaque tour.  Cette capacité est sans type aux fins de Ball’Météo.",
+        "short_effect": "Change la météo en Ciel Noir pendant cinq tours.",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "effect": "Changes the weather to Shadow Sky for five turns.  Pokémon other than Shadow Pokémon take 1/16 their max HP at the end of every turn.  This move is typeless for the purposes of Weather Ball.",
+        "short_effect": "Changes the weather to Shadow Sky for five turns.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  }
+}

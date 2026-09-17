@@ -1,0 +1,1502 @@
+{
+  "1152": {
+    "id": 1152,
+    "name": "large-leek",
+    "names": {
+      "en": "large-leek",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1153": {
+    "id": 1153,
+    "name": "fancy-apple",
+    "names": {
+      "en": "fancy-apple",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1154": {
+    "id": 1154,
+    "name": "brittle-bones",
+    "names": {
+      "en": "brittle-bones",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1155": {
+    "id": 1155,
+    "name": "pack-of-potatoes",
+    "names": {
+      "en": "pack-of-potatoes",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1156": {
+    "id": 1156,
+    "name": "pungent-root",
+    "names": {
+      "en": "pungent-root",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1157": {
+    "id": 1157,
+    "name": "salad-mix",
+    "names": {
+      "en": "salad-mix",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1158": {
+    "id": 1158,
+    "name": "fried-food",
+    "names": {
+      "en": "fried-food",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1159": {
+    "id": 1159,
+    "name": "boiled-egg",
+    "names": {
+      "en": "boiled-egg",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1160": {
+    "id": 1160,
+    "name": "camping-gear",
+    "names": {
+      "en": "camping-gear",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1161": {
+    "id": 1161,
+    "name": "rusted-sword",
+    "names": {
+      "en": "rusted-sword",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1162": {
+    "id": 1162,
+    "name": "rusted-shield",
+    "names": {
+      "en": "rusted-shield",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1163": {
+    "id": 1163,
+    "name": "fossilized-bird",
+    "names": {
+      "en": "fossilized-bird",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1164": {
+    "id": 1164,
+    "name": "fossilized-fish",
+    "names": {
+      "en": "fossilized-fish",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1165": {
+    "id": 1165,
+    "name": "fossilized-drake",
+    "names": {
+      "en": "fossilized-drake",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1166": {
+    "id": 1166,
+    "name": "fossilized-dino",
+    "names": {
+      "en": "fossilized-dino",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1167": {
+    "id": 1167,
+    "name": "strawberry-sweet",
+    "names": {
+      "en": "strawberry-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1168": {
+    "id": 1168,
+    "name": "love-sweet",
+    "names": {
+      "en": "love-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1169": {
+    "id": 1169,
+    "name": "berry-sweet",
+    "names": {
+      "en": "berry-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1170": {
+    "id": 1170,
+    "name": "clover-sweet",
+    "names": {
+      "en": "clover-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1171": {
+    "id": 1171,
+    "name": "flower-sweet",
+    "names": {
+      "en": "flower-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1172": {
+    "id": 1172,
+    "name": "star-sweet",
+    "names": {
+      "en": "star-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1173": {
+    "id": 1173,
+    "name": "ribbon-sweet",
+    "names": {
+      "en": "ribbon-sweet",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1174": {
+    "id": 1174,
+    "name": "sweet-apple",
+    "names": {
+      "en": "sweet-apple",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1175": {
+    "id": 1175,
+    "name": "tart-apple",
+    "names": {
+      "en": "tart-apple",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1176": {
+    "id": 1176,
+    "name": "throat-spray",
+    "names": {
+      "en": "throat-spray",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1177": {
+    "id": 1177,
+    "name": "eject-pack",
+    "names": {
+      "en": "eject-pack",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1178": {
+    "id": 1178,
+    "name": "heavy-duty-boots",
+    "names": {
+      "en": "heavy-duty-boots",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1179": {
+    "id": 1179,
+    "name": "blunder-policy",
+    "names": {
+      "en": "blunder-policy",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1180": {
+    "id": 1180,
+    "name": "room-service",
+    "names": {
+      "en": "room-service",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1181": {
+    "id": 1181,
+    "name": "utility-umbrella",
+    "names": {
+      "en": "utility-umbrella",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1182": {
+    "id": 1182,
+    "name": "exp-candy-xs",
+    "names": {
+      "en": "exp-candy-xs",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1183": {
+    "id": 1183,
+    "name": "exp-candy-s",
+    "names": {
+      "en": "exp-candy-s",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1184": {
+    "id": 1184,
+    "name": "exp-candy-m",
+    "names": {
+      "en": "exp-candy-m",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1185": {
+    "id": 1185,
+    "name": "exp-candy-l",
+    "names": {
+      "en": "exp-candy-l",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1186": {
+    "id": 1186,
+    "name": "exp-candy-xl",
+    "names": {
+      "en": "exp-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1187": {
+    "id": 1187,
+    "name": "dynamax-candy",
+    "names": {
+      "en": "dynamax-candy",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1188": {
+    "id": 1188,
+    "name": "tr00",
+    "names": {
+      "en": "tr00",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1189": {
+    "id": 1189,
+    "name": "tr01",
+    "names": {
+      "en": "tr01",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1190": {
+    "id": 1190,
+    "name": "tr02",
+    "names": {
+      "en": "tr02",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1191": {
+    "id": 1191,
+    "name": "tr03",
+    "names": {
+      "en": "tr03",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1192": {
+    "id": 1192,
+    "name": "tr04",
+    "names": {
+      "en": "tr04",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1193": {
+    "id": 1193,
+    "name": "tr05",
+    "names": {
+      "en": "tr05",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1194": {
+    "id": 1194,
+    "name": "tr06",
+    "names": {
+      "en": "tr06",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1195": {
+    "id": 1195,
+    "name": "tr07",
+    "names": {
+      "en": "tr07",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1196": {
+    "id": 1196,
+    "name": "tr08",
+    "names": {
+      "en": "tr08",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1197": {
+    "id": 1197,
+    "name": "tr09",
+    "names": {
+      "en": "tr09",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1198": {
+    "id": 1198,
+    "name": "tr10",
+    "names": {
+      "en": "tr10",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1199": {
+    "id": 1199,
+    "name": "tr11",
+    "names": {
+      "en": "tr11",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1200": {
+    "id": 1200,
+    "name": "tr12",
+    "names": {
+      "en": "tr12",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1201": {
+    "id": 1201,
+    "name": "tr13",
+    "names": {
+      "en": "tr13",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1202": {
+    "id": 1202,
+    "name": "tr14",
+    "names": {
+      "en": "tr14",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1203": {
+    "id": 1203,
+    "name": "tr15",
+    "names": {
+      "en": "tr15",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1204": {
+    "id": 1204,
+    "name": "tr16",
+    "names": {
+      "en": "tr16",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1205": {
+    "id": 1205,
+    "name": "tr17",
+    "names": {
+      "en": "tr17",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1206": {
+    "id": 1206,
+    "name": "tr18",
+    "names": {
+      "en": "tr18",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1207": {
+    "id": 1207,
+    "name": "tr19",
+    "names": {
+      "en": "tr19",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1208": {
+    "id": 1208,
+    "name": "tr20",
+    "names": {
+      "en": "tr20",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1209": {
+    "id": 1209,
+    "name": "tr21",
+    "names": {
+      "en": "tr21",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1210": {
+    "id": 1210,
+    "name": "tr22",
+    "names": {
+      "en": "tr22",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1211": {
+    "id": 1211,
+    "name": "tr23",
+    "names": {
+      "en": "tr23",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1212": {
+    "id": 1212,
+    "name": "tr24",
+    "names": {
+      "en": "tr24",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1213": {
+    "id": 1213,
+    "name": "tr25",
+    "names": {
+      "en": "tr25",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1214": {
+    "id": 1214,
+    "name": "tr26",
+    "names": {
+      "en": "tr26",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1215": {
+    "id": 1215,
+    "name": "tr27",
+    "names": {
+      "en": "tr27",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1216": {
+    "id": 1216,
+    "name": "tr28",
+    "names": {
+      "en": "tr28",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1217": {
+    "id": 1217,
+    "name": "tr29",
+    "names": {
+      "en": "tr29",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1218": {
+    "id": 1218,
+    "name": "tr30",
+    "names": {
+      "en": "tr30",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1219": {
+    "id": 1219,
+    "name": "tr31",
+    "names": {
+      "en": "tr31",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1220": {
+    "id": 1220,
+    "name": "tr32",
+    "names": {
+      "en": "tr32",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1221": {
+    "id": 1221,
+    "name": "tr33",
+    "names": {
+      "en": "tr33",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1222": {
+    "id": 1222,
+    "name": "tr34",
+    "names": {
+      "en": "tr34",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1223": {
+    "id": 1223,
+    "name": "tr35",
+    "names": {
+      "en": "tr35",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1224": {
+    "id": 1224,
+    "name": "tr36",
+    "names": {
+      "en": "tr36",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1225": {
+    "id": 1225,
+    "name": "tr37",
+    "names": {
+      "en": "tr37",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1226": {
+    "id": 1226,
+    "name": "tr38",
+    "names": {
+      "en": "tr38",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1227": {
+    "id": 1227,
+    "name": "tr39",
+    "names": {
+      "en": "tr39",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1228": {
+    "id": 1228,
+    "name": "tr40",
+    "names": {
+      "en": "tr40",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1229": {
+    "id": 1229,
+    "name": "tr41",
+    "names": {
+      "en": "tr41",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1230": {
+    "id": 1230,
+    "name": "tr42",
+    "names": {
+      "en": "tr42",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1231": {
+    "id": 1231,
+    "name": "tr43",
+    "names": {
+      "en": "tr43",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1232": {
+    "id": 1232,
+    "name": "tr44",
+    "names": {
+      "en": "tr44",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1233": {
+    "id": 1233,
+    "name": "tr45",
+    "names": {
+      "en": "tr45",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1234": {
+    "id": 1234,
+    "name": "tr46",
+    "names": {
+      "en": "tr46",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1235": {
+    "id": 1235,
+    "name": "tr47",
+    "names": {
+      "en": "tr47",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1236": {
+    "id": 1236,
+    "name": "tr48",
+    "names": {
+      "en": "tr48",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1237": {
+    "id": 1237,
+    "name": "tr49",
+    "names": {
+      "en": "tr49",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1238": {
+    "id": 1238,
+    "name": "tr50",
+    "names": {
+      "en": "tr50",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1239": {
+    "id": 1239,
+    "name": "tr51",
+    "names": {
+      "en": "tr51",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1240": {
+    "id": 1240,
+    "name": "tr52",
+    "names": {
+      "en": "tr52",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1241": {
+    "id": 1241,
+    "name": "tr53",
+    "names": {
+      "en": "tr53",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1242": {
+    "id": 1242,
+    "name": "tr54",
+    "names": {
+      "en": "tr54",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1243": {
+    "id": 1243,
+    "name": "tr55",
+    "names": {
+      "en": "tr55",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1244": {
+    "id": 1244,
+    "name": "tr56",
+    "names": {
+      "en": "tr56",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1245": {
+    "id": 1245,
+    "name": "tr57",
+    "names": {
+      "en": "tr57",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1246": {
+    "id": 1246,
+    "name": "tr58",
+    "names": {
+      "en": "tr58",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1247": {
+    "id": 1247,
+    "name": "tr59",
+    "names": {
+      "en": "tr59",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1248": {
+    "id": 1248,
+    "name": "tr60",
+    "names": {
+      "en": "tr60",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1249": {
+    "id": 1249,
+    "name": "tr61",
+    "names": {
+      "en": "tr61",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1250": {
+    "id": 1250,
+    "name": "tr62",
+    "names": {
+      "en": "tr62",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1251": {
+    "id": 1251,
+    "name": "tr63",
+    "names": {
+      "en": "tr63",
+      "pt": null
+    },
+    "category": "all-machines",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

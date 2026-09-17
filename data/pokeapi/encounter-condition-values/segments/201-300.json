@@ -1,0 +1,1702 @@
+{
+  "201": {
+    "id": 201,
+    "name": "trade-hippowdon",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Hippowdon in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "202": {
+    "id": 202,
+    "name": "backlot-not-mentioned",
+    "condition": {
+      "name": "backlot",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/21/"
+    },
+    "names": [
+      {
+        "name": "Mr. Backlot hasn't mentioned any Pokemon",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "203": {
+    "id": 203,
+    "name": "backlot-mentioned",
+    "condition": {
+      "name": "backlot",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/21/"
+    },
+    "names": [
+      {
+        "name": "Mr. Backlot has mentioned seeing this Pokemon in the garden",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "204": {
+    "id": 204,
+    "name": "bug-catching-contest-no",
+    "condition": {
+      "name": "bug-catching-contest",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/22/"
+    },
+    "names": [
+      {
+        "name": "Not during the Bug-Catching Contest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "205": {
+    "id": 205,
+    "name": "bug-catching-contest-yes",
+    "condition": {
+      "name": "bug-catching-contest",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/22/"
+    },
+    "names": [
+      {
+        "name": "During the Bug-Catching Contest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "206": {
+    "id": 206,
+    "name": "save-data-from-lets-go-pikachu",
+    "condition": {
+      "name": "save-data",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/23/"
+    },
+    "names": [
+      {
+        "name": "Have save data from Let's Go Pikachu",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "207": {
+    "id": 207,
+    "name": "save-data-from-lets-go-eevee",
+    "condition": {
+      "name": "save-data",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/23/"
+    },
+    "names": [
+      {
+        "name": "Have save data from Let's Go Eevee",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "208": {
+    "id": 208,
+    "name": "item-fossilized-bird",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Fossilized Bird in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "209": {
+    "id": 209,
+    "name": "item-fossilized-drake",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Fossilized Drake in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "210": {
+    "id": 210,
+    "name": "item-fossilized-dino",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Fossilized Dino in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "211": {
+    "id": 211,
+    "name": "item-fossilized-fish",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Fossilized Fish in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "212": {
+    "id": 212,
+    "name": "story-progress-master-dojo-complete-first-trial",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Complete the Master Dojo's first trial",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "213": {
+    "id": 213,
+    "name": "story-progress-master-dojo-complete-third-trial",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Complete all three Master Dojo trials",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "214": {
+    "id": 214,
+    "name": "alolan-diglett-found-5",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 5 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "215": {
+    "id": 215,
+    "name": "alolan-diglett-found-10",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 10 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "216": {
+    "id": 216,
+    "name": "alolan-diglett-found-20",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 20 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "217": {
+    "id": 217,
+    "name": "alolan-diglett-found-30",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 30 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "218": {
+    "id": 218,
+    "name": "alolan-diglett-found-40",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 40 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "219": {
+    "id": 219,
+    "name": "alolan-diglett-found-50",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 50 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "220": {
+    "id": 220,
+    "name": "alolan-diglett-found-75",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 75 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "221": {
+    "id": 221,
+    "name": "alolan-diglett-found-100",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 100 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "222": {
+    "id": 222,
+    "name": "alolan-diglett-found-150",
+    "condition": {
+      "name": "alolan-diglett-found",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/24/"
+    },
+    "names": [
+      {
+        "name": "Find 150 Alolan Diglett in Isle of Armor",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "223": {
+    "id": 223,
+    "name": "starter-grookey",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Grookey as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "224": {
+    "id": 224,
+    "name": "starter-scorbunny",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Scorbunny as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "225": {
+    "id": 225,
+    "name": "starter-sobble",
+    "condition": {
+      "name": "starter",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/7/"
+    },
+    "names": [
+      {
+        "name": "Sobble as starter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "226": {
+    "id": 226,
+    "name": "story-progress-save-village-from-glastrier-spectrier",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Save Freezington from the onslaught from Glastrier or Spectrier",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "227": {
+    "id": 227,
+    "name": "story-progress-catch-five-ultra-beasts",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Catch 5 Ultra Beasts in Dynamax Adventures",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "228": {
+    "id": 228,
+    "name": "trade-bunnelby",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Bunnelby in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "229": {
+    "id": 229,
+    "name": "trade-meowth-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Meowth in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "230": {
+    "id": 230,
+    "name": "trade-minccino",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Minccino in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "231": {
+    "id": 231,
+    "name": "trade-toxel",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Toxel in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "232": {
+    "id": 232,
+    "name": "trade-maractus",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Maractus in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "233": {
+    "id": 233,
+    "name": "trade-yamask-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Yamask in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "234": {
+    "id": 234,
+    "name": "trade-vanillish",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Vanillish in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "235": {
+    "id": 235,
+    "name": "trade-obstagoon",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Obstagoon in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "236": {
+    "id": 236,
+    "name": "trade-frosmoth",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Frosmoth in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "237": {
+    "id": 237,
+    "name": "trade-farfetchd-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Farfetch'd in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "238": {
+    "id": 238,
+    "name": "trade-corsola-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Corsola in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "239": {
+    "id": 239,
+    "name": "trade-ponyta-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Ponyta in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "240": {
+    "id": 240,
+    "name": "trade-mr-mime-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Mr. Mime in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "241": {
+    "id": 241,
+    "name": "trade-darumaka-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Darumaka in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "242": {
+    "id": 242,
+    "name": "trade-zigzagoon-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Zigzagoon in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "243": {
+    "id": 243,
+    "name": "trade-stunfisk-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Stunfisk in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "244": {
+    "id": 244,
+    "name": "trade-weezing-galar",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Galarian Weezing in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "245": {
+    "id": 245,
+    "name": "trade-exeggutor",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Exeggutor in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "246": {
+    "id": 246,
+    "name": "trade-marowak",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Marowak in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "247": {
+    "id": 247,
+    "name": "weather-normal",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During normal weather",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "248": {
+    "id": 248,
+    "name": "weather-overcast",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During overcast weather",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "249": {
+    "id": 249,
+    "name": "weather-raining",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During rainy weather",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "250": {
+    "id": 250,
+    "name": "weather-thunderstorm",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During a thunderstorm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "251": {
+    "id": 251,
+    "name": "weather-snowing",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During snowy weather",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "252": {
+    "id": 252,
+    "name": "weather-snowstorm",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During a snowstorm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "253": {
+    "id": 253,
+    "name": "weather-sandstorm",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During a sandstorm",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "254": {
+    "id": 254,
+    "name": "weather-intense-sun",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During intense sun",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "255": {
+    "id": 255,
+    "name": "weather-fog",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "During foggy weather",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "256": {
+    "id": 256,
+    "name": "story-progress-before-hall-of-fame",
+    "condition": {
+      "name": "story-progress",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/9/"
+    },
+    "names": [
+      {
+        "name": "Before entering the Hall of Fame",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "257": {
+    "id": 257,
+    "name": "johto-safari-blocks-inactive",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "Not replaced by block-based encounter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "258": {
+    "id": 258,
+    "name": "johto-safari-blocks-plains-min-2",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 2 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "259": {
+    "id": 259,
+    "name": "johto-safari-blocks-plains-min-3",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 3 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "260": {
+    "id": 260,
+    "name": "johto-safari-blocks-plains-min-4",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 4 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "261": {
+    "id": 261,
+    "name": "johto-safari-blocks-plains-min-5",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 5 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "262": {
+    "id": 262,
+    "name": "johto-safari-blocks-plains-min-6",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 6 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "263": {
+    "id": 263,
+    "name": "johto-safari-blocks-plains-min-10",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 10 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "264": {
+    "id": 264,
+    "name": "johto-safari-blocks-plains-min-12",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 12 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "265": {
+    "id": 265,
+    "name": "johto-safari-blocks-plains-min-14",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 14 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "266": {
+    "id": 266,
+    "name": "johto-safari-blocks-plains-min-15",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 15 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "267": {
+    "id": 267,
+    "name": "johto-safari-blocks-plains-min-24",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 24 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "268": {
+    "id": 268,
+    "name": "johto-safari-blocks-plains-min-28",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 28 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "269": {
+    "id": 269,
+    "name": "johto-safari-blocks-plains-min-35",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 35 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "270": {
+    "id": 270,
+    "name": "johto-safari-blocks-plains-min-49",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 49 Plains block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "271": {
+    "id": 271,
+    "name": "johto-safari-blocks-forest-min-3",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 3 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "272": {
+    "id": 272,
+    "name": "johto-safari-blocks-forest-min-4",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 4 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "273": {
+    "id": 273,
+    "name": "johto-safari-blocks-forest-min-5",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 5 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "274": {
+    "id": 274,
+    "name": "johto-safari-blocks-forest-min-8",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 8 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "name": "johto-safari-blocks-forest-min-10",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 10 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "276": {
+    "id": 276,
+    "name": "johto-safari-blocks-forest-min-14",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 14 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "277": {
+    "id": 277,
+    "name": "johto-safari-blocks-forest-min-15",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 15 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "278": {
+    "id": 278,
+    "name": "johto-safari-blocks-forest-min-18",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 18 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "279": {
+    "id": 279,
+    "name": "johto-safari-blocks-forest-min-20",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 20 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "280": {
+    "id": 280,
+    "name": "johto-safari-blocks-forest-min-28",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 28 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "281": {
+    "id": 281,
+    "name": "johto-safari-blocks-forest-min-35",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 35 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "282": {
+    "id": 282,
+    "name": "johto-safari-blocks-forest-min-42",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 42 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "283": {
+    "id": 283,
+    "name": "johto-safari-blocks-forest-min-49",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 49 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "284": {
+    "id": 284,
+    "name": "johto-safari-blocks-forest-min-56",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 56 Forest block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "285": {
+    "id": 285,
+    "name": "johto-safari-blocks-peak-min-3",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 3 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "286": {
+    "id": 286,
+    "name": "johto-safari-blocks-peak-min-4",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 4 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "287": {
+    "id": 287,
+    "name": "johto-safari-blocks-peak-min-5",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 5 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "288": {
+    "id": 288,
+    "name": "johto-safari-blocks-peak-min-6",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 6 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "289": {
+    "id": 289,
+    "name": "johto-safari-blocks-peak-min-8",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 8 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "290": {
+    "id": 290,
+    "name": "johto-safari-blocks-peak-min-10",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 10 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "291": {
+    "id": 291,
+    "name": "johto-safari-blocks-peak-min-15",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 15 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "292": {
+    "id": 292,
+    "name": "johto-safari-blocks-peak-min-21",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 21 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "293": {
+    "id": 293,
+    "name": "johto-safari-blocks-peak-min-24",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 24 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "294": {
+    "id": 294,
+    "name": "johto-safari-blocks-peak-min-28",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 28 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "295": {
+    "id": 295,
+    "name": "johto-safari-blocks-peak-min-35",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 35 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "296": {
+    "id": 296,
+    "name": "johto-safari-blocks-peak-min-42",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 42 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "297": {
+    "id": 297,
+    "name": "johto-safari-blocks-peak-min-49",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 49 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "298": {
+    "id": 298,
+    "name": "johto-safari-blocks-peak-min-56",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 56 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "299": {
+    "id": 299,
+    "name": "johto-safari-blocks-peak-min-63",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 63 Peak block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "300": {
+    "id": 300,
+    "name": "johto-safari-blocks-water-min-2",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 2 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  }
+}

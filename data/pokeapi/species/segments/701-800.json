@@ -1,0 +1,2102 @@
+{
+  "701": {
+    "id": 701,
+    "name": "hawlucha",
+    "names": {
+      "en": "hawlucha",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "702": {
+    "id": 702,
+    "name": "dedenne",
+    "names": {
+      "en": "dedenne",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "yellow"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "703": {
+    "id": 703,
+    "name": "carbink",
+    "names": {
+      "en": "carbink",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "704": {
+    "id": 704,
+    "name": "goomy",
+    "names": {
+      "en": "goomy",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "705": {
+    "id": 705,
+    "name": "sliggoo",
+    "names": {
+      "en": "sliggoo",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "706": {
+    "id": 706,
+    "name": "goodra",
+    "names": {
+      "en": "goodra",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "707": {
+    "id": 707,
+    "name": "klefki",
+    "names": {
+      "en": "klefki",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "708": {
+    "id": 708,
+    "name": "phantump",
+    "names": {
+      "en": "phantump",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "709": {
+    "id": 709,
+    "name": "trevenant",
+    "names": {
+      "en": "trevenant",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "710": {
+    "id": 710,
+    "name": "pumpkaboo",
+    "names": {
+      "en": "pumpkaboo",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "711": {
+    "id": 711,
+    "name": "gourgeist",
+    "names": {
+      "en": "gourgeist",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "712": {
+    "id": 712,
+    "name": "bergmite",
+    "names": {
+      "en": "bergmite",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "713": {
+    "id": 713,
+    "name": "avalugg",
+    "names": {
+      "en": "avalugg",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "714": {
+    "id": 714,
+    "name": "noibat",
+    "names": {
+      "en": "noibat",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "715": {
+    "id": 715,
+    "name": "noivern",
+    "names": {
+      "en": "noivern",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "716": {
+    "id": 716,
+    "name": "xerneas",
+    "names": {
+      "en": "xerneas",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "717": {
+    "id": 717,
+    "name": "yveltal",
+    "names": {
+      "en": "yveltal",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "718": {
+    "id": 718,
+    "name": "zygarde",
+    "names": {
+      "en": "zygarde",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "719": {
+    "id": 719,
+    "name": "diancie",
+    "names": {
+      "en": "diancie",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": true,
+    "is_mythical": true,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "720": {
+    "id": 720,
+    "name": "hoopa",
+    "names": {
+      "en": "hoopa",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": true,
+    "is_mythical": true,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "721": {
+    "id": 721,
+    "name": "volcanion",
+    "names": {
+      "en": "volcanion",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vi",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": true,
+    "is_mythical": true,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "722": {
+    "id": 722,
+    "name": "rowlet",
+    "names": {
+      "en": "rowlet",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "723": {
+    "id": 723,
+    "name": "dartrix",
+    "names": {
+      "en": "dartrix",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "724": {
+    "id": 724,
+    "name": "decidueye",
+    "names": {
+      "en": "decidueye",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "725": {
+    "id": 725,
+    "name": "litten",
+    "names": {
+      "en": "litten",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "726": {
+    "id": 726,
+    "name": "torracat",
+    "names": {
+      "en": "torracat",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "727": {
+    "id": 727,
+    "name": "incineroar",
+    "names": {
+      "en": "incineroar",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "728": {
+    "id": 728,
+    "name": "popplio",
+    "names": {
+      "en": "popplio",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "729": {
+    "id": 729,
+    "name": "brionne",
+    "names": {
+      "en": "brionne",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "730": {
+    "id": 730,
+    "name": "primarina",
+    "names": {
+      "en": "primarina",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "731": {
+    "id": 731,
+    "name": "pikipek",
+    "names": {
+      "en": "pikipek",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "732": {
+    "id": 732,
+    "name": "trumbeak",
+    "names": {
+      "en": "trumbeak",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "733": {
+    "id": 733,
+    "name": "toucannon",
+    "names": {
+      "en": "toucannon",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "734": {
+    "id": 734,
+    "name": "yungoos",
+    "names": {
+      "en": "yungoos",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "735": {
+    "id": 735,
+    "name": "gumshoos",
+    "names": {
+      "en": "gumshoos",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "736": {
+    "id": 736,
+    "name": "grubbin",
+    "names": {
+      "en": "grubbin",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "737": {
+    "id": 737,
+    "name": "charjabug",
+    "names": {
+      "en": "charjabug",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "738": {
+    "id": 738,
+    "name": "vikavolt",
+    "names": {
+      "en": "vikavolt",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "739": {
+    "id": 739,
+    "name": "crabrawler",
+    "names": {
+      "en": "crabrawler",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "740": {
+    "id": 740,
+    "name": "crabominable",
+    "names": {
+      "en": "crabominable",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "741": {
+    "id": 741,
+    "name": "oricorio",
+    "names": {
+      "en": "oricorio",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "742": {
+    "id": 742,
+    "name": "cutiefly",
+    "names": {
+      "en": "cutiefly",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "yellow"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "743": {
+    "id": 743,
+    "name": "ribombee",
+    "names": {
+      "en": "ribombee",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "yellow"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "744": {
+    "id": 744,
+    "name": "rockruff",
+    "names": {
+      "en": "rockruff",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "745": {
+    "id": 745,
+    "name": "lycanroc",
+    "names": {
+      "en": "lycanroc",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "746": {
+    "id": 746,
+    "name": "wishiwashi",
+    "names": {
+      "en": "wishiwashi",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "747": {
+    "id": 747,
+    "name": "mareanie",
+    "names": {
+      "en": "mareanie",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "748": {
+    "id": 748,
+    "name": "toxapex",
+    "names": {
+      "en": "toxapex",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "749": {
+    "id": 749,
+    "name": "mudbray",
+    "names": {
+      "en": "mudbray",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "750": {
+    "id": 750,
+    "name": "mudsdale",
+    "names": {
+      "en": "mudsdale",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "751": {
+    "id": 751,
+    "name": "dewpider",
+    "names": {
+      "en": "dewpider",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "752": {
+    "id": 752,
+    "name": "araquanid",
+    "names": {
+      "en": "araquanid",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "753": {
+    "id": 753,
+    "name": "fomantis",
+    "names": {
+      "en": "fomantis",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "754": {
+    "id": 754,
+    "name": "lurantis",
+    "names": {
+      "en": "lurantis",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "755": {
+    "id": 755,
+    "name": "morelull",
+    "names": {
+      "en": "morelull",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "756": {
+    "id": 756,
+    "name": "shiinotic",
+    "names": {
+      "en": "shiinotic",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "757": {
+    "id": 757,
+    "name": "salandit",
+    "names": {
+      "en": "salandit",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "758": {
+    "id": 758,
+    "name": "salazzle",
+    "names": {
+      "en": "salazzle",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "759": {
+    "id": 759,
+    "name": "stufful",
+    "names": {
+      "en": "stufful",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "760": {
+    "id": 760,
+    "name": "bewear",
+    "names": {
+      "en": "bewear",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "761": {
+    "id": 761,
+    "name": "bounsweet",
+    "names": {
+      "en": "bounsweet",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "762": {
+    "id": 762,
+    "name": "steenee",
+    "names": {
+      "en": "steenee",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "763": {
+    "id": 763,
+    "name": "tsareena",
+    "names": {
+      "en": "tsareena",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "764": {
+    "id": 764,
+    "name": "comfey",
+    "names": {
+      "en": "comfey",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "765": {
+    "id": 765,
+    "name": "oranguru",
+    "names": {
+      "en": "oranguru",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "766": {
+    "id": 766,
+    "name": "passimian",
+    "names": {
+      "en": "passimian",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "767": {
+    "id": 767,
+    "name": "wimpod",
+    "names": {
+      "en": "wimpod",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "768": {
+    "id": 768,
+    "name": "golisopod",
+    "names": {
+      "en": "golisopod",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "769": {
+    "id": 769,
+    "name": "sandygast",
+    "names": {
+      "en": "sandygast",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "770": {
+    "id": 770,
+    "name": "palossand",
+    "names": {
+      "en": "palossand",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "771": {
+    "id": 771,
+    "name": "pyukumuku",
+    "names": {
+      "en": "pyukumuku",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "772": {
+    "id": 772,
+    "name": "type-null",
+    "names": {
+      "en": "type-null",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "773": {
+    "id": 773,
+    "name": "silvally",
+    "names": {
+      "en": "silvally",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "774": {
+    "id": 774,
+    "name": "minior",
+    "names": {
+      "en": "minior",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "brown"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "775": {
+    "id": 775,
+    "name": "komala",
+    "names": {
+      "en": "komala",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "776": {
+    "id": 776,
+    "name": "turtonator",
+    "names": {
+      "en": "turtonator",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "777": {
+    "id": 777,
+    "name": "togedemaru",
+    "names": {
+      "en": "togedemaru",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "778": {
+    "id": 778,
+    "name": "mimikyu",
+    "names": {
+      "en": "mimikyu",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "yellow"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "779": {
+    "id": 779,
+    "name": "bruxish",
+    "names": {
+      "en": "bruxish",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "780": {
+    "id": 780,
+    "name": "drampa",
+    "names": {
+      "en": "drampa",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "781": {
+    "id": 781,
+    "name": "dhelmise",
+    "names": {
+      "en": "dhelmise",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "782": {
+    "id": 782,
+    "name": "jangmo-o",
+    "names": {
+      "en": "jangmo-o",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "783": {
+    "id": 783,
+    "name": "hakamo-o",
+    "names": {
+      "en": "hakamo-o",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "784": {
+    "id": 784,
+    "name": "kommo-o",
+    "names": {
+      "en": "kommo-o",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "gray"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "785": {
+    "id": 785,
+    "name": "tapu-koko",
+    "names": {
+      "en": "tapu-koko",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "yellow"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "786": {
+    "id": 786,
+    "name": "tapu-lele",
+    "names": {
+      "en": "tapu-lele",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "pink"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "787": {
+    "id": 787,
+    "name": "tapu-bulu",
+    "names": {
+      "en": "tapu-bulu",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "788": {
+    "id": 788,
+    "name": "tapu-fini",
+    "names": {
+      "en": "tapu-fini",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "789": {
+    "id": 789,
+    "name": "cosmog",
+    "names": {
+      "en": "cosmog",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "790": {
+    "id": 790,
+    "name": "cosmoem",
+    "names": {
+      "en": "cosmoem",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "blue"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "791": {
+    "id": 791,
+    "name": "solgaleo",
+    "names": {
+      "en": "solgaleo",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "792": {
+    "id": 792,
+    "name": "lunala",
+    "names": {
+      "en": "lunala",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "purple"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "793": {
+    "id": 793,
+    "name": "nihilego",
+    "names": {
+      "en": "nihilego",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "794": {
+    "id": 794,
+    "name": "buzzwole",
+    "names": {
+      "en": "buzzwole",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "red"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "795": {
+    "id": 795,
+    "name": "pheromosa",
+    "names": {
+      "en": "pheromosa",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "796": {
+    "id": 796,
+    "name": "xurkitree",
+    "names": {
+      "en": "xurkitree",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "797": {
+    "id": 797,
+    "name": "celesteela",
+    "names": {
+      "en": "celesteela",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "green"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "798": {
+    "id": 798,
+    "name": "kartana",
+    "names": {
+      "en": "kartana",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "white"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "799": {
+    "id": 799,
+    "name": "guzzlord",
+    "names": {
+      "en": "guzzlord",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": false,
+    "is_legendary": false,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  },
+  "800": {
+    "id": 800,
+    "name": "necrozma",
+    "names": {
+      "en": "necrozma",
+      "pt": null
+    },
+    "genus": null,
+    "generation": "generation-vii",
+    "isLegendary": true,
+    "is_legendary": true,
+    "isMythical": false,
+    "is_mythical": false,
+    "isBaby": false,
+    "is_baby": false,
+    "color": {
+      "name": "black"
+    },
+    "habitat": null,
+    "flavorText": null
+  }
+}

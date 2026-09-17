@@ -2,7 +2,7 @@ import { typeEntity, recordLabel } from './history.js';
 import { filterLabels, normalizeFilters } from './filters.js';
 
 const WIDTH=1080,HEIGHT=1350;
-const pokemonImage=id=>`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${id}.png`;
+const pokemonImage=id=>new URL(`../data/pokeapi/assets/pokemon/${id}.png`, import.meta.url).href;
 function compactEntity(item){return{k:item.kind,n:item.name,i:item.id||0,t:item.type?.name||''}}
 function encode(value){return btoa(unescape(encodeURIComponent(JSON.stringify(value)))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'')}
 function decode(value){return JSON.parse(decodeURIComponent(escape(atob(value.replace(/-/g,'+').replace(/_/g,'/')+'='.repeat((4-value.length%4)%4)))))}

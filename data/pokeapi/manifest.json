@@ -1,0 +1,729 @@
+{
+  "schema": 1,
+  "source": "https://pokeapi.co/api/v2",
+  "syncedAt": "2026-09-17T14:51:57.625Z",
+  "resources": {
+    "pokemon": {
+      "count": 1351,
+      "index": "data/pokeapi/pokemon/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/pokemon/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/pokemon/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/pokemon/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 400,
+          "file": "data/pokeapi/pokemon/segments/301-400.json"
+        },
+        {
+          "from": 401,
+          "to": 500,
+          "file": "data/pokeapi/pokemon/segments/401-500.json"
+        },
+        {
+          "from": 501,
+          "to": 600,
+          "file": "data/pokeapi/pokemon/segments/501-600.json"
+        },
+        {
+          "from": 601,
+          "to": 700,
+          "file": "data/pokeapi/pokemon/segments/601-700.json"
+        },
+        {
+          "from": 701,
+          "to": 800,
+          "file": "data/pokeapi/pokemon/segments/701-800.json"
+        },
+        {
+          "from": 801,
+          "to": 900,
+          "file": "data/pokeapi/pokemon/segments/801-900.json"
+        },
+        {
+          "from": 901,
+          "to": 1000,
+          "file": "data/pokeapi/pokemon/segments/901-1000.json"
+        },
+        {
+          "from": 1001,
+          "to": 10075,
+          "file": "data/pokeapi/pokemon/segments/1001-10075.json"
+        },
+        {
+          "from": 10076,
+          "to": 10175,
+          "file": "data/pokeapi/pokemon/segments/10076-10175.json"
+        },
+        {
+          "from": 10176,
+          "to": 10275,
+          "file": "data/pokeapi/pokemon/segments/10176-10275.json"
+        },
+        {
+          "from": 10276,
+          "to": 10326,
+          "file": "data/pokeapi/pokemon/segments/10276-10326.json"
+        }
+      ]
+    },
+    "species": {
+      "count": 1025,
+      "index": "data/pokeapi/species/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/species/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/species/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/species/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 400,
+          "file": "data/pokeapi/species/segments/301-400.json"
+        },
+        {
+          "from": 401,
+          "to": 500,
+          "file": "data/pokeapi/species/segments/401-500.json"
+        },
+        {
+          "from": 501,
+          "to": 600,
+          "file": "data/pokeapi/species/segments/501-600.json"
+        },
+        {
+          "from": 601,
+          "to": 700,
+          "file": "data/pokeapi/species/segments/601-700.json"
+        },
+        {
+          "from": 701,
+          "to": 800,
+          "file": "data/pokeapi/species/segments/701-800.json"
+        },
+        {
+          "from": 801,
+          "to": 900,
+          "file": "data/pokeapi/species/segments/801-900.json"
+        },
+        {
+          "from": 901,
+          "to": 1000,
+          "file": "data/pokeapi/species/segments/901-1000.json"
+        },
+        {
+          "from": 1001,
+          "to": 1025,
+          "file": "data/pokeapi/species/segments/1001-1025.json"
+        }
+      ]
+    },
+    "moves": {
+      "count": 937,
+      "index": "data/pokeapi/moves/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/moves/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/moves/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/moves/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 400,
+          "file": "data/pokeapi/moves/segments/301-400.json"
+        },
+        {
+          "from": 401,
+          "to": 500,
+          "file": "data/pokeapi/moves/segments/401-500.json"
+        },
+        {
+          "from": 501,
+          "to": 600,
+          "file": "data/pokeapi/moves/segments/501-600.json"
+        },
+        {
+          "from": 601,
+          "to": 700,
+          "file": "data/pokeapi/moves/segments/601-700.json"
+        },
+        {
+          "from": 701,
+          "to": 800,
+          "file": "data/pokeapi/moves/segments/701-800.json"
+        },
+        {
+          "from": 801,
+          "to": 900,
+          "file": "data/pokeapi/moves/segments/801-900.json"
+        },
+        {
+          "from": 901,
+          "to": 10018,
+          "file": "data/pokeapi/moves/segments/901-10018.json"
+        }
+      ]
+    },
+    "items": {
+      "count": 2223,
+      "index": "data/pokeapi/items/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/items/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/items/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/items/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 400,
+          "file": "data/pokeapi/items/segments/301-400.json"
+        },
+        {
+          "from": 401,
+          "to": 500,
+          "file": "data/pokeapi/items/segments/401-500.json"
+        },
+        {
+          "from": 501,
+          "to": 600,
+          "file": "data/pokeapi/items/segments/501-600.json"
+        },
+        {
+          "from": 601,
+          "to": 703,
+          "file": "data/pokeapi/items/segments/601-703.json"
+        },
+        {
+          "from": 704,
+          "to": 822,
+          "file": "data/pokeapi/items/segments/704-822.json"
+        },
+        {
+          "from": 823,
+          "to": 951,
+          "file": "data/pokeapi/items/segments/823-951.json"
+        },
+        {
+          "from": 952,
+          "to": 1051,
+          "file": "data/pokeapi/items/segments/952-1051.json"
+        },
+        {
+          "from": 1052,
+          "to": 1151,
+          "file": "data/pokeapi/items/segments/1052-1151.json"
+        },
+        {
+          "from": 1152,
+          "to": 1251,
+          "file": "data/pokeapi/items/segments/1152-1251.json"
+        },
+        {
+          "from": 1252,
+          "to": 1351,
+          "file": "data/pokeapi/items/segments/1252-1351.json"
+        },
+        {
+          "from": 1352,
+          "to": 1451,
+          "file": "data/pokeapi/items/segments/1352-1451.json"
+        },
+        {
+          "from": 1452,
+          "to": 1551,
+          "file": "data/pokeapi/items/segments/1452-1551.json"
+        },
+        {
+          "from": 1552,
+          "to": 1651,
+          "file": "data/pokeapi/items/segments/1552-1651.json"
+        },
+        {
+          "from": 1652,
+          "to": 1751,
+          "file": "data/pokeapi/items/segments/1652-1751.json"
+        },
+        {
+          "from": 1752,
+          "to": 1851,
+          "file": "data/pokeapi/items/segments/1752-1851.json"
+        },
+        {
+          "from": 1852,
+          "to": 1952,
+          "file": "data/pokeapi/items/segments/1852-1952.json"
+        },
+        {
+          "from": 1953,
+          "to": 2056,
+          "file": "data/pokeapi/items/segments/1953-2056.json"
+        },
+        {
+          "from": 2057,
+          "to": 2156,
+          "file": "data/pokeapi/items/segments/2057-2156.json"
+        },
+        {
+          "from": 2157,
+          "to": 2256,
+          "file": "data/pokeapi/items/segments/2157-2256.json"
+        },
+        {
+          "from": 2257,
+          "to": 2279,
+          "file": "data/pokeapi/items/segments/2257-2279.json"
+        }
+      ]
+    },
+    "types": {
+      "count": 21,
+      "index": "data/pokeapi/types/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 10002,
+          "file": "data/pokeapi/types/segments/1-10002.json"
+        }
+      ]
+    },
+    "abilities": {
+      "count": 374,
+      "index": "data/pokeapi/abilities/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/abilities/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/abilities/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/abilities/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 10060,
+          "file": "data/pokeapi/abilities/segments/301-10060.json"
+        }
+      ]
+    },
+    "generations": {
+      "count": 9,
+      "index": "data/pokeapi/generations/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 9,
+          "file": "data/pokeapi/generations/segments/1-9.json"
+        }
+      ]
+    },
+    "pokedexes": {
+      "count": 35,
+      "index": "data/pokeapi/pokedexes/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 36,
+          "file": "data/pokeapi/pokedexes/segments/1-36.json"
+        }
+      ]
+    },
+    "forms": {
+      "count": 1579,
+      "index": "data/pokeapi/forms/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/forms/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/forms/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/forms/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 400,
+          "file": "data/pokeapi/forms/segments/301-400.json"
+        },
+        {
+          "from": 401,
+          "to": 500,
+          "file": "data/pokeapi/forms/segments/401-500.json"
+        },
+        {
+          "from": 501,
+          "to": 600,
+          "file": "data/pokeapi/forms/segments/501-600.json"
+        },
+        {
+          "from": 601,
+          "to": 700,
+          "file": "data/pokeapi/forms/segments/601-700.json"
+        },
+        {
+          "from": 701,
+          "to": 800,
+          "file": "data/pokeapi/forms/segments/701-800.json"
+        },
+        {
+          "from": 801,
+          "to": 900,
+          "file": "data/pokeapi/forms/segments/801-900.json"
+        },
+        {
+          "from": 901,
+          "to": 1000,
+          "file": "data/pokeapi/forms/segments/901-1000.json"
+        },
+        {
+          "from": 1001,
+          "to": 10075,
+          "file": "data/pokeapi/forms/segments/1001-10075.json"
+        },
+        {
+          "from": 10076,
+          "to": 10175,
+          "file": "data/pokeapi/forms/segments/10076-10175.json"
+        },
+        {
+          "from": 10176,
+          "to": 10275,
+          "file": "data/pokeapi/forms/segments/10176-10275.json"
+        },
+        {
+          "from": 10276,
+          "to": 10375,
+          "file": "data/pokeapi/forms/segments/10276-10375.json"
+        },
+        {
+          "from": 10376,
+          "to": 10475,
+          "file": "data/pokeapi/forms/segments/10376-10475.json"
+        },
+        {
+          "from": 10476,
+          "to": 10554,
+          "file": "data/pokeapi/forms/segments/10476-10554.json"
+        }
+      ]
+    },
+    "evolutions": {
+      "count": 540,
+      "index": "data/pokeapi/evolutions/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/evolutions/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/evolutions/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 308,
+          "file": "data/pokeapi/evolutions/segments/201-308.json"
+        },
+        {
+          "from": 309,
+          "to": 408,
+          "file": "data/pokeapi/evolutions/segments/309-408.json"
+        },
+        {
+          "from": 409,
+          "to": 509,
+          "file": "data/pokeapi/evolutions/segments/409-509.json"
+        },
+        {
+          "from": 510,
+          "to": 549,
+          "file": "data/pokeapi/evolutions/segments/510-549.json"
+        }
+      ]
+    },
+    "version-groups": {
+      "count": 32,
+      "index": "data/pokeapi/version-groups/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 32,
+          "file": "data/pokeapi/version-groups/segments/1-32.json"
+        }
+      ]
+    },
+    "versions": {
+      "count": 53,
+      "index": "data/pokeapi/versions/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 53,
+          "file": "data/pokeapi/versions/segments/1-53.json"
+        }
+      ]
+    },
+    "locations": {
+      "count": 1104,
+      "index": "data/pokeapi/locations/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 101,
+          "file": "data/pokeapi/locations/segments/1-101.json"
+        },
+        {
+          "from": 102,
+          "to": 208,
+          "file": "data/pokeapi/locations/segments/102-208.json"
+        },
+        {
+          "from": 209,
+          "to": 311,
+          "file": "data/pokeapi/locations/segments/209-311.json"
+        },
+        {
+          "from": 312,
+          "to": 411,
+          "file": "data/pokeapi/locations/segments/312-411.json"
+        },
+        {
+          "from": 412,
+          "to": 512,
+          "file": "data/pokeapi/locations/segments/412-512.json"
+        },
+        {
+          "from": 513,
+          "to": 617,
+          "file": "data/pokeapi/locations/segments/513-617.json"
+        },
+        {
+          "from": 618,
+          "to": 717,
+          "file": "data/pokeapi/locations/segments/618-717.json"
+        },
+        {
+          "from": 718,
+          "to": 817,
+          "file": "data/pokeapi/locations/segments/718-817.json"
+        },
+        {
+          "from": 818,
+          "to": 917,
+          "file": "data/pokeapi/locations/segments/818-917.json"
+        },
+        {
+          "from": 918,
+          "to": 1017,
+          "file": "data/pokeapi/locations/segments/918-1017.json"
+        },
+        {
+          "from": 1018,
+          "to": 1117,
+          "file": "data/pokeapi/locations/segments/1018-1117.json"
+        },
+        {
+          "from": 1118,
+          "to": 1121,
+          "file": "data/pokeapi/locations/segments/1118-1121.json"
+        }
+      ]
+    },
+    "location-areas": {
+      "count": 1539,
+      "index": "data/pokeapi/location-areas/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 139,
+          "file": "data/pokeapi/location-areas/segments/1-139.json"
+        },
+        {
+          "from": 140,
+          "to": 241,
+          "file": "data/pokeapi/location-areas/segments/140-241.json"
+        },
+        {
+          "from": 242,
+          "to": 344,
+          "file": "data/pokeapi/location-areas/segments/242-344.json"
+        },
+        {
+          "from": 345,
+          "to": 452,
+          "file": "data/pokeapi/location-areas/segments/345-452.json"
+        },
+        {
+          "from": 453,
+          "to": 617,
+          "file": "data/pokeapi/location-areas/segments/453-617.json"
+        },
+        {
+          "from": 618,
+          "to": 717,
+          "file": "data/pokeapi/location-areas/segments/618-717.json"
+        },
+        {
+          "from": 718,
+          "to": 818,
+          "file": "data/pokeapi/location-areas/segments/718-818.json"
+        },
+        {
+          "from": 819,
+          "to": 924,
+          "file": "data/pokeapi/location-areas/segments/819-924.json"
+        },
+        {
+          "from": 925,
+          "to": 1026,
+          "file": "data/pokeapi/location-areas/segments/925-1026.json"
+        },
+        {
+          "from": 1027,
+          "to": 1126,
+          "file": "data/pokeapi/location-areas/segments/1027-1126.json"
+        },
+        {
+          "from": 1127,
+          "to": 1226,
+          "file": "data/pokeapi/location-areas/segments/1127-1226.json"
+        },
+        {
+          "from": 1227,
+          "to": 1326,
+          "file": "data/pokeapi/location-areas/segments/1227-1326.json"
+        },
+        {
+          "from": 1327,
+          "to": 1426,
+          "file": "data/pokeapi/location-areas/segments/1327-1426.json"
+        },
+        {
+          "from": 1427,
+          "to": 1526,
+          "file": "data/pokeapi/location-areas/segments/1427-1526.json"
+        },
+        {
+          "from": 1527,
+          "to": 1626,
+          "file": "data/pokeapi/location-areas/segments/1527-1626.json"
+        },
+        {
+          "from": 1627,
+          "to": 1665,
+          "file": "data/pokeapi/location-areas/segments/1627-1665.json"
+        }
+      ]
+    },
+    "encounter-methods": {
+      "count": 66,
+      "index": "data/pokeapi/encounter-methods/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 66,
+          "file": "data/pokeapi/encounter-methods/segments/1-66.json"
+        }
+      ]
+    },
+    "encounter-conditions": {
+      "count": 30,
+      "index": "data/pokeapi/encounter-conditions/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 30,
+          "file": "data/pokeapi/encounter-conditions/segments/1-30.json"
+        }
+      ]
+    },
+    "encounter-condition-values": {
+      "count": 361,
+      "index": "data/pokeapi/encounter-condition-values/index.json",
+      "segments": [
+        {
+          "from": 1,
+          "to": 100,
+          "file": "data/pokeapi/encounter-condition-values/segments/1-100.json"
+        },
+        {
+          "from": 101,
+          "to": 200,
+          "file": "data/pokeapi/encounter-condition-values/segments/101-200.json"
+        },
+        {
+          "from": 201,
+          "to": 300,
+          "file": "data/pokeapi/encounter-condition-values/segments/201-300.json"
+        },
+        {
+          "from": 301,
+          "to": 361,
+          "file": "data/pokeapi/encounter-condition-values/segments/301-361.json"
+        }
+      ]
+    }
+  },
+  "assets": {
+    "pokemonArtwork": "data/pokeapi/assets/pokemon/{id}.png",
+    "items": "data/pokeapi/assets/items/{id}.png",
+    "types": "data/pokeapi/assets/types/{id}.png"
+  }
+}

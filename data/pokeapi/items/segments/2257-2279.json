@@ -1,0 +1,347 @@
+{
+  "2257": {
+    "id": 2257,
+    "name": "hawluchanite",
+    "names": {
+      "en": "hawluchanite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2258": {
+    "id": 2258,
+    "name": "zygardite",
+    "names": {
+      "en": "zygardite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2259": {
+    "id": 2259,
+    "name": "drampanite",
+    "names": {
+      "en": "drampanite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2260": {
+    "id": 2260,
+    "name": "zeraorite",
+    "names": {
+      "en": "zeraorite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2261": {
+    "id": 2261,
+    "name": "falinksite",
+    "names": {
+      "en": "falinksite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2262": {
+    "id": 2262,
+    "name": "raichunite-x",
+    "names": {
+      "en": "raichunite-x",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2263": {
+    "id": 2263,
+    "name": "raichunite-y",
+    "names": {
+      "en": "raichunite-y",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2264": {
+    "id": 2264,
+    "name": "chimechite",
+    "names": {
+      "en": "chimechite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2265": {
+    "id": 2265,
+    "name": "absolite-z",
+    "names": {
+      "en": "absolite-z",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2266": {
+    "id": 2266,
+    "name": "staraptite",
+    "names": {
+      "en": "staraptite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2267": {
+    "id": 2267,
+    "name": "garchompite-z",
+    "names": {
+      "en": "garchompite-z",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2268": {
+    "id": 2268,
+    "name": "lucarionite-z",
+    "names": {
+      "en": "lucarionite-z",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2269": {
+    "id": 2269,
+    "name": "golurkite",
+    "names": {
+      "en": "golurkite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2270": {
+    "id": 2270,
+    "name": "meowsticite",
+    "names": {
+      "en": "meowsticite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2271": {
+    "id": 2271,
+    "name": "crabominite",
+    "names": {
+      "en": "crabominite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2272": {
+    "id": 2272,
+    "name": "golisopite",
+    "names": {
+      "en": "golisopite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2273": {
+    "id": 2273,
+    "name": "magearnite",
+    "names": {
+      "en": "magearnite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2274": {
+    "id": 2274,
+    "name": "scovillainite",
+    "names": {
+      "en": "scovillainite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2275": {
+    "id": 2275,
+    "name": "baxcalibrite",
+    "names": {
+      "en": "baxcalibrite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2276": {
+    "id": 2276,
+    "name": "tatsugirinite",
+    "names": {
+      "en": "tatsugirinite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2277": {
+    "id": 2277,
+    "name": "glimmoranite",
+    "names": {
+      "en": "glimmoranite",
+      "pt": null
+    },
+    "category": "mega-stones",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2278": {
+    "id": 2278,
+    "name": "hopo-berry",
+    "names": {
+      "en": "hopo-berry",
+      "pt": null
+    },
+    "category": "pp-recovery",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "2279": {
+    "id": 2279,
+    "name": "roseli-berry",
+    "names": {
+      "en": "roseli-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roseli-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/roseli-berry.png"
+    }
+  }
+}

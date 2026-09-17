@@ -1,0 +1,1039 @@
+{
+  "301": {
+    "id": 301,
+    "name": "johto-safari-blocks-water-min-3",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 3 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "name": "johto-safari-blocks-water-min-4",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 4 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "name": "johto-safari-blocks-water-min-5",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 5 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "304": {
+    "id": 304,
+    "name": "johto-safari-blocks-water-min-6",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 6 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "305": {
+    "id": 305,
+    "name": "johto-safari-blocks-water-min-7",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 7 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "306": {
+    "id": 306,
+    "name": "johto-safari-blocks-water-min-8",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 8 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "307": {
+    "id": 307,
+    "name": "johto-safari-blocks-water-min-9",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 9 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "308": {
+    "id": 308,
+    "name": "johto-safari-blocks-water-min-10",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 10 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "309": {
+    "id": 309,
+    "name": "johto-safari-blocks-water-min-12",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 12 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "310": {
+    "id": 310,
+    "name": "johto-safari-blocks-water-min-13",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 13 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "311": {
+    "id": 311,
+    "name": "johto-safari-blocks-water-min-14",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 14 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "312": {
+    "id": 312,
+    "name": "johto-safari-blocks-water-min-15",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 15 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "name": "johto-safari-blocks-water-min-16",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 16 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "314": {
+    "id": 314,
+    "name": "johto-safari-blocks-water-min-18",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 18 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "315": {
+    "id": 315,
+    "name": "johto-safari-blocks-water-min-20",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 20 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "316": {
+    "id": 316,
+    "name": "johto-safari-blocks-water-min-24",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 24 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "317": {
+    "id": 317,
+    "name": "johto-safari-blocks-water-min-28",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 28 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "318": {
+    "id": 318,
+    "name": "johto-safari-blocks-water-min-35",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 35 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "319": {
+    "id": 319,
+    "name": "johto-safari-blocks-water-min-42",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 42 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "name": "johto-safari-blocks-water-min-49",
+    "condition": {
+      "name": "johto-safari-blocks",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/26/"
+    },
+    "names": [
+      {
+        "name": "At least 49 Water block points placed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "321": {
+    "id": 321,
+    "name": "item-cover-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Cover Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "name": "item-plume-fossil",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Plume Fossil in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "name": "other-giratina-not-caught-in-distortion-world",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Did not catch Giratina in the Distortion World",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "324": {
+    "id": 324,
+    "name": "other-find-50-cavern-footprints",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Find 50 sets of Cavern Footprints in The Crown Tundra",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "325": {
+    "id": 325,
+    "name": "other-find-50-grassland-footprints",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Find 50 sets of Grassland Footprints in The Crown Tundra",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "326": {
+    "id": 326,
+    "name": "other-find-50-iron-will-footprints",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Find 50 sets of Iron Will Footprints in The Crown Tundra",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "327": {
+    "id": 327,
+    "name": "other-regirock-regice-registeel-regieleki-regidrago-in-party",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Have Regirock, Regice, Registeel, Regieleki, and Regidrago in the party",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "328": {
+    "id": 328,
+    "name": "other-choose-regieleki-pattern",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Activate the pattern for Regieleki in the Split-Decision Ruins.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "329": {
+    "id": 329,
+    "name": "other-choose-regidrago-pattern",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Activate the pattern for Regidrago in the Split-Decision Ruins.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "330": {
+    "id": 330,
+    "name": "other-grow-iceroot-carrot",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Grow an Iceroot Carrot while helping Calyrex.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "331": {
+    "id": 331,
+    "name": "other-grow-shaderoot-carrot",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Grow a Shaderoot Carrot while helping Calyrex.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "332": {
+    "id": 332,
+    "name": "other-talked-to-32-people",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Talk to at least 32 people after interacting with the tombstone in Ballimere Lake.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "333": {
+    "id": 333,
+    "name": "other-eat-curry-with-cobalion-terrakion-virizion",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Eat curry on the island with Cobalion, Terrakion, and Virizion in your party after showing them to Sonia.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "334": {
+    "id": 334,
+    "name": "item-reins-of-unity",
+    "condition": {
+      "name": "item",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/11/"
+    },
+    "names": [
+      {
+        "name": "Have Reins of Unity in bag",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "335": {
+    "id": 335,
+    "name": "other-witness-galarian-bird-fight",
+    "condition": {
+      "name": "other",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/10/"
+    },
+    "names": [
+      {
+        "name": "Witness the Galarian forms of Articuno, Zapdos, and Moltres fight at Dyna Tree Hill.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "336": {
+    "id": 336,
+    "name": "max-den-rarity-common",
+    "condition": {
+      "name": "max-den-rarity",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/27/"
+    },
+    "names": [
+      {
+        "name": "Start max raid in a den with a weak, red pillar of light.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "337": {
+    "id": 337,
+    "name": "max-den-rarity-rare",
+    "condition": {
+      "name": "max-den-rarity",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/27/"
+    },
+    "names": [
+      {
+        "name": "Start max raid in a den with a strong, purple pillar of light.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "338": {
+    "id": 338,
+    "name": "max-den-rating-1-star",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "Start a max raid with a difficulty of 1 star.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "339": {
+    "id": 339,
+    "name": "max-den-rating-2-star",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "Start a max raid with a difficulty of 2 stars.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "340": {
+    "id": 340,
+    "name": "max-den-rating-3-star",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "Start a max raid with a difficulty of 3 stars.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "341": {
+    "id": 341,
+    "name": "max-den-rating-4-star",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "Start a max raid with a difficulty of 4 stars.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "342": {
+    "id": 342,
+    "name": "max-den-rating-5-star",
+    "condition": {
+      "name": "max-den-rating",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/28/"
+    },
+    "names": [
+      {
+        "name": "Start a max raid with a difficulty of 5 stars.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "343": {
+    "id": 343,
+    "name": "max-den-rarity-special",
+    "condition": {
+      "name": "max-den-rarity",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/27/"
+    },
+    "names": [
+      {
+        "name": "Start max raid in a den with a weak, red pillar of light after checking Wild Area News.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "344": {
+    "id": 344,
+    "name": "berry-tree-type-red",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Red Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "345": {
+    "id": 345,
+    "name": "berry-tree-type-blue",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Blue Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "346": {
+    "id": 346,
+    "name": "berry-tree-type-purple",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Purple Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "347": {
+    "id": 347,
+    "name": "berry-tree-type-green",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Green Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "348": {
+    "id": 348,
+    "name": "berry-tree-type-yellow",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Yellow Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "349": {
+    "id": 349,
+    "name": "berry-tree-type-pink",
+    "condition": {
+      "name": "berry-tree-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/29/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Pink Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "350": {
+    "id": 350,
+    "name": "trash-can-type-daily",
+    "condition": {
+      "name": "trash-can-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/30/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Shaking Trash Can (Daily)",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "351": {
+    "id": 351,
+    "name": "trash-can-type-tuesday",
+    "condition": {
+      "name": "trash-can-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/30/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Shaking Trash Can (Tuesday)",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "352": {
+    "id": 352,
+    "name": "trash-can-type-thursday",
+    "condition": {
+      "name": "trash-can-type",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/30/"
+    },
+    "names": [
+      {
+        "name": "Interact with a Shaking Trash Can (Thursday)",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "353": {
+    "id": 353,
+    "name": "trade-nidoran-f",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Nidoran-F in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "name": "trade-nidorina",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Nidorina in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "355": {
+    "id": 355,
+    "name": "trade-machop",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Machop in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "356": {
+    "id": 356,
+    "name": "trade-buizel",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Buizel in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "357": {
+    "id": 357,
+    "name": "trade-medicham",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Medicham in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "name": "trade-finneon",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Finneon in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "359": {
+    "id": 359,
+    "name": "trade-forretress",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Forretress in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "360": {
+    "id": 360,
+    "name": "trade-bonsly",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give Bonsly in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "361": {
+    "id": 361,
+    "name": "trade-any-pokemon",
+    "condition": {
+      "name": "trade",
+      "url": "https://pokeapi.co/api/v2/encounter-condition/15/"
+    },
+    "names": [
+      {
+        "name": "Give any Pokemon in a Trade",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  }
+}

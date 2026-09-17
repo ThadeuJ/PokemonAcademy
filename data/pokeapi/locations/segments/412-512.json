@@ -1,0 +1,7668 @@
+{
+  "412": {
+    "id": 412,
+    "name": "abundant-shrine",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ほうじょうの社",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Autel Abondance",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schrein der Ernte",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Abundant Shrine",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 70,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "abundant-shrine-area",
+        "url": "https://pokeapi.co/api/v2/location-area/649/"
+      },
+      {
+        "name": "abundant-shrine-hidden-grotto-near-youngster",
+        "url": "https://pokeapi.co/api/v2/location-area/1356/"
+      },
+      {
+        "name": "abundant-shrine-hidden-grotto-shrine",
+        "url": "https://pokeapi.co/api/v2/location-area/1357/"
+      }
+    ]
+  },
+  "413": {
+    "id": 413,
+    "name": "undella-bay",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "サザナミ湾",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Baie Vaguelone",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Bucht von Ondula",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Undella Bay",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 71,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "undella-bay-area",
+        "url": "https://pokeapi.co/api/v2/location-area/619/"
+      }
+    ]
+  },
+  "414": {
+    "id": 414,
+    "name": "lostlorn-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "迷いの森",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Bois des Illusions",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Hain der Täuschung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lostlorn Forest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 72,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "lostlorn-forest-area",
+        "url": "https://pokeapi.co/api/v2/location-area/652/"
+      },
+      {
+        "name": "lostlorn-forest-hidden-grotto",
+        "url": "https://pokeapi.co/api/v2/location-area/1354/"
+      }
+    ]
+  },
+  "415": {
+    "id": 415,
+    "name": "trial-chamber",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "試練の室",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Salle Épreuve",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kammer der Prüfung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Trial Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 73,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "trial-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/613/"
+      }
+    ]
+  },
+  "416": {
+    "id": 416,
+    "name": "guidance-chamber",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "導の間",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Espace Guide",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kammer der Weisung",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Guidance Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 74,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "guidance-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/631/"
+      }
+    ]
+  },
+  "417": {
+    "id": 417,
+    "name": "entree-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ハイリンクの森",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Forêt du Heylink",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kontaktebenenhain",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Entree Forest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 75,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "418": {
+    "id": 418,
+    "name": "accumula-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "カラクサゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Arabelle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Gavina-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Accumula Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 106,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "419": {
+    "id": 419,
+    "name": "undella-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "サザナミゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Vaguelone",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ondula-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Undella Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 107,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "420": {
+    "id": 420,
+    "name": "nacrene-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "シッポウゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Maillard",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Septerna-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Nacrene Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 108,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "421": {
+    "id": 421,
+    "name": "castelia-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ヒウンゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Volucité",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Stratos-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Castelia Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 109,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "422": {
+    "id": 422,
+    "name": "nimbasa-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ライモンゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Méanville",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Rayono-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Nimbasa Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 110,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "423": {
+    "id": 423,
+    "name": "opelucid-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ソウリュウゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Janusia",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Twindrake-Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Opelucid Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 111,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "424": {
+    "id": 424,
+    "name": "black-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ブラックゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Noire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schwarzes Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Black Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 112,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "425": {
+    "id": 425,
+    "name": "white-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ホワイトゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte Blanche",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Weißes Tor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "White Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 113,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "426": {
+    "id": 426,
+    "name": "bridge-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ブリッジゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte de Pont",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Brückentor",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bridge Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 114,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "427": {
+    "id": 427,
+    "name": "route-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "ロードゲート",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Porte de Route",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route Gate",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Route Gate",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 115,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "428": {
+    "id": 428,
+    "name": "abyssal-ruins",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    },
+    "names": [
+      {
+        "name": "海底遺跡",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "Ruines des Abysses",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Unterwasserruine",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Abyssal Ruins",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 116,
+        "generation": {
+          "name": "generation-v",
+          "url": "https://pokeapi.co/api/v2/generation/5/"
+        }
+      }
+    ],
+    "areas": []
+  },
+  "429": {
+    "id": 429,
+    "name": "petalburg-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "トウカシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "등화도시",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Clémenti-Ville",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Blütenburg City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Petalia",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Petalipoli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Petalburg City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "トウカシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ciudad Petalia",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 7,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 184,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "petalburg-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/350/"
+      }
+    ]
+  },
+  "430": {
+    "id": 430,
+    "name": "slateport-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "カイナシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "잿빛도시",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Poivressel",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Graphitport City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Portual",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Porto Selcepoli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Slateport City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "カイナシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ciudad Portual",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 8,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 186,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "slateport-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/351/"
+      },
+      {
+        "name": "slateport-city-contest-hall",
+        "url": "https://pokeapi.co/api/v2/location-area/781/"
+      }
+    ]
+  },
+  "431": {
+    "id": 431,
+    "name": "lilycove-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "ミナモシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "해안시티",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Nénucrique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Seegrasulb City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Calagua",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Porto Alghepoli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Lilycove City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ミナモシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ciudad Calagua",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 12,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 194,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "lilycove-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/352/"
+      },
+      {
+        "name": "lilycove-city-contest-hall",
+        "url": "https://pokeapi.co/api/v2/location-area/784/"
+      }
+    ]
+  },
+  "432": {
+    "id": 432,
+    "name": "mossdeep-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "トクサネシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "이끼시티",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Algatia",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Moosbach City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Algaria",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Verdeazzupoli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Mossdeep City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "トクサネシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ciudad Algaria",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 13,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 196,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "mossdeep-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/353/"
+      },
+      {
+        "name": "mossdeep-city-stevens-house",
+        "url": "https://pokeapi.co/api/v2/location-area/769/"
+      }
+    ]
+  },
+  "433": {
+    "id": 433,
+    "name": "sootopolis-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "ルネシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "루네시티",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Atalanopolis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Xeneroville",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Arrecípolis",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Ceneride",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Sootopolis City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ルネシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Arrecípolis",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 14,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 198,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "sootopolis-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/354/"
+      }
+    ]
+  },
+  "434": {
+    "id": 434,
+    "name": "ever-grande-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "サイユウシティ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "그랜드시티",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Éternara",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Prachtpolis City",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ciudad Colosalia",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Iridopoli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Ever Grande City",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "サイユウシティ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ciudad Colosalia",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 15,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 200,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "ever-grande-city-area",
+        "url": "https://pokeapi.co/api/v2/location-area/355/"
+      }
+    ]
+  },
+  "435": {
+    "id": 435,
+    "name": "meteor-falls",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "りゅうせいのたき",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "유성의 폭포",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Site Météore",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Meteorfälle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cascada Meteoro",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Cascate Meteora",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Meteor Falls",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "流星の滝",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Cascada Meteoro",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 63,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 272,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "meteor-falls-area",
+        "url": "https://pokeapi.co/api/v2/location-area/356/"
+      },
+      {
+        "name": "meteor-falls-back",
+        "url": "https://pokeapi.co/api/v2/location-area/357/"
+      },
+      {
+        "name": "meteor-falls-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/358/"
+      },
+      {
+        "name": "meteor-falls-backsmall-room",
+        "url": "https://pokeapi.co/api/v2/location-area/359/"
+      }
+    ]
+  },
+  "436": {
+    "id": 436,
+    "name": "rusturf-tunnel",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "カナシダトンネル",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "금잔터널",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Tunnel Mérazon",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Metaflurtunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Túnel Fervergal",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Tunnel Menferro",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Rusturf Tunnel",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "カナシダトンネル",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Túnel Fervergal",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 60,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 274,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "rusturf-tunnel-area",
+        "url": "https://pokeapi.co/api/v2/location-area/360/"
+      }
+    ]
+  },
+  "437": {
+    "id": 437,
+    "name": "granite-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "いしのどうくつ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "바위 동굴",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Grotte Granite",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Granithöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cueva Granito",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Grotta Pietrosa",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Granite Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "石の洞窟",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Cueva Granito",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 55,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 280,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "granite-cave-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/361/"
+      },
+      {
+        "name": "granite-cave-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/362/"
+      },
+      {
+        "name": "granite-cave-b2f",
+        "url": "https://pokeapi.co/api/v2/location-area/363/"
+      },
+      {
+        "name": "granite-cave-1fsmall-room",
+        "url": "https://pokeapi.co/api/v2/location-area/364/"
+      }
+    ]
+  },
+  "438": {
+    "id": 438,
+    "name": "petalburg-woods",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "トウカのもり",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "등화숲",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Bois Clémenti",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Blütenburgwald",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bosque Petalia",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Bosco Petalo",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Petalburg Woods",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "トウカの森",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Bosque Petalia",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 59,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 282,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "petalburg-woods-area",
+        "url": "https://pokeapi.co/api/v2/location-area/365/"
+      }
+    ]
+  },
+  "439": {
+    "id": 439,
+    "name": "jagged-pass",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "デコボコさんどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "울퉁불퉁 산길",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Sentier Sinuroc",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Steilpass",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Desfiladero",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Passo Selvaggio",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Jagged Pass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "デコボコ山道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Desfiladero",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 76,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 286,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "jagged-pass-area",
+        "url": "https://pokeapi.co/api/v2/location-area/366/"
+      }
+    ]
+  },
+  "440": {
+    "id": 440,
+    "name": "fiery-path",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "ほのおのぬけみち",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "불꽃샛길",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chemin Ardent",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Feuriger Pfad",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Senda Ígnea",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Cammino Ardente",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Fiery Path",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "炎の抜け道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Senda Ígnea",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 74,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 288,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "fiery-path-area",
+        "url": "https://pokeapi.co/api/v2/location-area/367/"
+      }
+    ]
+  },
+  "441": {
+    "id": 441,
+    "name": "mt-pyre",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "おくりびやま",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "송화산",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Mont Mémoria",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Pyroberg",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Monte Pírico",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Monte Pira",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Mt. Pyre",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "おくりび山",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Monte Pírico",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 65,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 290,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "mt-pyre-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/368/"
+      },
+      {
+        "name": "mt-pyre-2f",
+        "url": "https://pokeapi.co/api/v2/location-area/369/"
+      },
+      {
+        "name": "mt-pyre-3f",
+        "url": "https://pokeapi.co/api/v2/location-area/370/"
+      },
+      {
+        "name": "mt-pyre-4f",
+        "url": "https://pokeapi.co/api/v2/location-area/371/"
+      },
+      {
+        "name": "mt-pyre-5f",
+        "url": "https://pokeapi.co/api/v2/location-area/372/"
+      },
+      {
+        "name": "mt-pyre-6f",
+        "url": "https://pokeapi.co/api/v2/location-area/373/"
+      },
+      {
+        "name": "mt-pyre-outside",
+        "url": "https://pokeapi.co/api/v2/location-area/374/"
+      },
+      {
+        "name": "mt-pyre-summit",
+        "url": "https://pokeapi.co/api/v2/location-area/375/"
+      }
+    ]
+  },
+  "442": {
+    "id": 442,
+    "name": "seafloor-cavern",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "かいていどうくつ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "해저동굴",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Caverne Fondmer",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Tiefseehöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Caverna Abisal",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Antro Abissale",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Seafloor Cavern",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "海底洞窟",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Caverna Abisal",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 68,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 294,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "seafloor-cavern-area",
+        "url": "https://pokeapi.co/api/v2/location-area/376/"
+      }
+    ]
+  },
+  "443": {
+    "id": 443,
+    "name": "cave-of-origin",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "めざめのほこら",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "각성의 사당",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Grotte Origine",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Urzeithöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cueva Ancestral",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Grotta dei Tempi",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Cave of Origin",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "目覚めのほこら",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Cueva Ancestral",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 72,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 296,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "cave-of-origin-entrance",
+        "url": "https://pokeapi.co/api/v2/location-area/377/"
+      },
+      {
+        "name": "cave-of-origin-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/378/"
+      },
+      {
+        "name": "cave-of-origin-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/379/"
+      },
+      {
+        "name": "cave-of-origin-b2f",
+        "url": "https://pokeapi.co/api/v2/location-area/380/"
+      },
+      {
+        "name": "cave-of-origin-b3f",
+        "url": "https://pokeapi.co/api/v2/location-area/381/"
+      },
+      {
+        "name": "cave-of-origin-b4f",
+        "url": "https://pokeapi.co/api/v2/location-area/801/"
+      }
+    ]
+  },
+  "444": {
+    "id": 444,
+    "name": "hoenn-victory-road",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "チャンピオンロード",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "챔피언로드",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route Victoire",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Siegesstraße",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Calle Victoria",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Via Vittoria",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Victory Road",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "チャンピオンロード",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Calle Victoria",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 70,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 298,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-victory-road-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/382/"
+      },
+      {
+        "name": "hoenn-victory-road-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/383/"
+      },
+      {
+        "name": "hoenn-victory-road-b2f",
+        "url": "https://pokeapi.co/api/v2/location-area/384/"
+      }
+    ]
+  },
+  "445": {
+    "id": 445,
+    "name": "shoal-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "あさせのほらあな",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "여울의 동굴",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Grotte Tréfonds",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Küstenhöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cueva Cardumen",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Grotta Ondosa",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Shoal Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "浅瀬の洞穴",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Cueva Cardumen",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 67,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 300,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "shoal-cave-high-tide",
+        "url": "https://pokeapi.co/api/v2/location-area/385/"
+      },
+      {
+        "name": "shoal-cave-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/386/"
+      },
+      {
+        "name": "shoal-cave-low-tide",
+        "url": "https://pokeapi.co/api/v2/location-area/1204/"
+      },
+      {
+        "name": "shoal-cave-b2f",
+        "url": "https://pokeapi.co/api/v2/location-area/1205/"
+      },
+      {
+        "name": "shoal-cave-b3f",
+        "url": "https://pokeapi.co/api/v2/location-area/1206/"
+      }
+    ]
+  },
+  "446": {
+    "id": 446,
+    "name": "new-mauville",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "ニューキンセツ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "뉴보라",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "New Lavandia",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Neu Malvenfroh",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Malvalanova",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Ciclanova",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "New Mauville",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ニューキンセツ",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Malvalanova",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 62,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 302,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "new-mauville-entrance",
+        "url": "https://pokeapi.co/api/v2/location-area/387/"
+      },
+      {
+        "name": "new-mauville-area",
+        "url": "https://pokeapi.co/api/v2/location-area/388/"
+      }
+    ]
+  },
+  "447": {
+    "id": 447,
+    "name": "abandoned-ship",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Épave",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schiffswrack",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Abandoned Ship",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 61,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "abandoned-ship-area",
+        "url": "https://pokeapi.co/api/v2/location-area/389/"
+      }
+    ]
+  },
+  "448": {
+    "id": 448,
+    "name": "sky-pillar",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "そらのはしら",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "하늘기둥",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Pilier Céleste",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Himmelturm",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Pilar Celeste",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Torre dei Cieli",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Sky Pillar",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "空の柱",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Pilar Celeste",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 85,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 316,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "sky-pillar-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/390/"
+      },
+      {
+        "name": "sky-pillar-3f",
+        "url": "https://pokeapi.co/api/v2/location-area/391/"
+      },
+      {
+        "name": "sky-pillar-5f",
+        "url": "https://pokeapi.co/api/v2/location-area/392/"
+      },
+      {
+        "name": "sky-pillar-apex",
+        "url": "https://pokeapi.co/api/v2/location-area/804/"
+      }
+    ]
+  },
+  "449": {
+    "id": 449,
+    "name": "hoenn-route-101",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０１ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "101번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 101",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 101",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 101",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 101",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 101",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０１番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 101",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 16,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 204,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-101-area",
+        "url": "https://pokeapi.co/api/v2/location-area/393/"
+      }
+    ]
+  },
+  "450": {
+    "id": 450,
+    "name": "hoenn-route-102",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０２ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "102번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 102",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 102",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 102",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 102",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 102",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０２番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 102",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 17,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 206,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-102-area",
+        "url": "https://pokeapi.co/api/v2/location-area/394/"
+      }
+    ]
+  },
+  "451": {
+    "id": 451,
+    "name": "hoenn-route-103",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０３ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "103번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 103",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 103",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 103",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 103",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 103",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０３番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 103",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 18,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 208,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-103-area",
+        "url": "https://pokeapi.co/api/v2/location-area/395/"
+      }
+    ]
+  },
+  "452": {
+    "id": 452,
+    "name": "hoenn-route-104",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０４ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "104번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 104",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 104",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 104",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 104",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 104",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０４番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 104",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 19,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 210,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-104-area",
+        "url": "https://pokeapi.co/api/v2/location-area/396/"
+      },
+      {
+        "name": "hoenn-route-104-north-oras",
+        "url": "https://pokeapi.co/api/v2/location-area/1207/"
+      },
+      {
+        "name": "hoenn-route-104-south-oras",
+        "url": "https://pokeapi.co/api/v2/location-area/1208/"
+      }
+    ]
+  },
+  "453": {
+    "id": 453,
+    "name": "hoenn-route-105",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０５ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "105번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 105",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 105",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 105",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 105",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 105",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０５番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 105",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 20,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 212,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-105-area",
+        "url": "https://pokeapi.co/api/v2/location-area/397/"
+      }
+    ]
+  },
+  "454": {
+    "id": 454,
+    "name": "hoenn-route-106",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０６ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "106번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 106",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 106",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 106",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 106",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 106",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０６番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 106",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 21,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 214,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-106-area",
+        "url": "https://pokeapi.co/api/v2/location-area/398/"
+      }
+    ]
+  },
+  "455": {
+    "id": 455,
+    "name": "hoenn-route-107",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０７ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "107번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 107",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 107",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 107",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 107",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 107",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０７番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 107",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 22,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 216,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-107-area",
+        "url": "https://pokeapi.co/api/v2/location-area/399/"
+      }
+    ]
+  },
+  "456": {
+    "id": 456,
+    "name": "hoenn-route-108",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０８ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "108번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 108",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 108",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 108",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 108",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 108",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０８番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 108",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 23,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 218,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-108-area",
+        "url": "https://pokeapi.co/api/v2/location-area/400/"
+      }
+    ]
+  },
+  "457": {
+    "id": 457,
+    "name": "hoenn-route-109",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１０９ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "109번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 109",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 109",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 109",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 109",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 109",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１０９番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 109",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 24,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 220,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-109-area",
+        "url": "https://pokeapi.co/api/v2/location-area/401/"
+      }
+    ]
+  },
+  "458": {
+    "id": 458,
+    "name": "hoenn-route-110",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１０ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "110번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 110",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 110",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 110",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 110",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 110",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１０番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 110",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 25,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 222,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-110-area",
+        "url": "https://pokeapi.co/api/v2/location-area/402/"
+      }
+    ]
+  },
+  "459": {
+    "id": 459,
+    "name": "hoenn-route-111",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１１ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "111번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 111",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 111",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 111",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 111",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 111",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１１番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 111",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 26,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 224,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-111-area",
+        "url": "https://pokeapi.co/api/v2/location-area/403/"
+      }
+    ]
+  },
+  "460": {
+    "id": 460,
+    "name": "hoenn-route-112",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１２ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "112번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 112",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 112",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 112",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 112",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 112",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１２番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 112",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 27,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 226,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-112-area",
+        "url": "https://pokeapi.co/api/v2/location-area/404/"
+      }
+    ]
+  },
+  "461": {
+    "id": 461,
+    "name": "hoenn-route-113",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１３ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "113번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 113",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 113",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 113",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 113",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 113",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１３番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 113",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 28,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 228,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-113-area",
+        "url": "https://pokeapi.co/api/v2/location-area/405/"
+      }
+    ]
+  },
+  "462": {
+    "id": 462,
+    "name": "hoenn-route-114",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１４ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "114번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 114",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 114",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 114",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 114",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 114",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１４番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 114",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 29,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 230,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-114-area",
+        "url": "https://pokeapi.co/api/v2/location-area/406/"
+      }
+    ]
+  },
+  "463": {
+    "id": 463,
+    "name": "hoenn-route-115",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１５ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "115번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 115",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 115",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 115",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 115",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 115",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１５番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 115",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 30,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 232,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-115-area",
+        "url": "https://pokeapi.co/api/v2/location-area/407/"
+      }
+    ]
+  },
+  "464": {
+    "id": 464,
+    "name": "hoenn-route-116",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１６ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "116번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 116",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 116",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 116",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 116",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 116",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１６番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 116",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 31,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 234,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-116-area",
+        "url": "https://pokeapi.co/api/v2/location-area/408/"
+      }
+    ]
+  },
+  "465": {
+    "id": 465,
+    "name": "hoenn-route-117",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１７ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "117번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 117",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 117",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 117",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 117",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 117",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１７番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 117",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 32,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 236,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-117-area",
+        "url": "https://pokeapi.co/api/v2/location-area/409/"
+      }
+    ]
+  },
+  "466": {
+    "id": 466,
+    "name": "hoenn-route-118",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１８ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "118번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 118",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 118",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 118",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 118",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 118",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１８番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 118",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 33,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 238,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-118-area",
+        "url": "https://pokeapi.co/api/v2/location-area/410/"
+      }
+    ]
+  },
+  "467": {
+    "id": 467,
+    "name": "hoenn-route-119",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１１９ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "119번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 119",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 119",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 119",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 119",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 119",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１１９番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 119",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 34,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 240,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-119-area",
+        "url": "https://pokeapi.co/api/v2/location-area/411/"
+      },
+      {
+        "name": "hoenn-route-119-weather-institute",
+        "url": "https://pokeapi.co/api/v2/location-area/768/"
+      }
+    ]
+  },
+  "468": {
+    "id": 468,
+    "name": "hoenn-route-120",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２０ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "120번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 120",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 120",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 120",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 120",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 120",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２０番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 120",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 35,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 242,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-120-area",
+        "url": "https://pokeapi.co/api/v2/location-area/412/"
+      }
+    ]
+  },
+  "469": {
+    "id": 469,
+    "name": "hoenn-route-121",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２１ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "121번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 121",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 121",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 121",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 121",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 121",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２１番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 121",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 36,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 244,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-121-area",
+        "url": "https://pokeapi.co/api/v2/location-area/413/"
+      }
+    ]
+  },
+  "470": {
+    "id": 470,
+    "name": "hoenn-route-122",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２２ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "122번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 122",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 122",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 122",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 122",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 122",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２２番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 122",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 37,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 246,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-122-area",
+        "url": "https://pokeapi.co/api/v2/location-area/414/"
+      }
+    ]
+  },
+  "471": {
+    "id": 471,
+    "name": "hoenn-route-123",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２３ばんどうろ",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "123번도로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Route 123",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 123",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 123",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 123",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 123",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２３番道路",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 123",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 38,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 248,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-123-area",
+        "url": "https://pokeapi.co/api/v2/location-area/415/"
+      }
+    ]
+  },
+  "472": {
+    "id": 472,
+    "name": "hoenn-route-124",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２４ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "124번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 124",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 124",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 124",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 124",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 124",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２４番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 124",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 39,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 250,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-124-area",
+        "url": "https://pokeapi.co/api/v2/location-area/416/"
+      },
+      {
+        "name": "hoenn-route-124-underwater",
+        "url": "https://pokeapi.co/api/v2/location-area/417/"
+      }
+    ]
+  },
+  "473": {
+    "id": 473,
+    "name": "hoenn-route-125",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２５ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "125번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 125",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 125",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 125",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 125",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 125",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２５番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 125",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 40,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 252,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-125-area",
+        "url": "https://pokeapi.co/api/v2/location-area/418/"
+      }
+    ]
+  },
+  "474": {
+    "id": 474,
+    "name": "hoenn-route-126",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２６ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "126번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 126",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 126",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 126",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 126",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 126",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２６番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 126",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 41,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 254,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-126-area",
+        "url": "https://pokeapi.co/api/v2/location-area/419/"
+      },
+      {
+        "name": "hoenn-route-126-underwater",
+        "url": "https://pokeapi.co/api/v2/location-area/420/"
+      }
+    ]
+  },
+  "475": {
+    "id": 475,
+    "name": "hoenn-route-127",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２７ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "127번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 127",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 127",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 127",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 127",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 127",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２７番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 127",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 42,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 256,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-127-area",
+        "url": "https://pokeapi.co/api/v2/location-area/421/"
+      }
+    ]
+  },
+  "476": {
+    "id": 476,
+    "name": "hoenn-route-128",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２８ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "128번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 128",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 128",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 128",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 128",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 128",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２８番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 128",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 43,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 258,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-128-area",
+        "url": "https://pokeapi.co/api/v2/location-area/422/"
+      }
+    ]
+  },
+  "477": {
+    "id": 477,
+    "name": "hoenn-route-129",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１２９ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "129번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 129",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 129",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 129",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 129",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 129",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１２９番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 129",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 44,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 260,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-129-area",
+        "url": "https://pokeapi.co/api/v2/location-area/423/"
+      }
+    ]
+  },
+  "478": {
+    "id": 478,
+    "name": "hoenn-route-130",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１３０ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "130번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 130",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 130",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 130",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 130",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 130",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１３０番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 130",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 45,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 262,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-130-area",
+        "url": "https://pokeapi.co/api/v2/location-area/424/"
+      }
+    ]
+  },
+  "479": {
+    "id": 479,
+    "name": "hoenn-route-131",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１３１ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "131번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 131",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 131",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 131",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 131",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 131",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１３１番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 131",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 46,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 264,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-131-area",
+        "url": "https://pokeapi.co/api/v2/location-area/425/"
+      }
+    ]
+  },
+  "480": {
+    "id": 480,
+    "name": "hoenn-route-132",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１３２ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "132번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 132",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 132",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 132",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 132",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 132",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１３２番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 132",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 47,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 266,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-132-area",
+        "url": "https://pokeapi.co/api/v2/location-area/426/"
+      }
+    ]
+  },
+  "481": {
+    "id": 481,
+    "name": "hoenn-route-133",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１３３ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "133번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 133",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 133",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 133",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 133",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 133",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１３３番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 133",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 48,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 268,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-133-area",
+        "url": "https://pokeapi.co/api/v2/location-area/427/"
+      }
+    ]
+  },
+  "482": {
+    "id": 482,
+    "name": "hoenn-route-134",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "１３４ばんすいどう",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "134번수로",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Chenal 134",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Route 134",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Ruta 134",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Percorso 134",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Route 134",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "１３４番水道",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Ruta 134",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 49,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 270,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-route-134-area",
+        "url": "https://pokeapi.co/api/v2/location-area/428/"
+      }
+    ]
+  },
+  "483": {
+    "id": 483,
+    "name": "hoenn-safari-zone",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "サファリゾーン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "사파리존",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Parc Safari",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Safari-Zone",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Zona Safari",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Zona Safari",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Safari Zone",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "サファリゾーン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Zona Safari",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 57,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 324,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-safari-zone-nwmach-bike-area",
+        "url": "https://pokeapi.co/api/v2/location-area/429/"
+      },
+      {
+        "name": "hoenn-safari-zone-neacro-bike-area",
+        "url": "https://pokeapi.co/api/v2/location-area/430/"
+      },
+      {
+        "name": "hoenn-safari-zone-sw",
+        "url": "https://pokeapi.co/api/v2/location-area/431/"
+      },
+      {
+        "name": "hoenn-safari-zone-se",
+        "url": "https://pokeapi.co/api/v2/location-area/432/"
+      },
+      {
+        "name": "hoenn-safari-zone-expansion-south",
+        "url": "https://pokeapi.co/api/v2/location-area/435/"
+      },
+      {
+        "name": "hoenn-safari-zone-expansion-north",
+        "url": "https://pokeapi.co/api/v2/location-area/436/"
+      }
+    ]
+  },
+  "484": {
+    "id": 484,
+    "name": "dewford-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "ムロタウン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "무로마을",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Myokara",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Faustauhaven",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Pueblo Azuliza",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Bluruvia",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Dewford Town",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "ムロタウン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Pueblo Azuliza",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 2,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 174,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "dewford-town-area",
+        "url": "https://pokeapi.co/api/v2/location-area/433/"
+      }
+    ]
+  },
+  "485": {
+    "id": 485,
+    "name": "pacifidlog-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "キナギタウン",
+        "language": {
+          "name": "ja-hrkt",
+          "url": "https://pokeapi.co/api/v2/language/1/"
+        }
+      },
+      {
+        "name": "황금마을",
+        "language": {
+          "name": "ko",
+          "url": "https://pokeapi.co/api/v2/language/3/"
+        }
+      },
+      {
+        "name": "Pacifiville",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Floßbrunn",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Pueblo Oromar",
+        "language": {
+          "name": "es",
+          "url": "https://pokeapi.co/api/v2/language/7/"
+        }
+      },
+      {
+        "name": "Orocea",
+        "language": {
+          "name": "it",
+          "url": "https://pokeapi.co/api/v2/language/8/"
+        }
+      },
+      {
+        "name": "Pacifidlog Town",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "キナギタウン",
+        "language": {
+          "name": "ja",
+          "url": "https://pokeapi.co/api/v2/language/11/"
+        }
+      },
+      {
+        "name": "Pueblo Oromar",
+        "language": {
+          "name": "es-419",
+          "url": "https://pokeapi.co/api/v2/language/14/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 6,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      },
+      {
+        "game_index": 182,
+        "generation": {
+          "name": "generation-vi",
+          "url": "https://pokeapi.co/api/v2/generation/6/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "pacifidlog-town-area",
+        "url": "https://pokeapi.co/api/v2/location-area/434/"
+      }
+    ]
+  },
+  "486": {
+    "id": 486,
+    "name": "magma-hideout",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Planque Magma",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Team Magmas Versteck",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Magma Hideout",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 198,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "magma-hideout-area",
+        "url": "https://pokeapi.co/api/v2/location-area/437/"
+      }
+    ]
+  },
+  "487": {
+    "id": 487,
+    "name": "mirage-tower",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Tour Mirage",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wunderturm",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Mirage Tower",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 199,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "mirage-tower-area",
+        "url": "https://pokeapi.co/api/v2/location-area/438/"
+      }
+    ]
+  },
+  "488": {
+    "id": 488,
+    "name": "desert-underpass",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Voie du Désert",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wüstentunnel",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Desert Underpass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 209,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "desert-underpass-area",
+        "url": "https://pokeapi.co/api/v2/location-area/439/"
+      }
+    ]
+  },
+  "489": {
+    "id": 489,
+    "name": "artisan-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Grotte Atelier",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Höhlenatelier",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Artisan Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 202,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "artisan-cave-area",
+        "url": "https://pokeapi.co/api/v2/location-area/440/"
+      }
+    ]
+  },
+  "490": {
+    "id": 490,
+    "name": "hoenn-altering-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    },
+    "names": [
+      {
+        "name": "Grotte Métamo",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wandelhöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Altering Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 210,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "hoenn-altering-cave-area",
+        "url": "https://pokeapi.co/api/v2/location-area/441/"
+      }
+    ]
+  },
+  "491": {
+    "id": 491,
+    "name": "monean-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Anemune",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Einamon-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Monean Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 188,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "monean-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/450/"
+      }
+    ]
+  },
+  "492": {
+    "id": 492,
+    "name": "liptoo-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Deulipe",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Pezwulp-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Liptoo Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 189,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "liptoo-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/451/"
+      }
+    ]
+  },
+  "493": {
+    "id": 493,
+    "name": "weepth-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Prois",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Dreiecke-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Weepth Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 190,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "weepth-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/452/"
+      }
+    ]
+  },
+  "494": {
+    "id": 494,
+    "name": "dilford-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Jonquatre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Vierzisse-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Dilford Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 191,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "dilford-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/453/"
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "name": "scufib-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Hibicinq",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Fünibisku-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Scufib Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 192,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "scufib-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/454/"
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "name": "rixy-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Irix",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Lilechs-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Rixy Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 193,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "rixy-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/455/"
+      }
+    ]
+  },
+  "497": {
+    "id": 497,
+    "name": "viapos-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Chambre Poinsept",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Sieborbia-Kammer",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Viapos Chamber",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 194,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "viapos-chamber-area",
+        "url": "https://pokeapi.co/api/v2/location-area/456/"
+      }
+    ]
+  },
+  "498": {
+    "id": 498,
+    "name": "ss-anne",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "L'Océane",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "MS Anne",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "S.S. Anne",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 41,
+        "generation": {
+          "name": "generation-i",
+          "url": "https://pokeapi.co/api/v2/generation/1/"
+        }
+      },
+      {
+        "game_index": 128,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "ss-anne-area",
+        "url": "https://pokeapi.co/api/v2/location-area/461/"
+      }
+    ]
+  },
+  "500": {
+    "id": 500,
+    "name": "mt-ember",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Mont Braise",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Glutberg",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Mt. Ember",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 175,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "mt-ember-area",
+        "url": "https://pokeapi.co/api/v2/location-area/488/"
+      },
+      {
+        "name": "mt-ember-cave",
+        "url": "https://pokeapi.co/api/v2/location-area/489/"
+      },
+      {
+        "name": "mt-ember-inside",
+        "url": "https://pokeapi.co/api/v2/location-area/490/"
+      },
+      {
+        "name": "mt-ember-1f-cave-behind-team-rocket",
+        "url": "https://pokeapi.co/api/v2/location-area/491/"
+      },
+      {
+        "name": "mt-ember-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/492/"
+      },
+      {
+        "name": "mt-ember-b2f",
+        "url": "https://pokeapi.co/api/v2/location-area/493/"
+      },
+      {
+        "name": "mt-ember-b3f",
+        "url": "https://pokeapi.co/api/v2/location-area/494/"
+      },
+      {
+        "name": "mt-ember-summit",
+        "url": "https://pokeapi.co/api/v2/location-area/825/"
+      }
+    ]
+  },
+  "501": {
+    "id": 501,
+    "name": "berry-forest",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Bois Baies",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Beerenforst",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Berry Forest",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 176,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "berry-forest-area",
+        "url": "https://pokeapi.co/api/v2/location-area/495/"
+      }
+    ]
+  },
+  "502": {
+    "id": 502,
+    "name": "icefall-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Grotte de Glace",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eiskaskadenhöhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Icefall Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 177,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "icefall-cave-entrance",
+        "url": "https://pokeapi.co/api/v2/location-area/496/"
+      },
+      {
+        "name": "icefall-cave-1f",
+        "url": "https://pokeapi.co/api/v2/location-area/497/"
+      },
+      {
+        "name": "icefall-cave-b1f",
+        "url": "https://pokeapi.co/api/v2/location-area/498/"
+      },
+      {
+        "name": "icefall-cave-waterfall",
+        "url": "https://pokeapi.co/api/v2/location-area/499/"
+      }
+    ]
+  },
+  "503": {
+    "id": 503,
+    "name": "pattern-bush",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Forbuissons",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Musterbuschwald",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Pattern Bush",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 182,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "pattern-bush-area",
+        "url": "https://pokeapi.co/api/v2/location-area/500/"
+      }
+    ]
+  },
+  "504": {
+    "id": 504,
+    "name": "lost-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Grotte Perdue",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Verlorene Höhle",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Lost Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 181,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "lost-cave-room-1",
+        "url": "https://pokeapi.co/api/v2/location-area/501/"
+      },
+      {
+        "name": "lost-cave-room-2",
+        "url": "https://pokeapi.co/api/v2/location-area/502/"
+      },
+      {
+        "name": "lost-cave-room-3",
+        "url": "https://pokeapi.co/api/v2/location-area/503/"
+      },
+      {
+        "name": "lost-cave-room-4",
+        "url": "https://pokeapi.co/api/v2/location-area/504/"
+      },
+      {
+        "name": "lost-cave-room-5",
+        "url": "https://pokeapi.co/api/v2/location-area/505/"
+      },
+      {
+        "name": "lost-cave-room-6",
+        "url": "https://pokeapi.co/api/v2/location-area/506/"
+      },
+      {
+        "name": "lost-cave-room-7",
+        "url": "https://pokeapi.co/api/v2/location-area/507/"
+      },
+      {
+        "name": "lost-cave-room-8",
+        "url": "https://pokeapi.co/api/v2/location-area/508/"
+      },
+      {
+        "name": "lost-cave-room-9",
+        "url": "https://pokeapi.co/api/v2/location-area/509/"
+      },
+      {
+        "name": "lost-cave-room-10",
+        "url": "https://pokeapi.co/api/v2/location-area/510/"
+      },
+      {
+        "name": "lost-cave-item-rooms",
+        "url": "https://pokeapi.co/api/v2/location-area/511/"
+      }
+    ]
+  },
+  "505": {
+    "id": 505,
+    "name": "kindle-road",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Route Tison",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Glühweg",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Kindle Road",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 150,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "kindle-road-area",
+        "url": "https://pokeapi.co/api/v2/location-area/512/"
+      }
+    ]
+  },
+  "506": {
+    "id": 506,
+    "name": "treasure-beach",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Plage Trésor",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Schatzgestade",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Treasure Beach",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 151,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "treasure-beach-area",
+        "url": "https://pokeapi.co/api/v2/location-area/513/"
+      }
+    ]
+  },
+  "507": {
+    "id": 507,
+    "name": "cape-brink",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Cap Falaise",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Kap Kante",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Cape Brink",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 152,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "cape-brink-area",
+        "url": "https://pokeapi.co/api/v2/location-area/514/"
+      }
+    ]
+  },
+  "508": {
+    "id": 508,
+    "name": "bond-bridge",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Pont du Lien",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Bundbrücke",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Bond Bridge",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 153,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "bond-bridge-area",
+        "url": "https://pokeapi.co/api/v2/location-area/515/"
+      }
+    ]
+  },
+  "509": {
+    "id": 509,
+    "name": "three-isle-port",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Port Ile 3",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Tri-Eiland Hafen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Three Isle Port",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 154,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "three-isle-port-area",
+        "url": "https://pokeapi.co/api/v2/location-area/516/"
+      }
+    ]
+  },
+  "510": {
+    "id": 510,
+    "name": "resort-gorgeous",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Camp de Vacances",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Ferienparadies",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Resort Gorgeous",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 159,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "resort-gorgeous-area",
+        "url": "https://pokeapi.co/api/v2/location-area/517/"
+      }
+    ]
+  },
+  "511": {
+    "id": 511,
+    "name": "water-labyrinth",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Labyrinthe d'O",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Wasserirrgarten",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Water Labyrinth",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 160,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "water-labyrinth-area",
+        "url": "https://pokeapi.co/api/v2/location-area/518/"
+      }
+    ]
+  },
+  "512": {
+    "id": 512,
+    "name": "five-isle-meadow",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    },
+    "names": [
+      {
+        "name": "Pré Ile 5",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Eiland 5-Weide",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Five Isle Meadow",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ],
+    "game_indices": [
+      {
+        "game_index": 161,
+        "generation": {
+          "name": "generation-iii",
+          "url": "https://pokeapi.co/api/v2/generation/3/"
+        }
+      }
+    ],
+    "areas": [
+      {
+        "name": "five-isle-meadow-area",
+        "url": "https://pokeapi.co/api/v2/location-area/519/"
+      }
+    ]
+  }
+}

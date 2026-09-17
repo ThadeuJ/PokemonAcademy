@@ -1,0 +1,1502 @@
+{
+  "101": {
+    "id": 101,
+    "name": "helix-fossil",
+    "names": {
+      "en": "helix-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/helix-fossil.png"
+    }
+  },
+  "102": {
+    "id": 102,
+    "name": "dome-fossil",
+    "names": {
+      "en": "dome-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dome-fossil.png"
+    }
+  },
+  "103": {
+    "id": 103,
+    "name": "old-amber",
+    "names": {
+      "en": "old-amber",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/old-amber.png"
+    }
+  },
+  "104": {
+    "id": 104,
+    "name": "armor-fossil",
+    "names": {
+      "en": "armor-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/armor-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/armor-fossil.png"
+    }
+  },
+  "105": {
+    "id": 105,
+    "name": "skull-fossil",
+    "names": {
+      "en": "skull-fossil",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/skull-fossil.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/skull-fossil.png"
+    }
+  },
+  "106": {
+    "id": 106,
+    "name": "rare-bone",
+    "names": {
+      "en": "rare-bone",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-bone.png"
+    }
+  },
+  "107": {
+    "id": 107,
+    "name": "shiny-stone",
+    "names": {
+      "en": "shiny-stone",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shiny-stone.png"
+    }
+  },
+  "108": {
+    "id": 108,
+    "name": "dusk-stone",
+    "names": {
+      "en": "dusk-stone",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dusk-stone.png"
+    }
+  },
+  "109": {
+    "id": 109,
+    "name": "dawn-stone",
+    "names": {
+      "en": "dawn-stone",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dawn-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/dawn-stone.png"
+    }
+  },
+  "110": {
+    "id": 110,
+    "name": "oval-stone",
+    "names": {
+      "en": "oval-stone",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oval-stone.png"
+    }
+  },
+  "111": {
+    "id": 111,
+    "name": "odd-keystone",
+    "names": {
+      "en": "odd-keystone",
+      "pt": null
+    },
+    "category": "dex-completion",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-keystone.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/odd-keystone.png"
+    }
+  },
+  "112": {
+    "id": 112,
+    "name": "adamant-orb",
+    "names": {
+      "en": "adamant-orb",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adamant-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/adamant-orb.png"
+    }
+  },
+  "113": {
+    "id": 113,
+    "name": "lustrous-orb",
+    "names": {
+      "en": "lustrous-orb",
+      "pt": null
+    },
+    "category": "species-specific",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lustrous-orb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lustrous-orb.png"
+    }
+  },
+  "114": {
+    "id": 114,
+    "name": "grass-mail",
+    "names": {
+      "en": "grass-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grass-mail.png"
+    }
+  },
+  "115": {
+    "id": 115,
+    "name": "flame-mail",
+    "names": {
+      "en": "flame-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/flame-mail.png"
+    }
+  },
+  "116": {
+    "id": 116,
+    "name": "bubble-mail",
+    "names": {
+      "en": "bubble-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bubble-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bubble-mail.png"
+    }
+  },
+  "117": {
+    "id": 117,
+    "name": "bloom-mail",
+    "names": {
+      "en": "bloom-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bloom-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bloom-mail.png"
+    }
+  },
+  "118": {
+    "id": 118,
+    "name": "tunnel-mail",
+    "names": {
+      "en": "tunnel-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tunnel-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tunnel-mail.png"
+    }
+  },
+  "119": {
+    "id": 119,
+    "name": "steel-mail",
+    "names": {
+      "en": "steel-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/steel-mail.png"
+    }
+  },
+  "120": {
+    "id": 120,
+    "name": "heart-mail",
+    "names": {
+      "en": "heart-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/heart-mail.png"
+    }
+  },
+  "121": {
+    "id": 121,
+    "name": "snow-mail",
+    "names": {
+      "en": "snow-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snow-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/snow-mail.png"
+    }
+  },
+  "122": {
+    "id": 122,
+    "name": "space-mail",
+    "names": {
+      "en": "space-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/space-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/space-mail.png"
+    }
+  },
+  "123": {
+    "id": 123,
+    "name": "air-mail",
+    "names": {
+      "en": "air-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/air-mail.png"
+    }
+  },
+  "124": {
+    "id": 124,
+    "name": "mosaic-mail",
+    "names": {
+      "en": "mosaic-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mosaic-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mosaic-mail.png"
+    }
+  },
+  "125": {
+    "id": 125,
+    "name": "brick-mail",
+    "names": {
+      "en": "brick-mail",
+      "pt": null
+    },
+    "category": "all-mail",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/brick-mail.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/brick-mail.png"
+    }
+  },
+  "126": {
+    "id": 126,
+    "name": "cheri-berry",
+    "names": {
+      "en": "cheri-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cheri-berry.png"
+    }
+  },
+  "127": {
+    "id": 127,
+    "name": "chesto-berry",
+    "names": {
+      "en": "chesto-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chesto-berry.png"
+    }
+  },
+  "128": {
+    "id": 128,
+    "name": "pecha-berry",
+    "names": {
+      "en": "pecha-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pecha-berry.png"
+    }
+  },
+  "129": {
+    "id": 129,
+    "name": "rawst-berry",
+    "names": {
+      "en": "rawst-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rawst-berry.png"
+    }
+  },
+  "130": {
+    "id": 130,
+    "name": "aspear-berry",
+    "names": {
+      "en": "aspear-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aspear-berry.png"
+    }
+  },
+  "131": {
+    "id": 131,
+    "name": "leppa-berry",
+    "names": {
+      "en": "leppa-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leppa-berry.png"
+    }
+  },
+  "132": {
+    "id": 132,
+    "name": "oran-berry",
+    "names": {
+      "en": "oran-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/oran-berry.png"
+    }
+  },
+  "133": {
+    "id": 133,
+    "name": "persim-berry",
+    "names": {
+      "en": "persim-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/persim-berry.png"
+    }
+  },
+  "134": {
+    "id": 134,
+    "name": "lum-berry",
+    "names": {
+      "en": "lum-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lum-berry.png"
+    }
+  },
+  "135": {
+    "id": 135,
+    "name": "sitrus-berry",
+    "names": {
+      "en": "sitrus-berry",
+      "pt": null
+    },
+    "category": "medicine",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/sitrus-berry.png"
+    }
+  },
+  "136": {
+    "id": 136,
+    "name": "figy-berry",
+    "names": {
+      "en": "figy-berry",
+      "pt": null
+    },
+    "category": "picky-healing",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/figy-berry.png"
+    }
+  },
+  "137": {
+    "id": 137,
+    "name": "wiki-berry",
+    "names": {
+      "en": "wiki-berry",
+      "pt": null
+    },
+    "category": "picky-healing",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wiki-berry.png"
+    }
+  },
+  "138": {
+    "id": 138,
+    "name": "mago-berry",
+    "names": {
+      "en": "mago-berry",
+      "pt": null
+    },
+    "category": "picky-healing",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mago-berry.png"
+    }
+  },
+  "139": {
+    "id": 139,
+    "name": "aguav-berry",
+    "names": {
+      "en": "aguav-berry",
+      "pt": null
+    },
+    "category": "picky-healing",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/aguav-berry.png"
+    }
+  },
+  "140": {
+    "id": 140,
+    "name": "iapapa-berry",
+    "names": {
+      "en": "iapapa-berry",
+      "pt": null
+    },
+    "category": "picky-healing",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/iapapa-berry.png"
+    }
+  },
+  "141": {
+    "id": 141,
+    "name": "razz-berry",
+    "names": {
+      "en": "razz-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/razz-berry.png"
+    }
+  },
+  "142": {
+    "id": 142,
+    "name": "bluk-berry",
+    "names": {
+      "en": "bluk-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bluk-berry.png"
+    }
+  },
+  "143": {
+    "id": 143,
+    "name": "nanab-berry",
+    "names": {
+      "en": "nanab-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nanab-berry.png"
+    }
+  },
+  "144": {
+    "id": 144,
+    "name": "wepear-berry",
+    "names": {
+      "en": "wepear-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wepear-berry.png"
+    }
+  },
+  "145": {
+    "id": 145,
+    "name": "pinap-berry",
+    "names": {
+      "en": "pinap-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pinap-berry.png"
+    }
+  },
+  "146": {
+    "id": 146,
+    "name": "pomeg-berry",
+    "names": {
+      "en": "pomeg-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pomeg-berry.png"
+    }
+  },
+  "147": {
+    "id": 147,
+    "name": "kelpsy-berry",
+    "names": {
+      "en": "kelpsy-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kelpsy-berry.png"
+    }
+  },
+  "148": {
+    "id": 148,
+    "name": "qualot-berry",
+    "names": {
+      "en": "qualot-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/qualot-berry.png"
+    }
+  },
+  "149": {
+    "id": 149,
+    "name": "hondew-berry",
+    "names": {
+      "en": "hondew-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/hondew-berry.png"
+    }
+  },
+  "150": {
+    "id": 150,
+    "name": "grepa-berry",
+    "names": {
+      "en": "grepa-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/grepa-berry.png"
+    }
+  },
+  "151": {
+    "id": 151,
+    "name": "tamato-berry",
+    "names": {
+      "en": "tamato-berry",
+      "pt": null
+    },
+    "category": "effort-drop",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tamato-berry.png"
+    }
+  },
+  "152": {
+    "id": 152,
+    "name": "cornn-berry",
+    "names": {
+      "en": "cornn-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/cornn-berry.png"
+    }
+  },
+  "153": {
+    "id": 153,
+    "name": "magost-berry",
+    "names": {
+      "en": "magost-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/magost-berry.png"
+    }
+  },
+  "154": {
+    "id": 154,
+    "name": "rabuta-berry",
+    "names": {
+      "en": "rabuta-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rabuta-berry.png"
+    }
+  },
+  "155": {
+    "id": 155,
+    "name": "nomel-berry",
+    "names": {
+      "en": "nomel-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/nomel-berry.png"
+    }
+  },
+  "156": {
+    "id": 156,
+    "name": "spelon-berry",
+    "names": {
+      "en": "spelon-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/spelon-berry.png"
+    }
+  },
+  "157": {
+    "id": 157,
+    "name": "pamtre-berry",
+    "names": {
+      "en": "pamtre-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/pamtre-berry.png"
+    }
+  },
+  "158": {
+    "id": 158,
+    "name": "watmel-berry",
+    "names": {
+      "en": "watmel-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/watmel-berry.png"
+    }
+  },
+  "159": {
+    "id": 159,
+    "name": "durin-berry",
+    "names": {
+      "en": "durin-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/durin-berry.png"
+    }
+  },
+  "160": {
+    "id": 160,
+    "name": "belue-berry",
+    "names": {
+      "en": "belue-berry",
+      "pt": null
+    },
+    "category": "baking-only",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/belue-berry.png"
+    }
+  },
+  "161": {
+    "id": 161,
+    "name": "occa-berry",
+    "names": {
+      "en": "occa-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/occa-berry.png"
+    }
+  },
+  "162": {
+    "id": 162,
+    "name": "passho-berry",
+    "names": {
+      "en": "passho-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/passho-berry.png"
+    }
+  },
+  "163": {
+    "id": 163,
+    "name": "wacan-berry",
+    "names": {
+      "en": "wacan-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/wacan-berry.png"
+    }
+  },
+  "164": {
+    "id": 164,
+    "name": "rindo-berry",
+    "names": {
+      "en": "rindo-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rindo-berry.png"
+    }
+  },
+  "165": {
+    "id": 165,
+    "name": "yache-berry",
+    "names": {
+      "en": "yache-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/yache-berry.png"
+    }
+  },
+  "166": {
+    "id": 166,
+    "name": "chople-berry",
+    "names": {
+      "en": "chople-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chople-berry.png"
+    }
+  },
+  "167": {
+    "id": 167,
+    "name": "kebia-berry",
+    "names": {
+      "en": "kebia-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kebia-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kebia-berry.png"
+    }
+  },
+  "168": {
+    "id": 168,
+    "name": "shuca-berry",
+    "names": {
+      "en": "shuca-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/shuca-berry.png"
+    }
+  },
+  "169": {
+    "id": 169,
+    "name": "coba-berry",
+    "names": {
+      "en": "coba-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/coba-berry.png"
+    }
+  },
+  "170": {
+    "id": 170,
+    "name": "payapa-berry",
+    "names": {
+      "en": "payapa-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/payapa-berry.png"
+    }
+  },
+  "171": {
+    "id": 171,
+    "name": "tanga-berry",
+    "names": {
+      "en": "tanga-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tanga-berry.png"
+    }
+  },
+  "172": {
+    "id": 172,
+    "name": "charti-berry",
+    "names": {
+      "en": "charti-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/charti-berry.png"
+    }
+  },
+  "173": {
+    "id": 173,
+    "name": "kasib-berry",
+    "names": {
+      "en": "kasib-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kasib-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kasib-berry.png"
+    }
+  },
+  "174": {
+    "id": 174,
+    "name": "haban-berry",
+    "names": {
+      "en": "haban-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/haban-berry.png"
+    }
+  },
+  "175": {
+    "id": 175,
+    "name": "colbur-berry",
+    "names": {
+      "en": "colbur-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/colbur-berry.png"
+    }
+  },
+  "176": {
+    "id": 176,
+    "name": "babiri-berry",
+    "names": {
+      "en": "babiri-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/babiri-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/babiri-berry.png"
+    }
+  },
+  "177": {
+    "id": 177,
+    "name": "chilan-berry",
+    "names": {
+      "en": "chilan-berry",
+      "pt": null
+    },
+    "category": "type-protection",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chilan-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/chilan-berry.png"
+    }
+  },
+  "178": {
+    "id": 178,
+    "name": "liechi-berry",
+    "names": {
+      "en": "liechi-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/liechi-berry.png"
+    }
+  },
+  "179": {
+    "id": 179,
+    "name": "ganlon-berry",
+    "names": {
+      "en": "ganlon-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ganlon-berry.png"
+    }
+  },
+  "180": {
+    "id": 180,
+    "name": "salac-berry",
+    "names": {
+      "en": "salac-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/salac-berry.png"
+    }
+  },
+  "181": {
+    "id": 181,
+    "name": "petaya-berry",
+    "names": {
+      "en": "petaya-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/petaya-berry.png"
+    }
+  },
+  "182": {
+    "id": 182,
+    "name": "apicot-berry",
+    "names": {
+      "en": "apicot-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/apicot-berry.png"
+    }
+  },
+  "183": {
+    "id": 183,
+    "name": "lansat-berry",
+    "names": {
+      "en": "lansat-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/lansat-berry.png"
+    }
+  },
+  "184": {
+    "id": 184,
+    "name": "starf-berry",
+    "names": {
+      "en": "starf-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/starf-berry.png"
+    }
+  },
+  "185": {
+    "id": 185,
+    "name": "enigma-berry",
+    "names": {
+      "en": "enigma-berry",
+      "pt": null
+    },
+    "category": "other",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/enigma-berry.png"
+    }
+  },
+  "186": {
+    "id": 186,
+    "name": "micle-berry",
+    "names": {
+      "en": "micle-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/micle-berry.png"
+    }
+  },
+  "187": {
+    "id": 187,
+    "name": "custap-berry",
+    "names": {
+      "en": "custap-berry",
+      "pt": null
+    },
+    "category": "in-a-pinch",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/custap-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/custap-berry.png"
+    }
+  },
+  "188": {
+    "id": 188,
+    "name": "jaboca-berry",
+    "names": {
+      "en": "jaboca-berry",
+      "pt": null
+    },
+    "category": "other",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaboca-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/jaboca-berry.png"
+    }
+  },
+  "189": {
+    "id": 189,
+    "name": "rowap-berry",
+    "names": {
+      "en": "rowap-berry",
+      "pt": null
+    },
+    "category": "other",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rowap-berry.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rowap-berry.png"
+    }
+  },
+  "190": {
+    "id": 190,
+    "name": "bright-powder",
+    "names": {
+      "en": "bright-powder",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/bright-powder.png"
+    }
+  },
+  "191": {
+    "id": 191,
+    "name": "white-herb",
+    "names": {
+      "en": "white-herb",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/white-herb.png"
+    }
+  },
+  "192": {
+    "id": 192,
+    "name": "macho-brace",
+    "names": {
+      "en": "macho-brace",
+      "pt": null
+    },
+    "category": "effort-training",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/macho-brace.png"
+    }
+  },
+  "193": {
+    "id": 193,
+    "name": "exp-share",
+    "names": {
+      "en": "exp-share",
+      "pt": null
+    },
+    "category": "training",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/exp-share.png"
+    }
+  },
+  "194": {
+    "id": 194,
+    "name": "quick-claw",
+    "names": {
+      "en": "quick-claw",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/quick-claw.png"
+    }
+  },
+  "195": {
+    "id": 195,
+    "name": "soothe-bell",
+    "names": {
+      "en": "soothe-bell",
+      "pt": null
+    },
+    "category": "training",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/soothe-bell.png"
+    }
+  },
+  "196": {
+    "id": 196,
+    "name": "mental-herb",
+    "names": {
+      "en": "mental-herb",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/mental-herb.png"
+    }
+  },
+  "197": {
+    "id": 197,
+    "name": "choice-band",
+    "names": {
+      "en": "choice-band",
+      "pt": null
+    },
+    "category": "choice",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-band.png"
+    }
+  },
+  "198": {
+    "id": 198,
+    "name": "kings-rock",
+    "names": {
+      "en": "kings-rock",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/kings-rock.png"
+    }
+  },
+  "199": {
+    "id": 199,
+    "name": "silver-powder",
+    "names": {
+      "en": "silver-powder",
+      "pt": null
+    },
+    "category": "type-enhancement",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/silver-powder.png"
+    }
+  },
+  "200": {
+    "id": 200,
+    "name": "amulet-coin",
+    "names": {
+      "en": "amulet-coin",
+      "pt": null
+    },
+    "category": "training",
+    "cost": null,
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png",
+    "effect": null,
+    "sprites": {
+      "default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/amulet-coin.png"
+    }
+  }
+}

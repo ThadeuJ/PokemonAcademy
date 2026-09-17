@@ -1,0 +1,1507 @@
+{
+  "1": {
+    "id": 1,
+    "name": "walk",
+    "order": 1,
+    "names": [
+      {
+        "name": "Im hohen Gras oder in einer Höhle laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in tall grass or a cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les herbes hautes ou une grotte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "old-rod",
+    "order": 10,
+    "names": [
+      {
+        "name": "Mit einer normalen Angel angeln",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fishing with an Old Rod",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant avec une Canne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "good-rod",
+    "order": 11,
+    "names": [
+      {
+        "name": "Mit einer Profiangel angeln",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fishing with a Good Rod",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant avec une Super Canne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "super-rod",
+    "order": 12,
+    "names": [
+      {
+        "name": "Mit einer Superangel angeln",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fishing with a Super Rod",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant avec une Méga Canne",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "surf",
+    "order": 14,
+    "names": [
+      {
+        "name": "Surfen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Surfing",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En surfant",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "rock-smash",
+    "order": 16,
+    "names": [
+      {
+        "name": "Steine zertrümmern",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Smashing rocks",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En brisant des rochers",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "headbutt",
+    "order": 17,
+    "names": [
+      {
+        "name": "Bäumen Kopfnüsse geben",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Headbutting trees",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant Coup d’Boule sur un arbre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "dark-grass",
+    "order": 5,
+    "names": [
+      {
+        "name": "Im dunklen Gras laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in dark grass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les herbes sombres",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "grass-spots",
+    "order": 2,
+    "names": [
+      {
+        "name": "Im raschelndem Gras laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in rustling grass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les herbes mouvantes",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "cave-spots",
+    "order": 3,
+    "names": [
+      {
+        "name": "In Staubwolken laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in dust clouds",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans un nuage de poussière",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "bridge-spots",
+    "order": 4,
+    "names": [
+      {
+        "name": "Im Schatten einer Brücke laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in bridge shadows",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant à l’ombre d’un pont",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "super-rod-spots",
+    "order": 13,
+    "names": [
+      {
+        "name": "An dunklen stellen angeln",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Fishing in dark spots",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant dans les endroits sombres",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "surf-spots",
+    "order": 15,
+    "names": [
+      {
+        "name": "An dunklen stellen surfen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Surfing in dark spots",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En surfant sur les endroits sombres",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "yellow-flowers",
+    "order": 6,
+    "names": [
+      {
+        "name": "In gelben Blumenfeldern laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in yellow flowers",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les fleurs jaunes",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "purple-flowers",
+    "order": 7,
+    "names": [
+      {
+        "name": "In violetten Blumenfeldern laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in purple flowers",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les fleurs violettes",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "red-flowers",
+    "order": 8,
+    "names": [
+      {
+        "name": "In roten Blumenfeldern laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking in red flowers",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans les fleurs rouges",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "rough-terrain",
+    "order": 9,
+    "names": [
+      {
+        "name": "Auf unwegsamen Gelände laufen",
+        "language": {
+          "name": "de",
+          "url": "https://pokeapi.co/api/v2/language/6/"
+        }
+      },
+      {
+        "name": "Walking on rough terrain",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant sur un terrain accidenté",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "gift",
+    "order": 18,
+    "names": [
+      {
+        "name": "Receive as a gift",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Reçu en cadeau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "gift-egg",
+    "order": 19,
+    "names": [
+      {
+        "name": "Receive egg as a gift",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Œuf reçu en cadeau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "static",
+    "order": 20,
+    "names": [
+      {
+        "name": "Static encounter",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Rencontre statique",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "pokeflute",
+    "order": 21,
+    "names": [
+      {
+        "name": "Playing Pokéflute",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En jouant de la Pokéflûte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "headbutt-low",
+    "order": 22,
+    "names": [
+      {
+        "name": "Headbutting a low encounter rate tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant Coup d’Boule sur un arbre à taux bas",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "headbutt-normal",
+    "order": 23,
+    "names": [
+      {
+        "name": "Headbutting a normal encounter rate tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant Coup d’Boule sur un arbre à taux normal",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "headbutt-high",
+    "order": 24,
+    "names": [
+      {
+        "name": "Headbutting a high encounter rate tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant Coup d’Boule sur un arbre à taux élevé",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "name": "squirt-bottle",
+    "order": 25,
+    "names": [
+      {
+        "name": "Using the Squirt Bottle on a Sudowoodo",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant la Carapuce à O sur Simularbre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "wailmer-pail",
+    "order": 26,
+    "names": [
+      {
+        "name": "Using the Wailmer Pail on a Sudowoodo",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant le Seau Wailmer / Wailmerrosoir sur Simularbre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "seaweed",
+    "order": 27,
+    "names": [
+      {
+        "name": "Diving on seaweed",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En plongeant dans les algues",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "roaming-grass",
+    "order": 28,
+    "names": [
+      {
+        "name": "On any overworld patch of grass",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Dans les herbes",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "29": {
+    "id": 29,
+    "name": "roaming-water",
+    "order": 29,
+    "names": [
+      {
+        "name": "On any overworld water tile",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Sur l’eau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "devon-scope",
+    "order": 30,
+    "names": [
+      {
+        "name": "Using Devon Scope",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En utilisant le Devon Scope",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "feebas-tile-fishing",
+    "order": 31,
+    "names": [
+      {
+        "name": "Fishing in a Feebas Tile",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant sur une tuile à Barpau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "island-scan",
+    "order": 32,
+    "names": [
+      {
+        "name": "Island Scan",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Scan des Îles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "sos",
+    "order": 33,
+    "names": [
+      {
+        "name": "SOS Battle",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Combat SOS",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "bubbling-spots",
+    "order": 34,
+    "names": [
+      {
+        "name": "Fishing at bubbling spots in the water",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En pêchant sur un point à bulles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "berry-trees",
+    "order": 35,
+    "names": [
+      {
+        "name": "Interacting with a Berry Tree",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En interagissant avec un arbre à baies",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "npc-trade",
+    "order": 36,
+    "names": [
+      {
+        "name": "Trade with an NPC",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Échange avec un PNJ",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "name": "sos-from-bubbling-spot",
+    "order": 37,
+    "names": [
+      {
+        "name": "SOS Battle from bubbling spots",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Combat SOS dans les points à bulles",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "overworld",
+    "order": 38,
+    "names": [
+      {
+        "name": "Walking in the overworld",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En marchant dans le monde extérieur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "overworld-water",
+    "order": 39,
+    "names": [
+      {
+        "name": "Surfing in the overworld",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "En surfant dans le monde extérieur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "overworld-flying",
+    "order": 40,
+    "names": [
+      {
+        "name": "Flying Pokemon in the sky",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Pokemon volant dans le ciel",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "name": "overworld-special",
+    "order": 41,
+    "names": [
+      {
+        "name": "Rare spawn in grass with lure or catch combo",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Apparition rare dans les herbes avec un parfum ou un combo capture",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "overworld-flying-special",
+    "order": 42,
+    "names": [
+      {
+        "name": "Apparition rare dans le ciel avec un parfum ou un combo capture",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Rare spawn in the sky with lure or catch combo",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "overworld-water-special",
+    "order": 43,
+    "names": [
+      {
+        "name": "Apparition rare dans l'eau avec un parfum ou un combo capture",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      },
+      {
+        "name": "Rare spawn in water with lure or catch combo",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      }
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "horde",
+    "order": 44,
+    "names": [
+      {
+        "name": "Encountering 5 Pokemon within grass, flowers, or within a cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Rencontrer 5 Pokémon dans l'herbe, les fleurs ou une grotte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "colosseum-bonus-disc-us",
+    "order": 45,
+    "names": [
+      {
+        "name": "Receiving a Jirachi from the USA Colosseum Bonus Disc",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir un Jirachi depuis le disque bonus Pokémon Colosseum aux États-Unis",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "colosseum-bonus-disc-jpn",
+    "order": 46,
+    "names": [
+      {
+        "name": "Receiving a Celebi or Pikachu from the Japanese Colosseum Bonus Disc",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir depuis le disque bonus Pokemon Colosseum au Japon",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "pokemon-channel-pal",
+    "order": 47,
+    "names": [
+      {
+        "name": "Receiving a Jirachi from the PAL copy of Pokemon channel",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir depuis la version PAL de Pokémon Channel",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "name": "pokemon-ranger",
+    "order": 48,
+    "names": [
+      {
+        "name": "Receiving a Manaphy from Pokemon Ranger",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir un œuf depuis Pokémon Ranger",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "pokemon-battle-revolution",
+    "order": 49,
+    "names": [
+      {
+        "name": "Receiving a Pikachu, Electivire, or Magmar from Pokemon Battle Revolution",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir depuis Pokémon Battle Revolution",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "new-york-pokecenter-wish-eggs",
+    "order": 50,
+    "names": [
+      {
+        "name": "Receiving an egg from the Pokemon center in New York City that contains the special move Wish.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Recevoir un œuf du Pokémon Center de New York contenant l'attaque spéciale Vœu",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "snag",
+    "order": 51,
+    "names": [
+      {
+        "name": "Snagging a Pokemon from a trainer in Pokemon Colosseum or Pokemon XD: Gale of Darkness.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Snatcher un Pokémon d'un dresseur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "52": {
+    "id": 52,
+    "name": "snag-rematch",
+    "order": 52,
+    "names": [
+      {
+        "name": "Snagging a Pokemon from a trainer in Pokemon Colosseum or Pokemon XD: Gale of Darkness, after you have failed to capture them once.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Snatcher un Pokémon d'un dresseur, après avoir manqué la capture une première fois",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "pokespot",
+    "order": 53,
+    "names": [
+      {
+        "name": "Finding a Wild Pokemon at any of the three Pokespots in Pokemon XD: Gale of Darkness.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Poké Place",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "54": {
+    "id": 54,
+    "name": "hidden-grotto",
+    "order": 54,
+    "names": [
+      {
+        "name": "Finding a Pokemon in a Hidden Grotto",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Trouée cachée",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "honey-tree",
+    "order": 55,
+    "names": [
+      {
+        "name": "Slathering a Honey Tree with Honey and waiting for a Pokémon to appear.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Arbre à Miel",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "56": {
+    "id": 56,
+    "name": "overworld-dirt",
+    "order": 56,
+    "names": [
+      {
+        "name": "Overworld spawn coming from underground or within a swamp.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Apparition dans le monde extérieur depuis sous-terre ou un marais",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "wanderer",
+    "order": 57,
+    "names": [
+      {
+        "name": "Special overworld spawn in a fixed location.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Apparition sur un emplacement fixe dans le monde extérieur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "58": {
+    "id": 58,
+    "name": "wanderer-water",
+    "order": 58,
+    "names": [
+      {
+        "name": "Special overworld spawn in a fixed location in the water.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Apparition sur un emplacement fixe sur l'eau dans le monde extérieur",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "59": {
+    "id": 59,
+    "name": "chase-water",
+    "order": 59,
+    "names": [
+      {
+        "name": "Get chased by territorial Pokémon when entering the water.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Se faire poursuivre par un Pokémon territorial dans l'eau",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "60": {
+    "id": 60,
+    "name": "dynamax-adventure",
+    "order": 60,
+    "names": [
+      {
+        "name": "Capture during a Dynamax Adventure.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Expédition Dynamax",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "61": {
+    "id": 61,
+    "name": "max-raid",
+    "order": 61,
+    "names": [
+      {
+        "name": "Catch a wild Dynamax or Gigantamax Pokémon in a Max Raid battle.",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Raid Dynamax",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "62": {
+    "id": 62,
+    "name": "trash-can-ambush",
+    "order": 62,
+    "names": [
+      {
+        "name": "Ambushed by a Wild Pokemon from a Trash Can",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Embuscade depuis une poubelle",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "63": {
+    "id": 63,
+    "name": "rustling-bush-ambush",
+    "order": 63,
+    "names": [
+      {
+        "name": "Ambushed by a Wild Pokemon from a Rustling Bush",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Embuscade depuis un buisson qui remue",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "ceiling-ambush",
+    "order": 64,
+    "names": [
+      {
+        "name": "Ambushed by a Wild Pokemon from the Ceiling of a Cave",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Embuscade depuis le plafond d'une grotte",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "ground-ambush",
+    "order": 65,
+    "names": [
+      {
+        "name": "Ambushed by a Wild Pokemon from the Ground",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Embuscade depuis la terre",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  },
+  "66": {
+    "id": 66,
+    "name": "sky-ambush",
+    "order": 66,
+    "names": [
+      {
+        "name": "Ambushed by a Wild Pokemon from the Sky",
+        "language": {
+          "name": "en",
+          "url": "https://pokeapi.co/api/v2/language/9/"
+        }
+      },
+      {
+        "name": "Embuscade depuis le ciel",
+        "language": {
+          "name": "fr",
+          "url": "https://pokeapi.co/api/v2/language/5/"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "510": {
+    "id": 510,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "flamigo",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/973/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "511": {
+    "id": 511,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "cetoddle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/974/"
+      },
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "is_baby": false,
+          "species": {
+            "name": "cetitan",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/975/"
+          },
+          "evolution_details": [
+            {
+              "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokeapi.co/api/v2/version-group/25/"
+              },
+              "is_default": true,
+              "item": {
+                "name": "ice-stone",
+                "url": "https://pokeapi.co/api/v2/item/885/"
+              },
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": null,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "base_form": null,
+              "evolved_form": null,
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null
+            }
+          ],
+          "evolves_to": []
+        }
+      ]
+    }
+  },
+  "512": {
+    "id": 512,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "veluza",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/976/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "513": {
+    "id": 513,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "dondozo",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/977/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "514": {
+    "id": 514,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "tatsugiri",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/978/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "515": {
+    "id": 515,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "great-tusk",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/984/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "516": {
+    "id": 516,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "scream-tail",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/985/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "517": {
+    "id": 517,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "brute-bonnet",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/986/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "518": {
+    "id": 518,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "flutter-mane",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/987/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "519": {
+    "id": 519,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "slither-wing",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/988/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "520": {
+    "id": 520,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "sandy-shocks",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/989/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "521": {
+    "id": 521,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-treads",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/990/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "522": {
+    "id": 522,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-bundle",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/991/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "523": {
+    "id": 523,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-hands",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/992/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "524": {
+    "id": 524,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-jugulis",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/993/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "525": {
+    "id": 525,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-moth",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/994/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "526": {
+    "id": 526,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-thorns",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/995/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "527": {
+    "id": 527,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "frigibax",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/996/"
+      },
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "is_baby": false,
+          "species": {
+            "name": "arctibax",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/997/"
+          },
+          "evolution_details": [
+            {
+              "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokeapi.co/api/v2/version-group/25/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "level-up",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": 35,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "base_form": null,
+              "evolved_form": null,
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null
+            }
+          ],
+          "evolves_to": [
+            {
+              "is_baby": false,
+              "species": {
+                "name": "baxcalibur",
+                "url": "https://pokeapi.co/api/v2/pokemon-species/998/"
+              },
+              "evolution_details": [
+                {
+                  "version_group": {
+                    "name": "scarlet-violet",
+                    "url": "https://pokeapi.co/api/v2/version-group/25/"
+                  },
+                  "is_default": true,
+                  "item": null,
+                  "trigger": {
+                    "name": "level-up",
+                    "url": "https://pokeapi.co/api/v2/evolution-trigger/1/"
+                  },
+                  "gender": null,
+                  "held_item": null,
+                  "known_move": null,
+                  "known_move_type": null,
+                  "location": null,
+                  "min_level": 54,
+                  "min_happiness": null,
+                  "min_beauty": null,
+                  "min_affection": null,
+                  "near_special_rock": false,
+                  "needs_multiplayer": false,
+                  "needs_overworld_rain": false,
+                  "party_species": null,
+                  "party_type": null,
+                  "relative_physical_stats": null,
+                  "time_of_day": "",
+                  "trade_species": null,
+                  "turn_upside_down": false,
+                  "region": null,
+                  "base_form": null,
+                  "evolved_form": null,
+                  "used_move": null,
+                  "min_move_count": null,
+                  "min_steps": null,
+                  "min_damage_taken": null
+                }
+              ],
+              "evolves_to": []
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "528": {
+    "id": 528,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "gimmighoul",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/999/"
+      },
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "is_baby": false,
+          "species": {
+            "name": "gholdengo",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/1000/"
+          },
+          "evolution_details": [
+            {
+              "version_group": {
+                "name": "scarlet-violet",
+                "url": "https://pokeapi.co/api/v2/version-group/25/"
+              },
+              "is_default": true,
+              "item": null,
+              "trigger": {
+                "name": "gimmighoul-coins",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/16/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": null,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "base_form": null,
+              "evolved_form": null,
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null
+            }
+          ],
+          "evolves_to": []
+        }
+      ]
+    }
+  },
+  "529": {
+    "id": 529,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "wo-chien",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1001/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "530": {
+    "id": 530,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "chien-pao",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1002/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "531": {
+    "id": 531,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "ting-lu",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1003/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "532": {
+    "id": 532,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "chi-yu",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1004/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "533": {
+    "id": 533,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "roaring-moon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1005/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "534": {
+    "id": 534,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-valiant",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1006/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "535": {
+    "id": 535,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "koraidon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1007/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "536": {
+    "id": 536,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "miraidon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1008/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "537": {
+    "id": 537,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "walking-wake",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1009/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "538": {
+    "id": 538,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-leaves",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1010/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "539": {
+    "id": 539,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "poltchageist",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1012/"
+      },
+      "evolution_details": [],
+      "evolves_to": [
+        {
+          "is_baby": false,
+          "species": {
+            "name": "sinistcha",
+            "url": "https://pokeapi.co/api/v2/pokemon-species/1013/"
+          },
+          "evolution_details": [
+            {
+              "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokeapi.co/api/v2/version-group/26/"
+              },
+              "is_default": true,
+              "item": {
+                "name": "unremarkable-teacup",
+                "url": "https://pokeapi.co/api/v2/item/2110/"
+              },
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": null,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "base_form": null,
+              "evolved_form": null,
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null
+            },
+            {
+              "version_group": {
+                "name": "the-teal-mask",
+                "url": "https://pokeapi.co/api/v2/version-group/26/"
+              },
+              "is_default": true,
+              "item": {
+                "name": "masterpiece-teacup",
+                "url": "https://pokeapi.co/api/v2/item/2111/"
+              },
+              "trigger": {
+                "name": "use-item",
+                "url": "https://pokeapi.co/api/v2/evolution-trigger/3/"
+              },
+              "gender": null,
+              "held_item": null,
+              "known_move": null,
+              "known_move_type": null,
+              "location": null,
+              "min_level": null,
+              "min_happiness": null,
+              "min_beauty": null,
+              "min_affection": null,
+              "near_special_rock": false,
+              "needs_multiplayer": false,
+              "needs_overworld_rain": false,
+              "party_species": null,
+              "party_type": null,
+              "relative_physical_stats": null,
+              "time_of_day": "",
+              "trade_species": null,
+              "turn_upside_down": false,
+              "region": null,
+              "base_form": null,
+              "evolved_form": null,
+              "used_move": null,
+              "min_move_count": null,
+              "min_steps": null,
+              "min_damage_taken": null
+            }
+          ],
+          "evolves_to": []
+        }
+      ]
+    }
+  },
+  "540": {
+    "id": 540,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "okidogi",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1014/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "541": {
+    "id": 541,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "munkidori",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1015/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "542": {
+    "id": 542,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "fezandipiti",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1016/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "543": {
+    "id": 543,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "ogerpon",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1017/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "544": {
+    "id": 544,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "gouging-fire",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1020/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "545": {
+    "id": 545,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "raging-bolt",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1021/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "546": {
+    "id": 546,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-crown",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1023/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "547": {
+    "id": 547,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "iron-boulder",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1022/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "548": {
+    "id": 548,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "terapagos",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1024/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  },
+  "549": {
+    "id": 549,
+    "baby_trigger_item": null,
+    "chain": {
+      "is_baby": false,
+      "species": {
+        "name": "pecharunt",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/1025/"
+      },
+      "evolution_details": [],
+      "evolves_to": []
+    }
+  }
+}

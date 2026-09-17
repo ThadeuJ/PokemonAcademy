@@ -1,0 +1,1502 @@
+{
+  "1652": {
+    "id": 1652,
+    "name": "black-mane-hair",
+    "names": {
+      "en": "black-mane-hair",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1653": {
+    "id": 1653,
+    "name": "iceroot-carrot",
+    "names": {
+      "en": "iceroot-carrot",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1654": {
+    "id": 1654,
+    "name": "shaderoot-carrot",
+    "names": {
+      "en": "shaderoot-carrot",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1655": {
+    "id": 1655,
+    "name": "dynite-ore",
+    "names": {
+      "en": "dynite-ore",
+      "pt": null
+    },
+    "category": "collectibles",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1656": {
+    "id": 1656,
+    "name": "carrot-seeds",
+    "names": {
+      "en": "carrot-seeds",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1657": {
+    "id": 1657,
+    "name": "ability-patch",
+    "names": {
+      "en": "ability-patch",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1658": {
+    "id": 1658,
+    "name": "reins-of-unity",
+    "names": {
+      "en": "reins-of-unity",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1659": {
+    "id": 1659,
+    "name": "adamant-crystal",
+    "names": {
+      "en": "adamant-crystal",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1660": {
+    "id": 1660,
+    "name": "lustrous-globe",
+    "names": {
+      "en": "lustrous-globe",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1661": {
+    "id": 1661,
+    "name": "griseous-core",
+    "names": {
+      "en": "griseous-core",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1662": {
+    "id": 1662,
+    "name": "blank-plate",
+    "names": {
+      "en": "blank-plate",
+      "pt": null
+    },
+    "category": "plates",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1663": {
+    "id": 1663,
+    "name": "strange-ball",
+    "names": {
+      "en": "strange-ball",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1664": {
+    "id": 1664,
+    "name": "legend-plate",
+    "names": {
+      "en": "legend-plate",
+      "pt": null
+    },
+    "category": "plates",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1665": {
+    "id": 1665,
+    "name": "rotom-phone",
+    "names": {
+      "en": "rotom-phone",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1666": {
+    "id": 1666,
+    "name": "sandwich",
+    "names": {
+      "en": "sandwich",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1667": {
+    "id": 1667,
+    "name": "koraidons-poke-ball",
+    "names": {
+      "en": "koraidons-poke-ball",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1668": {
+    "id": 1668,
+    "name": "miraidons-poke-ball",
+    "names": {
+      "en": "miraidons-poke-ball",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1669": {
+    "id": 1669,
+    "name": "tera-orb",
+    "names": {
+      "en": "tera-orb",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1670": {
+    "id": 1670,
+    "name": "scarlet-book",
+    "names": {
+      "en": "scarlet-book",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1671": {
+    "id": 1671,
+    "name": "violet-book",
+    "names": {
+      "en": "violet-book",
+      "pt": null
+    },
+    "category": "event-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1672": {
+    "id": 1672,
+    "name": "kofus-wallet",
+    "names": {
+      "en": "kofus-wallet",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1673": {
+    "id": 1673,
+    "name": "tiny-bamboo-shoot",
+    "names": {
+      "en": "tiny-bamboo-shoot",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1674": {
+    "id": 1674,
+    "name": "big-bamboo-shoot",
+    "names": {
+      "en": "big-bamboo-shoot",
+      "pt": null
+    },
+    "category": "loot",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1675": {
+    "id": 1675,
+    "name": "scroll-of-darkness",
+    "names": {
+      "en": "scroll-of-darkness",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1676": {
+    "id": 1676,
+    "name": "scroll-of-waters",
+    "names": {
+      "en": "scroll-of-waters",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1677": {
+    "id": 1677,
+    "name": "malicious-armor",
+    "names": {
+      "en": "malicious-armor",
+      "pt": null
+    },
+    "category": "evolution",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1678": {
+    "id": 1678,
+    "name": "normal-tera-shard",
+    "names": {
+      "en": "normal-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1679": {
+    "id": 1679,
+    "name": "fire-tera-shard",
+    "names": {
+      "en": "fire-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1680": {
+    "id": 1680,
+    "name": "water-tera-shard",
+    "names": {
+      "en": "water-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1681": {
+    "id": 1681,
+    "name": "electric-tera-shard",
+    "names": {
+      "en": "electric-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1682": {
+    "id": 1682,
+    "name": "grass-tera-shard",
+    "names": {
+      "en": "grass-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1683": {
+    "id": 1683,
+    "name": "ice-tera-shard",
+    "names": {
+      "en": "ice-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1684": {
+    "id": 1684,
+    "name": "fighting-tera-shard",
+    "names": {
+      "en": "fighting-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1685": {
+    "id": 1685,
+    "name": "poison-tera-shard",
+    "names": {
+      "en": "poison-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1686": {
+    "id": 1686,
+    "name": "ground-tera-shard",
+    "names": {
+      "en": "ground-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1687": {
+    "id": 1687,
+    "name": "flying-tera-shard",
+    "names": {
+      "en": "flying-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1688": {
+    "id": 1688,
+    "name": "psychic-tera-shard",
+    "names": {
+      "en": "psychic-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1689": {
+    "id": 1689,
+    "name": "bug-tera-shard",
+    "names": {
+      "en": "bug-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1690": {
+    "id": 1690,
+    "name": "rock-tera-shard",
+    "names": {
+      "en": "rock-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1691": {
+    "id": 1691,
+    "name": "ghost-tera-shard",
+    "names": {
+      "en": "ghost-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1692": {
+    "id": 1692,
+    "name": "dragon-tera-shard",
+    "names": {
+      "en": "dragon-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1693": {
+    "id": 1693,
+    "name": "dark-tera-shard",
+    "names": {
+      "en": "dark-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1694": {
+    "id": 1694,
+    "name": "steel-tera-shard",
+    "names": {
+      "en": "steel-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1695": {
+    "id": 1695,
+    "name": "fairy-tera-shard",
+    "names": {
+      "en": "fairy-tera-shard",
+      "pt": null
+    },
+    "category": "tera-shard",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1696": {
+    "id": 1696,
+    "name": "booster-energy",
+    "names": {
+      "en": "booster-energy",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1697": {
+    "id": 1697,
+    "name": "ability-shield",
+    "names": {
+      "en": "ability-shield",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1698": {
+    "id": 1698,
+    "name": "clear-amulet",
+    "names": {
+      "en": "clear-amulet",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1699": {
+    "id": 1699,
+    "name": "mirror-herb",
+    "names": {
+      "en": "mirror-herb",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1700": {
+    "id": 1700,
+    "name": "punching-glove",
+    "names": {
+      "en": "punching-glove",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1701": {
+    "id": 1701,
+    "name": "covert-cloak",
+    "names": {
+      "en": "covert-cloak",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1702": {
+    "id": 1702,
+    "name": "loaded-dice",
+    "names": {
+      "en": "loaded-dice",
+      "pt": null
+    },
+    "category": "held-items",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1703": {
+    "id": 1703,
+    "name": "baguette",
+    "names": {
+      "en": "baguette",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1704": {
+    "id": 1704,
+    "name": "mayonnaise",
+    "names": {
+      "en": "mayonnaise",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1705": {
+    "id": 1705,
+    "name": "ketchup",
+    "names": {
+      "en": "ketchup",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1706": {
+    "id": 1706,
+    "name": "mustard",
+    "names": {
+      "en": "mustard",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1707": {
+    "id": 1707,
+    "name": "butter",
+    "names": {
+      "en": "butter",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1708": {
+    "id": 1708,
+    "name": "peanut-butter",
+    "names": {
+      "en": "peanut-butter",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1709": {
+    "id": 1709,
+    "name": "chili-sauce",
+    "names": {
+      "en": "chili-sauce",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1710": {
+    "id": 1710,
+    "name": "salt",
+    "names": {
+      "en": "salt",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1711": {
+    "id": 1711,
+    "name": "pepper",
+    "names": {
+      "en": "pepper",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1712": {
+    "id": 1712,
+    "name": "yogurt",
+    "names": {
+      "en": "yogurt",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1713": {
+    "id": 1713,
+    "name": "whipped-cream",
+    "names": {
+      "en": "whipped-cream",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1714": {
+    "id": 1714,
+    "name": "cream-cheese",
+    "names": {
+      "en": "cream-cheese",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1715": {
+    "id": 1715,
+    "name": "jam",
+    "names": {
+      "en": "jam",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1716": {
+    "id": 1716,
+    "name": "marmalade",
+    "names": {
+      "en": "marmalade",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1717": {
+    "id": 1717,
+    "name": "olive-oil",
+    "names": {
+      "en": "olive-oil",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1718": {
+    "id": 1718,
+    "name": "vinegar",
+    "names": {
+      "en": "vinegar",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1719": {
+    "id": 1719,
+    "name": "sweet-herba-mystica",
+    "names": {
+      "en": "sweet-herba-mystica",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1720": {
+    "id": 1720,
+    "name": "salty-herba-mystica",
+    "names": {
+      "en": "salty-herba-mystica",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1721": {
+    "id": 1721,
+    "name": "sour-herba-mystica",
+    "names": {
+      "en": "sour-herba-mystica",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1722": {
+    "id": 1722,
+    "name": "bitter-herba-mystica",
+    "names": {
+      "en": "bitter-herba-mystica",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1723": {
+    "id": 1723,
+    "name": "spicy-herba-mystica",
+    "names": {
+      "en": "spicy-herba-mystica",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1724": {
+    "id": 1724,
+    "name": "lettuce",
+    "names": {
+      "en": "lettuce",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1725": {
+    "id": 1725,
+    "name": "tomato",
+    "names": {
+      "en": "tomato",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1726": {
+    "id": 1726,
+    "name": "cherry-tomatoes",
+    "names": {
+      "en": "cherry-tomatoes",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1727": {
+    "id": 1727,
+    "name": "cucumber",
+    "names": {
+      "en": "cucumber",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1728": {
+    "id": 1728,
+    "name": "pickle",
+    "names": {
+      "en": "pickle",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1729": {
+    "id": 1729,
+    "name": "onion",
+    "names": {
+      "en": "onion",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1730": {
+    "id": 1730,
+    "name": "red-onion",
+    "names": {
+      "en": "red-onion",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1731": {
+    "id": 1731,
+    "name": "green-bell-pepper",
+    "names": {
+      "en": "green-bell-pepper",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1732": {
+    "id": 1732,
+    "name": "red-bell-pepper",
+    "names": {
+      "en": "red-bell-pepper",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1733": {
+    "id": 1733,
+    "name": "yellow-bell-pepper",
+    "names": {
+      "en": "yellow-bell-pepper",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1734": {
+    "id": 1734,
+    "name": "avocado",
+    "names": {
+      "en": "avocado",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1735": {
+    "id": 1735,
+    "name": "bacon",
+    "names": {
+      "en": "bacon",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1736": {
+    "id": 1736,
+    "name": "ham",
+    "names": {
+      "en": "ham",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1737": {
+    "id": 1737,
+    "name": "prosciutto",
+    "names": {
+      "en": "prosciutto",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1738": {
+    "id": 1738,
+    "name": "chorizo",
+    "names": {
+      "en": "chorizo",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1739": {
+    "id": 1739,
+    "name": "herbed-sausage",
+    "names": {
+      "en": "herbed-sausage",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1740": {
+    "id": 1740,
+    "name": "hamburger",
+    "names": {
+      "en": "hamburger",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1741": {
+    "id": 1741,
+    "name": "klawf-stick",
+    "names": {
+      "en": "klawf-stick",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1742": {
+    "id": 1742,
+    "name": "smoked-fillet",
+    "names": {
+      "en": "smoked-fillet",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1743": {
+    "id": 1743,
+    "name": "fried-fillet",
+    "names": {
+      "en": "fried-fillet",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1744": {
+    "id": 1744,
+    "name": "egg",
+    "names": {
+      "en": "egg",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1745": {
+    "id": 1745,
+    "name": "potato-tortilla",
+    "names": {
+      "en": "potato-tortilla",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1746": {
+    "id": 1746,
+    "name": "tofu",
+    "names": {
+      "en": "tofu",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1747": {
+    "id": 1747,
+    "name": "rice",
+    "names": {
+      "en": "rice",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1748": {
+    "id": 1748,
+    "name": "noodles",
+    "names": {
+      "en": "noodles",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1749": {
+    "id": 1749,
+    "name": "potato-salad",
+    "names": {
+      "en": "potato-salad",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1750": {
+    "id": 1750,
+    "name": "cheese",
+    "names": {
+      "en": "cheese",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1751": {
+    "id": 1751,
+    "name": "banana",
+    "names": {
+      "en": "banana",
+      "pt": null
+    },
+    "category": "sandwich-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

@@ -1,0 +1,1502 @@
+{
+  "1052": {
+    "id": 1052,
+    "name": "health-candy-xl",
+    "names": {
+      "en": "health-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1053": {
+    "id": 1053,
+    "name": "mighty-candy-xl",
+    "names": {
+      "en": "mighty-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1054": {
+    "id": 1054,
+    "name": "tough-candy-xl",
+    "names": {
+      "en": "tough-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1055": {
+    "id": 1055,
+    "name": "smart-candy-xl",
+    "names": {
+      "en": "smart-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1056": {
+    "id": 1056,
+    "name": "courage-candy-xl",
+    "names": {
+      "en": "courage-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1057": {
+    "id": 1057,
+    "name": "quick-candy-xl",
+    "names": {
+      "en": "quick-candy-xl",
+      "pt": null
+    },
+    "category": "vitamins",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1058": {
+    "id": 1058,
+    "name": "bulbasaur-candy",
+    "names": {
+      "en": "bulbasaur-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1059": {
+    "id": 1059,
+    "name": "charmander-candy",
+    "names": {
+      "en": "charmander-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1060": {
+    "id": 1060,
+    "name": "squirtle-candy",
+    "names": {
+      "en": "squirtle-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1061": {
+    "id": 1061,
+    "name": "caterpie-candy",
+    "names": {
+      "en": "caterpie-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1062": {
+    "id": 1062,
+    "name": "weedle-candy",
+    "names": {
+      "en": "weedle-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1063": {
+    "id": 1063,
+    "name": "pidgey-candy",
+    "names": {
+      "en": "pidgey-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1064": {
+    "id": 1064,
+    "name": "rattata-candy",
+    "names": {
+      "en": "rattata-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1065": {
+    "id": 1065,
+    "name": "spearow-candy",
+    "names": {
+      "en": "spearow-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1066": {
+    "id": 1066,
+    "name": "ekans-candy",
+    "names": {
+      "en": "ekans-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1067": {
+    "id": 1067,
+    "name": "pikachu-candy",
+    "names": {
+      "en": "pikachu-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1068": {
+    "id": 1068,
+    "name": "sandshrew-candy",
+    "names": {
+      "en": "sandshrew-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1069": {
+    "id": 1069,
+    "name": "nidoran-f-candy",
+    "names": {
+      "en": "nidoran-f-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1070": {
+    "id": 1070,
+    "name": "nidoran-m-candy",
+    "names": {
+      "en": "nidoran-m-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1071": {
+    "id": 1071,
+    "name": "clefairy-candy",
+    "names": {
+      "en": "clefairy-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1072": {
+    "id": 1072,
+    "name": "vulpix-candy",
+    "names": {
+      "en": "vulpix-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1073": {
+    "id": 1073,
+    "name": "jigglypuff-candy",
+    "names": {
+      "en": "jigglypuff-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1074": {
+    "id": 1074,
+    "name": "zubat-candy",
+    "names": {
+      "en": "zubat-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1075": {
+    "id": 1075,
+    "name": "oddish-candy",
+    "names": {
+      "en": "oddish-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1076": {
+    "id": 1076,
+    "name": "paras-candy",
+    "names": {
+      "en": "paras-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1077": {
+    "id": 1077,
+    "name": "venonat-candy",
+    "names": {
+      "en": "venonat-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1078": {
+    "id": 1078,
+    "name": "diglett-candy",
+    "names": {
+      "en": "diglett-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1079": {
+    "id": 1079,
+    "name": "meowth-candy",
+    "names": {
+      "en": "meowth-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1080": {
+    "id": 1080,
+    "name": "psyduck-candy",
+    "names": {
+      "en": "psyduck-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1081": {
+    "id": 1081,
+    "name": "mankey-candy",
+    "names": {
+      "en": "mankey-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1082": {
+    "id": 1082,
+    "name": "growlithe-candy",
+    "names": {
+      "en": "growlithe-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1083": {
+    "id": 1083,
+    "name": "poliwag-candy",
+    "names": {
+      "en": "poliwag-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1084": {
+    "id": 1084,
+    "name": "abra-candy",
+    "names": {
+      "en": "abra-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1085": {
+    "id": 1085,
+    "name": "machop-candy",
+    "names": {
+      "en": "machop-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1086": {
+    "id": 1086,
+    "name": "bellsprout-candy",
+    "names": {
+      "en": "bellsprout-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1087": {
+    "id": 1087,
+    "name": "tentacool-candy",
+    "names": {
+      "en": "tentacool-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1088": {
+    "id": 1088,
+    "name": "geodude-candy",
+    "names": {
+      "en": "geodude-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1089": {
+    "id": 1089,
+    "name": "ponyta-candy",
+    "names": {
+      "en": "ponyta-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1090": {
+    "id": 1090,
+    "name": "slowpoke-candy",
+    "names": {
+      "en": "slowpoke-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1091": {
+    "id": 1091,
+    "name": "magnemite-candy",
+    "names": {
+      "en": "magnemite-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1092": {
+    "id": 1092,
+    "name": "farfetchd-candy",
+    "names": {
+      "en": "farfetchd-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1093": {
+    "id": 1093,
+    "name": "doduo-candy",
+    "names": {
+      "en": "doduo-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1094": {
+    "id": 1094,
+    "name": "seel-candy",
+    "names": {
+      "en": "seel-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1095": {
+    "id": 1095,
+    "name": "grimer-candy",
+    "names": {
+      "en": "grimer-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1096": {
+    "id": 1096,
+    "name": "shellder-candy",
+    "names": {
+      "en": "shellder-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1097": {
+    "id": 1097,
+    "name": "gastly-candy",
+    "names": {
+      "en": "gastly-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1098": {
+    "id": 1098,
+    "name": "onix-candy",
+    "names": {
+      "en": "onix-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1099": {
+    "id": 1099,
+    "name": "drowzee-candy",
+    "names": {
+      "en": "drowzee-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1100": {
+    "id": 1100,
+    "name": "krabby-candy",
+    "names": {
+      "en": "krabby-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1101": {
+    "id": 1101,
+    "name": "voltorb-candy",
+    "names": {
+      "en": "voltorb-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1102": {
+    "id": 1102,
+    "name": "exeggcute-candy",
+    "names": {
+      "en": "exeggcute-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1103": {
+    "id": 1103,
+    "name": "cubone-candy",
+    "names": {
+      "en": "cubone-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1104": {
+    "id": 1104,
+    "name": "hitmonlee-candy",
+    "names": {
+      "en": "hitmonlee-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1105": {
+    "id": 1105,
+    "name": "hitmonchan-candy",
+    "names": {
+      "en": "hitmonchan-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1106": {
+    "id": 1106,
+    "name": "lickitung-candy",
+    "names": {
+      "en": "lickitung-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1107": {
+    "id": 1107,
+    "name": "koffing-candy",
+    "names": {
+      "en": "koffing-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1108": {
+    "id": 1108,
+    "name": "rhyhorn-candy",
+    "names": {
+      "en": "rhyhorn-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1109": {
+    "id": 1109,
+    "name": "chansey-candy",
+    "names": {
+      "en": "chansey-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1110": {
+    "id": 1110,
+    "name": "tangela-candy",
+    "names": {
+      "en": "tangela-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1111": {
+    "id": 1111,
+    "name": "kangaskhan-candy",
+    "names": {
+      "en": "kangaskhan-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1112": {
+    "id": 1112,
+    "name": "horsea-candy",
+    "names": {
+      "en": "horsea-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1113": {
+    "id": 1113,
+    "name": "goldeen-candy",
+    "names": {
+      "en": "goldeen-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1114": {
+    "id": 1114,
+    "name": "staryu-candy",
+    "names": {
+      "en": "staryu-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1115": {
+    "id": 1115,
+    "name": "mr-mime-candy",
+    "names": {
+      "en": "mr-mime-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1116": {
+    "id": 1116,
+    "name": "scyther-candy",
+    "names": {
+      "en": "scyther-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1117": {
+    "id": 1117,
+    "name": "jynx-candy",
+    "names": {
+      "en": "jynx-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1118": {
+    "id": 1118,
+    "name": "electabuzz-candy",
+    "names": {
+      "en": "electabuzz-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1119": {
+    "id": 1119,
+    "name": "pinsir-candy",
+    "names": {
+      "en": "pinsir-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1120": {
+    "id": 1120,
+    "name": "tauros-candy",
+    "names": {
+      "en": "tauros-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1121": {
+    "id": 1121,
+    "name": "magikarp-candy",
+    "names": {
+      "en": "magikarp-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1122": {
+    "id": 1122,
+    "name": "lapras-candy",
+    "names": {
+      "en": "lapras-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1123": {
+    "id": 1123,
+    "name": "ditto-candy",
+    "names": {
+      "en": "ditto-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1124": {
+    "id": 1124,
+    "name": "eevee-candy",
+    "names": {
+      "en": "eevee-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1125": {
+    "id": 1125,
+    "name": "porygon-candy",
+    "names": {
+      "en": "porygon-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1126": {
+    "id": 1126,
+    "name": "omanyte-candy",
+    "names": {
+      "en": "omanyte-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1127": {
+    "id": 1127,
+    "name": "kabuto-candy",
+    "names": {
+      "en": "kabuto-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1128": {
+    "id": 1128,
+    "name": "aerodactyl-candy",
+    "names": {
+      "en": "aerodactyl-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1129": {
+    "id": 1129,
+    "name": "snorlax-candy",
+    "names": {
+      "en": "snorlax-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1130": {
+    "id": 1130,
+    "name": "articuno-candy",
+    "names": {
+      "en": "articuno-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1131": {
+    "id": 1131,
+    "name": "zapdos-candy",
+    "names": {
+      "en": "zapdos-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1132": {
+    "id": 1132,
+    "name": "moltres-candy",
+    "names": {
+      "en": "moltres-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1133": {
+    "id": 1133,
+    "name": "dratini-candy",
+    "names": {
+      "en": "dratini-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1134": {
+    "id": 1134,
+    "name": "mewtwo-candy",
+    "names": {
+      "en": "mewtwo-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1135": {
+    "id": 1135,
+    "name": "mew-candy",
+    "names": {
+      "en": "mew-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1136": {
+    "id": 1136,
+    "name": "meltan-candy",
+    "names": {
+      "en": "meltan-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1137": {
+    "id": 1137,
+    "name": "magmar-candy",
+    "names": {
+      "en": "magmar-candy",
+      "pt": null
+    },
+    "category": "species-candies",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1138": {
+    "id": 1138,
+    "name": "endorsement",
+    "names": {
+      "en": "endorsement",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1139": {
+    "id": 1139,
+    "name": "pokemon-box-link",
+    "names": {
+      "en": "pokemon-box-link",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1140": {
+    "id": 1140,
+    "name": "wishing-star",
+    "names": {
+      "en": "wishing-star",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1141": {
+    "id": 1141,
+    "name": "dynamax-band",
+    "names": {
+      "en": "dynamax-band",
+      "pt": null
+    },
+    "category": "plot-advancement",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1142": {
+    "id": 1142,
+    "name": "fishing-rod--galar",
+    "names": {
+      "en": "fishing-rod--galar",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1143": {
+    "id": 1143,
+    "name": "rotom-bike",
+    "names": {
+      "en": "rotom-bike",
+      "pt": null
+    },
+    "category": "gameplay",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1144": {
+    "id": 1144,
+    "name": "sausages",
+    "names": {
+      "en": "sausages",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1145": {
+    "id": 1145,
+    "name": "bobs-food-tin",
+    "names": {
+      "en": "bobs-food-tin",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1146": {
+    "id": 1146,
+    "name": "bachs-food-tin",
+    "names": {
+      "en": "bachs-food-tin",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1147": {
+    "id": 1147,
+    "name": "tin-of-beans",
+    "names": {
+      "en": "tin-of-beans",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1148": {
+    "id": 1148,
+    "name": "bread",
+    "names": {
+      "en": "bread",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1149": {
+    "id": 1149,
+    "name": "pasta",
+    "names": {
+      "en": "pasta",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1150": {
+    "id": 1150,
+    "name": "mixed-mushrooms",
+    "names": {
+      "en": "mixed-mushrooms",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  },
+  "1151": {
+    "id": 1151,
+    "name": "smoke-poke-tail",
+    "names": {
+      "en": "smoke-poke-tail",
+      "pt": null
+    },
+    "category": "curry-ingredients",
+    "cost": null,
+    "sprite": null,
+    "effect": null,
+    "sprites": {
+      "default": null
+    }
+  }
+}

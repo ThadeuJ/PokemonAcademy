@@ -37,10 +37,10 @@ O snapshot não é incluído por padrão: ele é um artefato grande, gerado excl
 
 ## Sessões
 
-Os seis quizzes possuem os modos 10, 20, 30 fases e Infinito. O modo de 10 fases é o padrão. A pontuação e a sequência são independentes para cada jogo, aparecem apenas durante a partida e uma partida continua preservada ao navegar pelo menu. O PokeDoku permanece no fluxo livre original.
+Os seis quizzes possuem os modos 10, 20, 30 fases e Infinito. O modo de 10 fases é o padrão. A pontuação, a sequência e o cronômetro aparecem durante a partida. O cronômetro pausa quando a aba fica inativa, e trocar de jogo descarta a partida atual. O PokeDoku permanece no fluxo livre original.
 
 Os filtros de geração, lendários, míticos, bebês, Megas e Paradoxos ficam na abertura de cada quiz compatível. As opções impossíveis são desabilitadas conforme a geração escolhida e os filtros usados ficam registrados no resultado e no card.
 
 Ao terminar uma sessão numerada, o resultado aparece em um card PNG vertical e pode ser enviado pelo botão de compartilhamento nativo do dispositivo. Em um PC sem suporte a compartilhamento de arquivos, o botão exibe um QR Code para continuar o fluxo no celular; o download permanece disponível como alternativa explícita.
 
-O resultado não exibe pontuação. Ele mostra os acertos, erros e as dez últimas respostas, com Pokémon, tipos ou movimentos conforme o jogo. A mesma lista é usada na prévia e no card compartilhado.
+O resultado não exibe pontuação. Ele mostra o tempo total, os acertos, erros e as dez últimas respostas, com Pokémon, tipos ou movimentos conforme o jogo. A mesma lista e o tempo são usados na prévia e no card compartilhado.

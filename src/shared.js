@@ -8,7 +8,7 @@ const TYPE_IDS = {normal:1,fighting:2,flying:3,poison:4,ground:5,rock:6,bug:7,gh
 export const TYPE_ICONS = Object.fromEntries(Object.entries(TYPE_IDS).map(([name,id]) => [name, new URL(`../data/pokeapi/assets/types/${id}.png`, import.meta.url).href]));
 export const $ = (selector, root = document) => root.querySelector(selector);
 export const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
-export const cap = value => value.split('-').map(x => x[0].toUpperCase() + x.slice(1)).join(' ');
+export const cap = value => value.split('-').filter(Boolean).map(x => x[0].toUpperCase() + x.slice(1)).join(' ');
 export const shuffle = values => [...values].sort(() => Math.random() - .5);
 export const safe = value => value.replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 

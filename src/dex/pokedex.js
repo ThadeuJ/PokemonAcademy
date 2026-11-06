@@ -1,4 +1,4 @@
-import { createServices, PT, cap, safe } from '../shared.js';
+import { createServices, PT, cap, safe, generationOf } from '../shared.js';
 
 const TYPES = Object.keys(PT);
 const COLORS = { black: '#3d3d46', blue: '#4b9cd3', brown: '#986b4b', gray: '#89929e', green: '#65ad55', pink: '#d987a8', purple: '#8f6cac', red: '#d85a52', white: '#aeb8c4', yellow: '#d6b341' };
@@ -6,7 +6,7 @@ const TYPE_COLORS = { normal: '#a8a77a', fire: '#ee8130', water: '#6390f0', elec
 const VERSION_ORDER = ['red-blue', 'yellow', 'gold-silver', 'crystal', 'ruby-sapphire', 'emerald', 'firered-leafgreen', 'diamond-pearl', 'platinum', 'heartgold-soulsilver', 'black-white', 'black-2-white-2', 'x-y', 'omega-ruby-alpha-sapphire', 'sun-moon', 'ultra-sun-ultra-moon', 'lets-go-pikachu-lets-go-eevee', 'sword-shield', 'the-isle-of-armor', 'the-crown-tundra', 'brilliant-diamond-shining-pearl', 'legends-arceus', 'scarlet-violet', 'the-indigo-disk'];
 const idFromUrl = url => Number(url?.match(/(\d+)\/?$/)?.[1]);
 const artwork = id => new URL(`../../data/pokeapi/assets/pokemon/${id}.png`, import.meta.url).href;
-const generation = id => id <= 151 ? 'i' : id <= 251 ? 'ii' : id <= 386 ? 'iii' : id <= 493 ? 'iv' : id <= 649 ? 'v' : id <= 721 ? 'vi' : id <= 809 ? 'vii' : id <= 905 ? 'viii' : 'ix';
+const generation = id => ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix'][generationOf(id) - 1];
 const readableColor = color => COLORS[color] || COLORS.gray;
 const textColor = color => ['white', 'yellow', 'pink'].includes(color) ? '#172033' : '#fff';
 

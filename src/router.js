@@ -1,2 +1,2 @@
-const routes = ['silhouette','types','stronger','best-attack','move-name','move-type','doku'];
+const routes = ['silhouette','pokedle','types','stronger','best-attack','move-name','move-type','doku'];
 export function createRouter(onRoute){function current(){const value=location.hash.replace(/^#\/?(?:games\/)?/,'');return value.startsWith('pokedex')?value:routes.includes(value)||value.startsWith('share/')?value:'silhouette'}function navigate(){const route=current();if(!route.startsWith('pokedex'))onRoute(route)}window.addEventListener('hashchange',navigate);navigate();return game=>{if(location.hash!==`#/games/${game}`)location.hash=`#/games/${game}`;else onRoute(game)}}

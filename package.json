@@ -5,6 +5,8 @@
   "scripts": {
     "sync:data": "node scripts/sync-pokeapi.mjs",
     "validate:data": "node scripts/sync-pokeapi.mjs --validate",
+    "generate:guardrails": "node scripts/generate-grid-guardrails.mjs",
+    "validate:guardrails": "node scripts/generate-grid-guardrails.mjs --validate",
     "test": "node --test"
   }
 }

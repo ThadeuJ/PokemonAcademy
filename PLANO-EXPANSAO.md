@@ -21,7 +21,7 @@ Os jogos atuais são:
 - Qual é o melhor ataque?
 - Qual é o ataque?
 - Qual é o tipo do ataque?
-- PokeDoku.
+- Pokemon Grid Puzzle.
 
 Atualmente, o acesso à PokéAPI está concentrado em `src/shared.js`, com cache apenas em memória. O roteamento está em `src/router.js` e a montagem das telas está concentrada em `src/main.js`.
 
@@ -278,7 +278,7 @@ Os jogos atuais devem permanecer disponíveis e inalterados em comportamento:
 
 - As sessões, pontuação, sequência e histórico devem continuar funcionando.
 - Os filtros atuais devem continuar independentes dos filtros das Dexes.
-- O PokeDoku deve continuar no fluxo próprio.
+- O Pokemon Grid Puzzle deve continuar no fluxo próprio.
 - Os jogos devem passar a utilizar a nova camada de dados sem depender diretamente de múltiplas chamadas dispersas.
 - O compartilhamento de resultados deve continuar funcionando.
 

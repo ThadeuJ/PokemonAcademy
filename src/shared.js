@@ -2,6 +2,7 @@ import { GEN_RANGES, MEGAS, PARADOX_IDS, normalizeFilters } from './filters.js';
 import { createRepository } from './data/repository.js';
 import { createBrowserLocalData } from './data/local-data.js';
 export { GEN_RANGES } from './filters.js';
+export const generationOf = id => Number(Object.keys(GEN_RANGES).find(generation => id >= GEN_RANGES[generation][0] && id <= GEN_RANGES[generation][1]));
 export const API = 'https://pokeapi.co/api/v2';
 export const PT = {normal:'Normal',fire:'Fogo',water:'Água',electric:'Elétrico',grass:'Planta',ice:'Gelo',fighting:'Lutador',poison:'Veneno',ground:'Terra',flying:'Voador',psychic:'Psíquico',bug:'Inseto',rock:'Pedra',ghost:'Fantasma',dragon:'Dragão',dark:'Sombrio',steel:'Aço',fairy:'Fada'};
 const TYPE_IDS = {normal:1,fighting:2,flying:3,poison:4,ground:5,rock:6,bug:7,ghost:8,steel:9,fire:10,water:11,grass:12,electric:13,psychic:14,ice:15,dragon:16,dark:17,fairy:18};
@@ -13,17 +14,11 @@ export const shuffle = values => [...values].sort(() => Math.random() - .5);
 export const safe = value => value.replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 
 export function createServices() {
-  const cache = new Map();
   const local = createBrowserLocalData().catch(() => null);
   const repository = createRepository({ cache: undefined, local: { get: async (resource, id) => (await local)?.get(resource, id), list: async (resource, params) => (await local)?.list(resource, params) } });
   let activeFilters = normalizeFilters();
   return {
-    api: async path => {
-      if (cache.has(path)) return cache.get(path);
-      const data = await repository.apiPath(path);
-      cache.set(path, data);
-      return data;
-    },
+    api: path => repository.apiPath(path),
     filters: () => activeFilters,
     setFilters: filters => { activeFilters = normalizeFilters(filters); },
     randomPokemon: async function() {
@@ -43,6 +38,22 @@ export function createServices() {
 }
 export const addPokemonService = services => services;
 export const sprite = pokemon => pokemon.sprites?.other?.['official-artwork']?.front_default || pokemon.sprites?.front_default || pokemon.sprites?.front || pokemon.sprites?.artwork;
+export async function pokemonSearchCandidates(services, query, { limit = 12, excludeForms = true, generations = null } = {}) {
+  const list = await services.api('/pokemon?limit=2000'), filters = services.filters();
+  const range = filters.gen === 'all' ? [1, 1025] : GEN_RANGES[filters.gen];
+  const found = list.results.filter(item => item.name.includes(query)).slice(0, 28);
+  const candidates = await Promise.all(found.map(async item => {
+    const pokemon = await services.api('/pokemon/' + item.name);
+    const speciesRef = pokemon.species?.name || pokemon.species?.url?.split('/').filter(Boolean).pop() || pokemon.id;
+    pokemon._species = await services.api('/pokemon-species/' + speciesRef);
+    return pokemon;
+  }));
+  return candidates.filter(pokemon => pokemon._species.id >= range[0] && pokemon._species.id <= range[1]
+    && (!generations || generations.has(generationOf(pokemon._species.id)))
+    && (!excludeForms || !pokemon.name.includes('-'))
+    && !((pokemon._species.is_legendary && !filters.legendary) || (pokemon._species.is_mythical && !filters.mythical) || (pokemon._species.is_baby && !filters.baby)))
+    .slice(0, limit);
+}
 export const loading = element => { element.innerHTML = '<div class="loading"></div>'; };
 export const fail = (element, error) => { element.innerHTML = `<div class="error">${error.message}<br><small>Tente novamente.</small></div>`; };
 export const typeData = services => name => services.api('/type/' + name);

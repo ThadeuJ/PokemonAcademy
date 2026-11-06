@@ -37,7 +37,7 @@ O snapshot não é incluído por padrão: ele é um artefato grande, gerado excl
 
 ## Sessões
 
-Os seis quizzes possuem os modos 10, 20, 30 fases e Infinito. O modo de 10 fases é o padrão. A pontuação, a sequência e o cronômetro aparecem durante a partida. O cronômetro pausa quando a aba fica inativa, e trocar de jogo descarta a partida atual. O PokeDoku permanece no fluxo livre original.
+Os seis quizzes possuem os modos 10, 20, 30 fases e Infinito. O modo de 10 fases é o padrão. A pontuação, a sequência e o cronômetro aparecem durante a partida. O cronômetro pausa quando a aba fica inativa, e trocar de jogo descarta a partida atual. O Pokemon Grid Puzzle permanece no fluxo livre original.
 
 Os filtros de geração, lendários, míticos, bebês, Megas e Paradoxos ficam na abertura de cada quiz compatível. As opções impossíveis são desabilitadas conforme a geração escolhida e os filtros usados ficam registrados no resultado e no card.
 
